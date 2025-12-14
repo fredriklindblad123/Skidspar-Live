@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import html
 import datetime
 import os
 import random
@@ -323,6 +324,12 @@ def get_comments_via_api(facility_url, days_window=14):
         for c in comments:
             created = c.get('created') or c.get('date')
             text = c.get('comment') or c.get('text') or ''
+            # Unescape HTML entities and normalize whitespace
+            try:
+                text = html.unescape(text)
+            except Exception:
+                pass
+            text = " ".join(text.split())
             try:
                 dt = datetime.datetime.fromisoformat(created.replace('Z', '+00:00')) if created else None
             except Exception:
