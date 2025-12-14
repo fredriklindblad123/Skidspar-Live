@@ -15,14 +15,10 @@
             <div class="subtitle">AI-driven status för längdskidspår i Västra Götaland</div>
         </header>
 
-        <div class="grid" id="dashboard-summary" style="margin-bottom: 40px;">
-            <!-- Summary cards will appear here -->
-        </div>
-
         <div class="grid" id="track-grid">
-            <!-- Loading State or Details -->
-            <div style="text-align:center; color: var(--text-secondary); padding: 40px; font-style: italic;">
-                Välj en anläggning ovan för att se detaljer
+            <!-- Loading State -->
+            <div style="text-align:center; color: var(--text-secondary); padding: 40px;">
+                Laddar senaste spårdata...
             </div>
         </div>
 
@@ -33,206 +29,100 @@
     </div>
 
     <script>
-        function escapeHtml(s) {
-            if (!s) return '';
+        function escapeHtml(s){
+            if(!s) return '';
             return s
-                .replace(/&/g, '&amp;')
-                .replace(/</g, '&lt;')
-                .replace(/>/g, '&gt;')
-                .replace(/\r/g, '');
+                .replace(/&/g,'&amp;')
+                .replace(/</g,'&lt;')
+                .replace(/>/g,'&gt;')
+                .replace(/\r/g,'');
         }
 
-        async function loadData() {
-            try {
+        async function loadData(){
+            try{
                 const response = await fetch('data.json');
                 const data = await response.json();
-
-                const summaryGrid = document.getElementById('dashboard-summary');
-                const trackGrid = document.getElementById('track-grid');
-
-                summaryGrid.innerHTML = '';
-
-                if (data.length > 0) {
+                const grid = document.getElementById('track-grid');
+                grid.innerHTML = '';
+                if(data.length>0){
                     document.getElementById('last-updated').textContent = `Senast uppdaterad: ${data[0].last_update}`;
+                }
 
-                    // Render Dashboard Summary
-                    data.forEach((track, index) => {
-                        let statusClass = 'status-unknown';
-                        if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
-                        else if (track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
+                data.forEach(track=>{
+                    let statusClass = 'status-unknown';
+                    let statusText = track.status || '';
+                    if(track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
+                    else if(track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
 
-                        const summaryCard = document.createElement('div');
-                        summaryCard.className = 'card summary-card';
-                        summaryCard.onclick = () => renderDetail(track, summaryCard);
+                        const card = document.createElement('div');
+                        card.className = 'card';
 
-                        summaryCard.innerHTML = `
-                            <div style="display:flex; justify-content:space-between; align-items:center;">
-                                <div>
-                                    <div class="municipality" style="font-size:0.7em;">${track.municipality}</div>
-                                    <div style="font-weight:700; font-size:1em;">${track.name}</div>
+                        // Only show open-track kilometers when the facility is not closed ('Stängt')
+                        const isClosed = track.status && track.status.toLowerCase().includes('stängt');
+                        const openTrackHTML = (!isClosed && track.total_track_length_km) ? `
+                                <div class="metric">
+                                    <span class="metric-label">Öppna spår</span>
+                                    <span class="metric-value open-km">${track.total_track_length_km} km</span>
                                 </div>
-                                <div class="status-badge ${statusClass}" style="flex-shrink:0;">
+                            ` : '';
+
+                        card.innerHTML = `
+                            <div class="card-header">
+                                <div>
+                                    <span class="municipality">${track.municipality || ''}</span>
+                                    <span class="location-name">${track.name || ''}</span>
+                                </div>
+                                <div class="status-badge ${statusClass}">
                                     <div class="status-dot"></div>
-                                    ${track.status}
+                                    ${statusText}
                                 </div>
                             </div>
-                         `;
-                        summaryGrid.appendChild(summaryCard);
+                            <div class="metrics">
+                                <div class="metric">
+                                    <span class="metric-label">Temperatur</span>
+                                    <span class="metric-value temp-value">${track.temperature || ''}</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Snödjup</span>
+                                    <span class="metric-value">${track.snow_depth || ''}</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Väder</span>
+                                    <span class="metric-value">${track.weather || ''}</span>
+                                </div>
+                                ${openTrackHTML}
+                            </div>
+                            <div class="ai-section">
+                                <div class="ai-header">
+                                    <span>✦ AI-Analys</span>
+                                </div>
+                                <div class="ai-content"></div>
+                            </div>
+                        `;
 
-                        // Auto-select first item? No, user wants dashboard first. 
-                        // But for better UX, maybe clear details until click.
-                    });
-                }
-            } catch (err) {
+                    const aiContent = card.querySelector('.ai-content');
+                        if(track.ai_comments && Array.isArray(track.ai_comments) && track.ai_comments.length>0){
+                            aiContent.innerHTML = track.ai_comments.map(c=>{
+                                const body = (c.comment||'').replace(/\r/g,'').split('\n').map(escapeHtml).join('<br>');
+                                const meta = escapeHtml(c.created||'') + ' (' + escapeHtml(String(c.days_ago||'')) + ' dagar sedan)';
+                                return `<div class="comment"><div class="meta">${meta}</div><div class="body">${body}</div></div>`;
+                            }).join('');
+                        } else {
+                            if (track.ai_summary) {
+                                // support both real newlines and literal "\n" sequences
+                                const summary = String(track.ai_summary).replace(/\\n/g, '\n');
+                                aiContent.innerHTML = escapeHtml(summary).replace(/\n/g, '<br>');
+                            } else {
+                                aiContent.textContent = '';
+                            }
+                    }
+
+                    grid.appendChild(card);
+                });
+            }catch(err){
                 console.error('Error loading data:', err);
                 document.getElementById('track-grid').innerHTML = `<div style="text-align:center; color: var(--accent-red); padding: 20px;">Kunde inte ladda spårstatus. Kontrollera att data.json finns.</div>`;
             }
-        }
-
-        function renderDetail(track, activeCardElement) {
-            const grid = document.getElementById('track-grid');
-            grid.innerHTML = ''; // Clear previous
-
-            // Highlight active summary card
-            document.querySelectorAll('.summary-card').forEach(el => el.classList.remove('selected'));
-            if (activeCardElement) activeCardElement.classList.add('selected');
-
-            let statusClass = 'status-unknown';
-            let statusText = track.status || '';
-            if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
-            else if (track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
-
-            const card = document.createElement('div');
-            card.className = 'card';
-            card.innerHTML = `
-                <div class="card-header">
-                    <div>
-                        <span class="municipality">${track.municipality || ''}</span>
-                        <span class="location-name">${track.name || ''}</span>
-                        <div style="margin-top:4px; font-size:0.9em; color:var(--text-secondary);">
-                           ${track.phone ? '📞 ' + track.phone : ''}
-                        </div>
-                    </div>
-                    <div style="display:flex; flex-direction:column; align-items:flex-end; gap:8px;">
-                        <div class="status-badge ${statusClass}">
-                            <div class="status-dot"></div>
-                            ${statusText}
-                        </div>
-                        <a href="${track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-size:0.85em; font-weight:500;">
-                            Öppna anläggningens sida ↗
-                        </a>
-                    </div>
-                </div>
-                <div class="metrics">
-                    <div class="metric">
-                        <span class="metric-label">Temperatur</span>
-                        <span class="metric-value temp-value">${track.temperature || ''}</span>
-                    </div>
-
-                    ${track.total_track_length_km && track.total_track_length_km > 0 ? `
-                    <div class="metric">
-                        <span class="metric-label">Öppna spår</span>
-                        <span class="metric-value" style="color:var(--accent-green);">${track.total_track_length_km} km</span>
-                    </div>
-                    ` : ''}
-                    <div class="metric">
-                        <span class="metric-label">Väder</span>
-                        <span class="metric-value">${track.weather || ''}</span>
-                    </div>
-                </div>
-
-                ${renderForecast(track.forecast)}
-                
-                <div class="ai-section">
-                    <div class="ai-header">
-                        <span>✦ Senaste uppdateringar</span>
-                    </div>
-                    <div class="ai-content"></div>
-                </div>
-            `;
-
-            const aiContent = card.querySelector('.ai-content');
-            if (track.ai_comments && Array.isArray(track.ai_comments) && track.ai_comments.length > 0) {
-                // Take max 2 comments just in case
-                const limitedComments = track.ai_comments.slice(0, 2);
-                aiContent.innerHTML = limitedComments.map(c => {
-                    const body = (c.text || c.comment || '').replace(/\r/g, '').split('\n').map(escapeHtml).join('<br>');
-                    const days = c.days_ago;
-                    let timeText = '';
-                    if (days === 0) timeText = 'Idag';
-                    else if (days === 1) timeText = 'Igår';
-                    else timeText = `${days} dagar sedan`;
-
-                    const meta = escapeHtml(timeText);
-                    return `<div class="comment"><div class="meta">${meta}</div><div class="body">${body}</div></div>`;
-                }).join('');
-            } else {
-                if (track.ai_summary) {
-                    const summary = String(track.ai_summary).replace(/\\n/g, '\n');
-                    aiContent.innerHTML = escapeHtml(summary).replace(/\n/g, '<br>');
-                } else {
-                    aiContent.textContent = '';
-                }
-            }
-
-            grid.appendChild(card);
-
-            // Scroll to details on mobile for better UX
-            if (window.innerWidth < 600) {
-                card.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-        }
-
-        function renderForecast(forecast) {
-            if (!forecast || forecast.length === 0) return '';
-
-            // Find min/max for scaling
-            let minVal = 0; // Always include 0
-            let maxVal = 0;
-            forecast.forEach(f => {
-                const t = parseFloat(f.temp);
-                if (t < minVal) minVal = t;
-                if (t > maxVal) maxVal = t;
-            });
-
-            // Add padding
-            const range = Math.max(maxVal - minVal, 5); // Minimum 5 degrees range
-
-            const barsHtml = forecast.map(f => {
-                const temp = parseFloat(f.temp);
-                // Simple scaling: 0 is center if mixed, or bottom if all positive
-                // Let's normalize to 0-100% within the range minVal-maxVal
-
-                // Color based on temp
-                let barColor = '#4cd964'; // Greenish
-                if (temp < 0) barColor = '#5ac8fa'; // Blue
-                if (temp < -5) barColor = '#007aff'; // Deep blue
-                if (temp > 5) barColor = '#ffcc00'; // Yellow
-                if (temp > 15) barColor = '#ff9500'; // Orange
-
-                // Calculate height percentage relative to range max magnitude to keep it simple
-                // Let's do a fixed height max 50px
-                let heightPx = Math.min(50, Math.abs(temp) * 3 + 4);
-
-                return `
-                    <div class="forecast-day">
-                         <div class="temp-label" style="color:${barColor}">${temp}°</div>
-                         <div class="bar-container">
-                             <div class="forecast-bar" style="height:${heightPx}px; background-color:${barColor}; opacity:0.8;"></div>
-                         </div>
-                         <div class="day-label">${f.day}</div>
-                    </div>
-                `;
-            }).join('');
-
-            return `
-                <div style="margin-top:10px;">
-                    <div style="font-size:0.85em; color:var(--text-secondary); margin-bottom:4px;">PROGNOS (7 dagar)</div>
-                    <div class="forecast-container">
-                        ${barsHtml}
-                    </div>
-                </div>
-            `;
         }
 
         loadData();

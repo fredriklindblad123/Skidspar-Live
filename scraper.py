@@ -164,11 +164,12 @@ def get_facility_data(facility):
         hours = overview.get('hoursSinceGrooming')
         num_groomed = overview.get('numGroomedTacks', 0)
         
-        # Logic: If groomed recently (less than 72h) or tracks are marked as groomed
+        # Logic: If groomed recently (less than HOURS_THRESHOLD) or tracks are marked as groomed
         # Status: Öppet / Stängt
+        HOURS_THRESHOLD = 48  # hours; reduce from 72 to be stricter about what's considered recently groomed
         if num_groomed > 0:
             status = "Öppet"
-        elif hours is not None and hours < 72: # 3 days
+        elif hours is not None and hours < HOURS_THRESHOLD:
             status = "Öppet"
         else:
             status = "Stängt"
@@ -242,6 +243,16 @@ def get_facility_data(facility):
         if "Lassalyckan" in api_data.get('name', '') and total_length == 0:
              # Just a demo value if real data is missing dates
              total_length = 3.5 
+
+        # If API suggests open but we couldn't compute any open track length, treat as closed
+        # unless it's a known exception (indoor Skidome or Lassalyckan demo value)
+        if status == "Öppet":
+            try:
+                name_from_api = api_data.get('name', '')
+            except Exception:
+                name_from_api = ''
+            if total_length == 0 and "Skidome" not in name_from_api and "Lassalyckan" not in name_from_api:
+                status = "Stängt"
 
         api_data['status'] = status
         api_data['total_track_length_km'] = round(total_length, 1) if total_length > 0 else 0
