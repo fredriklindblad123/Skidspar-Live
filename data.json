@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Billingen Skövde",
+    "municipality": "Skövde",
+    "status": "Okänd",
+    "snow_depth": "N/A",
+    "last_update": "2025-12-14",
+    "weather": "Kallt (Prognos)",
+    "ai_summary": "Inga detaljerade rapporter hittades."
+  },
+  {
+    "name": "Lassalyckan Ulricehamn",
+    "municipality": "Ulricehamn",
+    "status": "Okänd",
+    "snow_depth": "N/A",
+    "last_update": "2025-12-14",
+    "weather": "Kallt (Prognos)",
+    "ai_summary": "Kunde inte hämta rapporterna."
+  },
+  {
+    "name": "Borås Skidstadion",
+    "municipality": "Borås",
+    "status": "Okänd",
+    "snow_depth": "N/A",
+    "last_update": "2025-12-14",
+    "weather": "Kallt (Prognos)",
+    "ai_summary": "Inga detaljerade rapporter hittades."
+  },
+  {
+    "name": "Landehof",
+    "municipality": "Partille",
+    "status": "Okänd",
+    "snow_depth": "N/A",
+    "last_update": "2025-12-14",
+    "weather": "Kallt (Prognos)",
+    "ai_summary": "Kunde inte hämta rapporterna."
+  },
+  {
+    "name": "Hindås",
+    "municipality": "Härryda",
+    "status": "Okänd",
+    "snow_depth": "N/A",
+    "last_update": "2025-12-14",
+    "weather": "Kallt (Prognos)",
+    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås."
+  }
+]
