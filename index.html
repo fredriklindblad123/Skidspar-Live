@@ -129,7 +129,7 @@
                         <span class="metric-value temp-value">${track.temperature || ''}</span>
                     </div>
 
-                    ${track.total_track_length_km && track.total_track_length_km > 0 ? `
+                    ${(track.total_track_length_km && track.total_track_length_km > 0) ? `
                     <div class="metric">
                         <span class="metric-label">Öppna spår</span>
                         <span class="metric-value" style="color:var(--accent-green);">${track.total_track_length_km} km</span>
