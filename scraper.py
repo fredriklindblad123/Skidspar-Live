@@ -23,7 +23,7 @@ FACILITIES = [
     },
     {
         "name": "Lassalyckan Ulricehamn",
-        "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckan-ulricehamn-if/rapporter",
+        "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckan-ulricehamn/rapporter",
         "municipality": "Ulricehamn",
         "lat": 57.7907,
         "lon": 13.4189
