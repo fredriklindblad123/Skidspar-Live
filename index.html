@@ -45,7 +45,7 @@
 
         async function loadData() {
             try {
-                const response = await fetch('data.json');
+                const response = await fetch('data.json?t=' + new Date().getTime());
                 const data = await response.json();
 
                 const summaryGrid = document.getElementById('dashboard-summary');
