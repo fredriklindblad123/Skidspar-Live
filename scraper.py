@@ -14,42 +14,48 @@ FACILITIES = [
         "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion/rapporter",
         "municipality": "Ulricehamn",
         "lat": 57.7907,
-        "lon": 13.4189
+        "lon": 13.4189,
+        "phone": "0321-59 59 59"
     },
     {
         "name": "Landvetter",
         "url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter/rapporter",
         "municipality": "Härryda",
         "lat": 57.7080,
-        "lon": 12.3070
+        "lon": 12.3070,
+        "phone": "-"
     },
     {
         "name": "Skidome Göteborg",
         "url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome/rapporter",
         "municipality": "Göteborg",
         "lat": 57.7089,
-        "lon": 11.9746
+        "lon": 11.9746,
+        "phone": "031-395 11 25"
     },
     {
         "name": "Billingen Skövde",
         "url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde/rapporter",
         "municipality": "Skövde",
         "lat": 58.4108,
-        "lon": 13.8347
+        "lon": 13.8347,
+        "phone": "0500-49 80 00"
     },
     {
         "name": "Borås Skidstadion",
         "url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion/rapporter",
         "municipality": "Borås",
         "lat": 57.7210,
-        "lon": 12.9401
+        "lon": 12.9401,
+        "phone": "033-35 73 73"
     },
     {
         "name": "Hestrastugan",
         "url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan/rapporter",
         "municipality": "Borås",
         "lat": 57.7370,
-        "lon": 12.9150
+        "lon": 12.9150,
+        "phone": "033-24 33 47"
     }
 ]
 
@@ -172,11 +178,21 @@ def get_facility_data(facility):
              elif "spår saknas" in full_text_lower:
                  status = "Stängt"
 
+
+
     # Hämta väderdata från Open-Meteo API
     weather_data = get_weather_data(facility.get("lat", 57.7), facility.get("lon", 12.0))
     snow_depth = weather_data["snow_depth"]
     weather = weather_data["weather"]
     temperature = weather_data["temperature"]
+
+    # Enforce Skidome status
+    if facility['name'] == 'Skidome Göteborg':
+        status = 'Öppet'
+        snow_depth = "Konstsnö"
+        if temperature == "Okänt":
+             # Use indoor constant roughly
+             temperature = "-4°C"
 
     if soup:
         text_content = soup.get_text(separator="\n")
@@ -288,17 +304,21 @@ def get_facility_data(facility):
 
             if api_comments:
                 parts = []
-                for c in api_comments[:6]:
+                # Limit to latest 2 comments
+                for c in api_comments[:2]:
                     days = c.get('days_ago', None)
                     # Skip comments older than 14 days defensively
                     if days is not None and days > 14:
                         continue
                     days_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
-                    dt = c.get('created')
+                    
+                    # For AI summary text, we use relative dates only as requested for frontend display logic alignment
+                    # But the frontend does its own formatting. Here we prepare the text summary in the JSON.
                     text = c.get('comment') or c.get('text') or ''
-                    parts.append(f"{dt} ({days_text}):  {text}")
-                    ai_comments.append({'date': dt, 'days_ago': days, 'text': text})
-                # double newline between comments for readability
+                    parts.append(f"({days_text}):  {text}")
+                    ai_comments.append({'date': c.get('created'), 'days_ago': days, 'text': text})
+                
+                # Update ai_summary from these top 2
                 ai_summary = "\n\n".join(parts)
                 try:
                     import html as _htmlmod
@@ -316,7 +336,10 @@ def get_facility_data(facility):
         "temperature": temperature,
         "last_update": last_update,
         "weather": weather,
-        "ai_summary": ai_summary
+        "ai_summary": ai_summary,
+        "url": facility['url'],
+        "phone": facility.get('phone', '-'),
+        "ai_comments": ai_comments[:2] # Ensure strictly max 2
     }
 
 
