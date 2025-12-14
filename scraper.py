@@ -229,9 +229,10 @@ def get_facility_data(facility):
                 except Exception:
                     date_str = c['date'].strftime('%d %B %Y %H:%M')
                 parts.append(f"{date_str} ({dagstext}): {c['text']}")
-            ai_summary = " | ".join(parts)
-            if len(ai_summary) > 800:
-                ai_summary = ai_summary[:797] + "..."
+            # Use newline per comment for readability; ensure not showing older than window already filtered
+            ai_summary = "\n".join(parts)
+            if len(ai_summary) > 1200:
+                ai_summary = ai_summary[:1197] + "..."
         else:
             # Fallback: collect longer paragraphs as before
             paragraphs = [p.get_text().strip() for p in soup.find_all('p') if len(p.get_text().strip()) > 30]
@@ -249,11 +250,15 @@ def get_facility_data(facility):
                 parts = []
                 for c in api_comments[:6]:
                     days = c.get('days_ago', None)
+                    # Skip comments older than 14 days defensively
+                    if days is not None and days > 14:
+                        continue
                     days_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
                     dt = c.get('created')
                     text = c.get('comment') or c.get('text') or ''
                     parts.append(f"{dt} ({days_text}): {text}")
-                ai_summary = " | ".join(parts)
+                # newline per comment for readability
+                ai_summary = "\n".join(parts)
         except Exception:
             pass
             
