@@ -72,7 +72,7 @@ def get_weather_data(lat, lon):
     Om API:et misslyckas, returneras fallback-värden.
     """
     try:
-        url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current=temperature_2m,weather_code,snow_depth&timezone=Europe/Stockholm"
+        url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current=temperature_2m,weather_code,snow_depth&daily=temperature_2m_max,temperature_2m_min&timezone=Europe/Stockholm"
         response = requests.get(url, timeout=10, verify=False)
         response.raise_for_status()
         data = response.json()
@@ -116,17 +116,32 @@ def get_weather_data(lat, lon):
         }
         weather = weather_descriptions.get(weather_code, "☁️ Mulet")
         
+        # Parse Forecast
+        daily = data.get("daily", {})
+        forecast = None
+        if daily:
+             times = daily.get('time', [])
+             max_temps = daily.get('temperature_2m_max', [])
+             min_temps = daily.get('temperature_2m_min', [])
+             forecast = {
+                 "dates": times[:7],
+                 "max_temp": max_temps[:7],
+                 "min_temp": min_temps[:7]
+             }
+
         return {
             "temperature": temperature,
             "weather": weather,
-            "snow_depth": snow_depth
+            "snow_depth": snow_depth,
+            "forecast": forecast
         }
     except Exception as e:
         print(f"  > Weather API error: {e}")
         return {
             "temperature": "Okänt",
             "weather": "❓ Okänt",
-            "snow_depth": "Okänt"
+            "snow_depth": "Okänt",
+            "forecast": None
         }
 
 # Updated logic to handle parsing better and fallback URLs
@@ -434,6 +449,16 @@ def get_facility_data(facility):
     if status == "Stängt" and "Skidome" not in facility['name']: 
          final_length = 0
 
+    # Enforce Skidome status
+    if facility['name'] == 'Skidome Göteborg':
+        status = 'Öppet'
+        snow_depth = "Konstsnö"
+        if temperature == "Okänt":
+             # Use indoor constant roughly
+             temperature = "-4°C"
+
+    # ... (skipping lines) ...
+
     return {
         "name": facility['name'],
         "municipality": facility['municipality'],
@@ -442,6 +467,7 @@ def get_facility_data(facility):
         "temperature": temperature,
         "last_update": last_update,
         "weather": weather,
+        "forecast": weather_data.get("forecast"), 
         "ai_summary": ai_summary,
         "url": facility.get('official_url') or facility['url'],
         "phone": facility.get('phone', '-'),

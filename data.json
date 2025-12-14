@@ -5,8 +5,37 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 21:45",
+    "last_update": "2025-12-14 21:52",
     "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-14",
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20"
+      ],
+      "max_temp": [
+        7.3,
+        6.9,
+        5.8,
+        5.4,
+        4.8,
+        6.7,
+        5.6
+      ],
+      "min_temp": [
+        5.4,
+        5.1,
+        4.5,
+        3.2,
+        3.2,
+        4.0,
+        2.9
+      ]
+    },
     "ai_summary": "(7 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
     "url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "phone": "0321-59 59 59",
@@ -25,8 +54,37 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 21:45",
+    "last_update": "2025-12-14 21:52",
     "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-14",
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20"
+      ],
+      "max_temp": [
+        7.8,
+        6.9,
+        6.4,
+        6.7,
+        6.6,
+        8.2,
+        6.9
+      ],
+      "min_temp": [
+        5.8,
+        5.7,
+        5.6,
+        4.2,
+        4.6,
+        5.6,
+        4.8
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
     "url": "https://oklandehof.se/",
     "phone": "-",
@@ -39,8 +97,37 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "9°C",
-    "last_update": "2025-12-14 21:45",
+    "last_update": "2025-12-14 21:52",
     "weather": "🌧️ Lätt duggregn",
+    "forecast": {
+      "dates": [
+        "2025-12-14",
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20"
+      ],
+      "max_temp": [
+        8.7,
+        8.2,
+        7.8,
+        7.9,
+        6.9,
+        8.8,
+        7.3
+      ],
+      "min_temp": [
+        6.7,
+        7.1,
+        7.0,
+        4.7,
+        5.4,
+        6.3,
+        4.9
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "url": "https://skidome.ski/",
     "phone": "031-395 11 25",
@@ -53,8 +140,37 @@
     "status": "Öppet",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 21:45",
+    "last_update": "2025-12-14 21:52",
     "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-14",
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20"
+      ],
+      "max_temp": [
+        8.0,
+        7.9,
+        6.2,
+        6.2,
+        6.1,
+        7.4,
+        7.3
+      ],
+      "min_temp": [
+        5.5,
+        5.5,
+        4.9,
+        2.7,
+        2.5,
+        5.1,
+        4.2
+      ]
+    },
     "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(2 dagar sedan):  Detta är en testkommentar.",
     "url": "https://billingenskovde.se/",
     "phone": "0500-49 80 00",
@@ -78,8 +194,37 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 21:45",
+    "last_update": "2025-12-14 21:52",
     "weather": "🌧️ Lätt duggregn",
+    "forecast": {
+      "dates": [
+        "2025-12-14",
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20"
+      ],
+      "max_temp": [
+        7.9,
+        7.3,
+        6.6,
+        6.1,
+        5.6,
+        7.3,
+        5.9
+      ],
+      "min_temp": [
+        6.2,
+        5.9,
+        5.5,
+        3.8,
+        3.8,
+        4.4,
+        3.9
+      ]
+    },
     "ai_summary": "(3 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
     "url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "phone": "033-35 73 73",
@@ -103,8 +248,37 @@
     "status": "Öppet",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 21:45",
+    "last_update": "2025-12-14 21:52",
     "weather": "🌧️ Lätt duggregn",
+    "forecast": {
+      "dates": [
+        "2025-12-14",
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20"
+      ],
+      "max_temp": [
+        7.1,
+        6.4,
+        5.6,
+        5.8,
+        5.4,
+        7.2,
+        5.8
+      ],
+      "min_temp": [
+        5.3,
+        4.9,
+        4.5,
+        3.8,
+        3.7,
+        4.3,
+        3.7
+      ]
+    },
     "ai_summary": "(1 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(2 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
     "url": "https://hestraif.se/",
     "phone": "033-24 33 47",
