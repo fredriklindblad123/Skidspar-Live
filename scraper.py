@@ -220,6 +220,8 @@ def get_facility_data(facility):
         recent = [c for c in comments_with_dates if c['days_ago'] <= days_window]
         recent.sort(key=lambda x: x['date'], reverse=True)
 
+        ai_comments = []
+        ai_summary_html = None
         if recent:
             parts = []
             for c in recent[:4]:
@@ -229,8 +231,15 @@ def get_facility_data(facility):
                 except Exception:
                     date_str = c['date'].strftime('%d %B %Y %H:%M')
                 parts.append(f"{date_str} ({dagstext}):  {c['text']}")
+                ai_comments.append({'date': c['date'].isoformat(), 'days_ago': c['days_ago'], 'text': c['text']})
             # Use double newline between comments for readability; ensure not showing older than window already filtered
             ai_summary = "\n\n".join(parts)
+            # Build HTML-friendly version (escape then replace newlines)
+            try:
+                import html as _htmlmod
+                ai_summary_html = _htmlmod.escape("\n\n".join(parts)).replace('\n\n', '<br><br>').replace('\n', '<br>')
+            except Exception:
+                ai_summary_html = None
             if len(ai_summary) > 1200:
                 ai_summary = ai_summary[:1197] + "..."
         else:
@@ -257,8 +266,14 @@ def get_facility_data(facility):
                     dt = c.get('created')
                     text = c.get('comment') or c.get('text') or ''
                     parts.append(f"{dt} ({days_text}):  {text}")
+                    ai_comments.append({'date': dt, 'days_ago': days, 'text': text})
                 # double newline between comments for readability
                 ai_summary = "\n\n".join(parts)
+                try:
+                    import html as _htmlmod
+                    ai_summary_html = _htmlmod.escape("\n\n".join(parts)).replace('\n\n', '<br><br>').replace('\n', '<br>')
+                except Exception:
+                    ai_summary_html = None
         except Exception:
             pass
             
