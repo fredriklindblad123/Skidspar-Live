@@ -140,6 +140,9 @@
                         <span class="metric-value">${track.weather || ''}</span>
                     </div>
                 </div>
+
+                ${renderForecast(track.forecast)}
+                
                 <div class="ai-section">
                     <div class="ai-header">
                         <span>✦ Senaste uppdateringar</span>
@@ -178,6 +181,58 @@
             if (window.innerWidth < 600) {
                 card.scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
+        }
+
+        function renderForecast(forecast) {
+            if (!forecast || forecast.length === 0) return '';
+
+            // Find min/max for scaling
+            let minVal = 0; // Always include 0
+            let maxVal = 0;
+            forecast.forEach(f => {
+                const t = parseFloat(f.temp);
+                if (t < minVal) minVal = t;
+                if (t > maxVal) maxVal = t;
+            });
+
+            // Add padding
+            const range = Math.max(maxVal - minVal, 5); // Minimum 5 degrees range
+
+            const barsHtml = forecast.map(f => {
+                const temp = parseFloat(f.temp);
+                // Simple scaling: 0 is center if mixed, or bottom if all positive
+                // Let's normalize to 0-100% within the range minVal-maxVal
+
+                // Color based on temp
+                let barColor = '#4cd964'; // Greenish
+                if (temp < 0) barColor = '#5ac8fa'; // Blue
+                if (temp < -5) barColor = '#007aff'; // Deep blue
+                if (temp > 5) barColor = '#ffcc00'; // Yellow
+                if (temp > 15) barColor = '#ff9500'; // Orange
+
+                // Calculate height percentage relative to range max magnitude to keep it simple
+                // Let's do a fixed height max 50px
+                let heightPx = Math.min(50, Math.abs(temp) * 3 + 4);
+
+                return `
+                    <div class="forecast-day">
+                         <div class="temp-label" style="color:${barColor}">${temp}°</div>
+                         <div class="bar-container">
+                             <div class="forecast-bar" style="height:${heightPx}px; background-color:${barColor}; opacity:0.8;"></div>
+                         </div>
+                         <div class="day-label">${f.day}</div>
+                    </div>
+                `;
+            }).join('');
+
+            return `
+                <div style="margin-top:10px;">
+                    <div style="font-size:0.85em; color:var(--text-secondary); margin-bottom:4px;">PROGNOS (7 dagar)</div>
+                    <div class="forecast-container">
+                        ${barsHtml}
+                    </div>
+                </div>
+            `;
         }
 
         loadData();

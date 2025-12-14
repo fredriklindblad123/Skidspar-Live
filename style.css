@@ -340,3 +340,48 @@ footer {
         gap: 8px;
     }
 }
+
+/* Weather Forecast Graph */
+.forecast-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 100px;
+    margin-top: 16px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+}
+
+.forecast-day {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 12%;
+}
+
+.bar-container {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 4px;
+}
+
+.forecast-bar {
+    width: 8px;
+    border-radius: 4px;
+    transition: height 0.3s;
+}
+
+.day-label {
+    font-size: 0.7em;
+    color: var(--text-secondary);
+}
+
+.temp-label {
+    font-size: 0.7em;
+    font-weight: 700;
+    margin-bottom: 2px;
+}

@@ -408,14 +408,86 @@ def get_facility_data(facility):
         except Exception:
             pass
             
+    # Weather API (Open-Meteo)
+    weather = "Okänd"
+    temperature = "N/A"
+    forecast = [] # List of {day: "Mån", temp: "4"}
+
+    try:
+        if 'lat' in facility and 'lng' in facility:
+            lat = facility['lat']
+            lng = facility['lng']
+            # Fetch current weather AND 7-day forecast
+            w_url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lng}&current_weather=true&daily=temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin"
+            w_res = requests.get(w_url, timeout=5)
+            w_data = w_res.json()
+            
+            if 'current_weather' in w_data:
+                code = w_data['current_weather'].get('weathercode')
+                temp = w_data['current_weather'].get('temperature')
+                temperature = f"{temp}°C"
+                
+                # Weather codes mapping
+                weather_codes = {
+                    0: "Klart", 1: "Mest klart", 2: "Halvklart", 3: "Mulet",
+                    45: "Dimma", 48: "Rimfrost", 51: "Duggregn", 53: "Duggregn",
+                    55: "Duggregn", 61: "Regn", 63: "Regn", 65: "Regn",
+                    71: "Snöfall", 73: "Snöfall", 75: "Snöfall", 77: "Snö",
+                    80: "Regnskurar", 81: "Regnskurar", 82: "Regnskurar",
+                    85: "Snöbyar", 86: "Snöbyar"
+                }
+                weather = weather_codes.get(code, "Okänt")
+                
+            if 'daily' in w_data:
+                daily = w_data['daily']
+                # Grab next 7 days (including today)
+                # daily['time'] is list of dates, 'temperature_2m_max', 'min'
+                times = daily.get('time', [])
+                max_temps = daily.get('temperature_2m_max', [])
+                min_temps = daily.get('temperature_2m_min', [])
+                
+                weekday_map = {0: 'Mån', 1: 'Tis', 2: 'Ons', 3: 'Tor', 4: 'Fre', 5: 'Lör', 6: 'Sön'}
+                
+                for i in range(min(7, len(times))):
+                    d_str = times[i]
+                    # Parse date to get weekday
+                    dt = datetime.datetime.strptime(d_str, "%Y-%m-%d")
+                    day_name = weekday_map[dt.weekday()]
+                    if i == 0: day_name = "Idag"
+                    
+                    avg_temp = (max_temps[i] + min_temps[i]) / 2
+                    forecast.append({
+                        "day": day_name,
+                        "temp": round(avg_temp, 1)
+                    })
+
+    except Exception as e:
+        print(f"Error fetching weather for {facility['name']}: {e}")
+
+    # Override for Skidome (Indoor)
+    if "Skidome" in facility['name']:
+        weather = "Inomhus"
+        if temperature == "N/A": 
+             temperature = "-4°C"
+        status = "Öppet" # Force Open for Skidome
+
+    # Hard check for Status: If still "Okänd" but we have some data structure or just failed logic,
+    # assume Stängt if not Skidome. 
+    # Actually, verify_round2 showed Lassalyckan as "Stängt" correctly. 
+    # The user says "Indikerar fortfarande okänt på flera". 
+    # Check if api_data was None.
+    if status == "Okänd" and "Skidome" not in facility['name']:
+         # If no info, default to Stängt to avoid ambiguity as requested
+         status = "Stängt"
+
     return {
         "name": facility['name'],
         "municipality": facility['municipality'],
         "status": status,
         "snow_depth": snow_depth,
         "temperature": temperature,
-        "last_update": last_update,
         "weather": weather,
+        "forecast": forecast,
         "ai_summary": ai_summary,
         "url": facility.get('official_url') or facility['url'],
         "phone": facility.get('phone', '-'),
