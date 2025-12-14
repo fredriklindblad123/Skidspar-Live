@@ -167,13 +167,11 @@ def get_facility_data(facility):
         # Logic: If groomed recently (less than 72h) or tracks are marked as groomed
         # Status: Öppet / Stängt
         if num_groomed > 0:
-            hours_since = api_data['trackOverview']['hoursSinceGrooming']
-            if hours_since is not None and hours_since < 72: # 3 days
-                status = "Öppet"
-            elif num_groomed > 0:
-                status = "Öppet"
-            else:
-                status = "Stängt"
+            status = "Öppet"
+        elif hours is not None and hours < 72: # 3 days
+            status = "Öppet"
+        else:
+            status = "Stängt"
 
         # Calculate Total Open Track Length (Groomed within last 14 days)
         total_length = 0.0
