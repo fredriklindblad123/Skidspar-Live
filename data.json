@@ -5,7 +5,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 22:07",
+    "last_update": "2025-12-14 22:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -54,7 +54,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 22:07",
+    "last_update": "2025-12-14 22:18",
     "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
@@ -96,8 +96,8 @@
     "municipality": "Göteborg",
     "status": "Öppet",
     "snow_depth": "Konstsnö",
-    "temperature": "9°C",
-    "last_update": "2025-12-14 22:07",
+    "temperature": "8°C",
+    "last_update": "2025-12-14 22:18",
     "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
@@ -140,7 +140,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 22:07",
+    "last_update": "2025-12-14 22:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -191,10 +191,10 @@
   {
     "name": "Borås Skidstadion",
     "municipality": "Borås",
-    "status": "Öppet",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 22:07",
+    "last_update": "2025-12-14 22:18",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -245,10 +245,10 @@
   {
     "name": "Hestrastugan",
     "municipality": "Borås",
-    "status": "Stängt",
+    "status": "Öppet",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 22:07",
+    "last_update": "2025-12-14 22:18",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [

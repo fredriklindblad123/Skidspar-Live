@@ -437,15 +437,18 @@ def get_facility_data(facility):
                      days_ago = c.get('days_ago', 99)
                      if days_ago <= 7:
                          txt = (c.get('text') or '').lower()
-                         # Keywords indicating open status
-                         if any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nypreparerat', 'preparerat', 'körbart', 'fina spår']):
+                         
+                         # Negative signals (override everything to Stängt if found)
+                         if any(x in txt for x in ['stängt', 'spåren avstängda', 'sparar snö', 'sparar snön', 'inväntar kyla', 'inte åkbart', 'täck snö', 'fibertäckning', 'fiberduk', 'inte röra', 'inte röa', 'täcka snö']):
+                             status = "Stängt"
+                             # Break to ensure Stängt takes precedence if clearly stated
+                             break
+                             
+                         # Positive signals indicating open status
+                         elif any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nyspårad', 'nypreparerat', 'nypreparerade', 'preparerat', 'preparerade', 'körbart', 'fina spår', ' spårat ']):
                              # Simple negation check
-                             if "inte öppet" not in txt and "stängt" not in txt: # crude but safer
+                             if "inte öppet" not in txt and "inte körbart" not in txt: 
                                  status = "Öppet"
-                                 # If we force open but length is 0, maybe we should default to something? 
-                                 # Or let it be 0 km but Open status? User previously wanted 0 km if Stängt.
-                                 # If Open, usually implies some length. 
-                                 # But let's just update Status first as requested.
 
                 try:
                     import html as _htmlmod
