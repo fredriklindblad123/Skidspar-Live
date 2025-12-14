@@ -39,8 +39,8 @@ FACILITIES = [
         "name": "Hindås",
         "url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas/rapporter",
         "municipality": "Härryda",
-        "lat": 57.7042,
-        "lon": 12.4558
+        "lat": 57.7036372,
+        "lon": 12.4460308
     }
 ]
 
