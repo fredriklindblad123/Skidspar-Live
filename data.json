@@ -5,8 +5,8 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 12:54",
-    "weather": "🌧️ Kraftigt duggregn",
+    "last_update": "2025-12-14 14:21",
+    "weather": "🌧️ Lätt duggregn",
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås."
   },
   {
@@ -15,8 +15,8 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 12:54",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2025-12-14 14:21",
+    "weather": "☁️ Mulet",
     "ai_summary": "Inga detaljerade rapporter hittades."
   },
   {
@@ -25,28 +25,28 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 12:54",
-    "weather": "🌧️ Kraftigt duggregn",
-    "ai_summary": "Kunde inte hämta rapporterna."
+    "last_update": "2025-12-14 14:21",
+    "weather": "🌧️ Lätt duggregn",
+    "ai_summary": "Inga detaljerade rapporter hittades."
   },
   {
     "name": "Borås Skidstadion",
     "municipality": "Borås",
     "status": "Okänd",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-14 12:54",
-    "weather": "❓ Okänt",
+    "snow_depth": "Ingen snö",
+    "temperature": "8°C",
+    "last_update": "2025-12-14 14:21",
+    "weather": "🌧️ Lätt duggregn",
     "ai_summary": "Inga detaljerade rapporter hittades."
   },
   {
     "name": "Landehof",
     "municipality": "Partille",
     "status": "Okänd",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-14 12:55",
-    "weather": "❓ Okänt",
+    "snow_depth": "Ingen snö",
+    "temperature": "9°C",
+    "last_update": "2025-12-14 14:21",
+    "weather": "🌧️ Lätt duggregn",
     "ai_summary": "Kunde inte hämta rapporterna."
   }
 ]
