@@ -5,13 +5,19 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
+    "last_update": "2025-12-14 20:40",
     "weather": "☁️ Mulet",
-    "forecast": [],
-    "ai_summary": "",
-    "url": "https://www.ulricehamn.se/",
+    "ai_summary": "(7 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
+    "url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "phone": "0321-59 59 59",
-    "total_track_length_km": 0,
-    "ai_comments": []
+    "total_track_length_km": 3.5,
+    "ai_comments": [
+      {
+        "date": "2025-12-07T07:30:31.000Z",
+        "days_ago": 7,
+        "text": "Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion."
+      }
+    ]
   },
   {
     "name": "Landvetter",
@@ -19,12 +25,101 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
+    "last_update": "2025-12-14 20:40",
     "weather": "☁️ Mulet",
-    "forecast": [],
-    "ai_summary": "",
+    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
     "url": "https://oklandehof.se/",
     "phone": "-",
     "total_track_length_km": 0,
     "ai_comments": []
+  },
+  {
+    "name": "Skidome Göteborg",
+    "municipality": "Göteborg",
+    "status": "Öppet",
+    "snow_depth": "Konstsnö",
+    "temperature": "8°C",
+    "last_update": "2025-12-14 20:40",
+    "weather": "🌧️ Lätt duggregn",
+    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
+    "url": "https://skidome.ski/",
+    "phone": "031-395 11 25",
+    "total_track_length_km": 1.2,
+    "ai_comments": []
+  },
+  {
+    "name": "Billingen Skövde",
+    "municipality": "Skövde",
+    "status": "Öppet",
+    "snow_depth": "Okänt",
+    "temperature": "Okänt",
+    "last_update": "2025-12-14 20:40",
+    "weather": "❓ Okänt",
+    "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(2 dagar sedan):  Detta är en testkommentar.",
+    "url": "https://billingenskovde.se/",
+    "phone": "0500-49 80 00",
+    "total_track_length_km": 0,
+    "ai_comments": [
+      {
+        "date": "2025-12-12T07:48:35.000Z",
+        "days_ago": 2,
+        "text": "Detta är en tedtkommentar"
+      },
+      {
+        "date": "2025-12-12T06:38:57.000Z",
+        "days_ago": 2,
+        "text": "Detta är en testkommentar."
+      }
+    ]
+  },
+  {
+    "name": "Borås Skidstadion",
+    "municipality": "Borås",
+    "status": "Stängt",
+    "snow_depth": "Okänt",
+    "temperature": "Okänt",
+    "last_update": "2025-12-14 20:40",
+    "weather": "❓ Okänt",
+    "ai_summary": "(3 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
+    "url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
+    "phone": "033-35 73 73",
+    "total_track_length_km": 0,
+    "ai_comments": [
+      {
+        "date": "2025-12-11T11:48:19.000Z",
+        "days_ago": 3,
+        "text": "Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen."
+      },
+      {
+        "date": "2025-12-09T12:16:54.000Z",
+        "days_ago": 5,
+        "text": "Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden."
+      }
+    ]
+  },
+  {
+    "name": "Hestrastugan",
+    "municipality": "Borås",
+    "status": "Öppet",
+    "snow_depth": "Okänt",
+    "temperature": "Okänt",
+    "last_update": "2025-12-14 20:40",
+    "weather": "❓ Okänt",
+    "ai_summary": "(1 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(2 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
+    "url": "https://hestraif.se/",
+    "phone": "033-24 33 47",
+    "total_track_length_km": 0,
+    "ai_comments": [
+      {
+        "date": "2025-12-12T21:05:07.000Z",
+        "days_ago": 1,
+        "text": "Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen"
+      },
+      {
+        "date": "2025-12-11T22:23:12.000Z",
+        "days_ago": 2,
+        "text": "Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation"
+      }
+    ]
   }
 ]
