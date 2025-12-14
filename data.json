@@ -1,11 +1,21 @@
 [
   {
+    "name": "Hindås",
+    "municipality": "Härryda",
+    "status": "Okänd",
+    "snow_depth": "Ingen snö",
+    "temperature": "7°C",
+    "last_update": "2025-12-14 11:56",
+    "weather": "🌧️ Lätt regn",
+    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås."
+  },
+  {
     "name": "Billingen Skövde",
     "municipality": "Skövde",
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 11:31",
+    "last_update": "2025-12-14 11:56",
     "weather": "🌧️ Lätt duggregn",
     "ai_summary": "Inga detaljerade rapporter hittades."
   },
@@ -15,7 +25,7 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 11:32",
+    "last_update": "2025-12-14 11:56",
     "weather": "🌧️ Duggregn",
     "ai_summary": "Kunde inte hämta rapporterna."
   },
@@ -25,7 +35,7 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 11:32",
+    "last_update": "2025-12-14 11:56",
     "weather": "🌧️ Lätt regn",
     "ai_summary": "Inga detaljerade rapporter hittades."
   },
@@ -35,18 +45,8 @@
     "status": "Okänd",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-14 11:32",
+    "last_update": "2025-12-14 11:56",
     "weather": "❓ Okänt",
     "ai_summary": "Kunde inte hämta rapporterna."
-  },
-  {
-    "name": "Hindås",
-    "municipality": "Härryda",
-    "status": "Okänd",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-14 11:32",
-    "weather": "❓ Okänt",
-    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås."
   }
 ]
