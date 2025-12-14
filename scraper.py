@@ -9,11 +9,25 @@ import re
 # Facilities to track with GPS coordinates for weather data
 FACILITIES = [
     {
-        "name": "Hindås",
-        "url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas/rapporter",
+        "name": "Lassalyckans Skidstadion",
+        "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion/rapporter",
+        "municipality": "Ulricehamn",
+        "lat": 57.7907,
+        "lon": 13.4189
+    },
+    {
+        "name": "Landvetter",
+        "url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter/rapporter",
         "municipality": "Härryda",
-        "lat": 57.7036372,
-        "lon": 12.4460308
+        "lat": 57.7080,
+        "lon": 12.3070
+    },
+    {
+        "name": "Skidome Göteborg",
+        "url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome/rapporter",
+        "municipality": "Göteborg",
+        "lat": 57.7089,
+        "lon": 11.9746
     },
     {
         "name": "Billingen Skövde",
@@ -23,13 +37,6 @@ FACILITIES = [
         "lon": 13.8347
     },
     {
-        "name": "Lassalyckan Ulricehamn",
-        "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion/rapporter",
-        "municipality": "Ulricehamn",
-        "lat": 57.7907,
-        "lon": 13.4189
-    },
-    {
         "name": "Borås Skidstadion",
         "url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion/rapporter",
         "municipality": "Borås",
@@ -37,11 +44,11 @@ FACILITIES = [
         "lon": 12.9401
     },
     {
-        "name": "Landehof",
-        "url": "https://www.skidspar.se/vastra-gotaland/partille/landehof/rapporter",
-        "municipality": "Partille",
-        "lat": 57.7394,
-        "lon": 12.1067
+        "name": "Hestrastugan",
+        "url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan/rapporter",
+        "municipality": "Borås",
+        "lat": 57.7370,
+        "lon": 12.9150
     }
 ]
 
