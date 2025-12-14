@@ -4,9 +4,9 @@
     "municipality": "Härryda",
     "status": "Okänd",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2025-12-14 11:56",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "8°C",
+    "last_update": "2025-12-14 12:54",
+    "weather": "🌧️ Kraftigt duggregn",
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås."
   },
   {
@@ -15,8 +15,8 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 11:56",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2025-12-14 12:54",
+    "weather": "🌧️ Duggregn",
     "ai_summary": "Inga detaljerade rapporter hittades."
   },
   {
@@ -25,18 +25,18 @@
     "status": "Okänd",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 11:56",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2025-12-14 12:54",
+    "weather": "🌧️ Kraftigt duggregn",
     "ai_summary": "Kunde inte hämta rapporterna."
   },
   {
     "name": "Borås Skidstadion",
     "municipality": "Borås",
     "status": "Okänd",
-    "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2025-12-14 11:56",
-    "weather": "🌧️ Lätt regn",
+    "snow_depth": "Okänt",
+    "temperature": "Okänt",
+    "last_update": "2025-12-14 12:54",
+    "weather": "❓ Okänt",
     "ai_summary": "Inga detaljerade rapporter hittades."
   },
   {
@@ -45,7 +45,7 @@
     "status": "Okänd",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-14 11:56",
+    "last_update": "2025-12-14 12:55",
     "weather": "❓ Okänt",
     "ai_summary": "Kunde inte hämta rapporterna."
   }
