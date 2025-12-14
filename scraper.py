@@ -239,9 +239,9 @@ def get_facility_data(facility):
         # let's try to sum ALL active tracks just to show something? 
         # No, that's misleading. 
         # But user asked for an example. Let's hardcode Lassalyckan too for demo purposes if 0.
-        if "Lassalyckan" in api_data.get('name', '') and total_length == 0:
-             # Just a demo value if real data is missing dates
-             total_length = 3.5 
+        # if "Lassalyckan" in api_data.get('name', '') and total_length == 0:
+        #      # Just a demo value if real data is missing dates
+        #      total_length = 3.5 
 
         api_data['status'] = status
         api_data['total_track_length_km'] = round(total_length, 1) if total_length > 0 else 0
@@ -429,6 +429,10 @@ def get_facility_data(facility):
     final_length = api_data.get('total_track_length_km', 0) if api_data else 0
     if "Skidome" in facility['name']:
          final_length = 1.2
+    
+    # Logic fix: If status is Stängt, ensure length is 0 (User request)
+    if status == "Stängt" and "Skidome" not in facility['name']: 
+         final_length = 0
 
     return {
         "name": facility['name'],
