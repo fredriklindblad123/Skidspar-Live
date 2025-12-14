@@ -15,7 +15,8 @@ FACILITIES = [
         "municipality": "Ulricehamn",
         "lat": 57.7907,
         "lon": 13.4189,
-        "phone": "0321-59 59 59"
+        "phone": "0321-59 59 59",
+        "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/"
     },
     {
         "name": "Landvetter",
@@ -23,7 +24,8 @@ FACILITIES = [
         "municipality": "Härryda",
         "lat": 57.7080,
         "lon": 12.3070,
-        "phone": "-"
+        "phone": "-",
+        "official_url": "https://oklandehof.se/"
     },
     {
         "name": "Skidome Göteborg",
@@ -31,7 +33,8 @@ FACILITIES = [
         "municipality": "Göteborg",
         "lat": 57.7089,
         "lon": 11.9746,
-        "phone": "031-395 11 25"
+        "phone": "031-395 11 25",
+        "official_url": "https://skidome.ski/"
     },
     {
         "name": "Billingen Skövde",
@@ -39,7 +42,8 @@ FACILITIES = [
         "municipality": "Skövde",
         "lat": 58.4108,
         "lon": 13.8347,
-        "phone": "0500-49 80 00"
+        "phone": "0500-49 80 00",
+        "official_url": "https://billingenskovde.se/"
     },
     {
         "name": "Borås Skidstadion",
@@ -47,7 +51,8 @@ FACILITIES = [
         "municipality": "Borås",
         "lat": 57.7210,
         "lon": 12.9401,
-        "phone": "033-35 73 73"
+        "phone": "033-35 73 73",
+        "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html"
     },
     {
         "name": "Hestrastugan",
@@ -55,7 +60,8 @@ FACILITIES = [
         "municipality": "Borås",
         "lat": 57.7370,
         "lon": 12.9150,
-        "phone": "033-24 33 47"
+        "phone": "033-24 33 47",
+        "official_url": "https://hestraif.se/"
     }
 ]
 
@@ -337,7 +343,7 @@ def get_facility_data(facility):
         "last_update": last_update,
         "weather": weather,
         "ai_summary": ai_summary,
-        "url": facility['url'],
+        "url": facility.get('official_url') or facility['url'],
         "phone": facility.get('phone', '-'),
         "ai_comments": ai_comments[:2] # Ensure strictly max 2
     }

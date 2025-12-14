@@ -102,7 +102,7 @@
                         // Take max 2 comments just in case
                         const limitedComments = track.ai_comments.slice(0, 2);
                         aiContent.innerHTML = limitedComments.map(c => {
-                            const body = (c.comment || '').replace(/\r/g, '').split('\n').map(escapeHtml).join('<br>');
+                            const body = (c.text || c.comment || '').replace(/\r/g, '').split('\n').map(escapeHtml).join('<br>');
                             const days = c.days_ago;
                             let timeText = '';
                             if (days === 0) timeText = 'Idag';
