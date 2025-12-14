@@ -231,3 +231,56 @@ footer {
     background: rgba(255, 255, 255, 0.05);
     border-radius: 12px;
 }
+/* Mobile Improvements */
+@media (max-width: 600px) {
+    body {
+        padding: 12px;
+    }
+    
+    .grid {
+        gap: 20px; /* More breathing room between cards */
+    }
+
+    .card {
+        padding: 24px; /* More internal space */
+         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Slightly stronger shadow for separation */
+    }
+
+    .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+
+    .card-header > div:last-child {
+         align-items: flex-start !important; /* Force align left on mobile for consistency */
+         flex-direction: row !important;
+         width: 100%;
+         justify-content: space-between;
+         margin-top: 8px;
+         padding-top: 12px;
+         border-top: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    
+    .status-badge {
+         font-size: 0.85rem;
+         padding: 6px 14px;
+    }
+
+    .metrics {
+        gap: 20px;
+        justify-content: space-between;
+    }
+
+    .metric-value {
+        font-size: 1rem;
+    }
+    
+    .location-name {
+        font-size: 1.4rem; /* Larger title on mobile */
+    }
+    
+    .refresh-time {
+         font-size: 0.7rem;
+    }
+}
