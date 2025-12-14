@@ -8,6 +8,13 @@ import random
 # Facilities to track with GPS coordinates for weather data
 FACILITIES = [
     {
+        "name": "Hindås",
+        "url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas/rapporter",
+        "municipality": "Härryda",
+        "lat": 57.7036372,
+        "lon": 12.4460308
+    },
+    {
         "name": "Billingen Skövde",
         "url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde/rapporter",
         "municipality": "Skövde",
@@ -34,13 +41,6 @@ FACILITIES = [
         "municipality": "Partille",
         "lat": 57.7394,
         "lon": 12.1067
-    },
-    {
-        "name": "Hindås",
-        "url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas/rapporter",
-        "municipality": "Härryda",
-        "lat": 57.7036372,
-        "lon": 12.4460308
     }
 ]
 
