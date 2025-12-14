@@ -5,7 +5,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 21:52",
+    "last_update": "2025-12-14 22:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -54,8 +54,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 21:52",
-    "weather": "☁️ Mulet",
+    "last_update": "2025-12-14 22:07",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2025-12-14",
@@ -97,8 +97,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "9°C",
-    "last_update": "2025-12-14 21:52",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2025-12-14 22:07",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2025-12-14",
@@ -137,10 +137,10 @@
   {
     "name": "Billingen Skövde",
     "municipality": "Skövde",
-    "status": "Öppet",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 21:52",
+    "last_update": "2025-12-14 22:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -191,10 +191,10 @@
   {
     "name": "Borås Skidstadion",
     "municipality": "Borås",
-    "status": "Stängt",
+    "status": "Öppet",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2025-12-14 21:52",
+    "last_update": "2025-12-14 22:07",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -245,10 +245,10 @@
   {
     "name": "Hestrastugan",
     "municipality": "Borås",
-    "status": "Öppet",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-14 21:52",
+    "last_update": "2025-12-14 22:07",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -279,14 +279,14 @@
         3.7
       ]
     },
-    "ai_summary": "(1 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(2 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
+    "ai_summary": "(2 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(2 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
     "url": "https://hestraif.se/",
     "phone": "033-24 33 47",
     "total_track_length_km": 0,
     "ai_comments": [
       {
         "date": "2025-12-12T21:05:07.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen"
       },
       {

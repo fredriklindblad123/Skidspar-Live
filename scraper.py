@@ -183,8 +183,6 @@ def get_facility_data(facility):
         # Status: Öppet / Stängt
         if num_groomed > 0:
             status = "Öppet"
-        elif hours is not None and hours < 72: # 3 days
-            status = "Öppet"
         else:
             status = "Stängt"
 
@@ -432,6 +430,23 @@ def get_facility_data(facility):
                 
                 # Update ai_summary from these top 2
                 ai_summary = "\n\n".join(parts)
+
+                # Check for explicit "Open" signals in comments (User Request)
+                # If any comment within last 7 days says "öppet", "nyspårat", etc, set status to Öppet
+                for c in ai_comments:
+                     days_ago = c.get('days_ago', 99)
+                     if days_ago <= 7:
+                         txt = (c.get('text') or '').lower()
+                         # Keywords indicating open status
+                         if any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nypreparerat', 'preparerat', 'körbart', 'fina spår']):
+                             # Simple negation check
+                             if "inte öppet" not in txt and "stängt" not in txt: # crude but safer
+                                 status = "Öppet"
+                                 # If we force open but length is 0, maybe we should default to something? 
+                                 # Or let it be 0 km but Open status? User previously wanted 0 km if Stängt.
+                                 # If Open, usually implies some length. 
+                                 # But let's just update Status first as requested.
+
                 try:
                     import html as _htmlmod
                     ai_summary_html = _htmlmod.escape("\n\n".join(parts)).replace('\n\n', '<br><br>').replace('\n', '<br>')

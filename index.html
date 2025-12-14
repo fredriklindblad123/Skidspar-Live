@@ -141,6 +141,13 @@
                         <span class="metric-value">${track.weather || ''}</span>
                     </div>
                 </div>
+                <div class="ai-section">
+                    <div class="ai-header">
+                        <span>✦ Senaste uppdateringar</span>
+                    </div>
+                    <div class="ai-content"></div>
+                </div>
+
                 ${track.forecast ? `
                 <div class="forecast-section" style="margin-top:20px; padding:0 20px;">
                     <div style="font-size:0.9em; margin-bottom:10px; color:var(--text-secondary);">7-dygnsprognos (Max/Min)</div>
@@ -149,13 +156,6 @@
                     </div>
                 </div>
                 ` : ''}
-
-                <div class="ai-section">
-                    <div class="ai-header">
-                        <span>✦ Senaste uppdateringar</span>
-                    </div>
-                    <div class="ai-content"></div>
-                </div>
             `;
 
             const aiContent = card.querySelector('.ai-content');
