@@ -6,28 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skidspår Väst AI Agent</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        .forecast-container{width:180px;height:48px}
-        .forecast-labels{display:flex;gap:6px;font-size:11px;color:var(--text-secondary);margin-top:4px}
-        .forecast-labels span{flex:1;text-align:center}
-        .forecast-metric .metric-label{display:block;margin-bottom:6px}
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <header>
-            <h1>Skidspår Väst</h1>
-            <div class="subtitle">AI-driven status för längdskidspår i Västra Götaland</div>
-        </header>
-<!DOCTYPE html>
-<html lang="sv">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skidspår Väst AI Agent</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -76,40 +54,51 @@
                     if(track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
                     else if(track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
 
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    card.innerHTML = `
-                        <div class="card-header">
-                            <div>
-                                <span class="municipality">${track.municipality || ''}</span>
-                                <span class="location-name">${track.name || ''}</span>
+                        const card = document.createElement('div');
+                        card.className = 'card';
+
+                        // Only show open-track kilometers when the facility is not closed ('Stängt')
+                        const isClosed = track.status && track.status.toLowerCase().includes('stängt');
+                        const openTrackHTML = (!isClosed && track.total_track_length_km) ? `
+                                <div class="metric">
+                                    <span class="metric-label">Öppna spår</span>
+                                    <span class="metric-value open-km">${track.total_track_length_km} km</span>
+                                </div>
+                            ` : '';
+
+                        card.innerHTML = `
+                            <div class="card-header">
+                                <div>
+                                    <span class="municipality">${track.municipality || ''}</span>
+                                    <span class="location-name">${track.name || ''}</span>
+                                </div>
+                                <div class="status-badge ${statusClass}">
+                                    <div class="status-dot"></div>
+                                    ${statusText}
+                                </div>
                             </div>
-                            <div class="status-badge ${statusClass}">
-                                <div class="status-dot"></div>
-                                ${statusText}
+                            <div class="metrics">
+                                <div class="metric">
+                                    <span class="metric-label">Temperatur</span>
+                                    <span class="metric-value temp-value">${track.temperature || ''}</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Snödjup</span>
+                                    <span class="metric-value">${track.snow_depth || ''}</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Väder</span>
+                                    <span class="metric-value">${track.weather || ''}</span>
+                                </div>
+                                ${openTrackHTML}
                             </div>
-                        </div>
-                        <div class="metrics">
-                            <div class="metric">
-                                <span class="metric-label">Temperatur</span>
-                                <span class="metric-value temp-value">${track.temperature || ''}</span>
+                            <div class="ai-section">
+                                <div class="ai-header">
+                                    <span>✦ AI-Analys</span>
+                                </div>
+                                <div class="ai-content"></div>
                             </div>
-                            <div class="metric">
-                                <span class="metric-label">Snödjup</span>
-                                <span class="metric-value">${track.snow_depth || ''}</span>
-                            </div>
-                            <div class="metric">
-                                <span class="metric-label">Väder</span>
-                                <span class="metric-value">${track.weather || ''}</span>
-                            </div>
-                        </div>
-                        <div class="ai-section">
-                            <div class="ai-header">
-                                <span>✦ AI-Analys</span>
-                            </div>
-                            <div class="ai-content"></div>
-                        </div>
-                    `;
+                        `;
 
                     const aiContent = card.querySelector('.ai-content');
                         if(track.ai_comments && Array.isArray(track.ai_comments) && track.ai_comments.length>0){
@@ -129,37 +118,6 @@
                     }
 
                     grid.appendChild(card);
-                });
-            }catch(err){
-                console.error('Error loading data:', err);
-                document.getElementById('track-grid').innerHTML = `<div style="text-align:center; color: var(--accent-red); padding: 20px;">Kunde inte ladda spårstatus. Kontrollera att data.json finns.</div>`;
-            }
-        }
-
-        loadData();
-    </script>
-</body>
-
-</html>
-                            const range = (max - min) || 1;
-                            const stepX = (w - pad*2) / Math.max(1, temps.length - 1);
-                            const points = temps.map((t,i)=>{
-                                const x = pad + i*stepX;
-                                const y = pad + (1 - (t - min)/range)*(h - pad*2);
-                                return {x,y};
-                            });
-
-                            const poly = points.map(p=>`${p.x},${p.y}`).join(' ');
-                            const circles = points.map(p=>`<circle cx="${p.x}" cy="${p.y}" r="2.5" fill="#ffffff" stroke="#39d" stroke-width="1"></circle>`).join('');
-
-                            const svg = `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">`+
-                                `<polyline fill="none" stroke="#39d" stroke-width="2" points="${poly}" stroke-linecap="round" stroke-linejoin="round"/>`+
-                                `${circles}`+
-                                `</svg>`;
-
-                            container.innerHTML = svg + '<div class="forecast-labels">' + data.map(d=>`<span>${d.day}</span>`).join('') + '</div>';
-                        }catch(e){ console.error('forecast render error', e); }
-                    })();
                 });
             }catch(err){
                 console.error('Error loading data:', err);
