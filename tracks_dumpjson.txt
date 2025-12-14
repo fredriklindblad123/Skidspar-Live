@@ -1,0 +1,174 @@
+{
+  "id": 327,
+  "name": "Borås skidstadion",
+  "place": "Brämhult",
+  "websites": [
+    "https://boråssk.se/stadion"
+  ],
+  "general_description": "Vi har både klassiska spår och skatebädd.",
+  "municipality": {
+    "id": 173,
+    "county": 14,
+    "name": "Borås",
+    "code": 1490,
+    "codedname": "boras"
+  },
+  "coded_name": "boras-skidstadion",
+  "coded_path": "vastra-gotaland/boras/boras-skidstadion",
+  "description": "Borås Skidstadion ligger intill <a href=\"http://www.skidspar.se/index.php?option=com_skidspar&Itemid=99&id=947\">Ymergården</a> \r\n\r\n<img src=\"https://www.skidspar.se/bilder/ssp2017-logo.jpg\"/>\r\nSpårgruppen i Borås SK fick <a href=\"http://www.skidspar.se/ovrigt/stora-skidsparspriset\">Stora Skidspårspriset</a> 2017.",
+  "numLikes": 0,
+  "numSubscribers": 210,
+  "lat": 57.7400016784668,
+  "lng": 13.00059986114502,
+  "contact": "Håkan Axelsson 070-7559812 \r\nErik Hernbo 072-8851338",
+  "responsibleOperations": "Borås SK på uppdrag åt Borås Stad.",
+  "routeDescription": "",
+  "trackOverview": {
+    "shortestTrack": 1.1,
+    "longestTrack": 1.25,
+    "numberOfTracks": 3,
+    "haveLitTracks": false,
+    "haveTracksWithFee": false,
+    "numGroomedTacks": 0,
+    "hoursSinceGrooming": 77.7058
+  },
+  "hasAdmin": true,
+  "notice": "Ett vändspår med både klassiskt och skatebädd på ca 1 km öppnades 24/11, välkomna upp till Borås skidstadion. ",
+  "publicGroomingReport": true,
+  "trackFeeBuyUrl": null,
+  "trackFeeProductId": null,
+  "electricLightingInfo": {
+    "description": "Belysning är tänd från kl 06:00 tills det ljusnar samt från skymning till kl 22:00."
+  },
+  "changingRoom": {
+    "description": "öppet 06-22 alla dagar i veckan."
+  },
+  "restaurant": {
+    "description": "Öppet lördag och söndag."
+  },
+  "waxingShed": {
+    "description": "öppen 06-22 alla dagar i veckan."
+  },
+  "trackFeeInfo": {
+    "description": "Borås Stad tar ut en avgift för alla över 20 år. Dagkort 120:- Säsongskort 1500:-, Kombikort 2200 :- Avgift erläggs med betalkort i biljettautomat vid biljettluckan alt med swish, Borås Stad Skidstadion swish nummer 123 279 14 65. Fysiskt spårkort för säsongskort eller kombikort hämtas ut på skidstadion som uppvisas vid kortkontroll, dagskort visas genom kvitto eller swish-betalning. Säsongskort går även att köpa på Intersport Knalleland. "
+  },
+  "parking": {
+    "description": "Det finns bra med parkeringsmöjligheter i anslutning till anläggningen."
+  },
+  "tracks": [
+    {
+      "id": 8440,
+      "name": "1.1 Blå slinga",
+      "comment": null,
+      "information": null,
+      "tracklength": 1.1,
+      "isActive": true,
+      "properties": {
+        "dogsallowed": false,
+        "hastrackfee": false,
+        "hastracksforclassic": false,
+        "hastracksforskate": false,
+        "isartificialsnow": false,
+        "islit": false
+      },
+      "description": null,
+      "geometry": null,
+      "status": {
+        "classicQuality": 0,
+        "lastGroomedClassic": "unknown",
+        "lastGroomedSkate": "unknown",
+        "skateQuality": 0
+      }
+    },
+    {
+      "id": 8437,
+      "name": "Gul slinga",
+      "comment": "",
+      "information": "",
+      "tracklength": 1.2,
+      "isActive": true,
+      "properties": {
+        "dogsallowed": false,
+        "hastrackfee": false,
+        "hastracksforclassic": false,
+        "hastracksforskate": false,
+        "isartificialsnow": false,
+        "islit": false
+      },
+      "description": "",
+      "geometry": null,
+      "status": {
+        "classicQuality": 0,
+        "lastGroomedClassic": "unknown",
+        "lastGroomedSkate": "unknown",
+        "skateQuality": 0
+      }
+    },
+    {
+      "id": 8436,
+      "name": "Röd slinga ",
+      "comment": null,
+      "information": null,
+      "tracklength": 1.25,
+      "isActive": true,
+      "properties": {
+        "dogsallowed": false,
+        "hastrackfee": false,
+        "hastracksforclassic": false,
+        "hastracksforskate": false,
+        "isartificialsnow": false,
+        "islit": false
+      },
+      "description": null,
+      "geometry": null,
+      "status": {
+        "classicQuality": 0,
+        "lastGroomedClassic": "unknown",
+        "lastGroomedSkate": "unknown",
+        "skateQuality": 0
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "3541",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/4ba13ed5-614f-4988-b6d6-59c5147fbf83.jpg",
+      "description": "ca 1 km vändspår"
+    },
+    {
+      "id": "3533",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/594fc704-6019-4f3e-8f9e-c564992d3865.jpg",
+      "description": ""
+    },
+    {
+      "id": "2268",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/4ee19c0f7379194543afc1acb3edb1ed.jpeg",
+      "description": "Bra kämpar alla som jobbar med spåren!"
+    },
+    {
+      "id": "2641",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/245dd053fc4ff4967f81902abf689bfe.jpg",
+      "description": "2019-01-19. Foto: T Hall"
+    },
+    {
+      "id": "2930",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/afecac3f49e86c79d271b0bafbd6f5a4.jpg",
+      "description": "Tidig morgon 2021-01-19. Bästa spår i år"
+    },
+    {
+      "id": "3229",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/753573ece6ef4d4cc7844b2b6db1a1d1.jpg",
+      "description": "Vackert &#128525;"
+    },
+    {
+      "id": "3408",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/8cba35d8e105d38958eb6232b4a0aa76.jpg",
+      "description": ""
+    },
+    {
+      "id": "3540",
+      "url": "https://skidspar-public-images.s3.eu-north-1.amazonaws.com/d484f020-3ca4-49af-9a7a-3d0753e7c239.jpg",
+      "description": "Skidstadion 25/11-2025"
+    }
+  ]
+}

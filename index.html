@@ -132,6 +132,12 @@
                         <span class="metric-label">Natursnö</span>
                         <span class="metric-value">${track.snow_depth || ''}</span>
                     </div>
+                    ${track.total_track_length_km && track.total_track_length_km > 0 ? `
+                    <div class="metric">
+                        <span class="metric-label">Öppna spår</span>
+                        <span class="metric-value" style="color:var(--accent-green);">${track.total_track_length_km} km</span>
+                    </div>
+                    ` : ''}
                     <div class="metric">
                         <span class="metric-label">Väder</span>
                         <span class="metric-value">${track.weather || ''}</span>

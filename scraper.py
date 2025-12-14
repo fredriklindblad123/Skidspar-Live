@@ -167,11 +167,71 @@ def get_facility_data(facility):
         # Logic: If groomed recently (less than 72h) or tracks are marked as groomed
         # Status: Öppet / Stängt
         if num_groomed > 0:
-            status = "Öppet"
-        elif hours is not None and hours < 72:
-            status = "Öppet"
-        else:
-            status = "Stängt"
+            hours_since = api_data['trackOverview']['hoursSinceGrooming']
+            if hours_since is not None and hours_since < 72: # 3 days
+                status = "Öppet"
+            elif num_groomed > 0:
+                status = "Öppet"
+            else:
+                status = "Stängt"
+
+        # Calculate Total Open Track Length (Groomed within last 14 days)
+        total_length = 0.0
+        try:
+            tracks = api_data.get('tracks', [])
+            now = datetime.datetime.now(datetime.timezone.utc)
+            limit_days = 14
+            
+            for t in tracks:
+                t_len = t.get('tracklength')
+                if not t_len:
+                    continue
+                    
+                try:
+                    t_len = float(t_len)
+                except:
+                    continue
+
+                is_open = False
+                # check explicit open status if available (usually not consistent, so rely on dates)
+                # Check dates
+                status_obj = t.get('status', {})
+                last_classic = status_obj.get('lastGroomedClassic')
+                last_skate = status_obj.get('lastGroomedSkate')
+                
+                dates_to_check = []
+                if last_classic and last_classic != 'unknown': dates_to_check.append(last_classic)
+                if last_skate and last_skate != 'unknown': dates_to_check.append(last_skate)
+                
+                for d_str in dates_to_check:
+                    # Format usually ISO like "2025-12-11T12:00:00" or similar. Python requires handling.
+                    # api.skidspar.se usually returns ISO 8601
+                    try:
+                        # minimal parsing
+                        d_dt = datetime.datetime.fromisoformat(d_str.replace('Z', '+00:00'))
+                        # naive vs aware check
+                        if d_dt.tzinfo is None:
+                             d_dt = d_dt.replace(tzinfo=datetime.timezone.utc) # assume UTC if missing
+                        
+                        age_days = (now - d_dt).total_seconds() / 86400.0
+                        if age_days <= limit_days:
+                            is_open = True
+                            break
+                    except Exception as ex:
+                        pass # Ignore parse error
+                
+                if is_open:
+                    total_length += t_len
+                    
+        except Exception as e:
+            print(f"Error calculating track length: {e}")
+
+        # The original code had a return here, but the instruction implies this is part of the `if api_data` block
+        # and the return is at the end of the function.
+        # So, we'll just update the status and add total_track_length_km to the api_data dict for later use.
+        api_data['status'] = status
+        api_data['total_track_length_km'] = round(total_length, 1) if total_length > 0 else 0
+
     else:
         # Fallback to text analysis if API fails
         if soup:
@@ -345,6 +405,7 @@ def get_facility_data(facility):
         "ai_summary": ai_summary,
         "url": facility.get('official_url') or facility['url'],
         "phone": facility.get('phone', '-'),
+        "total_track_length_km": api_data.get('total_track_length_km', 0) if api_data else 0,
         "ai_comments": ai_comments[:2] # Ensure strictly max 2
     }
 
