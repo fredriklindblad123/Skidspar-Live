@@ -110,7 +110,7 @@
                         <span class="municipality">${track.municipality || ''}</span>
                         <span class="location-name">${track.name || ''}</span>
                         <div style="margin-top:4px; font-size:0.9em; color:var(--text-secondary);">
-                           ${track.phone ? '📞 ' + track.phone : ''}
+                           ${track.phone && track.phone !== '-' ? '📞 ' + track.phone : ''}
                         </div>
                     </div>
                     <div style="display:flex; flex-direction:column; align-items:flex-end; gap:8px;">

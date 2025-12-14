@@ -247,8 +247,15 @@ def get_facility_data(facility):
         api_data['total_track_length_km'] = round(total_length, 1) if total_length > 0 else 0
 
     else:
-        # Fallback to text analysis if API fails
-        if soup:
+        # Fallback to text analysis if API fails (or turned off)
+        if "Skidome" in facility['name']: 
+             # Safety fallback for Skidome if API fails completely
+             status = "Öppet"
+             # We can't set total_track_length_km easily here as api_data is None, 
+             # but we can try to mock it in return dict if needed, 
+             # OR we ensure api_data is created even if fetch failed? 
+             # For now, just ensure 'status' is correct.
+        elif soup:
              text_content = soup.get_text(separator="\n")
              full_text_lower = text_content.lower()
              if "stängt" in full_text_lower and "öppna" not in full_text_lower:
@@ -257,6 +264,16 @@ def get_facility_data(facility):
                  status = "Öppet"
              elif "spår saknas" in full_text_lower:
                  status = "Stängt"
+
+    # GLOBAL OVERRIDE FOR SKIDOME (Indoor)
+    if "Skidome" in facility['name']:
+        status = "Öppet"
+        # If API failed, api_data is None. We need to ensure we have length.
+        # But length is pulled from api_data in return dict.
+        # So we should perhaps patch api_data if it exists, or handle it in return.
+        if api_data:
+            api_data['total_track_length_km'] = 1.2
+
 
 
 
@@ -408,6 +425,11 @@ def get_facility_data(facility):
         except Exception:
             pass
             
+    # Final override for Skidome length if needed (if API failed or returned 0)
+    final_length = api_data.get('total_track_length_km', 0) if api_data else 0
+    if "Skidome" in facility['name']:
+         final_length = 1.2
+
     return {
         "name": facility['name'],
         "municipality": facility['municipality'],
@@ -419,7 +441,7 @@ def get_facility_data(facility):
         "ai_summary": ai_summary,
         "url": facility.get('official_url') or facility['url'],
         "phone": facility.get('phone', '-'),
-        "total_track_length_km": api_data.get('total_track_length_km', 0) if api_data else 0,
+        "total_track_length_km": final_length,
         "ai_comments": ai_comments[:2] # Ensure strictly max 2
     }
 
