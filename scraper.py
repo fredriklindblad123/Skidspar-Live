@@ -138,10 +138,40 @@ def get_facility_data(facility):
         print(f"  > Retrying with {fallback_url}...")
         soup = get_details(fallback_url)
     
+    
+    # Try getting facility data from API first for status
+    api_data = get_facility_api_data(facility['url'])
+    
     status = "Okänd"
     ai_summary = "Kunde inte hämta rapporterna."
     last_update = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     
+    # Analyze status from API if available
+    if api_data:
+        overview = api_data.get('trackOverview', {})
+        hours = overview.get('hoursSinceGrooming')
+        num_groomed = overview.get('numGroomedTacks', 0)
+        
+        # Logic: If groomed recently (less than 72h) or tracks are marked as groomed
+        # Status: Öppet / Stängt
+        if num_groomed > 0:
+            status = "Öppet"
+        elif hours is not None and hours < 72:
+            status = "Öppet"
+        else:
+            status = "Stängt"
+    else:
+        # Fallback to text analysis if API fails
+        if soup:
+             text_content = soup.get_text(separator="\n")
+             full_text_lower = text_content.lower()
+             if "stängt" in full_text_lower and "öppna" not in full_text_lower:
+                 status = "Stängt"
+             elif "nyspårat" in full_text_lower or "preparerat" in full_text_lower:
+                 status = "Öppet"
+             elif "spår saknas" in full_text_lower:
+                 status = "Stängt"
+
     # Hämta väderdata från Open-Meteo API
     weather_data = get_weather_data(facility.get("lat", 57.7), facility.get("lon", 12.0))
     snow_depth = weather_data["snow_depth"]
@@ -152,13 +182,7 @@ def get_facility_data(facility):
         text_content = soup.get_text(separator="\n")
         full_text_lower = text_content.lower()
 
-        # --- Status Logic ---
-        if "stängt" in full_text_lower and "öppna" not in full_text_lower:
-            status = "Stängt"
-        elif "nyspårat" in full_text_lower or "preparerat" in full_text_lower:
-            status = "Öppet"
-        elif "spår saknas" in full_text_lower:
-            status = "Ej spårat"
+
 
         # --- Comments / Summary (date-aware) ---
         # Try to find Swedish date lines like '7 december 2025 kl. 08:30' and the following comment text.
@@ -254,7 +278,14 @@ def get_facility_data(facility):
                 ai_summary = "Inga detaljerade rapporter hittades."
         # --- Try API for comments (server-provided) as a more reliable source ---
         try:
-            api_comments = get_comments_via_api(facility.get('url'))
+            # We might already have api_data, but need comments
+            api_comments = []
+            if api_data:
+                api_comments = get_comments_from_api_facility_id(api_data.get('id'), days_window=14)
+            else:
+                 # Try full fetch if we missed it
+                 api_comments = get_comments_via_api(facility.get('url'))
+
             if api_comments:
                 parts = []
                 for c in api_comments[:6]:
@@ -288,18 +319,7 @@ def get_facility_data(facility):
         "ai_summary": ai_summary
     }
 
-def main():
-    all_data = []
-    for fac in FACILITIES:
-        data = get_facility_data(fac)
-        all_data.append(data)
-    
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=2)
-    print("Data saved to data.json")
 
-if __name__ == "__main__":
-    main()
 
 
 # --- New: API helpers to fetch facility data/comments from api.skidspar.se ---
@@ -319,21 +339,24 @@ def parse_route_from_url(url):
         pass
     return None, None, None
 
-def get_comments_via_api(facility_url, days_window=14):
+def get_facility_api_data(facility_url):
     county, municipality, facility_slug = parse_route_from_url(facility_url)
     if not county or not municipality or not facility_slug:
-        return []
+        return None
     # Fetch facility via API
     try:
         u = f"{API_BASE}county/{county}/municipalities/{municipality}/facilities/{facility_slug}"
         r = requests.get(u, timeout=10, verify=False)
         if r.status_code != 200:
-            return []
-        facility = r.json()
-        fid = facility.get('id')
-        if not fid:
-            return []
-        # Fetch comments
+            return None
+        return r.json()
+    except Exception:
+        return None
+
+def get_comments_from_api_facility_id(fid, days_window=14):
+    if not fid:
+        return []
+    try:
         cu = f"{API_BASE}facility/{fid}/comments"
         rc = requests.get(cu, timeout=10, verify=False)
         if rc.status_code != 200:
@@ -359,5 +382,25 @@ def get_comments_via_api(facility_url, days_window=14):
                 days_ago = (now - dt).days
             out.append({'created': created, 'days_ago': days_ago, 'comment': text})
         return [c for c in out if c.get('days_ago') is None or c.get('days_ago') <= days_window]
-    except Exception as e:
+    except Exception:
         return []
+
+def get_comments_via_api(facility_url, days_window=14):
+    # Backward compatibility / fallback
+    data = get_facility_api_data(facility_url)
+    if data:
+        return get_comments_from_api_facility_id(data.get('id'), days_window)
+    return []
+
+def main():
+    all_data = []
+    for fac in FACILITIES:
+        data = get_facility_data(fac)
+        all_data.append(data)
+    
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(all_data, f, ensure_ascii=False, indent=2)
+    print("Data saved to data.json")
+
+if __name__ == "__main__":
+    main()
