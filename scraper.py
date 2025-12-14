@@ -228,9 +228,9 @@ def get_facility_data(facility):
                     date_str = c['date'].strftime('%-d %B %Y %H:%M')
                 except Exception:
                     date_str = c['date'].strftime('%d %B %Y %H:%M')
-                parts.append(f"{date_str} ({dagstext}): {c['text']}")
-            # Use newline per comment for readability; ensure not showing older than window already filtered
-            ai_summary = "\n".join(parts)
+                parts.append(f"{date_str} ({dagstext}):  {c['text']}")
+            # Use double newline between comments for readability; ensure not showing older than window already filtered
+            ai_summary = "\n\n".join(parts)
             if len(ai_summary) > 1200:
                 ai_summary = ai_summary[:1197] + "..."
         else:
@@ -256,9 +256,9 @@ def get_facility_data(facility):
                     days_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
                     dt = c.get('created')
                     text = c.get('comment') or c.get('text') or ''
-                    parts.append(f"{dt} ({days_text}): {text}")
-                # newline per comment for readability
-                ai_summary = "\n".join(parts)
+                    parts.append(f"{dt} ({days_text}):  {text}")
+                # double newline between comments for readability
+                ai_summary = "\n\n".join(parts)
         except Exception:
             pass
             
