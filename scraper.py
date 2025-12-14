@@ -4,6 +4,7 @@ import json
 import datetime
 import os
 import random
+import re
 
 # Facilities to track with GPS coordinates for weather data
 FACILITIES = [
@@ -23,7 +24,7 @@ FACILITIES = [
     },
     {
         "name": "Lassalyckan Ulricehamn",
-        "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckan-ulricehamn/rapporter",
+        "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion/rapporter",
         "municipality": "Ulricehamn",
         "lat": 57.7907,
         "lon": 13.4189
@@ -140,32 +141,113 @@ def get_facility_data(facility):
     temperature = weather_data["temperature"]
 
     if soup:
-        text_content = soup.get_text()
+        text_content = soup.get_text(separator="\n")
         full_text_lower = text_content.lower()
 
         # --- Status Logic ---
-        # Look for specific keywords in the whole text to determine status
-        # This is a heuristic "AI" approach
         if "stängt" in full_text_lower and "öppna" not in full_text_lower:
             status = "Stängt"
         elif "nyspårat" in full_text_lower or "preparerat" in full_text_lower:
             status = "Öppet"
         elif "spår saknas" in full_text_lower:
-             status = "Ej spårat"
-        
-        # --- Comments / Summary ---
-        # extract all paragraphs, filter for likely comments
-        paragraphs = [p.get_text().strip() for p in soup.find_all('p') if len(p.get_text().strip()) > 30]
-        # Filter out boilerplate
-        comments = [p for p in paragraphs if "Anmäl" not in p and "Skidspår" not in p and "cookies" not in p]
-        
-        if comments:
-            ai_summary = "Sammanfattning: " + " ".join(comments[:2])
-            # Limit length
-            if len(ai_summary) > 300:
-                ai_summary = ai_summary[:297] + "..."
+            status = "Ej spårat"
+
+        # --- Comments / Summary (date-aware) ---
+        # Try to find Swedish date lines like '7 december 2025 kl. 08:30' and the following comment text.
+        months = {
+            'januari':1,'februari':2,'mars':3,'april':4,'maj':5,'juni':6,
+            'juli':7,'augusti':8,'september':9,'oktober':10,'november':11,'december':12
+        }
+        date_re = re.compile(r"^(\d{1,2})\s+([a-zåäö]+)\s+(\d{4})(?:\s+kl\.\s*(\d{1,2}:\d{2}))?$")
+
+        # Split into lines and scan
+        lines = [ln.strip() for ln in text_content.split('\n') if ln.strip()]
+        comments_with_dates = []
+        now = datetime.datetime.now()
+        days_window = 14
+
+        i = 0
+        while i < len(lines):
+            m = date_re.match(lines[i].lower())
+            if m:
+                day = int(m.group(1))
+                month_name = m.group(2)
+                year = int(m.group(3))
+                timepart = m.group(4) or "00:00"
+                month = months.get(month_name, None)
+                comment_text = ""
+                # Collect next non-empty line(s) as comment
+                j = i + 1
+                comment_lines = []
+                while j < len(lines) and not date_re.match(lines[j].lower()):
+                    if len(lines[j]) > 0:
+                        comment_lines.append(lines[j])
+                    if len(" ".join(comment_lines)) > 400:
+                        break
+                    j += 1
+                comment_text = " ".join(comment_lines).strip()
+
+                if month:
+                    try:
+                        hour, minute = map(int, timepart.split(':'))
+                    except Exception:
+                        hour, minute = 0, 0
+                    try:
+                        dt = datetime.datetime(year, month, day, hour, minute)
+                        days_ago = (now - dt).days
+                        if days_ago < 0:
+                            days_ago = 0
+                        comments_with_dates.append({
+                            'date': dt,
+                            'days_ago': days_ago,
+                            'text': comment_text
+                        })
+                    except Exception:
+                        pass
+                i = j
+            else:
+                i += 1
+
+        # Filter to recent comments within window
+        recent = [c for c in comments_with_dates if c['days_ago'] <= days_window]
+        recent.sort(key=lambda x: x['date'], reverse=True)
+
+        if recent:
+            parts = []
+            for c in recent[:4]:
+                dagstext = 'idag' if c['days_ago'] == 0 else f"{c['days_ago']} dagar sedan"
+                try:
+                    date_str = c['date'].strftime('%-d %B %Y %H:%M')
+                except Exception:
+                    date_str = c['date'].strftime('%d %B %Y %H:%M')
+                parts.append(f"{date_str} ({dagstext}): {c['text']}")
+            ai_summary = " | ".join(parts)
+            if len(ai_summary) > 800:
+                ai_summary = ai_summary[:797] + "..."
         else:
-            ai_summary = "Inga detaljerade rapporter hittades."
+            # Fallback: collect longer paragraphs as before
+            paragraphs = [p.get_text().strip() for p in soup.find_all('p') if len(p.get_text().strip()) > 30]
+            comments = [p for p in paragraphs if "Anmäl" not in p and "Skidspår" not in p and "cookies" not in p]
+            if comments:
+                ai_summary = "Sammanfattning: " + " ".join(comments[:2])
+                if len(ai_summary) > 300:
+                    ai_summary = ai_summary[:297] + "..."
+            else:
+                ai_summary = "Inga detaljerade rapporter hittades."
+        # --- Try API for comments (server-provided) as a more reliable source ---
+        try:
+            api_comments = get_comments_via_api(facility.get('url'))
+            if api_comments:
+                parts = []
+                for c in api_comments[:6]:
+                    days = c.get('days_ago', None)
+                    days_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
+                    dt = c.get('created')
+                    text = c.get('comment') or c.get('text') or ''
+                    parts.append(f"{dt} ({days_text}): {text}")
+                ai_summary = " | ".join(parts)
+        except Exception:
+            pass
             
     return {
         "name": facility['name'],
@@ -190,3 +272,58 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# --- New: API helpers to fetch facility data/comments from api.skidspar.se ---
+API_BASE = "https://api.skidspar.se/"
+
+def parse_route_from_url(url):
+    # Expect URLs like /<county>/<municipality>/<facility>/rapporter
+    try:
+        parts = url.split('://')[-1].split('/', 1)[-1].split('/')
+        # parts: [county, municipality, facility, 'rapporter']
+        if len(parts) >= 3:
+            county = parts[0]
+            municipality = parts[1]
+            facility_slug = parts[2]
+            return county, municipality, facility_slug
+    except Exception:
+        pass
+    return None, None, None
+
+def get_comments_via_api(facility_url, days_window=14):
+    county, municipality, facility_slug = parse_route_from_url(facility_url)
+    if not county or not municipality or not facility_slug:
+        return []
+    # Fetch facility via API
+    try:
+        u = f"{API_BASE}county/{county}/municipalities/{municipality}/facilities/{facility_slug}"
+        r = requests.get(u, timeout=10, verify=False)
+        if r.status_code != 200:
+            return []
+        facility = r.json()
+        fid = facility.get('id')
+        if not fid:
+            return []
+        # Fetch comments
+        cu = f"{API_BASE}facility/{fid}/comments"
+        rc = requests.get(cu, timeout=10, verify=False)
+        if rc.status_code != 200:
+            return []
+        comments = rc.json() or []
+        out = []
+        now = datetime.datetime.now(datetime.timezone.utc)
+        for c in comments:
+            created = c.get('created') or c.get('date')
+            text = c.get('comment') or c.get('text') or ''
+            try:
+                dt = datetime.datetime.fromisoformat(created.replace('Z', '+00:00')) if created else None
+            except Exception:
+                dt = None
+            days_ago = None
+            if dt:
+                days_ago = (now - dt).days
+            out.append({'created': created, 'days_ago': days_ago, 'comment': text})
+        return [c for c in out if c.get('days_ago') is None or c.get('days_ago') <= days_window]
+    except Exception as e:
+        return []
