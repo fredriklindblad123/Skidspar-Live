@@ -5,65 +5,108 @@ import datetime
 import os
 import random
 
-# Facilities to track
-# Format: Name, URL to 'rapporter' page
+# Facilities to track with GPS coordinates for weather data
 FACILITIES = [
     {
         "name": "Billingen Skövde",
         "url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde/rapporter",
-        "municipality": "Skövde"
+        "municipality": "Skövde",
+        "lat": 58.4108,
+        "lon": 13.8347
     },
     {
         "name": "Lassalyckan Ulricehamn",
         "url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckan-ulricehamn-if/rapporter",
-         "municipality": "Ulricehamn"
+        "municipality": "Ulricehamn",
+        "lat": 57.7907,
+        "lon": 13.4189
     },
     {
         "name": "Borås Skidstadion",
         "url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion/rapporter",
-         "municipality": "Borås"
+        "municipality": "Borås",
+        "lat": 57.7210,
+        "lon": 12.9401
     },
     {
         "name": "Landehof",
         "url": "https://www.skidspar.se/vastra-gotaland/partille/landehof/rapporter",
-         "municipality": "Partille"
+        "municipality": "Partille",
+        "lat": 57.7394,
+        "lon": 12.1067
     },
-     {
+    {
         "name": "Hindås",
         "url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas/rapporter",
-         "municipality": "Härryda"
+        "municipality": "Härryda",
+        "lat": 57.7042,
+        "lon": 12.4558
     }
 ]
 
-def get_weather_data():
+def get_weather_data(lat, lon):
     """
-    Generera realistisk väderdata baserat på säsong.
-    Returnerar temperatur, väderförhållande och snödjup-uppskattning.
-    Denna funktion kraschar aldrig - den ger alltid giltiga värden.
+    Hämta riktig väderdata från Open-Meteo API (gratis, ingen nyckel krävs).
+    Returnerar temperatur, väderförhållande och snödjup.
+    Om API:et misslyckas, returneras fallback-värden.
     """
-    month = datetime.datetime.now().month
-    
-    # Vintertemperaturer för Västra Götaland (statistiskt baserade)
-    if month in [12, 1, 2]:  # Vinter
-        temp = random.randint(-10, 2)
-        weather_options = ["❄️ Snö", "☁️ Mulet", "🌨️ Snöfall", "❄️ Klart & kallt"]
-        snow_depth = random.randint(5, 40)
-    elif month in [3, 11]:  # Tidig vinter / sen vår
-        temp = random.randint(-5, 5)
-        weather_options = ["☁️ Mulet", "🌧️ Regn", "❄️ Snö", "⛅ Halvklart"]
-        snow_depth = random.randint(0, 20)
-    else:  # Sommar / höst
-        temp = random.randint(5, 20)
-        weather_options = ["☀️ Sol", "☁️ Mulet", "🌧️ Regn"]
-        snow_depth = 0
-    
-    weather = random.choice(weather_options)
-    
-    return {
-        "temperature": f"{temp}°C",
-        "weather": weather,
-        "snow_depth": f"{snow_depth} cm" if snow_depth > 0 else "Ingen snö"
-    }
+    try:
+        url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current=temperature_2m,weather_code,snow_depth&timezone=Europe/Stockholm"
+        response = requests.get(url, timeout=10, verify=False)
+        response.raise_for_status()
+        data = response.json()
+        
+        current = data.get("current", {})
+        temp = current.get("temperature_2m", None)
+        weather_code = current.get("weather_code", None)
+        snow_depth_m = current.get("snow_depth", 0) or 0
+        
+        # Konvertera temperatur
+        temperature = f"{round(temp)}°C" if temp is not None else "Okänt"
+        
+        # Konvertera snödjup från meter till cm
+        snow_depth_cm = round(snow_depth_m * 100)
+        snow_depth = f"{snow_depth_cm} cm" if snow_depth_cm > 0 else "Ingen snö"
+        
+        # Konvertera WMO weather codes till svenska med emojis
+        weather_descriptions = {
+            0: "☀️ Klart",
+            1: "🌤️ Mestadels klart",
+            2: "⛅ Halvklart",
+            3: "☁️ Mulet",
+            45: "🌫️ Dimma",
+            48: "🌫️ Rimfrost-dimma",
+            51: "🌧️ Lätt duggregn",
+            53: "🌧️ Duggregn",
+            55: "🌧️ Kraftigt duggregn",
+            61: "🌧️ Lätt regn",
+            63: "🌧️ Regn",
+            65: "🌧️ Kraftigt regn",
+            71: "🌨️ Lätt snöfall",
+            73: "❄️ Snöfall",
+            75: "❄️ Kraftigt snöfall",
+            77: "❄️ Snökorn",
+            80: "🌧️ Lätta regnskurar",
+            81: "🌧️ Regnskurar",
+            82: "🌧️ Kraftiga regnskurar",
+            85: "🌨️ Lätta snöbyar",
+            86: "❄️ Snöbyar",
+            95: "⛈️ Åskväder",
+        }
+        weather = weather_descriptions.get(weather_code, "☁️ Mulet")
+        
+        return {
+            "temperature": temperature,
+            "weather": weather,
+            "snow_depth": snow_depth
+        }
+    except Exception as e:
+        print(f"  > Weather API error: {e}")
+        return {
+            "temperature": "Okänt",
+            "weather": "❓ Okänt",
+            "snow_depth": "Okänt"
+        }
 
 # Updated logic to handle parsing better and fallback URLs
 def get_details(url):
@@ -90,8 +133,8 @@ def get_facility_data(facility):
     ai_summary = "Kunde inte hämta rapporterna."
     last_update = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     
-    # Hämta väderdata (kraschar aldrig)
-    weather_data = get_weather_data()
+    # Hämta väderdata från Open-Meteo API
+    weather_data = get_weather_data(facility.get("lat", 57.7), facility.get("lon", 12.0))
     snow_depth = weather_data["snow_depth"]
     weather = weather_data["weather"]
     temperature = weather_data["temperature"]
