@@ -106,42 +106,40 @@ h1 {
 
 @media (max-width: 768px) {
     .card-header {
-        flex-direction: column;
         position: relative;
-        padding-right: 130px;
-        /* Space for map */
+        padding-right: 120px;
+        /* Reserve space for map */
         min-height: 100px;
+        /* Ensure textual content has height, though usually auto is better */
         display: block;
+        margin-bottom: 24px;
+        /* Extra space below header */
     }
 
     .detail-map-container {
         position: absolute !important;
         top: 0;
         right: 0;
-        width: 120px !important;
+        width: 100px !important;
+        /* Smaller fixed width */
         height: auto !important;
-        /* Let image define height */
         margin: 0 !important;
         background: transparent;
-        order: unset;
+        z-index: 10;
     }
 
     .card-header>div:first-child {
-        width: auto;
-        /* Let it shrink to fit padding */
-        max-width: 100%;
+        width: 100%;
+        /* Text takes available width (constrained by padding) */
     }
 
     /* Fix map display on mobile */
     .detail-map-container img {
         width: 100% !important;
         height: auto !important;
-        /* Scale naturally */
-        object-fit: contain !important;
-        /* Don't stretch */
         display: block;
+        object-fit: contain !important;
         mix-blend-mode: normal !important;
-        /* Remove blend mode if it causes issues */
         opacity: 1 !important;
         filter: none !important;
     }
