@@ -119,7 +119,8 @@ h1 {
         top: 0;
         right: 0;
         width: 120px !important;
-        height: 100px !important;
+        height: auto !important;
+        /* Let image define height */
         margin: 0 !important;
         background: transparent;
         order: unset;
@@ -133,8 +134,12 @@ h1 {
 
     /* Fix map display on mobile */
     .detail-map-container img {
-        object-fit: fill !important;
-        /* Force stretch to match container aspect ratio for dot alignment */
+        width: 100% !important;
+        height: auto !important;
+        /* Scale naturally */
+        object-fit: contain !important;
+        /* Don't stretch */
+        display: block;
         mix-blend-mode: normal !important;
         /* Remove blend mode if it causes issues */
         opacity: 1 !important;
