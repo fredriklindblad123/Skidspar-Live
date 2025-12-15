@@ -100,6 +100,10 @@ h1 {
     margin-left: 10px;
 }
 
+.detail-map-container img {
+    mix-blend-mode: lighten;
+}
+
 @media (max-width: 768px) {
     .card-header {
         flex-direction: column;
@@ -122,7 +126,19 @@ h1 {
     }
 
     .card-header>div:first-child {
-        width: 100%;
+        width: auto;
+        /* Let it shrink to fit padding */
+        max-width: 100%;
+    }
+
+    /* Fix map display on mobile */
+    .detail-map-container img {
+        object-fit: fill !important;
+        /* Force stretch to match container aspect ratio for dot alignment */
+        mix-blend-mode: normal !important;
+        /* Remove blend mode if it causes issues */
+        opacity: 1 !important;
+        filter: none !important;
     }
 }
 
