@@ -21,6 +21,8 @@ body {
     background-image: radial-gradient(circle at top left, rgba(41, 151, 255, 0.15), transparent 40%),
         radial-gradient(circle at bottom right, rgba(48, 209, 88, 0.1), transparent 40%);
     background-attachment: fixed;
+    padding-bottom: 80px;
+    /* Ensure content isn't hidden behind mobile navs */
 }
 
 .container {
@@ -307,6 +309,7 @@ footer {
         font-size: 0.7rem;
     }
 }
+
 /* Dashboard Summary Grid */
 #dashboard-summary {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -317,7 +320,8 @@ footer {
     padding: 16px;
     cursor: pointer;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    background: rgba(28, 28, 30, 0.4); /* Slightly improved transparency */
+    background: rgba(28, 28, 30, 0.4);
+    /* Slightly improved transparency */
     transition: all 0.2s ease;
 }
 
@@ -336,7 +340,8 @@ footer {
 /* Adjust mobile grid for summary */
 @media (max-width: 600px) {
     #dashboard-summary {
-        grid-template-columns: 1fr; /* Stack specifics maybe? or 2 col? Let's do 1fr for readability initially */
+        grid-template-columns: 1fr;
+        /* Stack specifics maybe? or 2 col? Let's do 1fr for readability initially */
         gap: 8px;
     }
 }

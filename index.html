@@ -194,9 +194,15 @@
             }
         }
 
+        let currentChart = null;
+
         function renderForecastChart(forecast) {
             const ctx = document.getElementById('forecastChart');
             if (!ctx) return;
+
+            if (currentChart) {
+                currentChart.destroy();
+            }
 
             // Dates to short day names
             const dateLabels = forecast.dates.map(dStr => {
@@ -204,7 +210,7 @@
                 return date.toLocaleDateString('sv-SE', { weekday: 'short' });
             });
 
-            new Chart(ctx, {
+            currentChart = new Chart(ctx, {
                 type: 'line',
                 data: {
                     labels: dateLabels,
