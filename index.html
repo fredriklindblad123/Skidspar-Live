@@ -63,11 +63,21 @@
                 if (data.length > 0) {
                     document.getElementById('last-updated').textContent = `Senast uppdaterad: ${data[0].last_update}`;
 
-                    // Render Dashboard Summary
-                    // Render Dashboard Summary
-                    let defaultTrack = null;
-                    let defaultCard = null;
+                    // Sort data: Öppet > Troligen öppet > Stängt > Others
+                    data.sort((a, b) => {
+                        const getRank = (status) => {
+                            if (!status) return 4;
+                            const s = status.toLowerCase();
+                            // Exact 'öppet' or contains 'öppet' but NOT 'troligen' -> Rank 1
+                            if (s.includes('öppet') && !s.includes('troligen')) return 1;
+                            if (s.includes('troligen')) return 2;
+                            if (s.includes('stängt')) return 3;
+                            return 4;
+                        };
+                        return getRank(a.status) - getRank(b.status);
+                    });
 
+                    // Render Dashboard Summary
                     data.forEach((track, index) => {
                         let statusClass = 'status-unknown';
                         let s = track.status ? track.status.toLowerCase() : '';
@@ -78,7 +88,7 @@
 
                         const summaryCard = document.createElement('div');
                         summaryCard.className = 'card summary-card';
-                        summaryCard.onclick = () => renderDetail(track, summaryCard);
+                        summaryCard.onclick = () => renderDetail(track, summaryCard, true);
 
                         summaryCard.innerHTML = `
                            <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px;">${track.municipality || ''}</div>
@@ -93,20 +103,13 @@
                            </div>
                         `;
                         summaryGrid.appendChild(summaryCard);
-
-                        // Auto-select Ulricehamn (Lassalyckan)
-                        if (track.name.toLowerCase().includes('lassalyckan')) {
-                            defaultTrack = track;
-                            defaultCard = summaryCard;
-                        }
                     });
 
-                    if (defaultTrack && defaultCard) {
-                        renderDetail(defaultTrack, defaultCard);
-                    } else if (data.length > 0) {
-                        // Fallback to first item if Ulricehamn is not found
+                    // Default selection: The top item (sorted)
+                    // Pass false for shouldScroll so mobile doesn't jump down
+                    if (data.length > 0) {
                         const firstCard = summaryGrid.firstElementChild;
-                        renderDetail(data[0], firstCard);
+                        renderDetail(data[0], firstCard, false);
                     }
                 }
             } catch (err) {
@@ -117,7 +120,7 @@
 
         let currentChart = null;
 
-        function renderDetail(track, activeCardElement) {
+        function renderDetail(track, activeCardElement, shouldScroll = true) {
             // Safely destroy old chart before removing canvas from DOM
             if (currentChart) {
                 try {
@@ -233,8 +236,10 @@
 
             grid.appendChild(card);
 
-            // Scroll to details on mobile for better UX
-            if (window.innerWidth < 600) {
+            // Scroll to details on mobile for better UX, but only if requested
+            if (shouldScroll && window.innerWidth < 1024) {
+                // Only scroll on mobile/tablet view where it's stacked. 
+                // Split view (>1024px) doesn't need scrolling.
                 card.scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
 
