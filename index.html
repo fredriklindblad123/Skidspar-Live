@@ -172,6 +172,13 @@
                 </div>
                 </div>
                 <div style="height: 15px; width: 100%;"></div> 
+                
+                <!-- Map Section -->
+                <div class="map-container" style="position: relative; width: 100%; max-width: 300px; margin-bottom: 20px; border-radius: 12px; overflow: hidden; background: rgba(255,255,255,0.02);">
+                    <img src="vg_map.png" alt="Karta Västra Götaland" style="width: 100%; height: auto; display: block; opacity: 0.6;">
+                    <div id="map-dot" style="position: absolute; width: 14px; height: 14px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 10px rgba(0,0,0,0.5); transform: translate(-50%, -50%); transition: all 0.5s ease;"></div>
+                </div>
+
                 <div class="metrics">
                     <div class="metric">
                         <span class="metric-label">Temperatur</span>
@@ -245,6 +252,31 @@
 
             if (track.forecast) {
                 renderForecastChart(track.forecast);
+            }
+
+            // Update Map Dot Position
+            const dot = document.getElementById('map-dot');
+            if (dot && track.lat && track.lon) {
+                // VG Region Bounding Box (Approx)
+                const MAX_LAT = 59.4;
+                const MIN_LAT = 57.1;
+                const MAX_LON = 14.8;
+                const MIN_LON = 11.0;
+
+                const topPct = ((MAX_LAT - track.lat) / (MAX_LAT - MIN_LAT)) * 100;
+                const leftPct = ((track.lon - MIN_LON) / (MAX_LON - MIN_LON)) * 100;
+
+                dot.style.top = `${topPct}%`;
+                dot.style.left = `${leftPct}%`;
+
+                // Set color based on status
+                if (statusClass === 'status-open') dot.style.backgroundColor = 'var(--accent-green)';
+                else if (statusClass === 'status-probable') dot.style.backgroundColor = 'var(--accent-yellow)';
+                else dot.style.backgroundColor = 'var(--accent-red)';
+
+                dot.style.display = 'block';
+            } else if (dot) {
+                dot.style.display = 'none';
             }
         }
 
