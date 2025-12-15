@@ -413,7 +413,7 @@
 
                     <!-- Map Container -->
                     <div style="position: relative; width: 330px; height: 270px; background: transparent; border-radius: 12px; overflow: hidden; flex-shrink: 0; margin-left:10px;">
-                         <img src="vg_map.png" style="width: 100%; height: 100%; object-fit: contain; opacity: 1; mix-blend-mode: screen;" alt="Karta">
+                         <img src="vg_map.png" style="width: 100%; height: 100%; object-fit: contain; opacity: 0.9; mix-blend-mode: screen; filter: brightness(0.7) contrast(1.5);" alt="Karta">
                          <div id="map-dots-container"></div>
                     </div>
                 </div>
@@ -489,13 +489,15 @@
                         const leftPct = ((t.lon - MIN_LON) / (MAX_LON - MIN_LON)) * 100;
 
                         let dotColor = '#ef4444'; // Red
-                        if (t.status && t.status.toLowerCase().includes('öppet')) dotColor = '#22c55e'; // Green
-                        else if (t.status && t.status.toLowerCase().includes('troligen')) dotColor = '#eab308'; // Yellow
+                        // Check for specific "Troligen öppet" first or prioritize yellow if status has "troligen"
+                        if (t.status && t.status.toLowerCase().includes('troligen')) dotColor = '#eab308'; // Yellow
+                        else if (t.status && t.status.toLowerCase().includes('öppet')) dotColor = '#22c55e'; // Green
 
                         const isCurrent = (t.name === track.name);
-                        const size = isCurrent ? 12 : 6;
+                        // Sizes increased by ~50%
+                        const size = isCurrent ? 18 : 10;
                         const zIndex = isCurrent ? 20 : 10;
-                        const border = isCurrent ? '2px solid white' : '1px solid rgba(255,255,255,0.5)';
+                        const border = isCurrent ? '2px solid white' : '1px solid rgba(255,255,255,0.6)';
 
                         const dotEl = document.createElement('div');
                         dotEl.style.position = 'absolute';
@@ -508,7 +510,8 @@
                         dotEl.style.transform = 'translate(-50%, -50%)';
                         dotEl.style.border = border;
                         dotEl.style.zIndex = zIndex;
-                        dotEl.style.boxShadow = isCurrent ? '0 0 10px rgba(0,0,0,0.8)' : 'none';
+                        // Add glow to current item for better visibility
+                        dotEl.style.boxShadow = isCurrent ? '0 0 12px rgba(255,255,255,0.5)' : 'none';
 
                         // Optional: Click to switch to that track?
                         // dotEl.onclick = () => renderDetail(t, null, true); // Might be nice?
