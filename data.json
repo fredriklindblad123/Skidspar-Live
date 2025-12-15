@@ -5,7 +5,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 04:01",
+    "last_update": "2025-12-15 05:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,7 +20,7 @@
       "max_temp": [
         6.7,
         5.2,
-        5.3,
+        5.4,
         5.3,
         6.8,
         6.1,
@@ -54,7 +54,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 04:01",
+    "last_update": "2025-12-15 05:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -97,7 +97,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "8°C",
-    "last_update": "2025-12-15 04:01",
+    "last_update": "2025-12-15 05:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -110,7 +110,7 @@
         "2025-12-21"
       ],
       "max_temp": [
-        8.0,
+        8.1,
         8.0,
         8.2,
         7.9,
@@ -140,7 +140,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-15 04:01",
+    "last_update": "2025-12-15 05:02",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(2 dagar sedan):  Detta är en testkommentar.",
@@ -166,7 +166,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-15 04:02",
+    "last_update": "2025-12-15 05:02",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(3 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
@@ -192,7 +192,7 @@
     "status": "Öppet",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-15 04:02",
+    "last_update": "2025-12-15 05:03",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(2 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(3 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
