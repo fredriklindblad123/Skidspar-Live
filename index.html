@@ -25,21 +25,22 @@
             <div class="subtitle">AI-driven status för längdskidspår i Västra Götaland</div>
         </header>
 
-        <div class="split-layout">
-            <!-- Toolbar -->
-            <div class="toolbar"
-                style="margin-bottom: 15px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-                <button id="toggle-map-btn" class="filter-btn" onclick="toggleMapView()" style="font-weight: bold;">🗺️
-                    Karta</button>
-                <div style="width: 1px; height: 20px; background: rgba(255,255,255,0.2); margin: 0 5px;"></div>
-                <button class="filter-btn" data-tag="konstsnö" onclick="toggleFilter('konstsnö')">❄️ Konstsnö</button>
-                <button class="filter-btn" data-tag="elljus" onclick="toggleFilter('elljus')">💡 Elljus</button>
-            </div>
+        <!-- Toolbar -->
+        <div class="toolbar"
+            style="margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
+            <button id="toggle-map-btn" class="filter-btn" onclick="toggleMapView()" style="font-weight: bold;">🗺️
+                Karta</button>
+            <div style="width: 1px; height: 20px; background: rgba(255,255,255,0.2); margin: 0 5px;"></div>
+            <button class="filter-btn" data-tag="konstsnö" onclick="toggleFilter('konstsnö')">❄️ Konstsnö</button>
+            <button class="filter-btn" data-tag="elljus" onclick="toggleFilter('elljus')">💡 Elljus</button>
+        </div>
 
-            <!-- Overview Map (Hidden Default) -->
-            <div id="overview-map"
-                style="display: none; height: 60vh; max-height: 600px; width: 100%; border-radius: 12px; margin-bottom: 20px; z-index: 5;">
-            </div>
+        <!-- Overview Map (Hidden Default) -->
+        <div id="overview-map"
+            style="display: none; height: 60vh; max-height: 600px; width: 100%; border-radius: 12px; margin-bottom: 20px; z-index: 5;">
+        </div>
+
+        <div class="split-layout">
             <div class="grid" id="dashboard-summary" style="margin-bottom: 40px;">
                 <!-- Summary cards will appear here -->
             </div>
@@ -135,6 +136,9 @@
                         radius: 8
                     }).addTo(map);
                     marker.bindPopup(`<b>${track.name}</b><br>${track.status}`);
+                    marker.on('click', () => {
+                        renderDetail(track, null, true);
+                    });
                     mapMarkers.push(marker);
                 }
             });
@@ -256,7 +260,7 @@
                    <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px; padding-right: 90px;">${track.municipality || ''}</div>
                    <div class="summary-row" style="align-items:center;">
                        <div class="summary-name" style="font-weight:700; font-size:1.1rem; padding-right: 10px;">${track.name || ''}</div>
-                       <div onclick="toggleFavorite(event, '${track.name}')" style="cursor:pointer; font-size:1.2rem; color:${starColor}; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+                       <div onclick="toggleFavorite(event, '${track.name}')" title="${isFav ? 'Ta bort favorit' : 'Lägg till som favorit'}" style="cursor:pointer; font-size:1.2rem; color:${starColor}; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
                            ★
                        </div>
                    </div>
@@ -517,6 +521,8 @@
             if (track.status && track.status.toLowerCase().includes('troligen')) statusClass = 'status-probable';
             else if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
             else if (track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
+
+            const wax = (!statusClass.includes('closed')) ? getWaxRecommendation(track.temperature) : null;
 
             const card = document.createElement('div');
             card.className = 'card';
