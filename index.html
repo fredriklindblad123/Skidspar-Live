@@ -90,16 +90,15 @@
                         summaryCard.className = 'card summary-card';
                         summaryCard.onclick = () => renderDetail(track, summaryCard, true);
 
+                        summaryCard.style.position = 'relative'; // Ensure relative positioning
                         summaryCard.innerHTML = `
-                           <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px;">${track.municipality || ''}</div>
+                           <div class="status-badge ${statusClass}" style="position: absolute; top: 12px; right: 12px;">
+                                <div class="status-dot"></div>
+                                ${track.status || ''}
+                           </div>
+                           <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px; padding-right: 90px;">${track.municipality || ''}</div>
                            <div class="summary-row">
-                               <div class="summary-name" style="font-weight:700; font-size:1.1rem;">${track.name || ''}</div>
-                               <div class="summary-status" style="display:flex; justify-content:flex-end;">
-                                    <div class="status-badge ${statusClass}">
-                                        <div class="status-dot"></div>
-                                        ${track.status || ''}
-                                    </div>
-                               </div>
+                               <div class="summary-name" style="font-weight:700; font-size:1.1rem; padding-right: 10px;">${track.name || ''}</div>
                            </div>
                         `;
                         summaryGrid.appendChild(summaryCard);
