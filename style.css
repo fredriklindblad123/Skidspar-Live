@@ -118,13 +118,13 @@ h1 {
 
     .detail-map-container {
         position: absolute !important;
-        top: 0;
-        right: 0;
+        top: 0 !important;
+        right: 0 !important;
         width: 100px !important;
         /* Smaller fixed width */
         height: auto !important;
         margin: 0 !important;
-        background: transparent;
+        background: transparent !important;
         z-index: 10;
     }
 
@@ -137,7 +137,7 @@ h1 {
     .detail-map-container img {
         width: 100% !important;
         height: auto !important;
-        display: block;
+        display: block !important;
         object-fit: contain !important;
         mix-blend-mode: normal !important;
         opacity: 1 !important;
