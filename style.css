@@ -439,4 +439,27 @@ footer {
         border: 2px solid var(--accent-blue);
         background-color: rgba(41, 151, 255, 0.1);
     }
+
+    .summary-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .summary-name {
+        margin-bottom: 0 !important;
+        /* Override inline style if any remains */
+        font-size: 1rem !important;
+        /* Slightly more compact */
+    }
+
+    .summary-status {
+        flex-shrink: 0;
+    }
+}
+
+/* Default Mobile Rules for new classes */
+.summary-name {
+    margin-bottom: 12px;
 }

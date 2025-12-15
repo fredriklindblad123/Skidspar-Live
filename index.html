@@ -74,12 +74,14 @@
 
                         summaryCard.innerHTML = `
                            <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px;">${track.municipality || ''}</div>
-                           <div style="font-weight:700; font-size:1.1rem; margin-bottom:12px;">${track.name || ''}</div>
-                           <div style="display:flex; justify-content:flex-end;">
-                                <div class="status-badge ${statusClass}">
-                                    <div class="status-dot"></div>
-                                    ${track.status || ''}
-                                </div>
+                           <div class="summary-row">
+                               <div class="summary-name" style="font-weight:700; font-size:1.1rem;">${track.name || ''}</div>
+                               <div class="summary-status" style="display:flex; justify-content:flex-end;">
+                                    <div class="status-badge ${statusClass}">
+                                        <div class="status-dot"></div>
+                                        ${track.status || ''}
+                                    </div>
+                               </div>
                            </div>
                         `;
                         summaryGrid.appendChild(summaryCard);
@@ -130,18 +132,19 @@
                             <div class="status-dot"></div>
                             ${statusText}
                         </div>
-                        ${track.official_url ? `
-                        <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-size:0.85em; font-weight:500;">
+                    </div>
+                </div>
+                <div class="contact-actions" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center; margin-bottom:20px; font-size:0.9em;">
+                     ${track.official_url ? `
+                        <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-weight:500;">
                             Officiell hemsida ↗
                         </a>
                         ` : ''}
-                        <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-size:0.85em; font-weight:400;">
+                        <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-weight:400;">
                             Skidspår.se ↗
                         </a>
-                         <div style="margin-top:4px; font-size:0.85em; color:var(--text-secondary); text-align:right; padding-bottom:5px;">
-                           ${track.phone && track.phone !== '-' ? '📞 ' + track.phone : ''}
-                        </div>
-                    </div>
+                        ${track.phone && track.phone !== '-' ? `<span style="color:var(--text-secondary);">📞 ${track.phone}</span>` : ''}
+                </div>
                 </div>
                 <div style="height: 15px; width: 100%;"></div> 
                 <div class="metrics">
