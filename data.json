@@ -5,7 +5,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 09:00",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -36,7 +36,7 @@
         2.4
       ]
     },
-    "ai_summary": "(8 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
+    "ai_summary": "(7 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "phone": "0321-59 59 59",
@@ -44,7 +44,7 @@
     "ai_comments": [
       {
         "date": "2025-12-07T07:30:31.000Z",
-        "days_ago": 8,
+        "days_ago": 7,
         "text": "Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion."
       }
     ]
@@ -55,7 +55,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 09:00",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -69,7 +69,7 @@
       ],
       "max_temp": [
         7.0,
-        6.3,
+        6.4,
         6.6,
         7.9,
         8.3,
@@ -99,9 +99,37 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-15 09:00",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "last_update": "2025-12-15 08:21",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        8.0,
+        8.0,
+        8.4,
+        8.3,
+        8.9,
+        7.4,
+        5.3
+      ],
+      "min_temp": [
+        6.9,
+        6.8,
+        4.8,
+        4.8,
+        6.8,
+        5.4,
+        3.8
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
@@ -113,12 +141,40 @@
     "name": "Billingen Skövde",
     "municipality": "Skövde",
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-15 09:00",
-    "weather": "❓ Okänt",
-    "forecast": null,
-    "ai_summary": "(3 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-15 08:21",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        7.8,
+        5.6,
+        6.0,
+        6.8,
+        8.1,
+        7.2,
+        4.8
+      ],
+      "min_temp": [
+        5.8,
+        3.9,
+        3.3,
+        3.7,
+        5.3,
+        5.0,
+        3.2
+      ]
+    },
+    "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "phone": "0500-49 80 00",
@@ -126,7 +182,7 @@
     "ai_comments": [
       {
         "date": "2025-12-12T07:48:35.000Z",
-        "days_ago": 3,
+        "days_ago": 2,
         "text": "Detta är en tedtkommentar"
       },
       {
@@ -142,7 +198,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 09:01",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -157,7 +213,7 @@
       "max_temp": [
         7.1,
         6.3,
-        6.9,
+        6.8,
         6.2,
         7.5,
         6.3,
@@ -196,8 +252,8 @@
     "municipality": "Borås",
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-15 09:01",
+    "temperature": "6°C",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -212,7 +268,7 @@
       "max_temp": [
         6.3,
         5.2,
-        5.8,
+        5.7,
         6.2,
         7.2,
         6.4,
@@ -220,7 +276,7 @@
       ],
       "min_temp": [
         4.5,
-        4.1,
+        4.2,
         4.2,
         3.7,
         5.0,

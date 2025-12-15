@@ -118,10 +118,10 @@
             const card = document.createElement('div');
             card.className = 'card';
             card.innerHTML = `
-                <div class="card-header">
+                <div class="card-header" style="margin-bottom: 20px;">
                     <div>
                         <span class="municipality">${track.municipality || ''}</span>
-                        <span class="location-name">${track.name || ''}</span>
+                        <span class="location-name">${track.name.includes('Skidome') ? 'Skidome Göteborg (skidtunnel)' : track.name}</span>
                     </div>
                     <div style="display:flex; flex-direction:column; align-items:flex-end; gap:8px;">
                         <div class="status-badge ${statusClass}">
@@ -146,14 +146,16 @@
                         <span class="metric-label">Temperatur</span>
                         <span class="metric-value temp-value">${track.temperature || '-'}</span>
                     </div>
+                    ${!track.name.includes('Skidome') ? `
                     <div class="metric">
                         <span class="metric-label">Väder</span>
                         <span class="metric-value">${track.weather || '-'}</span>
                     </div>
                     <div class="metric">
-                        <span class="metric-label">Snödjup</span>
+                        <span class="metric-label">Natursnö</span>
                         <span class="metric-value">${track.snow_depth || '-'}</span>
                     </div>
+                    ` : ''}
                     <div class="metric">
                         <span class="metric-label">Öppna spår</span>
                         <span class="metric-value">${track.total_track_length_km > 0 ? track.total_track_length_km + ' km' : '&nbsp;'}</span>
