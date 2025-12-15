@@ -7,7 +7,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 13:55",
+    "last_update": "2025-12-15 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -22,17 +22,17 @@
       "max_temp": [
         6.7,
         5.5,
-        5.9,
+        5.6,
         5.7,
         6.8,
         5.6,
         3.7
       ],
       "min_temp": [
-        5.1,
-        4.4,
-        3.3,
-        3.2,
+        5.3,
+        4.5,
+        4.9,
+        4.2,
         4.9,
         3.4,
         2.0
@@ -59,7 +59,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-15 13:56",
+    "last_update": "2025-12-15 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -73,8 +73,8 @@
       ],
       "max_temp": [
         7.0,
-        6.6,
-        6.8,
+        6.4,
+        6.7,
         7.3,
         8.1,
         7.1,
@@ -82,8 +82,8 @@
       ],
       "min_temp": [
         5.8,
-        5.6,
-        4.6,
+        4.8,
+        5.2,
         5.2,
         6.8,
         4.8,
@@ -105,9 +105,37 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-15 13:56",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "last_update": "2025-12-15 17:02",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        8.3,
+        8.0,
+        8.4,
+        7.9,
+        8.6,
+        7.2,
+        5.2
+      ],
+      "min_temp": [
+        7.1,
+        6.5,
+        6.6,
+        5.4,
+        7.2,
+        5.3,
+        3.8
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
@@ -121,11 +149,39 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-15 13:56",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "7°C",
+    "last_update": "2025-12-15 17:02",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        7.8,
+        5.9,
+        6.2,
+        7.0,
+        7.8,
+        6.9,
+        4.5
+      ],
+      "min_temp": [
+        6.2,
+        4.0,
+        3.6,
+        3.2,
+        5.6,
+        4.5,
+        3.0
+      ]
+    },
     "ai_summary": "(3 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
@@ -152,7 +208,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-15 13:56",
+    "last_update": "2025-12-15 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -166,18 +222,18 @@
       ],
       "max_temp": [
         7.1,
-        6.5,
-        7.0,
+        6.3,
+        6.7,
         6.2,
         7.2,
         6.2,
         4.4
       ],
       "min_temp": [
-        5.6,
-        5.4,
-        4.3,
-        3.8,
+        5.8,
+        5.3,
+        5.8,
+        4.7,
         5.7,
         3.8,
         2.7
@@ -209,7 +265,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 13:56",
+    "last_update": "2025-12-15 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -223,18 +279,18 @@
       ],
       "max_temp": [
         6.3,
-        5.4,
-        5.9,
+        5.3,
+        5.7,
         6.1,
         7.1,
         6.1,
         4.2
       ],
       "min_temp": [
-        4.6,
-        4.4,
-        3.8,
-        3.8,
+        4.9,
+        4.3,
+        4.8,
+        4.3,
         5.6,
         3.6,
         2.6
@@ -257,5 +313,51 @@
         "text": "Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation"
       }
     ]
+  },
+  {
+    "name": "Hindås",
+    "municipality": "Härryda",
+    "lat": 57.7036,
+    "lon": 12.446,
+    "status": "Stängt",
+    "snow_depth": "Ingen snö",
+    "temperature": "7°C",
+    "last_update": "2025-12-15 17:02",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        6.9,
+        6.1,
+        6.6,
+        6.7,
+        7.7,
+        6.8,
+        5.0
+      ],
+      "min_temp": [
+        5.8,
+        4.8,
+        5.1,
+        5.2,
+        6.5,
+        4.4,
+        3.5
+      ]
+    },
+    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
+    "official_url": "https://www.hindasskidklubb.se/startsida",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
+    "phone": "-",
+    "total_track_length_km": 0,
+    "ai_comments": []
   }
 ]

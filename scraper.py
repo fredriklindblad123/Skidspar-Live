@@ -63,6 +63,15 @@ FACILITIES = [
         "lon": 12.9150,
         "phone": "033-24 33 47",
         "official_url": "https://hestraif.se/"
+    },
+    {
+        "name": "Hindås",
+        "url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas/rapporter",
+        "municipality": "Härryda",
+        "lat": 57.7036,
+        "lon": 12.4460,
+        "phone": "-",
+        "official_url": "https://www.hindasskidklubb.se/startsida"
     }
 ]
 
