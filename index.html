@@ -404,9 +404,9 @@
                         </div>
 
                         <!-- Tags -->
-                         <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:12px;">
+                         <div class="tags-container">
                             ${(track.tags || []).map(tag => `
-                                <span style="font-size:0.75em; background:rgba(255,255,255,0.1); padding:4px 10px; border-radius:12px; color:var(--text-secondary); text-transform:capitalize;">
+                                <span class="tag-badge">
                                     ${tag === 'dog' ? '🐶 Hund' : tag}
                                 </span>
                             `).join('')}

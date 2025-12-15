@@ -103,16 +103,22 @@ h1 {
 @media (max-width: 768px) {
     .card-header {
         flex-direction: column;
+        position: relative;
+        padding-right: 130px;
+        /* Space for map */
+        min-height: 100px;
+        display: block;
     }
 
     .detail-map-container {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 1.2;
-        margin-left: 0;
-        margin-top: 16px;
-        order: 2;
-        /* Ensure map is below info */
+        position: absolute !important;
+        top: 0;
+        right: 0;
+        width: 120px !important;
+        height: 100px !important;
+        margin: 0 !important;
+        background: transparent;
+        order: unset;
     }
 
     .card-header>div:first-child {
@@ -147,6 +153,34 @@ h1 {
     align-items: center;
     gap: 6px;
     background: rgba(255, 255, 255, 0.05);
+}
+
+.tags-container {
+    display: flex;
+    gap: 6px;
+    margin-top: 12px;
+    flex-wrap: nowrap;
+    /* Single line */
+    overflow-x: auto;
+    /* Scrollable */
+    padding-bottom: 4px;
+    /* Space for scrollbar if any (hidden) */
+    scrollbar-width: none;
+}
+
+.tags-container::-webkit-scrollbar {
+    display: none;
+}
+
+.tag-badge {
+    font-size: 0.75em;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 4px 10px;
+    border-radius: 12px;
+    color: var(--text-secondary);
+    text-transform: capitalize;
+    white-space: nowrap;
+    /* Prevent breaking inside badge */
 }
 
 .status-dot {
