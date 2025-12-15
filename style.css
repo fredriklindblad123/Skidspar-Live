@@ -441,27 +441,33 @@ footer {
         border: 2px solid var(--accent-blue);
         background-color: rgba(41, 151, 255, 0.1);
     }
-
-    .summary-row {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        gap: 8px;
-    }
-
-    .summary-name {
-        margin-bottom: 0 !important;
-        /* Override inline style if any remains */
-        font-size: 1rem !important;
-        /* Slightly more compact */
-    }
-
-    .summary-status {
-        flex-shrink: 0;
-    }
 }
 
-/* Default Mobile Rules for new classes */
+/* Global Summary Row Styles (Mobile & Desktop) */
+.summary-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* Aligns to top */
+    gap: 8px;
+}
+
 .summary-name {
-    margin-bottom: 12px;
+    margin-bottom: 0 !important;
+    font-size: 1.1rem;
+    /* Default size */
+    padding-right: 10px;
+    /* Space for status */
+}
+
+.summary-status {
+    flex-shrink: 0;
+}
+
+/* Desktop Overrides */
+@media (min-width: 1024px) {
+    .summary-name {
+        font-size: 1rem !important;
+        /* Compact on desktop */
+    }
 }

@@ -148,33 +148,36 @@
             card.className = 'card';
             card.innerHTML = `
                 <div class="card-header" style="margin-bottom: 8px;">
-                    <div>
+                    <div style="flex: 1; min-width: 0;">
                         <span class="municipality">${track.municipality || ''}</span>
-                        <span class="location-name">${track.name.includes('Skidome') ? 'Skidome Göteborg (skidtunnel)' : track.name}</span>
+                        <span class="location-name">${track.name.includes('Skidome') ? 'Skidome' : track.name}</span>
+                        
+                        <!-- Actions moved here -->
+                        <div class="contact-actions" style="display:flex; flex-direction:column; align-items:flex-start; gap:4px; margin-top:8px; font-size:0.9em;">
+                            ${track.official_url ? `
+                            <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-weight:500;">
+                                Officiell hemsida ↗
+                            </a>
+                            ` : ''}
+                            <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-weight:400;">
+                                Skidspår.se ↗
+                            </a>
+                            ${track.phone && track.phone !== '-' ? `<span style="color:var(--text-secondary);">📞 ${track.phone}</span>` : ''}
+                        </div>
                     </div>
                     <div style="display:flex; flex-direction:column; align-items:flex-end; gap:8px;">
                         <div class="status-badge ${statusClass}">
                             <div class="status-dot"></div>
                             ${statusText}
                         </div>
-                        <!-- Map Section Moved Here -->
+                        <!-- Map Section -->
                         <div class="map-container" style="position: relative; width: 120px; border-radius: 12px; overflow: hidden; background: transparent; margin-top: 8px;">
                             <img src="vg_map.png" alt="Karta Västra Götaland" style="width: 100%; height: auto; display: block; opacity: 0.8; mix-blend-mode: screen;">
                             <div id="map-dot" style="position: absolute; width: 8px; height: 8px; border-radius: 50%; border: 1.5px solid white; box-shadow: 0 0 6px rgba(0,0,0,0.8); transform: translate(-50%, -50%); transition: all 0.5s ease; z-index: 10;"></div>
                         </div>
                     </div>
                 </div>
-                <div class="contact-actions" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center; margin-bottom:20px; font-size:0.9em;">
-                     ${track.official_url ? `
-                        <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-weight:500;">
-                            Officiell hemsida ↗
-                        </a>
-                        ` : ''}
-                        <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-weight:400;">
-                            Skidspår.se ↗
-                        </a>
-                        ${track.phone && track.phone !== '-' ? `<span style="color:var(--text-secondary);">📞 ${track.phone}</span>` : ''}
-                </div>
+                <!-- Links block removed from here -->
                 </div>
                 <div style="height: 15px; width: 100%;"></div> 
                 
