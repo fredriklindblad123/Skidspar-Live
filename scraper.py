@@ -509,12 +509,12 @@ def get_facility_data(facility):
 
     return {
         "name": facility['name'],
+        "municipality": facility['municipality'],
+        "status": status,
         "snow_depth": snow_depth,
         "temperature": temperature,
         "last_update": last_update,
         "weather": weather,
-        "forecast": weather_data.get("forecast"), 
-        "ai_summary": ai_summary,
         "forecast": weather_data.get("forecast"), 
         "ai_summary": ai_summary,
         "official_url": facility.get('official_url'),

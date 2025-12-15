@@ -1,9 +1,11 @@
 [
   {
     "name": "Lassalyckans Skidstadion",
+    "municipality": "Ulricehamn",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:18",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -49,9 +51,11 @@
   },
   {
     "name": "Landvetter",
+    "municipality": "Härryda",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:18",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -91,9 +95,11 @@
   },
   {
     "name": "Skidome Göteborg",
+    "municipality": "Göteborg",
+    "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-15 08:18",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -133,9 +139,11 @@
   },
   {
     "name": "Billingen Skövde",
+    "municipality": "Skövde",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:18",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -186,9 +194,11 @@
   },
   {
     "name": "Borås Skidstadion",
+    "municipality": "Borås",
+    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:18",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -239,9 +249,11 @@
   },
   {
     "name": "Hestrastugan",
+    "municipality": "Borås",
+    "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:18",
+    "last_update": "2025-12-15 08:21",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
