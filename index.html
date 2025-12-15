@@ -129,8 +129,13 @@
                             <div class="status-dot"></div>
                             ${statusText}
                         </div>
-                        <a href="${track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-size:0.85em; font-weight:500;">
-                            Öppna anläggningens sida ↗
+                        ${track.official_url ? `
+                        <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--accent-blue); text-decoration:none; font-size:0.85em; font-weight:500;">
+                            Officiell hemsida ↗
+                        </a>
+                        ` : ''}
+                        <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-size:0.85em; font-weight:400;">
+                            Spår.se ↗
                         </a>
                     </div>
                 </div>

@@ -490,7 +490,10 @@ def get_facility_data(facility):
         "weather": weather,
         "forecast": weather_data.get("forecast"), 
         "ai_summary": ai_summary,
-        "url": facility.get('official_url') or facility['url'],
+        "forecast": weather_data.get("forecast"), 
+        "ai_summary": ai_summary,
+        "official_url": facility.get('official_url'),
+        "skidspar_url": facility['url'],
         "phone": facility.get('phone', '-'),
         "total_track_length_km": final_length,
         "ai_comments": ai_comments[:2] # Ensure strictly max 2
