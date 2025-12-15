@@ -7,12 +7,17 @@
     <title>Skidspår Väst AI Agent</title>
     <link rel="stylesheet" href="style.css">
     <script src="chart.js"></script>
+    <link rel="icon" href="logo.png">
+    <link rel="apple-touch-icon" href="logo.png">
 </head>
 
 <body>
     <div class="container">
         <header>
-            <h1>Skidspår Väst</h1>
+            <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+                <img src="logo.png" alt="Logo" style="height: 60px; width: auto; border-radius: 50%;">
+                <h1>Skidspår Väst</h1>
+            </div>
             <div class="subtitle">AI-driven status för längdskidspår i Västra Götaland</div>
         </header>
 
@@ -60,6 +65,9 @@
 
                     // Render Dashboard Summary
                     // Render Dashboard Summary
+                    let defaultTrack = null;
+                    let defaultCard = null;
+
                     data.forEach((track, index) => {
                         let statusClass = 'status-unknown';
                         let s = track.status ? track.status.toLowerCase() : '';
@@ -85,7 +93,21 @@
                            </div>
                         `;
                         summaryGrid.appendChild(summaryCard);
+
+                        // Auto-select Ulricehamn (Lassalyckan)
+                        if (track.name.toLowerCase().includes('lassalyckan')) {
+                            defaultTrack = track;
+                            defaultCard = summaryCard;
+                        }
                     });
+
+                    if (defaultTrack && defaultCard) {
+                        renderDetail(defaultTrack, defaultCard);
+                    } else if (data.length > 0) {
+                        // Fallback to first item if Ulricehamn is not found
+                        const firstCard = summaryGrid.firstElementChild;
+                        renderDetail(data[0], firstCard);
+                    }
                 }
             } catch (err) {
                 console.error('Error loading data:', err);
