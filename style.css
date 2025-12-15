@@ -41,6 +41,7 @@ h1 {
     margin: 0;
     background: linear-gradient(135deg, #fff 0%, #a1a1a6 100%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     letter-spacing: -0.03em;
 }
@@ -83,6 +84,40 @@ h1 {
     justify-content: space-between;
     align-items: flex-start;
     margin-bottom: 12px;
+    flex-wrap: wrap;
+    /* Allow wrapping for mobile */
+}
+
+/* Map container in detail view */
+.detail-map-container {
+    position: relative;
+    width: 330px;
+    height: 270px;
+    background: transparent;
+    border-radius: 12px;
+    overflow: hidden;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+    .card-header {
+        flex-direction: column;
+    }
+
+    .detail-map-container {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1.2;
+        margin-left: 0;
+        margin-top: 16px;
+        order: 2;
+        /* Ensure map is below info */
+    }
+
+    .card-header>div:first-child {
+        width: 100%;
+    }
 }
 
 .location-name {
@@ -164,6 +199,24 @@ h1 {
     margin-bottom: 16px;
     padding-bottom: 16px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    overflow-x: auto;
+    /* Allow horizontal scroll */
+    -webkit-overflow-scrolling: touch;
+    /* Smooth scroll on iOS */
+    padding-right: 12px;
+    /* Prevent cut-off feeling */
+    scrollbar-width: none;
+    /* Hide scrollbar Firefox */
+}
+
+.metrics::-webkit-scrollbar {
+    display: none;
+    /* Hide scrollbar Chrome/Safari */
+}
+
+.metric {
+    flex-shrink: 0;
+    /* Prevent shrinking */
 }
 
 .metric {
