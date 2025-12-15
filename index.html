@@ -299,9 +299,9 @@
                    <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px; padding-right: 90px;">${track.municipality || ''}</div>
                    <div class="summary-row" style="align-items:center;">
                        <div class="summary-name" style="font-weight:700; font-size:1.1rem; padding-right: 10px;">${track.name || ''}</div>
-                       <div onclick="toggleFavorite(event, '${track.name}')" title="${isFav ? 'Ta bort favorit' : 'Lägg till som favorit'}" style="cursor:pointer; font-size:1.2rem; color:${starColor}; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-                           ★
-                       </div>
+                   </div>
+                   <div onclick="toggleFavorite(event, '${track.name}')" title="${isFav ? 'Ta bort favorit' : 'Lägg till som favorit'}" style="position: absolute; bottom: 12px; left: 12px; cursor:pointer; font-size:1.4rem; color:${starColor}; transition:transform 0.2s; z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+                       ★
                    </div>
                 `;
                 summaryGrid.appendChild(summaryCard);
@@ -400,19 +400,24 @@
                          <!-- Mobile Actions (Vertical under name) -->
                         <div class="contact-actions" style="margin-top:12px; display:flex; flex-direction:column; gap:8px;">
                             ${track.official_url ? `
-                            <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:6px; font-size:0.9em;">
-                                🌐 Officiell hemsida ↗
+                            <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:8px; font-size:0.9em;">
+                                <div style="display:flex; align-items:center; justify-content:center; width:24px; height:24px; background:rgba(255,255,255,0.1); border-radius:50%;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                                </div>
+                                Officiell hemsida ↗
                             </a>` : ''}
                             ${track.skidspar_url ? `
-                            <a href="${track.skidspar_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:6px; font-size:0.9em;">
-                                ⛷️ Skidspår.se ↗
+                            <a href="${track.skidspar_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:8px; font-size:0.9em;">
+                                <div style="display:flex; align-items:center; justify-content:center; width:24px; height:24px; background:rgba(255,255,255,0.1); border-radius:50%;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22l-5-5L6 21"></path><path d="M18 2l-6 6L6 2"></path><path d="M10 12l2-2-1-1-6 6"></path><path d="M22 19L12 9l-.5.5"></path></svg>
+                                </div>
+                                Skidspår.se ↗
                             </a>` : ''}
-                             ${track.webcam_url ? `
-                            <a href="${track.webcam_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:6px; font-size:0.9em;">
-                                📷 Webbkamera ↗
-                            </a>` : ''}
-                            <span style="display:flex; align-items:center; gap:6px; color:var(--text-secondary); font-size:0.9em;">
-                                📞 ${track.phone}
+                            <span style="display:flex; align-items:center; gap:8px; color:var(--text-secondary); font-size:0.9em;">
+                                <div style="display:flex; align-items:center; justify-content:center; width:24px; height:24px; background:rgba(255,255,255,0.1); border-radius:50%;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                </div>
+                                ${track.phone}
                             </span>
                         </div>
 
