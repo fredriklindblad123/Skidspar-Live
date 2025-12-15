@@ -57,31 +57,30 @@
                     document.getElementById('last-updated').textContent = `Senast uppdaterad: ${data[0].last_update}`;
 
                     // Render Dashboard Summary
+                    // Render Dashboard Summary
                     data.forEach((track, index) => {
                         let statusClass = 'status-unknown';
-                        if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
-                        else if (track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
+                        let s = track.status ? track.status.toLowerCase() : '';
+
+                        if (s.includes('troligen')) statusClass = 'status-probable';
+                        else if (s.includes('öppet')) statusClass = 'status-open';
+                        else if (s.includes('stängt')) statusClass = 'status-closed';
 
                         const summaryCard = document.createElement('div');
                         summaryCard.className = 'card summary-card';
                         summaryCard.onclick = () => renderDetail(track, summaryCard);
 
                         summaryCard.innerHTML = `
-                            <div style="display:flex; justify-content:space-between; align-items:center;">
-                                <div>
-                                    <div class="municipality" style="font-size:0.7em;">${track.municipality}</div>
-                                    <div style="font-weight:700; font-size:1em;">${track.name}</div>
-                                </div>
-                                <div class="status-badge ${statusClass}" style="flex-shrink:0;">
+                           <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px;">${track.municipality || ''}</div>
+                           <div style="font-weight:700; font-size:1.1rem; margin-bottom:12px;">${track.name || ''}</div>
+                           <div style="display:flex; justify-content:flex-end;">
+                                <div class="status-badge ${statusClass}">
                                     <div class="status-dot"></div>
-                                    ${track.status}
+                                    ${track.status || ''}
                                 </div>
-                            </div>
-                         `;
+                           </div>
+                        `;
                         summaryGrid.appendChild(summaryCard);
-
-                        // Auto-select first item? No, user wants dashboard first. 
-                        // But for better UX, maybe clear details until click.
                     });
                 }
             } catch (err) {
@@ -89,6 +88,8 @@
                 document.getElementById('track-grid').innerHTML = `<div style="text-align:center; color: var(--accent-red); padding: 20px;">Kunde inte ladda spårstatus. Kontrollera att data.json finns.</div>`;
             }
         }
+
+        let currentChart = null;
 
         function renderDetail(track, activeCardElement) {
             // Safely destroy old chart before removing canvas from DOM
@@ -139,22 +140,24 @@
                            ${track.phone && track.phone !== '-' ? '📞 ' + track.phone : ''}
                         </div>
                     </div>
+                    </div>
                 </div>
                 <div class="metrics">
                     <div class="metric">
                         <span class="metric-label">Temperatur</span>
-                        <span class="metric-value temp-value">${track.temperature || ''}</span>
+                        <span class="metric-value temp-value">${track.temperature || '-'}</span>
                     </div>
-
-                    ${(track.total_track_length_km && track.total_track_length_km > 0) ? `
-                    <div class="metric">
-                        <span class="metric-label">Öppna spår</span>
-                        <span class="metric-value" style="color:var(--accent-green);">${track.total_track_length_km} km</span>
-                    </div>
-                    ` : ''}
                     <div class="metric">
                         <span class="metric-label">Väder</span>
-                        <span class="metric-value">${track.weather || ''}</span>
+                        <span class="metric-value">${track.weather || '-'}</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Snödjup</span>
+                        <span class="metric-value">${track.snow_depth || '-'}</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Öppna spår</span>
+                        <span class="metric-value">${track.total_track_length_km > 0 ? track.total_track_length_km + ' km' : '&nbsp;'}</span>
                     </div>
                 </div>
                 <div class="ai-section">
@@ -171,8 +174,9 @@
                         <canvas id="forecastChart"></canvas>
                     </div>
                 </div>
-                ` : ''}
-            `;
+                ` : ''
+                }
+                        `;
 
             const aiContent = card.querySelector('.ai-content');
             if (track.ai_comments && Array.isArray(track.ai_comments) && track.ai_comments.length > 0) {
@@ -210,7 +214,7 @@
             }
         }
 
-        let currentChart = null;
+
 
         function renderForecastChart(forecast) {
             const ctx = document.getElementById('forecastChart');
