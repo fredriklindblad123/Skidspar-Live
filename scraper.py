@@ -422,10 +422,12 @@ def get_facility_data(facility):
                     days = c.get('days_ago', None)
                     # Skip comments older than 14 days defensively
                     if days is not None and days > 14:
-                        continue
+                            continue
                     days_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
                     
                     # For AI summary text, we use relative dates only as requested for frontend display logic alignment
+                    # But the frontend does its own formatting. Here we prepare the text summary in the JSON.
+                # For AI summary text, we use relative dates only as requested for frontend display logic alignment
                     # But the frontend does its own formatting. Here we prepare the text summary in the JSON.
                     text = c.get('comment') or c.get('text') or ''
                     parts.append(f"({days_text}):  {text}")
@@ -433,26 +435,6 @@ def get_facility_data(facility):
                 
                 # Update ai_summary from these top 2
                 ai_summary = "\n\n".join(parts)
-
-                # Check for explicit "Open" signals in comments (User Request)
-                # If any comment within last 7 days says "öppet", "nyspårat", etc, set status to Öppet
-                for c in ai_comments:
-                     days_ago = c.get('days_ago', 99)
-                     if days_ago <= 7:
-                         txt = (c.get('text') or '').lower()
-                         
-                         # Negative signals (override everything to Stängt if found)
-                         if any(x in txt for x in ['stängt', 'spåren avstängda', 'sparar snö', 'sparar snön', 'inväntar kyla', 'inte åkbart', 'täck snö', 'fibertäckning', 'fiberduk', 'inte röra', 'inte röa', 'täcka snö']):
-                             status = "Stängt"
-                             # Break to ensure Stängt takes precedence if clearly stated
-                             break
-                             
-                         # Positive signals indicating open status
-                         elif any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nyspårad', 'nypreparerat', 'nypreparerade', 'preparerat', 'preparerade', 'körbart', 'fina spår', ' spårat ']):
-                             # Simple negation check
-                             if "inte öppet" not in txt and "inte körbart" not in txt: 
-                                 status = "Öppet"
-
                 try:
                     import html as _htmlmod
                     ai_summary_html = _htmlmod.escape("\n\n".join(parts)).replace('\n\n', '<br><br>').replace('\n', '<br>')
@@ -461,29 +443,72 @@ def get_facility_data(facility):
         except Exception:
             pass
             
-    # Final override for Skidome length if needed (if API failed or returned 0)
-    final_length = api_data.get('total_track_length_km', 0) if api_data else 0
-    if "Skidome" in facility['name']:
-         final_length = 1.2
+    # --- STATUS & LENGTH DETERMINATION ---
+    # Priority 1: Official API data (equivalent to /spar)
+    status = "Stängt"
+    final_length = 0
     
-    # Logic fix: If status is Stängt, ensure length is 0 (User request)
-    if status == "Stängt" and "Skidome" not in facility['name']: 
-         final_length = 0
+    # Official check: 'numGroomedTacks' > 0 implies Open
+    num_groomed = api_data.get('trackOverview', {}).get('numGroomedTacks', 0) if api_data else 0
+    
+    if num_groomed > 0:
+        status = "Öppet"
+        # Calculate length of tracks that are likely 'open'
+        # We assume tracks with recent grooming (e.g. < 14 days) contribute to length
+        current_time = datetime.datetime.now()
+        temp_len = 0
+        if api_data:
+            for t in api_data.get('tracks', []):
+                t_len = t.get('tracklength', 0) or 0
+                is_open = False
+                for k in ['lastGroomedClassic', 'lastGroomedSkate']:
+                     d_str = t.get('status', {}).get(k)
+                     if d_str and d_str != 'unknown':
+                         try:
+                             last_g = datetime.datetime.fromisoformat(d_str.replace('Z', ''))
+                             days = (current_time - last_g).days
+                             if days < 14: 
+                                 is_open = True
+                         except:
+                             pass
+                if is_open:
+                    temp_len += t_len
+        
+        if temp_len > 0:
+            final_length = temp_len
+        else:
+            final_length = api_data.get('total_track_length_km', 0) if api_data else 0
 
-    # Enforce Skidome status
-    if facility['name'] == 'Skidome Göteborg':
-        status = 'Öppet'
-        snow_depth = "Konstsnö"
-        if temperature == "Okänt":
-             # Use indoor constant roughly
-             temperature = "-4°C"
+    # Priority 2: Comments (if not already Open)
+    if status != "Öppet":
+        # Check for explicit "Open" signals in comments
+        for c in ai_comments:
+             days_ago = c.get('days_ago', 99)
+             if days_ago <= 7:
+                 txt = (c.get('text') or '').lower()
+                 
+                 # Negative signals - strict Stängt
+                 if any(x in txt for x in ['stängt', 'spåren avstängda', 'sparar snö', 'sparar snön', 'inväntar kyla', 'inte åkbart', 'täck snö', 'fibertäckning', 'fiberduk', 'inte röra', 'inte röa', 'täcka snö']):
+                     status = "Stängt"
+                     break
+                     
+                 # Positive signals - Troligen öppet
+                 elif any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nyspårad', 'nypreparerat', 'nypreparerade', 'preparerat', 'preparerade', 'körbart', 'fina spår', ' spårat ']):
+                     if "inte öppet" not in txt and "inte körbart" not in txt: 
+                         status = "Troligen öppet"
+
+    # Enforce Skidome override (Always Open)
+    if "Skidome" in facility['name']:
+         status = 'Öppet'
+         final_length = 1.2
+         temperature = "-4°C" # Indoor constant
+         snow_depth = "Konstsnö"
+
 
     # ... (skipping lines) ...
 
     return {
         "name": facility['name'],
-        "municipality": facility['municipality'],
-        "status": status,
         "snow_depth": snow_depth,
         "temperature": temperature,
         "last_update": last_update,
@@ -493,7 +518,7 @@ def get_facility_data(facility):
         "forecast": weather_data.get("forecast"), 
         "ai_summary": ai_summary,
         "official_url": facility.get('official_url'),
-        "skidspar_url": facility['url'],
+        "skidspar_url": facility['url'].replace('/rapporter', ''),
         "phone": facility.get('phone', '-'),
         "total_track_length_km": final_length,
         "ai_comments": ai_comments[:2] # Ensure strictly max 2

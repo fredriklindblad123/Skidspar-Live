@@ -1,11 +1,9 @@
 [
   {
     "name": "Lassalyckans Skidstadion",
-    "municipality": "Ulricehamn",
-    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:00",
+    "last_update": "2025-12-15 08:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -38,7 +36,7 @@
     },
     "ai_summary": "(7 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
-    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion/rapporter",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "phone": "0321-59 59 59",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -51,11 +49,9 @@
   },
   {
     "name": "Landvetter",
-    "municipality": "Härryda",
-    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:00",
+    "last_update": "2025-12-15 08:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -88,18 +84,16 @@
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
     "official_url": "https://oklandehof.se/",
-    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter/rapporter",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "phone": "-",
     "total_track_length_km": 0,
     "ai_comments": []
   },
   {
     "name": "Skidome Göteborg",
-    "municipality": "Göteborg",
-    "status": "Öppet",
     "snow_depth": "Konstsnö",
-    "temperature": "8°C",
-    "last_update": "2025-12-15 08:01",
+    "temperature": "-4°C",
+    "last_update": "2025-12-15 08:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -132,18 +126,16 @@
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
-    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome/rapporter",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
     "phone": "031-395 11 25",
     "total_track_length_km": 1.2,
     "ai_comments": []
   },
   {
     "name": "Billingen Skövde",
-    "municipality": "Skövde",
-    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:01",
+    "last_update": "2025-12-15 08:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -176,7 +168,7 @@
     },
     "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
-    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde/rapporter",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "phone": "0500-49 80 00",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -194,11 +186,9 @@
   },
   {
     "name": "Borås Skidstadion",
-    "municipality": "Borås",
-    "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:01",
+    "last_update": "2025-12-15 08:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -231,7 +221,7 @@
     },
     "ai_summary": "(3 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
-    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion/rapporter",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "phone": "033-35 73 73",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -249,11 +239,9 @@
   },
   {
     "name": "Hestrastugan",
-    "municipality": "Borås",
-    "status": "Öppet",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:01",
+    "last_update": "2025-12-15 08:18",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -286,7 +274,7 @@
     },
     "ai_summary": "(2 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(3 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
     "official_url": "https://hestraif.se/",
-    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan/rapporter",
+    "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "phone": "033-24 33 47",
     "total_track_length_km": 0,
     "ai_comments": [

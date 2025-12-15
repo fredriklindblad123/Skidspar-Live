@@ -110,7 +110,8 @@
 
             let statusClass = 'status-unknown';
             let statusText = track.status || '';
-            if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
+            if (track.status && track.status.toLowerCase().includes('troligen')) statusClass = 'status-probable';
+            else if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
             else if (track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
 
             const card = document.createElement('div');
@@ -120,9 +121,6 @@
                     <div>
                         <span class="municipality">${track.municipality || ''}</span>
                         <span class="location-name">${track.name || ''}</span>
-                        <div style="margin-top:4px; font-size:0.9em; color:var(--text-secondary);">
-                           ${track.phone && track.phone !== '-' ? '📞 ' + track.phone : ''}
-                        </div>
                     </div>
                     <div style="display:flex; flex-direction:column; align-items:flex-end; gap:8px;">
                         <div class="status-badge ${statusClass}">
@@ -135,8 +133,11 @@
                         </a>
                         ` : ''}
                         <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-size:0.85em; font-weight:400;">
-                            Spår.se ↗
+                            Skidspår.se ↗
                         </a>
+                         <div style="margin-top:2px; font-size:0.85em; color:var(--text-secondary); text-align:right;">
+                           ${track.phone && track.phone !== '-' ? '📞 ' + track.phone : ''}
+                        </div>
                     </div>
                 </div>
                 <div class="metrics">
