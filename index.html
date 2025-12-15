@@ -272,16 +272,18 @@
                 summaryCard.style.position = 'relative';
 
                 summaryCard.innerHTML = `
-                   <div class="status-badge ${statusClass}" style="position: absolute; top: 12px; right: 12px;">
-                        <div class="status-dot"></div>
-                        ${track.status || ''}
+                   <div style="position: absolute; top: 12px; right: 12px; display:flex; align-items:center; gap:8px;">
+                       <div onclick="toggleFavorite(event, '${track.name}')" title="${isFav ? 'Ta bort favorit' : 'Lägg till som favorit'}" style="cursor:pointer; font-size:1.4rem; line-height:1; color:${starColor}; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+                           ★
+                       </div>
+                       <div class="status-badge ${statusClass}">
+                            <div class="status-dot"></div>
+                            ${track.status || ''}
+                       </div>
                    </div>
                    <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px; padding-right: 90px;">${track.municipality || ''}</div>
                    <div class="summary-row" style="align-items:center;">
                        <div class="summary-name" style="font-weight:700; font-size:1.1rem; padding-right: 10px;">${track.name || ''}</div>
-                   </div>
-                   <div onclick="toggleFavorite(event, '${track.name}')" title="${isFav ? 'Ta bort favorit' : 'Lägg till som favorit'}" style="position: absolute; bottom: 12px; left: 12px; cursor:pointer; font-size:1.4rem; color:${starColor}; transition:transform 0.2s; z-index:10;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-                       ★
                    </div>
                 `;
                 summaryGrid.appendChild(summaryCard);
@@ -413,7 +415,7 @@
 
                     <!-- Map Container -->
                     <div style="position: relative; width: 330px; height: 270px; background: transparent; border-radius: 12px; overflow: hidden; flex-shrink: 0; margin-left:10px;">
-                         <img src="vg_map.png" style="width: 100%; height: 100%; object-fit: contain; opacity: 0.9; mix-blend-mode: screen; filter: brightness(0.7) contrast(1.5);" alt="Karta">
+                         <img src="vg_map.png" style="width: 100%; height: 100%; object-fit: contain; opacity: 1; mix-blend-mode: lighten;" alt="Karta">
                          <div id="map-dots-container"></div>
                     </div>
                 </div>
@@ -423,13 +425,6 @@
                         <span class="metric-label">Temperatur</span>
                         <span class="metric-value temp-value">${track.temperature || '-'}</span>
                     </div>
-                     ${wax ? `
-                    <div class="metric">
-                        <span class="metric-label">Vallatips</span>
-                         <span class="metric-value" style="color:${wax.color}; font-size:0.9em;">${wax.text}</span>
-                    </div>
-                    ` : ''}
-                    ${!track.name.includes('Skidome') ? `
                     <div class="metric">
                         <span class="metric-label">Väder</span>
                         <span class="metric-value">${track.weather || '-'}</span>
@@ -438,11 +433,21 @@
                         <span class="metric-label">Natursnö</span>
                         <span class="metric-value">${track.snow_depth || '-'}</span>
                     </div>
-                    ` : ''}
                     <div class="metric">
                         <span class="metric-label">Öppna spår</span>
                         <span class="metric-value">${track.total_track_length_km > 0 ? track.total_track_length_km + ' km' : '&nbsp;'}</span>
                     </div>
+                    ${wax ? `
+                    <div class="metric">
+                        <span class="metric-label">Vallatips</span>
+                         <span class="metric-value" style="color:${wax.color}; font-size:0.9em;">${wax.text}</span>
+                    </div>
+                    ` : `
+                    <div class="metric">
+                        <span class="metric-label">Vallatips</span>
+                         <span class="metric-value" style="color:var(--text-secondary); font-size:0.9em;">-</span>
+                    </div>
+                    `}
                 </div>
                 <div class="ai-section">
                     <div class="ai-header">
