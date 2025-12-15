@@ -510,6 +510,8 @@ def get_facility_data(facility):
     return {
         "name": facility['name'],
         "municipality": facility['municipality'],
+        "lat": facility['lat'],
+        "lon": facility['lon'],
         "status": status,
         "snow_depth": snow_depth,
         "temperature": temperature,

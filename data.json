@@ -2,10 +2,12 @@
   {
     "name": "Lassalyckans Skidstadion",
     "municipality": "Ulricehamn",
+    "lat": 57.7907,
+    "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:21",
+    "last_update": "2025-12-15 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -19,7 +21,7 @@
       ],
       "max_temp": [
         6.7,
-        5.2,
+        5.4,
         5.8,
         5.6,
         6.9,
@@ -27,16 +29,16 @@
         4.1
       ],
       "min_temp": [
-        5.2,
-        4.2,
-        3.7,
+        5.1,
+        4.4,
+        3.9,
         3.8,
         4.2,
         3.8,
         2.4
       ]
     },
-    "ai_summary": "(7 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
+    "ai_summary": "(8 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "phone": "0321-59 59 59",
@@ -44,7 +46,7 @@
     "ai_comments": [
       {
         "date": "2025-12-07T07:30:31.000Z",
-        "days_ago": 7,
+        "days_ago": 8,
         "text": "Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion."
       }
     ]
@@ -52,10 +54,12 @@
   {
     "name": "Landvetter",
     "municipality": "Härryda",
+    "lat": 57.708,
+    "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-15 08:21",
+    "temperature": "7°C",
+    "last_update": "2025-12-15 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -69,7 +73,7 @@
       ],
       "max_temp": [
         7.0,
-        6.4,
+        6.5,
         6.6,
         7.9,
         8.3,
@@ -77,9 +81,9 @@
         5.2
       ],
       "min_temp": [
-        5.4,
-        5.3,
-        4.3,
+        5.7,
+        5.5,
+        4.7,
         4.4,
         6.4,
         5.3,
@@ -96,10 +100,12 @@
   {
     "name": "Skidome Göteborg",
     "municipality": "Göteborg",
+    "lat": 57.7089,
+    "lon": 11.9746,
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-15 08:21",
+    "last_update": "2025-12-15 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -112,17 +118,17 @@
         "2025-12-21"
       ],
       "max_temp": [
-        8.0,
-        8.0,
-        8.4,
+        8.3,
+        8.1,
+        8.5,
         8.3,
         8.9,
         7.4,
         5.3
       ],
       "min_temp": [
+        7.1,
         6.9,
-        6.8,
         4.8,
         4.8,
         6.8,
@@ -140,10 +146,12 @@
   {
     "name": "Billingen Skövde",
     "municipality": "Skövde",
+    "lat": 58.4108,
+    "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-15 08:21",
+    "temperature": "7°C",
+    "last_update": "2025-12-15 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -157,16 +165,16 @@
       ],
       "max_temp": [
         7.8,
-        5.6,
-        6.0,
+        6.2,
+        6.4,
         6.8,
         8.1,
         7.2,
         4.8
       ],
       "min_temp": [
-        5.8,
-        3.9,
+        6.2,
+        4.2,
         3.3,
         3.7,
         5.3,
@@ -174,7 +182,7 @@
         3.2
       ]
     },
-    "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
+    "ai_summary": "(3 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "phone": "0500-49 80 00",
@@ -182,7 +190,7 @@
     "ai_comments": [
       {
         "date": "2025-12-12T07:48:35.000Z",
-        "days_ago": 2,
+        "days_ago": 3,
         "text": "Detta är en tedtkommentar"
       },
       {
@@ -195,10 +203,12 @@
   {
     "name": "Borås Skidstadion",
     "municipality": "Borås",
+    "lat": 57.721,
+    "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-15 08:21",
+    "temperature": "7°C",
+    "last_update": "2025-12-15 12:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -221,7 +231,7 @@
       ],
       "min_temp": [
         5.5,
-        5.2,
+        5.3,
         4.6,
         4.2,
         4.9,
@@ -229,7 +239,7 @@
         3.6
       ]
     },
-    "ai_summary": "(3 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
+    "ai_summary": "(4 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "phone": "033-35 73 73",
@@ -237,7 +247,7 @@
     "ai_comments": [
       {
         "date": "2025-12-11T11:48:19.000Z",
-        "days_ago": 3,
+        "days_ago": 4,
         "text": "Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen."
       },
       {
@@ -250,10 +260,12 @@
   {
     "name": "Hestrastugan",
     "municipality": "Borås",
+    "lat": 57.737,
+    "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 08:21",
+    "last_update": "2025-12-15 12:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,16 +279,16 @@
       ],
       "max_temp": [
         6.3,
-        5.2,
-        5.7,
+        5.3,
+        5.8,
         6.2,
         7.2,
         6.4,
         4.3
       ],
       "min_temp": [
-        4.5,
-        4.2,
+        4.6,
+        4.3,
         4.2,
         3.7,
         5.0,
