@@ -400,3 +400,43 @@ footer {
     font-weight: 700;
     margin-bottom: 2px;
 }
+
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1200px;
+    }
+
+    .split-layout {
+        display: flex;
+        gap: 24px;
+        align-items: flex-start;
+    }
+
+    #dashboard-summary {
+        width: 350px;
+        flex-shrink: 0;
+        /* Make summary list sticky/scrollable if long? */
+        /* max-height: 80vh; overflow-y: auto; */
+    }
+
+    #track-grid {
+        flex: 1;
+    }
+
+    /* Adjust summary cards for compact list view */
+    .summary-card {
+        cursor: pointer;
+        transition: transform 0.2s, background-color 0.2s;
+        /* Maybe slightly smaller padding? */
+    }
+
+    .summary-card:hover {
+        transform: translateY(-2px);
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .summary-card.selected {
+        border: 2px solid var(--accent-blue);
+        background-color: rgba(41, 151, 255, 0.1);
+    }
+}

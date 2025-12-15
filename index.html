@@ -16,14 +16,16 @@
             <div class="subtitle">AI-driven status för längdskidspår i Västra Götaland</div>
         </header>
 
-        <div class="grid" id="dashboard-summary" style="margin-bottom: 40px;">
-            <!-- Summary cards will appear here -->
-        </div>
+        <div class="split-layout">
+            <div class="grid" id="dashboard-summary" style="margin-bottom: 40px;">
+                <!-- Summary cards will appear here -->
+            </div>
 
-        <div class="grid" id="track-grid">
-            <!-- Loading State or Details -->
-            <div style="text-align:center; color: var(--text-secondary); padding: 40px; font-style: italic;">
-                Välj en anläggning ovan för att se detaljer
+            <div class="grid" id="track-grid">
+                <!-- Loading State or Details -->
+                <div style="text-align:center; color: var(--text-secondary); padding: 40px; font-style: italic;">
+                    Välj en anläggning ovan för att se detaljer
+                </div>
             </div>
         </div>
 
@@ -136,11 +138,12 @@
                         <a href="${track.skidspar_url || track.url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-secondary); text-decoration:none; font-size:0.85em; font-weight:400;">
                             Skidspår.se ↗
                         </a>
-                         <div style="margin-top:2px; font-size:0.85em; color:var(--text-secondary); text-align:right;">
+                         <div style="margin-top:4px; font-size:0.85em; color:var(--text-secondary); text-align:right; padding-bottom:5px;">
                            ${track.phone && track.phone !== '-' ? '📞 ' + track.phone : ''}
                         </div>
                     </div>
                 </div>
+                <div style="height: 15px; width: 100%;"></div> 
                 <div class="metrics">
                     <div class="metric">
                         <span class="metric-label">Temperatur</span>
