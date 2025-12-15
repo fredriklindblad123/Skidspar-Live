@@ -91,6 +91,16 @@
         }
 
         function renderDetail(track, activeCardElement) {
+            // Safely destroy old chart before removing canvas from DOM
+            if (currentChart) {
+                try {
+                    currentChart.destroy();
+                } catch (e) {
+                    console.log('Chart destroy error:', e);
+                }
+                currentChart = null;
+            }
+
             const grid = document.getElementById('track-grid');
             grid.innerHTML = ''; // Clear previous
 
@@ -199,10 +209,6 @@
         function renderForecastChart(forecast) {
             const ctx = document.getElementById('forecastChart');
             if (!ctx) return;
-
-            if (currentChart) {
-                currentChart.destroy();
-            }
 
             // Dates to short day names
             const dateLabels = forecast.dates.map(dStr => {
