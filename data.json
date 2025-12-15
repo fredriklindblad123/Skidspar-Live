@@ -7,7 +7,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:25",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -41,6 +41,14 @@
     "ai_summary": "(8 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
+    "webcam_url": "https://www.webbkameror.se/webbkameror/ulricehamn/ulricehamn_2_1280.php",
+    "tags": [
+      "konstsnö",
+      "elljus",
+      "wc",
+      "dusch",
+      "omklädningsrum"
+    ],
     "phone": "0321-59 59 59",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -59,7 +67,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:25",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -93,6 +101,11 @@
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
+    "webcam_url": null,
+    "tags": [
+      "konstsnö",
+      "elljus"
+    ],
     "phone": "-",
     "total_track_length_km": 0,
     "ai_comments": []
@@ -105,7 +118,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:25",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -139,6 +152,14 @@
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
+    "webcam_url": null,
+    "tags": [
+      "inomhus",
+      "konstsnö",
+      "wc",
+      "dusch",
+      "omklädningsrum"
+    ],
     "phone": "031-395 11 25",
     "total_track_length_km": 1.2,
     "ai_comments": []
@@ -151,7 +172,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:25",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -185,6 +206,14 @@
     "ai_summary": "(3 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
+    "webcam_url": "https://webcam.billingen.se/",
+    "tags": [
+      "konstsnö",
+      "elljus",
+      "wc",
+      "dusch",
+      "omklädningsrum"
+    ],
     "phone": "0500-49 80 00",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -208,7 +237,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:25",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -242,6 +271,14 @@
     "ai_summary": "(4 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(6 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
+    "webcam_url": null,
+    "tags": [
+      "konstsnö",
+      "elljus",
+      "wc",
+      "dusch",
+      "omklädningsrum"
+    ],
     "phone": "033-35 73 73",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -265,7 +302,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:26",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -299,6 +336,11 @@
     "ai_summary": "(2 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(3 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
+    "webcam_url": null,
+    "tags": [
+      "konstsnö",
+      "elljus"
+    ],
     "phone": "033-24 33 47",
     "total_track_length_km": 0,
     "ai_comments": [
@@ -322,7 +364,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "7°C",
-    "last_update": "2025-12-15 17:02",
+    "last_update": "2025-12-15 17:26",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -356,6 +398,11 @@
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
+    "webcam_url": null,
+    "tags": [
+      "natursnö",
+      "elljus"
+    ],
     "phone": "-",
     "total_track_length_km": 0,
     "ai_comments": []

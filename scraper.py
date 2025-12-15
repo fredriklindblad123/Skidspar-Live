@@ -17,7 +17,9 @@ FACILITIES = [
         "lat": 57.7907,
         "lon": 13.4189,
         "phone": "0321-59 59 59",
-        "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/"
+        "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
+        "webcam_url": "https://www.webbkameror.se/webbkameror/ulricehamn/ulricehamn_2_1280.php",
+        "tags": ["konstsnö", "elljus", "wc", "dusch", "omklädningsrum"]
     },
     {
         "name": "Landvetter",
@@ -26,7 +28,8 @@ FACILITIES = [
         "lat": 57.7080,
         "lon": 12.3070,
         "phone": "-",
-        "official_url": "https://oklandehof.se/"
+        "official_url": "https://oklandehof.se/",
+        "tags": ["konstsnö", "elljus"]
     },
     {
         "name": "Skidome Göteborg",
@@ -35,7 +38,8 @@ FACILITIES = [
         "lat": 57.7089,
         "lon": 11.9746,
         "phone": "031-395 11 25",
-        "official_url": "https://skidome.ski/"
+        "official_url": "https://skidome.ski/",
+        "tags": ["inomhus", "konstsnö", "wc", "dusch", "omklädningsrum"]
     },
     {
         "name": "Billingen Skövde",
@@ -44,7 +48,9 @@ FACILITIES = [
         "lat": 58.4108,
         "lon": 13.8347,
         "phone": "0500-49 80 00",
-        "official_url": "https://billingenskovde.se/"
+        "official_url": "https://billingenskovde.se/",
+        "webcam_url": "https://webcam.billingen.se/",
+        "tags": ["konstsnö", "elljus", "wc", "dusch", "omklädningsrum"]
     },
     {
         "name": "Borås Skidstadion",
@@ -53,7 +59,8 @@ FACILITIES = [
         "lat": 57.7210,
         "lon": 12.9401,
         "phone": "033-35 73 73",
-        "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html"
+        "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
+        "tags": ["konstsnö", "elljus", "wc", "dusch", "omklädningsrum"]
     },
     {
         "name": "Hestrastugan",
@@ -62,7 +69,8 @@ FACILITIES = [
         "lat": 57.7370,
         "lon": 12.9150,
         "phone": "033-24 33 47",
-        "official_url": "https://hestraif.se/"
+        "official_url": "https://hestraif.se/",
+        "tags": ["konstsnö", "elljus"]
     },
     {
         "name": "Hindås",
@@ -71,7 +79,8 @@ FACILITIES = [
         "lat": 57.7036,
         "lon": 12.4460,
         "phone": "-",
-        "official_url": "https://www.hindasskidklubb.se/startsida"
+        "official_url": "https://www.hindasskidklubb.se/startsida",
+        "tags": ["natursnö", "elljus"]
     }
 ]
 
@@ -530,6 +539,8 @@ def get_facility_data(facility):
         "ai_summary": ai_summary,
         "official_url": facility.get('official_url'),
         "skidspar_url": facility['url'].replace('/rapporter', ''),
+        "webcam_url": facility.get('webcam_url'),
+        "tags": facility.get('tags', []),
         "phone": facility.get('phone', '-'),
         "total_track_length_km": final_length,
         "ai_comments": ai_comments[:2] # Ensure strictly max 2

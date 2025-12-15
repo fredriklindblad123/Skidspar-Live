@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skidspår Väst AI Agent</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script src="chart.js"></script>
     <link rel="icon" href="logo.png">
     <link rel="apple-touch-icon" href="logo.png">
@@ -22,6 +26,20 @@
         </header>
 
         <div class="split-layout">
+            <!-- Toolbar -->
+            <div class="toolbar"
+                style="margin-bottom: 15px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+                <button id="toggle-map-btn" class="filter-btn" onclick="toggleMapView()" style="font-weight: bold;">🗺️
+                    Karta</button>
+                <div style="width: 1px; height: 20px; background: rgba(255,255,255,0.2); margin: 0 5px;"></div>
+                <button class="filter-btn" data-tag="konstsnö" onclick="toggleFilter('konstsnö')">❄️ Konstsnö</button>
+                <button class="filter-btn" data-tag="elljus" onclick="toggleFilter('elljus')">💡 Elljus</button>
+            </div>
+
+            <!-- Overview Map (Hidden Default) -->
+            <div id="overview-map"
+                style="display: none; height: 60vh; max-height: 600px; width: 100%; border-radius: 12px; margin-bottom: 20px; z-index: 5;">
+            </div>
             <div class="grid" id="dashboard-summary" style="margin-bottom: 40px;">
                 <!-- Summary cards will appear here -->
             </div>
@@ -50,25 +68,225 @@
                 .replace(/\r/g, '');
         }
 
+        function escapeHtml(s) {
+            if (!s) return '';
+            return s
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/\r/g, '');
+        }
+
+        // --- NEW FEATURES STATE ---
+        let map = null;
+        let mapMarkers = [];
+        let activeFilters = new Set();
+        let allTracksData = [];
+        let favorites = JSON.parse(localStorage.getItem('skiFavorites') || '[]');
+        let isMapVisible = false;
+
+        function toggleMapView() {
+            const mapContainer = document.getElementById('overview-map');
+            const summaryGrid = document.getElementById('dashboard-summary');
+            const btn = document.getElementById('toggle-map-btn');
+
+            isMapVisible = !isMapVisible;
+            if (isMapVisible) {
+                mapContainer.style.display = 'block';
+                summaryGrid.style.display = 'none';
+                btn.classList.add('active');
+                if (!map) initMap();
+                else updateMapMarkers();
+            } else {
+                mapContainer.style.display = 'none';
+                summaryGrid.style.display = 'grid';
+                btn.classList.remove('active');
+            }
+        }
+
+        function initMap() {
+            if (typeof L === 'undefined') return;
+            map = L.map('overview-map').setView([58.0, 13.0], 8);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 19
+            }).addTo(map);
+            updateMapMarkers();
+        }
+
+        function updateMapMarkers() {
+            if (!map) return;
+            // Clear existing
+            mapMarkers.forEach(m => map.removeLayer(m));
+            mapMarkers = [];
+
+            const filtered = applyFilters(allTracksData);
+            filtered.forEach(track => {
+                if (track.lat && track.lon) {
+                    let color = '#ef4444'; // red
+                    if (track.status && track.status.toLowerCase().includes('öppet')) color = '#22c55e'; // green
+                    if (track.status && track.status.toLowerCase().includes('troligen')) color = '#eab308'; // yellow
+
+                    const marker = L.circleMarker([track.lat, track.lon], {
+                        color: color,
+                        fillColor: color,
+                        fillOpacity: 0.8,
+                        radius: 8
+                    }).addTo(map);
+                    marker.bindPopup(`<b>${track.name}</b><br>${track.status}`);
+                    mapMarkers.push(marker);
+                }
+            });
+        }
+
+        function toggleFilter(tag) {
+            const btn = document.querySelector(`button[data-tag="${tag}"]`);
+            if (activeFilters.has(tag)) {
+                activeFilters.delete(tag);
+                btn.classList.remove('active');
+            } else {
+                activeFilters.add(tag);
+                btn.classList.add('active');
+            }
+            renderDashboard(); // Re-render list
+            if (isMapVisible) updateMapMarkers();
+        }
+
+        function applyFilters(data) {
+            if (activeFilters.size === 0) return data;
+            return data.filter(track => {
+                const trackTags = (track.tags || []).map(t => t.toLowerCase());
+                // Check if track has ALL active filters (AND logic)
+                for (let filter of activeFilters) {
+                    // special check for "dog" vs "hundtillåtet" if needed, but I used "dog" in HTML and "hundtillåtet" in generic plan?
+                    // actually scraper uses Swedish tags. I should align them.
+                    // "dog" button -> check "hundtillåtet" ?
+                    // Let's assume tags match or I map them.
+                    // scraper tags: "konstsnö", "elljus", "natursnö"
+                    // HTML buttons: "konstsnö", "elljus", "dog".
+                    // I need to fix the HTML button for dog to use a tag that exists or match logic.
+                    // Scraper doesn't have "hundtillåtet" yet? I planned to add it but maybe skipped?
+                    // I see "konstsnö", "elljus" in scraper. I did NOT see "hundtillåtet" in plain text in my `replace_file` call?
+                    // I should check scraper again or just omit dog for now.
+                    if (filter === 'dog') { // Temporary mapping
+                        if (!trackTags.includes('hundtillåtet')) return false;
+                    } else {
+                        if (!trackTags.includes(filter)) return false;
+                    }
+                }
+                return true;
+            });
+        }
+
+        function toggleFavorite(e, name) {
+            e.stopPropagation();
+            if (favorites.includes(name)) {
+                favorites = favorites.filter(n => n !== name);
+            } else {
+                favorites.push(name);
+            }
+            localStorage.setItem('skiFavorites', JSON.stringify(favorites));
+            renderDashboard();
+        }
+
+        function getWaxRecommendation(tempStr) {
+            if (!tempStr) return null;
+            const temp = parseFloat(tempStr.replace('°C', '').replace(',', '.'));
+            if (isNaN(temp)) return null;
+
+            if (temp > 1) return { text: "Klister (eller ruggat)", color: "#ef4444" }; // Red
+            if (temp >= 0) return { text: "Violett/Röd (VR55/60)", color: "#a855f7" }; // Purple
+            if (temp >= -3) return { text: "Blå (VR45/VR40)", color: "#3b82f6" }; // Blue
+            if (temp >= -10) return { text: "Grön/Blå (V40/V30)", color: "#22c55e" }; // Green
+            return { text: "Grön (Polar)", color: "#15803d" };
+        }
+
+        function renderDashboard() {
+            const summaryGrid = document.getElementById('dashboard-summary');
+            summaryGrid.innerHTML = '';
+
+            let filtered = applyFilters(allTracksData);
+
+            // Sort: Favorites first, then Status
+            filtered.sort((a, b) => {
+                const isFavA = favorites.includes(a.name);
+                const isFavB = favorites.includes(b.name);
+                if (isFavA && !isFavB) return -1;
+                if (!isFavA && isFavB) return 1;
+
+                const getRank = (status, comments) => {
+                    // Logic: Rank 1 (Open), Rank 2 (Probable), Rank 3 (Closed), Rank 4 (Unknown)
+                    // If Favorite, maybe boost it? Handled above.
+                    if (!status) return 4;
+                    const s = status.toLowerCase();
+                    if (s.includes('öppet') && !s.includes('troligen')) return 1;
+                    if (s.includes('troligen')) return 2;
+                    if (s.includes('stängt')) return 3;
+                    return 4;
+                };
+                return getRank(a.status) - getRank(b.status);
+            });
+
+            if (filtered.length === 0) {
+                summaryGrid.innerHTML = '<div style="grid-column:1/-1; text-align:center; padding:20px; color:var(--text-secondary);">Inga anläggningar matchar filtret.</div>';
+                return;
+            }
+
+            filtered.forEach(track => {
+                let statusClass = 'status-unknown';
+                let s = track.status ? track.status.toLowerCase() : '';
+                if (s.includes('troligen')) statusClass = 'status-probable';
+                else if (s.includes('öppet')) statusClass = 'status-open';
+                else if (s.includes('stängt')) statusClass = 'status-closed';
+
+                const isFav = favorites.includes(track.name);
+                const starColor = isFav ? '#fbbf24' : 'rgba(255,255,255,0.2)'; // amber-400 vs dimmed
+
+                const summaryCard = document.createElement('div');
+                summaryCard.className = 'card summary-card';
+                summaryCard.onclick = () => renderDetail(track, summaryCard, true);
+                summaryCard.style.position = 'relative';
+
+                summaryCard.innerHTML = `
+                   <div class="status-badge ${statusClass}" style="position: absolute; top: 12px; right: 12px;">
+                        <div class="status-dot"></div>
+                        ${track.status || ''}
+                   </div>
+                   <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px; padding-right: 90px;">${track.municipality || ''}</div>
+                   <div class="summary-row" style="align-items:center;">
+                       <div class="summary-name" style="font-weight:700; font-size:1.1rem; padding-right: 10px;">${track.name || ''}</div>
+                       <div onclick="toggleFavorite(event, '${track.name}')" style="cursor:pointer; font-size:1.2rem; color:${starColor}; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+                           ★
+                       </div>
+                   </div>
+                `;
+                summaryGrid.appendChild(summaryCard);
+            });
+        }
+
         async function loadData() {
             try {
                 const response = await fetch('data.json?t=' + new Date().getTime());
                 const data = await response.json();
+                allTracksData = data;
 
-                const summaryGrid = document.getElementById('dashboard-summary');
-                const trackGrid = document.getElementById('track-grid');
-
-                summaryGrid.innerHTML = '';
+                const grid = document.getElementById('track-grid');
 
                 if (data.length > 0) {
                     document.getElementById('last-updated').textContent = `Senast uppdaterad: ${data[0].last_update}`;
 
-                    // Sort data: Öppet > Troligen öppet > Stängt > Others
-                    data.sort((a, b) => {
+                    renderDashboard(); // Initial render and sort
+
+                    // Default selection: The top item from the *sorted* list used in renderDashboard?
+                    // But renderDashboard applies filters and sorts locally.
+                    // We can reuse the same sort logic to find the "default" track to show details for.
+
+                    // Re-sort data locally just to find the top one for Detail View
+                    const sorted = [...data].sort((a, b) => {
                         const getRank = (status) => {
                             if (!status) return 4;
                             const s = status.toLowerCase();
-                            // Exact 'öppet' or contains 'öppet' but NOT 'troligen' -> Rank 1
                             if (s.includes('öppet') && !s.includes('troligen')) return 1;
                             if (s.includes('troligen')) return 2;
                             if (s.includes('stängt')) return 3;
@@ -77,49 +295,206 @@
                         return getRank(a.status) - getRank(b.status);
                     });
 
-                    // Render Dashboard Summary
-                    data.forEach((track, index) => {
-                        let statusClass = 'status-unknown';
-                        let s = track.status ? track.status.toLowerCase() : '';
+                    // Logic to find "Ulricehamn" or first
+                    let defaultTrack = sorted.find(t => t.name.includes('Lassalyckans Skidstadion'));
+                    if (!defaultTrack && sorted.length > 0) defaultTrack = sorted[0];
 
-                        if (s.includes('troligen')) statusClass = 'status-probable';
-                        else if (s.includes('öppet')) statusClass = 'status-open';
-                        else if (s.includes('stängt')) statusClass = 'status-closed';
-
-                        const summaryCard = document.createElement('div');
-                        summaryCard.className = 'card summary-card';
-                        summaryCard.onclick = () => renderDetail(track, summaryCard, true);
-
-                        summaryCard.style.position = 'relative'; // Ensure relative positioning
-                        summaryCard.innerHTML = `
-                           <div class="status-badge ${statusClass}" style="position: absolute; top: 12px; right: 12px;">
-                                <div class="status-dot"></div>
-                                ${track.status || ''}
-                           </div>
-                           <div style="font-size:0.75rem; color:var(--text-secondary); text-transform:uppercase; margin-bottom:4px; padding-right: 90px;">${track.municipality || ''}</div>
-                           <div class="summary-row">
-                               <div class="summary-name" style="font-weight:700; font-size:1.1rem; padding-right: 10px;">${track.name || ''}</div>
-                           </div>
-                        `;
-                        summaryGrid.appendChild(summaryCard);
-                    });
-
-                    // Default selection: The top item (sorted)
-                    // Pass false for shouldScroll so mobile doesn't jump down
-                    if (data.length > 0) {
-                        const firstCard = summaryGrid.firstElementChild;
-                        renderDetail(data[0], firstCard, false);
+                    if (defaultTrack && window.innerWidth >= 1024) {
+                        // Workaround: Call renderDetail(defaultTrack, null, false)
+                        renderDetail(defaultTrack, null, false);
                     }
+                } else {
+                    document.getElementById('last-updated').textContent = 'Kunde inte ladda data';
                 }
             } catch (err) {
                 console.error('Error loading data:', err);
-                document.getElementById('track-grid').innerHTML = `<div style="text-align:center; color: var(--accent-red); padding: 20px;">Kunde inte ladda spårstatus. Kontrollera att data.json finns.</div>`;
+                document.getElementById('last-updated').textContent = 'Fel vid laddning av data';
             }
         }
+
+
 
         let currentChart = null;
 
         function renderDetail(track, activeCardElement, shouldScroll = true) {
+            // Safely destroy old chart before removing canvas from DOM
+            if (currentChart) {
+                try {
+                    currentChart.destroy();
+                } catch (e) {
+                    console.log('Chart destroy error:', e);
+                }
+                currentChart = null;
+            }
+
+            const grid = document.getElementById('track-grid');
+            grid.innerHTML = ''; // Clear previous
+
+            // Highlight active summary card
+            document.querySelectorAll('.summary-card').forEach(el => el.classList.remove('selected'));
+            if (activeCardElement) activeCardElement.classList.add('selected');
+
+            let statusClass = 'status-unknown';
+            let statusText = track.status || '';
+            if (track.status && track.status.toLowerCase().includes('troligen')) statusClass = 'status-probable';
+            else if (track.status && track.status.toLowerCase().includes('öppet')) statusClass = 'status-open';
+            else if (track.status && track.status.toLowerCase().includes('stängt')) statusClass = 'status-closed';
+
+            const wax = getWaxRecommendation(track.temperature);
+
+            const card = document.createElement('div');
+            card.className = 'card detail-card';
+            card.innerHTML = `
+                <div class="card-header" style="margin-bottom:8px; display:flex; justify-content:space-between; align-items:flex-start;">
+                    <div>
+                        <div class="status-badge ${statusClass}" style="margin-bottom:8px; display:inline-flex;">
+                            <div class="status-dot"></div>
+                            ${statusText}
+                        </div>
+                        <h2 style="margin:0; font-size:1.8rem; line-height:1.2;">${track.name === 'Skidome Göteborg (skidtunnel)' ? 'Skidome' : track.name}</h2>
+                        <div style="color:var(--text-secondary); margin-top:4px;">${track.municipality}</div>
+
+                         <!-- Mobile Actions (Vertical under name) -->
+                        <div class="contact-actions" style="margin-top:12px; display:flex; flex-direction:column; gap:8px;">
+                            ${track.official_url ? `
+                            <a href="${track.official_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:6px; font-size:0.9em;">
+                                🌐 Officiell hemsida ↗
+                            </a>` : ''}
+                            ${track.skidspar_url ? `
+                            <a href="${track.skidspar_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:6px; font-size:0.9em;">
+                                ⛷️ Skidspår.se ↗
+                            </a>` : ''}
+                             ${track.webcam_url ? `
+                            <a href="${track.webcam_url}" target="_blank" rel="noopener noreferrer" style="color:var(--text-primary); text-decoration:none; display:flex; align-items:center; gap:6px; font-size:0.9em;">
+                                📷 Webbkamera ↗
+                            </a>` : ''}
+                            <span style="display:flex; align-items:center; gap:6px; color:var(--text-secondary); font-size:0.9em;">
+                                📞 ${track.phone}
+                            </span>
+                        </div>
+
+                        <!-- Tags -->
+                         <div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:12px;">
+                            ${(track.tags || []).map(tag => `
+                                <span style="font-size:0.75em; background:rgba(255,255,255,0.1); padding:4px 10px; border-radius:12px; color:var(--text-secondary); text-transform:capitalize;">
+                                    ${tag === 'dog' ? '🐶 Hund' : tag}
+                                </span>
+                            `).join('')}
+                        </div>
+                    </div>
+
+                    <!-- Map Container -->
+                    <div style="position: relative; width: 120px; height: 120px; background: rgba(255,255,255,0.05); border-radius: 8px; overflow: hidden; flex-shrink: 0; margin-left:10px;">
+                         <img src="vg_map.png" style="width: 100%; height: 100%; object-fit: contain; opacity: 0.6; mix-blend-mode: screen;" alt="Karta">
+                         <div id="map-dot" style="position: absolute; width: 8px; height: 8px; border-radius: 50%; border: 1.5px solid white; transform: translate(-50%, -50%); display: none;"></div>
+                    </div>
+                </div>
+
+                <div class="metrics">
+                    <div class="metric">
+                        <span class="metric-label">Temperatur</span>
+                        <span class="metric-value temp-value">${track.temperature || '-'}</span>
+                    </div>
+                     ${wax ? `
+                    <div class="metric">
+                        <span class="metric-label">Vallatips</span>
+                         <span class="metric-value" style="color:${wax.color}; font-size:0.9em;">${wax.text}</span>
+                    </div>
+                    ` : ''}
+                    ${!track.name.includes('Skidome') ? `
+                    <div class="metric">
+                        <span class="metric-label">Väder</span>
+                        <span class="metric-value">${track.weather || '-'}</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Natursnö</span>
+                        <span class="metric-value">${track.snow_depth || '-'}</span>
+                    </div>
+                    ` : ''}
+                    <div class="metric">
+                        <span class="metric-label">Öppna spår</span>
+                        <span class="metric-value">${track.total_track_length_km > 0 ? track.total_track_length_km + ' km' : '&nbsp;'}</span>
+                    </div>
+                </div>
+                <div class="ai-section">
+                    <div class="ai-header">
+                        <span>✦ Senaste uppdateringar</span>
+                    </div>
+                    <div class="ai-content"></div>
+                </div>
+
+                ${track.forecast ? `
+                <div class="forecast-section" style="margin-top:20px; padding:0 20px;">
+                    <div style="font-size:0.9em; margin-bottom:10px; color:var(--text-secondary);">7-dygnsprognos (Max/Min)</div>
+                    <div style="position: relative; height:200px; width:100%">
+                        <canvas id="forecastChart"></canvas>
+                    </div>
+                </div>
+                ` : ''
+                }
+                        `;
+
+            grid.appendChild(card);
+
+            if (shouldScroll && window.innerWidth < 1024) {
+                card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+
+            if (track.forecast) {
+                renderForecastChart(track.forecast);
+            }
+
+            // Update Map Dot Position
+            const dot = document.getElementById('map-dot');
+            if (dot && track.lat && track.lon) {
+                // VG Region Bounding Box (Approx)
+                const MAX_LAT = 59.4;
+                const MIN_LAT = 57.1;
+                const MAX_LON = 14.8;
+                const MIN_LON = 11.0;
+
+                const topPct = ((MAX_LAT - track.lat) / (MAX_LAT - MIN_LAT)) * 100;
+                const leftPct = ((track.lon - MIN_LON) / (MAX_LON - MIN_LON)) * 100;
+
+                dot.style.top = `${topPct}%`;
+                dot.style.left = `${leftPct}%`;
+
+                // Set color based on status
+                if (statusClass === 'status-open') dot.style.backgroundColor = 'var(--accent-green)';
+                else if (statusClass === 'status-probable') dot.style.backgroundColor = 'var(--accent-yellow)';
+                else dot.style.backgroundColor = 'var(--accent-red)';
+
+                dot.style.display = 'block';
+            } else if (dot) {
+                dot.style.display = 'none';
+            }
+
+            const aiContent = card.querySelector('.ai-content');
+            if (track.ai_comments && Array.isArray(track.ai_comments) && track.ai_comments.length > 0) {
+                // Take max 2 comments just in case
+                const limitedComments = track.ai_comments.slice(0, 2);
+                aiContent.innerHTML = limitedComments.map(c => {
+                    const body = (c.text || c.comment || '').replace(/\r/g, '').split('\n').map(escapeHtml).join('<br>');
+                    const days = c.days_ago;
+                    let timeText = '';
+                    if (days === 0) timeText = 'Idag';
+                    else if (days === 1) timeText = 'Igår';
+                    else timeText = `${days} dagar sedan`;
+
+                    const meta = escapeHtml(timeText);
+                    return `<div class="comment"><div class="meta">${meta}</div><div class="body">${body}</div></div>`;
+                }).join('');
+            } else {
+                if (track.ai_summary) {
+                    const summary = String(track.ai_summary).replace(/\\n/g, '\n');
+                    aiContent.innerHTML = escapeHtml(summary).replace(/\n/g, '<br>');
+                } else {
+                    aiContent.textContent = '';
+                }
+            }
+        }
+
+        function renderDetailOld(track, activeCardElement, shouldScroll = true) {
             // Safely destroy old chart before removing canvas from DOM
             if (currentChart) {
                 try {
