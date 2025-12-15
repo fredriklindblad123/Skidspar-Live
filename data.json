@@ -5,7 +5,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 05:02",
+    "last_update": "2025-12-15 07:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,20 +20,20 @@
       "max_temp": [
         6.7,
         5.2,
-        5.4,
-        5.3,
-        6.8,
-        6.1,
-        2.6
+        5.8,
+        5.6,
+        6.9,
+        6.2,
+        4.1
       ],
       "min_temp": [
-        5.0,
-        4.2,
-        3.4,
-        3.0,
         5.2,
-        2.9,
-        0.9
+        4.2,
+        3.7,
+        3.8,
+        4.2,
+        3.8,
+        2.4
       ]
     },
     "ai_summary": "(7 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
@@ -54,7 +54,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-15 05:02",
+    "last_update": "2025-12-15 07:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -69,20 +69,20 @@
       "max_temp": [
         7.0,
         6.4,
-        6.8,
+        6.6,
+        7.9,
+        8.3,
         7.3,
-        8.4,
-        7.4,
-        4.8
+        5.2
       ],
       "min_temp": [
         5.4,
-        5.2,
-        4.7,
+        5.3,
+        4.3,
         4.4,
         6.4,
-        4.8,
-        2.5
+        5.3,
+        3.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
@@ -97,7 +97,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "8°C",
-    "last_update": "2025-12-15 05:02",
+    "last_update": "2025-12-15 07:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -110,22 +110,22 @@
         "2025-12-21"
       ],
       "max_temp": [
-        8.1,
         8.0,
-        8.2,
-        7.9,
-        9.1,
-        7.5,
-        5.1
+        8.0,
+        8.4,
+        8.3,
+        8.9,
+        7.4,
+        5.3
       ],
       "min_temp": [
-        7.0,
+        6.9,
         6.8,
-        4.9,
         4.8,
-        6.7,
-        4.9,
-        2.7
+        4.8,
+        6.8,
+        5.4,
+        3.8
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -138,12 +138,40 @@
     "name": "Billingen Skövde",
     "municipality": "Skövde",
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-15 05:02",
-    "weather": "❓ Okänt",
-    "forecast": null,
-    "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(2 dagar sedan):  Detta är en testkommentar.",
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-15 07:57",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        7.8,
+        5.6,
+        6.0,
+        6.8,
+        8.1,
+        7.2,
+        4.8
+      ],
+      "min_temp": [
+        5.8,
+        3.9,
+        3.3,
+        3.7,
+        5.3,
+        5.0,
+        3.2
+      ]
+    },
+    "ai_summary": "(2 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
     "url": "https://billingenskovde.se/",
     "phone": "0500-49 80 00",
     "total_track_length_km": 0,
@@ -155,7 +183,7 @@
       },
       {
         "date": "2025-12-12T06:38:57.000Z",
-        "days_ago": 2,
+        "days_ago": 3,
         "text": "Detta är en testkommentar."
       }
     ]
@@ -164,11 +192,39 @@
     "name": "Borås Skidstadion",
     "municipality": "Borås",
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-15 05:02",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-15 07:57",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        7.1,
+        6.3,
+        6.8,
+        6.2,
+        7.5,
+        6.3,
+        4.5
+      ],
+      "min_temp": [
+        5.5,
+        5.2,
+        4.6,
+        4.2,
+        4.9,
+        4.6,
+        3.6
+      ]
+    },
     "ai_summary": "(3 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(5 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
     "url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "phone": "033-35 73 73",
@@ -190,11 +246,39 @@
     "name": "Hestrastugan",
     "municipality": "Borås",
     "status": "Öppet",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-15 05:03",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-15 07:57",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-15",
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ],
+      "max_temp": [
+        6.3,
+        5.2,
+        5.7,
+        6.2,
+        7.2,
+        6.4,
+        4.3
+      ],
+      "min_temp": [
+        4.5,
+        4.2,
+        4.2,
+        3.7,
+        5.0,
+        4.4,
+        3.3
+      ]
+    },
     "ai_summary": "(2 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(3 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
     "url": "https://hestraif.se/",
     "phone": "033-24 33 47",

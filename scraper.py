@@ -6,6 +6,7 @@ import datetime
 import os
 import random
 import re
+import time
 
 # Facilities to track with GPS coordinates for weather data
 FACILITIES = [
@@ -236,6 +237,8 @@ def get_facility_data(facility):
 
         except Exception as e:
             print(f"Error calculating track length: {e}")
+            
+        time.sleep(1) # Be nice to APIs
 
         # If total_length is 0 but status is Öppet (e.g. Skidome or manual override), 
         # let's provide a mock/default value just for visualization if it's Skidome,
