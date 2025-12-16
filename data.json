@@ -7,7 +7,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-16 03:52",
+    "last_update": "2025-12-16 04:59",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -30,7 +30,7 @@
       ],
       "min_temp": [
         4.6,
-        4.4,
+        4.5,
         4.7,
         5.0,
         2.9,
@@ -67,7 +67,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-16 03:52",
+    "last_update": "2025-12-16 04:59",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -80,8 +80,8 @@
         "2025-12-22"
       ],
       "max_temp": [
-        6.5,
-        7.2,
+        6.4,
+        7.1,
         7.1,
         8.4,
         7.1,
@@ -90,8 +90,8 @@
       ],
       "min_temp": [
         5.6,
-        5.7,
-        6.1,
+        5.6,
+        6.0,
         6.2,
         4.7,
         4.4,
@@ -118,7 +118,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-16 03:52",
+    "last_update": "2025-12-16 04:59",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -144,7 +144,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-16 03:52",
+    "last_update": "2025-12-16 05:00",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(3 dagar sedan):  Detta är en tedtkommentar\n\n(3 dagar sedan):  Detta är en testkommentar.",
@@ -180,8 +180,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-16 03:52",
+    "temperature": "6°C",
+    "last_update": "2025-12-16 05:00",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -194,17 +194,17 @@
         "2025-12-22"
       ],
       "max_temp": [
-        6.2,
-        7.1,
-        6.6,
+        6.3,
+        7.2,
+        6.7,
         7.7,
         6.2,
         5.0,
         5.2
       ],
       "min_temp": [
-        5.3,
-        5.4,
+        5.6,
+        5.6,
         5.2,
         5.3,
         3.7,
@@ -245,8 +245,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2025-12-16 03:53",
+    "temperature": "5°C",
+    "last_update": "2025-12-16 05:00",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -259,8 +259,8 @@
         "2025-12-22"
       ],
       "max_temp": [
-        5.2,
-        6.0,
+        5.3,
+        6.1,
         5.7,
         7.6,
         6.1,
@@ -268,9 +268,9 @@
         4.9
       ],
       "min_temp": [
-        4.3,
-        4.4,
-        5.1,
+        4.5,
+        4.5,
+        5.2,
         5.2,
         3.5,
         3.6,
@@ -308,7 +308,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-16 03:53",
+    "last_update": "2025-12-16 05:00",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
