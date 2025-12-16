@@ -7,7 +7,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-16 08:59",
+    "last_update": "2025-12-16 13:53",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,20 +21,20 @@
       ],
       "max_temp": [
         5.4,
-        5.8,
-        5.3,
-        6.9,
-        5.8,
-        3.2,
-        2.7
+        5.9,
+        5.7,
+        7.2,
+        6.0,
+        4.8,
+        4.7
       ],
       "min_temp": [
         4.8,
-        4.3,
-        4.7,
-        5.2,
+        3.4,
         3.5,
-        0.9,
+        5.2,
+        3.8,
+        3.2,
         1.5
       ]
     },
@@ -67,7 +67,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-16 08:59",
+    "last_update": "2025-12-16 13:53",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -80,21 +80,21 @@
         "2025-12-22"
       ],
       "max_temp": [
-        6.3,
-        7.0,
-        7.2,
-        8.4,
+        6.5,
         7.1,
-        5.2,
-        3.6
+        6.8,
+        8.8,
+        7.3,
+        5.9,
+        5.6
       ],
       "min_temp": [
         5.6,
-        4.8,
-        5.3,
-        6.6,
-        5.3,
-        3.0,
+        5.0,
+        5.0,
+        6.4,
+        5.0,
+        4.2,
         2.3
       ]
     },
@@ -118,37 +118,9 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-16 08:59",
-    "weather": "☁️ Mulet",
-    "forecast": {
-      "dates": [
-        "2025-12-16",
-        "2025-12-17",
-        "2025-12-18",
-        "2025-12-19",
-        "2025-12-20",
-        "2025-12-21",
-        "2025-12-22"
-      ],
-      "max_temp": [
-        7.8,
-        8.4,
-        7.8,
-        8.8,
-        7.1,
-        5.3,
-        4.0
-      ],
-      "min_temp": [
-        6.9,
-        5.8,
-        6.0,
-        6.9,
-        5.4,
-        3.4,
-        2.7
-      ]
-    },
+    "last_update": "2025-12-16 13:53",
+    "weather": "❓ Okänt",
+    "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
@@ -170,39 +142,11 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Stängt",
-    "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-16 08:59",
-    "weather": "☁️ Mulet",
-    "forecast": {
-      "dates": [
-        "2025-12-16",
-        "2025-12-17",
-        "2025-12-18",
-        "2025-12-19",
-        "2025-12-20",
-        "2025-12-21",
-        "2025-12-22"
-      ],
-      "max_temp": [
-        6.6,
-        6.6,
-        6.3,
-        7.8,
-        6.9,
-        4.3,
-        3.2
-      ],
-      "min_temp": [
-        5.0,
-        2.9,
-        3.7,
-        6.0,
-        4.5,
-        1.3,
-        1.9
-      ]
-    },
+    "snow_depth": "Okänt",
+    "temperature": "Okänt",
+    "last_update": "2025-12-16 13:53",
+    "weather": "❓ Okänt",
+    "forecast": null,
     "ai_summary": "(4 dagar sedan):  Detta är en tedtkommentar\n\n(4 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
@@ -235,12 +179,40 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-16 08:59",
-    "weather": "❓ Okänt",
-    "forecast": null,
-    "ai_summary": "(4 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(6 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-16 13:53",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21",
+        "2025-12-22"
+      ],
+      "max_temp": [
+        6.2,
+        6.8,
+        6.6,
+        7.8,
+        6.6,
+        5.2,
+        5.1
+      ],
+      "min_temp": [
+        5.5,
+        5.1,
+        5.1,
+        5.8,
+        4.5,
+        3.7,
+        2.0
+      ]
+    },
+    "ai_summary": "(5 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(7 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -256,12 +228,12 @@
     "ai_comments": [
       {
         "date": "2025-12-11T11:48:19.000Z",
-        "days_ago": 4,
+        "days_ago": 5,
         "text": "Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen."
       },
       {
         "date": "2025-12-09T12:16:54.000Z",
-        "days_ago": 6,
+        "days_ago": 7,
         "text": "Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden."
       }
     ]
@@ -274,7 +246,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-16 09:00",
+    "last_update": "2025-12-16 13:53",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -288,20 +260,20 @@
       ],
       "max_temp": [
         5.2,
-        6.1,
-        5.8,
-        7.4,
-        5.8,
-        4.1,
-        3.3
+        5.9,
+        5.7,
+        7.7,
+        6.4,
+        5.1,
+        5.0
       ],
       "min_temp": [
         4.5,
+        4.0,
+        4.0,
+        5.7,
         4.2,
-        4.8,
-        5.5,
-        4.2,
-        1.5,
+        3.5,
         1.8
       ]
     },
@@ -336,7 +308,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-16 09:00",
+    "last_update": "2025-12-16 13:54",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
