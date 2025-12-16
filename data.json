@@ -7,7 +7,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-16 13:53",
+    "last_update": "2025-12-16 15:26",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -22,7 +22,7 @@
       "max_temp": [
         5.4,
         5.9,
-        5.7,
+        5.8,
         7.2,
         6.0,
         4.8,
@@ -67,7 +67,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-16 13:53",
+    "last_update": "2025-12-16 15:26",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -118,9 +118,37 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-16 13:53",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "last_update": "2025-12-16 15:27",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21",
+        "2025-12-22"
+      ],
+      "max_temp": [
+        7.6,
+        8.4,
+        8.0,
+        8.9,
+        7.3,
+        6.4,
+        5.7
+      ],
+      "min_temp": [
+        6.8,
+        5.6,
+        6.3,
+        6.8,
+        5.2,
+        4.7,
+        2.7
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
@@ -142,11 +170,39 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-16 13:53",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-16 15:27",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21",
+        "2025-12-22"
+      ],
+      "max_temp": [
+        6.6,
+        6.5,
+        6.3,
+        8.3,
+        7.4,
+        4.9,
+        5.0
+      ],
+      "min_temp": [
+        4.8,
+        3.3,
+        3.4,
+        6.2,
+        3.4,
+        3.1,
+        2.2
+      ]
+    },
     "ai_summary": "(4 dagar sedan):  Detta är en tedtkommentar\n\n(4 dagar sedan):  Detta är en testkommentar.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
@@ -181,7 +237,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-16 13:53",
+    "last_update": "2025-12-16 15:27",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -194,8 +250,8 @@
         "2025-12-22"
       ],
       "max_temp": [
-        6.2,
-        6.8,
+        6.3,
+        6.9,
         6.6,
         7.8,
         6.6,
@@ -246,7 +302,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-16 13:53",
+    "last_update": "2025-12-16 15:27",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -259,7 +315,7 @@
         "2025-12-22"
       ],
       "max_temp": [
-        5.2,
+        5.3,
         5.9,
         5.7,
         7.7,
@@ -306,11 +362,39 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-16 13:54",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-16 15:27",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-16",
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21",
+        "2025-12-22"
+      ],
+      "max_temp": [
+        6.3,
+        6.9,
+        6.7,
+        8.4,
+        7.2,
+        5.7,
+        5.6
+      ],
+      "min_temp": [
+        5.4,
+        4.6,
+        4.8,
+        6.2,
+        4.6,
+        4.1,
+        2.3
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",

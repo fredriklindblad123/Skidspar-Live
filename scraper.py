@@ -624,6 +624,7 @@ def main():
     for fac in FACILITIES:
         data = get_facility_data(fac)
         all_data.append(data)
+        time.sleep(2) # Be polite to APIs and avoid rate limits
     
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(all_data, f, ensure_ascii=False, indent=2)
