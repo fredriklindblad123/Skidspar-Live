@@ -7,35 +7,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-16 20:45",
+    "last_update": "2025-12-17 03:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-16",
         "2025-12-17",
         "2025-12-18",
         "2025-12-19",
         "2025-12-20",
         "2025-12-21",
-        "2025-12-22"
+        "2025-12-22",
+        "2025-12-23"
       ],
       "max_temp": [
-        5.4,
-        6.2,
-        6.0,
-        7.3,
-        6.4,
-        4.5,
+        6.1,
+        5.8,
+        7.5,
+        6.8,
+        5.2,
+        2.6,
         2.0
       ],
       "min_temp": [
-        4.8,
-        2.8,
-        3.9,
-        4.9,
-        4.7,
-        1.1,
-        0.4
+        3.5,
+        4.4,
+        5.4,
+        5.2,
+        2.5,
+        0.8,
+        -0.7
       ]
     },
     "ai_summary": "(9 dagar sedan):  Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
@@ -65,11 +65,39 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-16 20:45",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "6°C",
+    "last_update": "2025-12-17 03:48",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21",
+        "2025-12-22",
+        "2025-12-23"
+      ],
+      "max_temp": [
+        7.0,
+        6.7,
+        8.4,
+        8.1,
+        6.1,
+        4.3,
+        3.3
+      ],
+      "min_temp": [
+        4.5,
+        5.0,
+        6.5,
+        5.9,
+        3.5,
+        2.2,
+        0.8
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
@@ -90,37 +118,9 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-16 20:45",
-    "weather": "🌧️ Lätt duggregn",
-    "forecast": {
-      "dates": [
-        "2025-12-16",
-        "2025-12-17",
-        "2025-12-18",
-        "2025-12-19",
-        "2025-12-20",
-        "2025-12-21",
-        "2025-12-22"
-      ],
-      "max_temp": [
-        7.8,
-        8.6,
-        8.1,
-        9.0,
-        7.6,
-        5.4,
-        3.2
-      ],
-      "min_temp": [
-        6.9,
-        4.4,
-        5.1,
-        7.2,
-        5.2,
-        2.7,
-        2.1
-      ]
-    },
+    "last_update": "2025-12-17 03:48",
+    "weather": "❓ Okänt",
+    "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
@@ -144,7 +144,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-16 20:46",
+    "last_update": "2025-12-17 03:49",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(4 dagar sedan):  Detta är en tedtkommentar\n\n(4 dagar sedan):  Detta är en testkommentar.",
@@ -181,35 +181,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-16 20:46",
+    "last_update": "2025-12-17 03:49",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-16",
         "2025-12-17",
         "2025-12-18",
         "2025-12-19",
         "2025-12-20",
         "2025-12-21",
-        "2025-12-22"
+        "2025-12-22",
+        "2025-12-23"
       ],
       "max_temp": [
-        6.3,
-        7.3,
-        7.0,
-        7.9,
-        6.8,
-        5.2,
-        2.0
+        7.1,
+        6.6,
+        8.2,
+        7.4,
+        5.8,
+        3.4,
+        2.5
       ],
       "min_temp": [
-        5.5,
-        4.9,
-        5.0,
-        5.3,
         5.2,
-        1.5,
-        0.9
+        5.4,
+        6.2,
+        5.9,
+        2.8,
+        1.6,
+        -0.2
       ]
     },
     "ai_summary": "(5 dagar sedan):  Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.\n\n(7 dagar sedan):  Vi har i dag preparerat klassiska spår med Trailmaster. Kom och testa de nydragna spåren. Vi har inte rört skatebädden.",
@@ -244,12 +244,40 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2025-12-16 20:46",
-    "weather": "❓ Okänt",
-    "forecast": null,
-    "ai_summary": "(3 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(4 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
+    "snow_depth": "Ingen snö",
+    "temperature": "5°C",
+    "last_update": "2025-12-17 03:49",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2025-12-17",
+        "2025-12-18",
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21",
+        "2025-12-22",
+        "2025-12-23"
+      ],
+      "max_temp": [
+        6.1,
+        5.7,
+        7.6,
+        7.2,
+        5.7,
+        3.2,
+        2.4
+      ],
+      "min_temp": [
+        4.0,
+        4.3,
+        5.7,
+        5.8,
+        3.0,
+        1.6,
+        -0.6
+      ]
+    },
+    "ai_summary": "(4 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen\n\n(5 dagar sedan):  Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -262,12 +290,12 @@
     "ai_comments": [
       {
         "date": "2025-12-12T21:05:07.000Z",
-        "days_ago": 3,
+        "days_ago": 4,
         "text": "Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen"
       },
       {
         "date": "2025-12-11T22:23:12.000Z",
-        "days_ago": 4,
+        "days_ago": 5,
         "text": "Jag hade den äran att vara här med Vasaloppet och Skolutmaningen förra onsdagen 3 december. Jag måste bara säga jag är djupt imponerad över engagemanget kvaliteten och anläggningen. Imponerad är ordet. Jag tror inte alla förstår vilket arbete och engagemang. Det krävs för att göra en sån här grym anläggning!! Jag lyfter på hatten och säger stort grattis alla från Västergötland. Varm rekommendation"
       }
     ]
@@ -278,39 +306,11 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Stängt",
-    "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-16 20:46",
-    "weather": "☁️ Mulet",
-    "forecast": {
-      "dates": [
-        "2025-12-16",
-        "2025-12-17",
-        "2025-12-18",
-        "2025-12-19",
-        "2025-12-20",
-        "2025-12-21",
-        "2025-12-22"
-      ],
-      "max_temp": [
-        6.3,
-        7.0,
-        6.9,
-        8.5,
-        7.3,
-        5.1,
-        2.5
-      ],
-      "min_temp": [
-        5.4,
-        3.9,
-        4.4,
-        6.3,
-        5.1,
-        2.0,
-        1.2
-      ]
-    },
+    "snow_depth": "Okänt",
+    "temperature": "Okänt",
+    "last_update": "2025-12-17 03:49",
+    "weather": "❓ Okänt",
+    "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
