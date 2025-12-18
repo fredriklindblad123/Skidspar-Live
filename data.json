@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-18 03:50",
+    "temperature": "5°C",
+    "last_update": "2025-12-18 04:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,7 +20,7 @@
         "2025-12-24"
       ],
       "max_temp": [
-        5.9,
+        5.8,
         6.8,
         6.5,
         4.6,
@@ -66,8 +66,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-18 03:50",
+    "temperature": "6°C",
+    "last_update": "2025-12-18 04:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -80,7 +80,7 @@
         "2025-12-24"
       ],
       "max_temp": [
-        6.4,
+        6.5,
         7.7,
         7.3,
         5.8,
@@ -90,7 +90,7 @@
       ],
       "min_temp": [
         4.1,
-        6.2,
+        6.1,
         4.9,
         3.7,
         1.4,
@@ -118,7 +118,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-18 03:50",
+    "last_update": "2025-12-18 04:58",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -144,7 +144,7 @@
     "status": "Stängt",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-18 03:50",
+    "last_update": "2025-12-18 04:58",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(5 dagar sedan):  Detta är en tedtkommentar\n\n(5 dagar sedan):  Detta är en testkommentar.",
@@ -181,7 +181,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-18 03:50",
+    "last_update": "2025-12-18 04:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -194,9 +194,9 @@
         "2025-12-24"
       ],
       "max_temp": [
-        6.7,
+        6.6,
         8.0,
-        7.4,
+        7.5,
         5.2,
         2.4,
         2.0,
@@ -246,7 +246,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Okänt",
     "temperature": "Okänt",
-    "last_update": "2025-12-18 03:51",
+    "last_update": "2025-12-18 04:58",
     "weather": "❓ Okänt",
     "forecast": null,
     "ai_summary": "(idag):  Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter.\n\n(5 dagar sedan):  Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen",
@@ -279,8 +279,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-18 03:51",
+    "temperature": "6°C",
+    "last_update": "2025-12-18 04:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -294,7 +294,7 @@
       ],
       "max_temp": [
         6.3,
-        7.8,
+        7.7,
         7.2,
         5.5,
         3.0,
