@@ -28,7 +28,7 @@ FACILITIES = [
         "lon": 13.4189,
         "phone": "0321-59 59 59",
         "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
-        "webcam_url": "https://www.webbkameror.se/webbkameror/ulricehamn/ulricehamn_2_1280.php",
+        "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
         "tags": ["konstsnö", "elljus", "wc", "dusch", "omklädningsrum"]
     },
     {
