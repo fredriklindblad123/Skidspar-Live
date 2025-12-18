@@ -7,6 +7,16 @@ import os
 import random
 import re
 import time
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+
+def get_session():
+    session = requests.Session()
+    retry = Retry(connect=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount('http://', adapter)
+    session.mount('https://', adapter)
+    return session
 
 # Facilities to track with GPS coordinates for weather data
 FACILITIES = [
@@ -92,7 +102,9 @@ def get_weather_data(lat, lon):
     """
     try:
         url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current=temperature_2m,weather_code,snow_depth&daily=temperature_2m_max,temperature_2m_min&timezone=Europe/Stockholm"
-        response = requests.get(url, timeout=10, verify=False)
+        
+        session = get_session()
+        response = session.get(url, timeout=15, verify=False)
         response.raise_for_status()
         data = response.json()
         
@@ -624,7 +636,7 @@ def main():
     for fac in FACILITIES:
         data = get_facility_data(fac)
         all_data.append(data)
-        time.sleep(2) # Be polite to APIs and avoid rate limits
+        time.sleep(5) # Be polite to APIs and avoid rate limits
     
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(all_data, f, ensure_ascii=False, indent=2)
