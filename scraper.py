@@ -453,23 +453,47 @@ def get_facility_data(facility):
                     # Skip comments older than 14 days defensively
                     if days is not None and days > 14:
                             continue
-                    days_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
+            if api_comments:
+                # Prioritize API comments: Prepend them or use them exclusively if they cover the recent period
+                # We want to ensure we don't duplicate if HTML found the same ones. 
+                # Simplest strategy: Add all API comments, then dedup by text, then sort by date.
+                for c in api_comments:
+                    # Convert API keys to match ai_comments structure
+                    days = c.get('days_ago', None)
+                    if days is not None and days > 14: continue
                     
-                    # For AI summary text, we use relative dates only as requested for frontend display logic alignment
-                    # But the frontend does its own formatting. Here we prepare the text summary in the JSON.
-                # For AI summary text, we use relative dates only as requested for frontend display logic alignment
-                    # But the frontend does its own formatting. Here we prepare the text summary in the JSON.
                     text = c.get('comment') or c.get('text') or ''
-                    parts.append(f"({days_text}):  {text}")
-                    ai_comments.append({'date': c.get('created'), 'days_ago': days, 'text': text})
+                    created = c.get('created')
+                    
+                    # Check if already exists (fuzzy check)
+                    is_duplicate = False
+                    for existing in ai_comments:
+                        if text[:20] in existing['text']:
+                            is_duplicate = True
+                            break
+                    
+                    if not is_duplicate:
+                         ai_comments.append({'date': created, 'days_ago': days, 'text': text})
                 
-                # Update ai_summary from these top 2
-                ai_summary = "\n\n".join(parts)
-                try:
-                    import html as _htmlmod
-                    ai_summary_html = _htmlmod.escape("\n\n".join(parts)).replace('\n\n', '<br><br>').replace('\n', '<br>')
-                except Exception:
-                    ai_summary_html = None
+                # Re-sort all comments by date (newest first)
+                def parse_date(d_str):
+                     if not d_str: return datetime.datetime.min
+                     try:
+                         return datetime.datetime.fromisoformat(d_str.replace('Z', '+00:00'))
+                     except:
+                         return datetime.datetime.min
+                
+                ai_comments.sort(key=lambda x: parse_date(x['date']), reverse=True)
+                
+                # Re-generate text summary if we have better comments now
+                parts = []
+                for c in ai_comments[:2]:
+                    days = c['days_ago']
+                    d_text = 'idag' if days == 0 else f"{days} dagar sedan" if days is not None else ''
+                    parts.append(f"({d_text}): {c['text']}")
+                
+                if parts:
+                    ai_summary = "\n\n".join(parts)
         except Exception:
             pass
             
