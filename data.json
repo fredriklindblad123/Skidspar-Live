@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2025-12-18 14:12",
+    "temperature": "5°C",
+    "last_update": "2025-12-18 13:51",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -30,7 +30,7 @@
       ],
       "min_temp": [
         3.7,
-        5.6,
+        5.5,
         4.9,
         1.8,
         0.4,
@@ -41,7 +41,7 @@
     "ai_summary": "(11 dagar sedan): Vi återkommer med spårrapporter när förutsättningar finns. Som det ser ut nu kommer vi inte kunna erbjuda skidåkning innan ytterligare minst två dygns snöproduktion.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
-    "webcam_url": "https://www.webbkameror.se/webbkameror/ulricehamn/ulricehamn_2_1280.php",
+    "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
     "tags": [
       "konstsnö",
       "elljus",
@@ -67,7 +67,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-18 14:13",
+    "last_update": "2025-12-18 13:51",
     "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
@@ -90,7 +90,7 @@
       ],
       "min_temp": [
         4.1,
-        6.3,
+        6.4,
         5.5,
         3.7,
         1.1,
@@ -118,7 +118,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-18 14:13",
+    "last_update": "2025-12-18 13:51",
     "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
@@ -141,7 +141,7 @@
       ],
       "min_temp": [
         5.4,
-        7.5,
+        7.4,
         6.0,
         4.5,
         1.5,
@@ -172,7 +172,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-18 14:13",
+    "last_update": "2025-12-18 13:52",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -237,7 +237,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-18 14:13",
+    "last_update": "2025-12-18 13:52",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -252,7 +252,7 @@
       "max_temp": [
         6.6,
         8.3,
-        7.7,
+        7.8,
         5.1,
         2.2,
         2.2,
@@ -260,7 +260,7 @@
       ],
       "min_temp": [
         4.5,
-        6.3,
+        6.4,
         5.4,
         2.2,
         -0.2,
@@ -302,7 +302,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2025-12-18 14:13",
+    "last_update": "2025-12-18 13:52",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -317,7 +317,7 @@
       "max_temp": [
         5.6,
         7.3,
-        6.6,
+        6.7,
         4.9,
         2.4,
         1.9,
@@ -325,7 +325,7 @@
       ],
       "min_temp": [
         3.7,
-        5.4,
+        5.5,
         5.1,
         2.2,
         -0.1,
@@ -364,7 +364,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2025-12-18 14:13",
+    "last_update": "2025-12-18 13:53",
     "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
