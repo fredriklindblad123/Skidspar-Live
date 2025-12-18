@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webbkamera - Skidspår Väst</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        .webcam-container {
+            width: 100%;
+            height: 80%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        iframe,
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            border: none;
+        }
+
+        .actions {
+            margin-top: 20px;
+        }
+
+        .btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            font-weight: 600;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            transition: background 0.2s;
+        }
+
+        .btn:hover {
+            background: rgba(255, 255, 255, 0.4);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="webcam-container" id="container">
+        <!-- Content will be injected here -->
+        <div style="color: #aaa;">Laddar webbkamera...</div>
+    </div>
+
+    <div class="actions">
+        <a href="index.html" class="btn">← Tillbaka till översikten</a>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const url = params.get('url');
+        const container = document.getElementById('container');
+
+        if (url) {
+            // Check if it looks like an image or a page
+            // Simple heuristic: if it ends in .jpg, .png, .gif, render as img
+            // otherwise iframe
+            const lower = url.toLowerCase();
+            if (lower.match(/\.(jpeg|jpg|gif|png)$/)) {
+                container.innerHTML = `<img src="${url}" alt="Webbkamera">`;
+            } else {
+                // Many webcam pages don't allow iframe embedding (X-Frame-Options)
+                // If that's the case, we might need to just link to them or warn user.
+                // But user requested "website within new window" effectively. 
+                // Let's try iframe first. If it fails, maybe a direct link button?
+                // Actually, for better UX on mobile, an iframe is tricky because of CORS/XFO.
+                // Billingen webcam is https://webcam.billingen.se/ (likely allows iframe?)
+                // Ulricehamn is webbkameror.se (often has ads/frames).
+
+                container.innerHTML = `<iframe src="${url}" width="100%" height="100%" allowfullscreen></iframe>`;
+            }
+        } else {
+            container.innerHTML = '<div style="color: #ef4444;">Ingen webbkamera-URL angiven.</div>';
+        }
+    </script>
+</body>
+
+</html>
