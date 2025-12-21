@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2025-12-21 13:36",
+    "temperature": "1°C",
+    "last_update": "2025-12-21 16:47",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,8 +21,8 @@
       ],
       "max_temp": [
         5.2,
-        2.1,
-        0.8,
+        2.0,
+        1.1,
         -0.9,
         0.3,
         -0.2,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         -0.1,
-        -0.3,
-        -2.1,
+        -0.4,
+        -1.7,
         -4.7,
         -4.8,
         -1.7,
@@ -66,8 +66,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-21 13:36",
+    "temperature": "3°C",
+    "last_update": "2025-12-21 16:47",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -81,17 +81,17 @@
       ],
       "max_temp": [
         6.7,
-        2.3,
-        1.3,
+        2.1,
+        2.0,
         -0.4,
         0.2,
         2.0,
         3.2
       ],
       "min_temp": [
-        0.2,
-        -0.3,
-        -1.8,
+        1.3,
+        -0.0,
+        -2.3,
         -2.5,
         -3.5,
         -0.3,
@@ -118,7 +118,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-21 13:36",
+    "last_update": "2025-12-21 16:47",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -132,17 +132,17 @@
       ],
       "max_temp": [
         7.9,
-        3.9,
-        2.6,
+        3.5,
+        2.9,
         -0.2,
         0.4,
         2.0,
         3.8
       ],
       "min_temp": [
-        2.2,
-        1.4,
-        -0.3,
+        2.4,
+        1.3,
+        -0.2,
         -2.7,
         -4.6,
         -0.1,
@@ -171,8 +171,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "1°C",
-    "last_update": "2025-12-21 13:37",
+    "temperature": "-1°C",
+    "last_update": "2025-12-21 16:47",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -186,17 +186,17 @@
       ],
       "max_temp": [
         4.1,
-        0.2,
-        0.2,
-        -1.1,
+        0.1,
+        0.4,
+        -1.2,
         -0.2,
         -0.3,
         2.2
       ],
       "min_temp": [
-        -0.9,
-        -1.0,
         -1.1,
+        -1.0,
+        -2.1,
         -5.2,
         -5.1,
         -1.9,
@@ -236,8 +236,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-21 13:37",
+    "temperature": "3°C",
+    "last_update": "2025-12-21 16:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -251,17 +251,17 @@
       ],
       "max_temp": [
         6.8,
-        2.8,
-        1.7,
+        3.1,
+        2.3,
         -1.3,
         -0.2,
         0.6,
         2.0
       ],
       "min_temp": [
-        0.7,
-        0.6,
-        -1.8,
+        1.2,
+        0.9,
+        -1.3,
         -3.7,
         -4.0,
         -1.6,
@@ -301,8 +301,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2025-12-21 13:37",
+    "temperature": "2°C",
+    "last_update": "2025-12-21 16:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -316,17 +316,17 @@
       ],
       "max_temp": [
         5.9,
-        1.8,
-        0.5,
+        2.0,
+        1.2,
         -1.2,
         -0.2,
         0.6,
         2.1
       ],
       "min_temp": [
-        -0.4,
-        -0.4,
-        -2.0,
+        0.2,
+        -0.1,
+        -2.3,
         -3.5,
         -4.5,
         -1.4,
@@ -363,8 +363,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2025-12-21 13:38",
+    "temperature": "3°C",
+    "last_update": "2025-12-21 16:49",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -379,16 +379,16 @@
       "max_temp": [
         6.5,
         2.4,
-        1.3,
+        2.0,
         -0.6,
         0.5,
         1.9,
         3.0
       ],
       "min_temp": [
+        1.2,
         0.3,
-        0.1,
-        -1.5,
+        -1.7,
         -2.7,
         -3.0,
         -0.6,
