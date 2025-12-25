@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2025-12-24 20:41",
-    "weather": "⛅ Halvklart",
+    "temperature": "-2°C",
+    "last_update": "2025-12-25 03:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        -2.4,
-        1.3,
-        1.3,
-        3.3,
-        0.1,
         1.6,
-        -1.0
+        1.8,
+        3.4,
+        0.8,
+        0.7,
+        -0.9,
+        -3.7
       ],
       "min_temp": [
-        -3.8,
         -3.2,
         0.0,
-        -0.2,
-        -1.8,
-        -2.0,
-        -4.2
+        0.3,
+        -2.3,
+        -2.7,
+        -4.2,
+        -6.8
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -60,36 +60,36 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2025-12-24 20:42",
-    "weather": "☀️ Klart",
+    "temperature": "-2°C",
+    "last_update": "2025-12-25 03:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        -0.5,
-        2.4,
-        2.1,
-        4.8,
-        3.1,
-        3.5,
-        0.0
+        2.9,
+        3.3,
+        3.7,
+        3.2,
+        2.2,
+        1.4,
+        -2.2
       ],
       "min_temp": [
-        -2.6,
-        -2.7,
-        0.5,
-        0.7,
-        -1.4,
+        -1.9,
+        0.6,
+        1.6,
+        -1.8,
         -0.9,
-        -2.7
+        -2.7,
+        -5.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
@@ -112,35 +112,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-24 20:42",
-    "weather": "☀️ Klart",
+    "last_update": "2025-12-25 03:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        1.3,
-        4.9,
+        5.2,
+        5.6,
         5.0,
-        5.1,
-        3.7,
-        2.8,
-        0.8
+        3.6,
+        2.2,
+        2.2,
+        -2.0
       ],
       "min_temp": [
-        0.2,
         -0.3,
-        2.2,
-        1.1,
-        -0.9,
-        -0.2,
-        -2.0
+        1.8,
+        2.5,
+        -1.8,
+        -0.4,
+        -2.0,
+        -5.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,36 +165,36 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "1 cm",
-    "temperature": "-2°C",
-    "last_update": "2025-12-24 20:42",
-    "weather": "⛅ Halvklart",
+    "temperature": "-3°C",
+    "last_update": "2025-12-25 03:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        -1.7,
-        2.8,
-        3.3,
-        4.4,
-        1.3,
-        1.9,
-        0.3
+        2.6,
+        2.5,
+        3.9,
+        1.2,
+        0.9,
+        -0.1,
+        -2.8
       ],
       "min_temp": [
-        -2.3,
-        -1.9,
-        1.6,
-        0.2,
-        -1.9,
-        -0.9,
-        -3.0
+        -3.4,
+        1.1,
+        1.3,
+        -1.4,
+        -1.3,
+        -3.0,
+        -5.6
       ]
     },
     "ai_summary": "(idag): Hej Idag på julafton gjorde vi ett tappert försök att starta vår konstsnö tillverkning. Kanonerna och lansarna startade vid 13.00 för att 18.30 stänga ner då minusgraderna inte var med oss. I slalombacken var det aldrig tillräckligt kallt för att kunna starta tillverkningen. God fortsättning på julen önskar vi på Billingen\n\n(1 dagar sedan): Hej Vi vet att ni är många som väntar på att snösprutningen ska komma igång. Tyvärr har inte vädret varit med oss än, vattnet i hållsdammen har hållt 4,5 plus grader samtidigt som luftfuktigheten är 99,99 % och minusgraderna inte varit mer än -2,5 grader uppe på berget och -1,5 grader i slalombacken. Vi håller er uppdaterade och vi hoppas kunna starta systemet imorgon på julaftonskväll. GOD JUL",
@@ -231,35 +231,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-1°C",
-    "last_update": "2025-12-24 20:43",
+    "last_update": "2025-12-25 03:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        -0.5,
-        1.9,
-        2.6,
-        4.1,
+        2.0,
+        2.2,
+        4.2,
         1.5,
-        2.8,
-        -0.2
+        1.5,
+        0.1,
+        -3.0
       ],
       "min_temp": [
+        -2.2,
+        0.5,
+        0.8,
+        -2.0,
+        -1.8,
         -3.2,
-        -2.6,
-        0.4,
-        0.4,
-        -1.4,
-        -0.9,
-        -3.2
+        -5.9
       ]
     },
     "ai_summary": "(1 dagar sedan): Vi har under förmiddagen riggat snökanonerna. Vi inväntar kyla som skall komma i kväll. Vi håller tummarna.\n\n(13 dagar sedan): Vi kommer inte att röa snöbädden förräns vi får kylan tillbaka. Ev täcken vi snön med fiberduk i helgen.",
@@ -296,38 +296,38 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-2°C",
-    "last_update": "2025-12-24 20:43",
+    "last_update": "2025-12-25 03:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        -2.0,
+        1.4,
+        1.5,
+        3.7,
         1.2,
-        1.8,
-        3.9,
-        1.2,
-        2.5,
-        -0.5
+        1.4,
+        -0.2,
+        -3.3
       ],
       "min_temp": [
-        -3.9,
-        -3.8,
-        -0.1,
-        -0.3,
-        -1.6,
-        -1.2,
-        -3.7
+        -2.9,
+        -0.7,
+        0.0,
+        -2.1,
+        -1.9,
+        -3.7,
+        -6.4
       ]
     },
-    "ai_summary": "(7 dagar sedan): Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter.\n\n(11 dagar sedan): Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen",
+    "ai_summary": "(7 dagar sedan): Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter.\n\n(12 dagar sedan): Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -345,7 +345,7 @@
       },
       {
         "date": "2025-12-12T21:05:07.000Z",
-        "days_ago": 11,
+        "days_ago": 12,
         "text": "Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen"
       }
     ]
@@ -358,35 +358,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-1°C",
-    "last_update": "2025-12-24 20:44",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2025-12-25 03:57",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2025-12-24",
         "2025-12-25",
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ],
       "max_temp": [
-        -0.8,
-        2.4,
-        2.5,
-        4.4,
-        2.7,
-        3.5,
-        -0.2
+        3.1,
+        3.4,
+        4.0,
+        2.8,
+        2.2,
+        1.1,
+        -2.4
       ],
       "min_temp": [
-        -2.9,
-        -2.3,
-        0.7,
-        0.7,
         -1.0,
-        -0.8,
-        -2.6
+        0.5,
+        1.8,
+        -1.4,
+        -1.1,
+        -2.6,
+        -4.9
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
