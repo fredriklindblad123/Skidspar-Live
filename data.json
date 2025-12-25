@@ -7,7 +7,7 @@
     "status": "Stängt",
     "snow_depth": "1 cm",
     "temperature": "1°C",
-    "last_update": "2025-12-25 16:52",
+    "last_update": "2025-12-25 20:41",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2025-12-31"
       ],
       "max_temp": [
-        1.2,
-        1.2,
-        3.5,
-        0.8,
+        1.4,
+        1.3,
+        3.4,
         0.9,
-        -1.3,
-        -3.4
+        0.6,
+        -1.6,
+        -1.2
       ],
       "min_temp": [
         -3.2,
-        -0.1,
-        -0.0,
-        -2.8,
-        -2.3,
-        -3.2,
-        -8.5
+        0.1,
+        0.3,
+        -2.2,
+        -2.7,
+        -4.4,
+        -5.7
       ]
     },
     "ai_summary": "(idag): Vi fick ihop drygt ett dygns snötillverkning. I skrivande stund finns inga åkbara spår. Sträckan där snö producerats på behöver minst ytterligare ett dygns snöproduktion. Vi kommer hålla er uppdaterade om vad som händer framöver",
@@ -67,7 +67,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "2°C",
-    "last_update": "2025-12-25 16:52",
+    "last_update": "2025-12-25 20:41",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -80,22 +80,22 @@
         "2025-12-31"
       ],
       "max_temp": [
-        1.9,
-        2.2,
-        4.6,
-        3.5,
+        2.1,
         2.3,
-        0.9,
-        -0.9
+        4.1,
+        3.5,
+        2.0,
+        1.4,
+        0.9
       ],
       "min_temp": [
         -4.0,
-        -0.3,
-        0.8,
-        -2.3,
-        -1.6,
-        -1.0,
-        -6.1
+        -0.2,
+        1.4,
+        -2.2,
+        -1.9,
+        -2.1,
+        -3.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
@@ -118,7 +118,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-25 16:52",
+    "last_update": "2025-12-25 20:42",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -132,21 +132,21 @@
       ],
       "max_temp": [
         4.4,
-        4.5,
-        6.2,
+        4.6,
+        6.4,
         4.1,
-        3.0,
-        1.7,
-        -0.6
+        2.3,
+        2.2,
+        1.8
       ],
       "min_temp": [
         -1.1,
-        1.2,
-        3.3,
-        -1.4,
-        -0.6,
-        -0.2,
-        -5.7
+        1.3,
+        3.0,
+        -1.5,
+        -1.6,
+        -1.3,
+        -2.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -172,7 +172,7 @@
     "status": "Stängt",
     "snow_depth": "1 cm",
     "temperature": "2°C",
-    "last_update": "2025-12-25 16:53",
+    "last_update": "2025-12-25 20:42",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -185,25 +185,25 @@
         "2025-12-31"
       ],
       "max_temp": [
-        1.7,
+        2.0,
         2.7,
-        3.8,
+        4.0,
         1.1,
-        1.1,
-        -0.2,
-        -2.8
+        1.2,
+        -0.7,
+        -1.0
       ],
       "min_temp": [
         -4.0,
-        1.1,
-        1.1,
-        -1.5,
-        -1.4,
+        0.8,
+        1.2,
+        -1.1,
         -2.0,
-        -7.2
+        -3.2,
+        -4.2
       ]
     },
-    "ai_summary": "(idag): Hej Idag på julafton gjorde vi ett tappert försök att starta vår konstsnö tillverkning. Kanonerna och lansarna startade vid 13.00 för att 18.30 stänga ner då minusgraderna inte var med oss. I slalombacken var det aldrig tillräckligt kallt för att kunna starta tillverkningen. God fortsättning på julen önskar vi på Billingen\n\n(2 dagar sedan): Hej Vi vet att ni är många som väntar på att snösprutningen ska komma igång. Tyvärr har inte vädret varit med oss än, vattnet i hållsdammen har hållt 4,5 plus grader samtidigt som luftfuktigheten är 99,99 % och minusgraderna inte varit mer än -2,5 grader uppe på berget och -1,5 grader i slalombacken. Vi håller er uppdaterade och vi hoppas kunna starta systemet imorgon på julaftonskväll. GOD JUL",
+    "ai_summary": "(1 dagar sedan): Hej Idag på julafton gjorde vi ett tappert försök att starta vår konstsnö tillverkning. Kanonerna och lansarna startade vid 13.00 för att 18.30 stänga ner då minusgraderna inte var med oss. I slalombacken var det aldrig tillräckligt kallt för att kunna starta tillverkningen. God fortsättning på julen önskar vi på Billingen\n\n(2 dagar sedan): Hej Vi vet att ni är många som väntar på att snösprutningen ska komma igång. Tyvärr har inte vädret varit med oss än, vattnet i hållsdammen har hållt 4,5 plus grader samtidigt som luftfuktigheten är 99,99 % och minusgraderna inte varit mer än -2,5 grader uppe på berget och -1,5 grader i slalombacken. Vi håller er uppdaterade och vi hoppas kunna starta systemet imorgon på julaftonskväll. GOD JUL",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -219,7 +219,7 @@
     "ai_comments": [
       {
         "date": "2025-12-24T19:56:14.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Hej Idag på julafton gjorde vi ett tappert försök att starta vår konstsnö tillverkning. Kanonerna och lansarna startade vid 13.00 för att 18.30 stänga ner då minusgraderna inte var med oss. I slalombacken var det aldrig tillräckligt kallt för att kunna starta tillverkningen. God fortsättning på julen önskar vi på Billingen"
       },
       {
@@ -236,8 +236,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "1°C",
-    "last_update": "2025-12-25 16:53",
+    "temperature": "2°C",
+    "last_update": "2025-12-25 20:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -250,25 +250,25 @@
         "2025-12-31"
       ],
       "max_temp": [
-        1.7,
-        2.4,
-        4.6,
         1.8,
-        2.0,
+        2.3,
+        4.5,
+        1.6,
+        1.5,
         -0.2,
-        -2.0
+        -0.3
       ],
       "min_temp": [
         -2.1,
-        -0.2,
-        0.3,
-        -2.5,
-        -1.8,
-        -2.2,
-        -7.5
+        0.1,
+        0.8,
+        -2.1,
+        -1.9,
+        -3.1,
+        -4.2
       ]
     },
-    "ai_summary": "(idag): Vi har nu på morgonen avslutat snöproduktionen Vi schaktar ut snöhögarna under dagen och efter det fräser vi bädden. Vi har ingen klar tid när spåren är färdiga. Vi lägger ut när vi är klara.\n\n(2 dagar sedan): Vi har under förmiddagen riggat snökanonerna. Vi inväntar kyla som skall komma i kväll. Vi håller tummarna.",
+    "ai_summary": "(idag): Äntligen skidspår igen. Vi har spårat vändspåret klassiskt/skate ca 1km. Endast ev.någon minusgrad i natt , men bra vinterväder nästa vecka igen. Vi kommer då fortsätta att producera snö och förlänga banan. /välkomna\n\n(idag): Vi har nu på morgonen avslutat snöproduktionen Vi schaktar ut snöhögarna under dagen och efter det fräser vi bädden. Vi har ingen klar tid när spåren är färdiga. Vi lägger ut när vi är klara.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -283,14 +283,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2025-12-25T19:14:07.000Z",
+        "days_ago": 0,
+        "text": "Äntligen skidspår igen. Vi har spårat vändspåret klassiskt/skate ca 1km. Endast ev.någon minusgrad i natt , men bra vinterväder nästa vecka igen. Vi kommer då fortsätta att producera snö och förlänga banan. /välkomna"
+      },
+      {
         "date": "2025-12-25T10:38:29.000Z",
         "days_ago": 0,
         "text": "Vi har nu på morgonen avslutat snöproduktionen Vi schaktar ut snöhögarna under dagen och efter det fräser vi bädden. Vi har ingen klar tid när spåren är färdiga. Vi lägger ut när vi är klara."
-      },
-      {
-        "date": "2025-12-23T10:55:25.000Z",
-        "days_ago": 2,
-        "text": "Vi har under förmiddagen riggat snökanonerna. Vi inväntar kyla som skall komma i kväll. Vi håller tummarna."
       }
     ]
   },
@@ -302,7 +302,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "1°C",
-    "last_update": "2025-12-25 16:53",
+    "last_update": "2025-12-25 20:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -315,25 +315,25 @@
         "2025-12-31"
       ],
       "max_temp": [
-        1.0,
+        1.3,
         1.6,
         3.6,
         2.0,
-        1.8,
+        1.4,
         -0.6,
-        -2.2
+        -0.7
       ],
       "min_temp": [
         -2.8,
-        -0.6,
-        -0.5,
-        -2.5,
-        -2.0,
-        -2.4,
-        -7.6
+        -0.4,
+        0.1,
+        -2.2,
+        -2.2,
+        -3.4,
+        -4.6
       ]
     },
-    "ai_summary": "(7 dagar sedan): Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter.\n\n(12 dagar sedan): Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen",
+    "ai_summary": "(idag): På Annandagens eftermiddag planerar vi att åter igen öppna Hestrastugans konstsnöspår för skidåkning! ❄️❤️ Spårlängd blir förmodligen 1400 m (se bifogad spårkarta) plus eventuellt någon extra slinga på stadion. Arbete pågår under förmiddagen och då är spåret avstängt. Vi återkommer i morgon med en exakt tid när ni kan börja åka. Välkomna på nypremiär för Hestrastugans konstsnöspår i Borås!\n\n(8 dagar sedan): Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter.",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -345,14 +345,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2025-12-17T18:56:39.000Z",
-        "days_ago": 7,
-        "text": "Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter."
+        "date": "2025-12-25T17:38:23.000Z",
+        "days_ago": 0,
+        "text": "På Annandagens eftermiddag planerar vi att åter igen öppna Hestrastugans konstsnöspår för skidåkning! ❄️❤️ Spårlängd blir förmodligen 1400 m (se bifogad spårkarta) plus eventuellt någon extra slinga på stadion. Arbete pågår under förmiddagen och då är spåret avstängt. Vi återkommer i morgon med en exakt tid när ni kan börja åka. Välkomna på nypremiär för Hestrastugans konstsnöspår i Borås!"
       },
       {
-        "date": "2025-12-12T21:05:07.000Z",
-        "days_ago": 12,
-        "text": "Ca 1,2 km skate och spår är nypreparerade. Passa på nu medan det finns snö! Snötäcket är tyvärr tunt på sina ställe genomslag kan förekomma, ta ej finskidorna. // Spårpatrullen"
+        "date": "2025-12-17T18:56:39.000Z",
+        "days_ago": 8,
+        "text": "Det är en sträcka på 360 meter t o r på mossrakan som det otroligt nog går att åka på. Kanske någon dag till. Inte vackraste inramningen vid Hestrastugan idag, men faktiskt ganska bra underlag trots att det inte spåras längre. Bra fäste för trugorna. Blev ett fint pass på drygt 40 minuter."
       }
     ]
   },
@@ -364,7 +364,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "2°C",
-    "last_update": "2025-12-25 16:54",
+    "last_update": "2025-12-25 20:44",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -377,22 +377,22 @@
         "2025-12-31"
       ],
       "max_temp": [
-        1.8,
-        2.3,
-        4.4,
+        2.1,
+        2.5,
+        4.2,
         3.2,
-        2.3,
-        0.6,
-        -1.0
+        2.0,
+        1.0,
+        0.4
       ],
       "min_temp": [
         -2.7,
         0.1,
-        0.7,
-        -2.3,
+        1.4,
+        -2.1,
         -1.5,
-        -1.4,
-        -5.8
+        -2.3,
+        -3.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
