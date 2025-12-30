@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2025-12-30 13:54",
+    "temperature": "-4°C",
+    "last_update": "2025-12-30 16:56",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -21,17 +21,17 @@
       ],
       "max_temp": [
         -1.7,
-        -0.8,
-        2.7,
-        -1.7,
+        -1.3,
+        2.2,
+        -0.9,
         -4.8,
         -5.3,
         -5.3
       ],
       "min_temp": [
-        -7.1,
-        -7.2,
-        -1.3,
+        -7.4,
+        -7.6,
+        -1.9,
         -7.6,
         -8.4,
         -7.8,
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2025-12-30 13:54",
-    "weather": "☀️ Klart",
+    "temperature": "-4°C",
+    "last_update": "2025-12-30 16:56",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -86,7 +86,7 @@
       ],
       "max_temp": [
         -0.8,
-        0.2,
+        -0.4,
         3.9,
         -0.2,
         -3.8,
@@ -94,9 +94,9 @@
         -4.2
       ],
       "min_temp": [
-        -6.4,
-        -6.3,
-        -0.9,
+        -6.7,
+        -6.7,
+        -0.2,
         -4.1,
         -7.3,
         -7.5,
@@ -123,8 +123,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 13:55",
-    "weather": "☀️ Klart",
+    "last_update": "2025-12-30 16:57",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -138,16 +138,16 @@
       "max_temp": [
         0.8,
         2.3,
-        5.4,
-        0.3,
+        5.6,
+        1.2,
         -3.5,
         -5.3,
         -4.1
       ],
       "min_temp": [
-        -2.4,
-        -2.4,
-        -0.2,
+        -2.5,
+        -2.6,
+        2.1,
         -3.0,
         -7.1,
         -7.6,
@@ -176,9 +176,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2025-12-30 13:55",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "-3°C",
+    "last_update": "2025-12-30 16:57",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -191,17 +191,17 @@
       ],
       "max_temp": [
         -1.2,
-        -1.2,
-        2.3,
-        -1.5,
+        -1.0,
+        2.0,
+        -1.1,
         -4.2,
         -3.7,
         -3.7
       ],
       "min_temp": [
-        -4.7,
-        -4.9,
-        -1.0,
+        -4.2,
+        -4.6,
+        -1.7,
         -5.7,
         -5.8,
         -7.3,
@@ -241,9 +241,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2025-12-30 13:56",
-    "weather": "☀️ Klart",
+    "temperature": "-3°C",
+    "last_update": "2025-12-30 16:57",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -256,24 +256,24 @@
       ],
       "max_temp": [
         -1.3,
-        -0.4,
-        3.7,
-        -1.2,
+        -0.3,
+        3.5,
+        -0.1,
         -4.3,
         -4.8,
         -4.7
       ],
       "min_temp": [
         -6.8,
-        -7.4,
-        -0.8,
+        -7.3,
+        -0.4,
         -7.2,
         -8.1,
         -7.5,
         -7.9
       ]
     },
-    "ai_summary": "(idag): Nypreparerat för klassiskt och skate. Snöproduktion pågår men det bör inte påverka nuvarande bansträckning. Café och skiduthyrning är öppet hela vecka 1 kl.10-15 (Nyårsafton 10-14) Välkomna!\n\n(idag): Underbar skidåkning. Fantastisk fina spår. Snöproduktionen påverkade inte befintliga spår",
+    "ai_summary": "(idag): Nypreparerat för klassiskt och skate. Snöproduktion pågår men det bör inte påverka nuvarande bansträckning. Café och skiduthyrning är öppet hela vecka 1 kl.10-15 (Nyårsafton 10-14) Välkomna!\n\n(1 dagar sedan): Underbar skidåkning. Fantastisk fina spår. Snöproduktionen påverkade inte befintliga spår",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -294,7 +294,7 @@
       },
       {
         "date": "2025-12-29T14:01:52.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Underbar skidåkning. Fantastisk fina spår. Snöproduktionen påverkade inte befintliga spår"
       }
     ]
@@ -306,9 +306,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2025-12-30 13:56",
-    "weather": "☀️ Klart",
+    "temperature": "-4°C",
+    "last_update": "2025-12-30 16:57",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -321,17 +321,17 @@
       ],
       "max_temp": [
         -2.3,
-        -1.3,
-        2.7,
-        -1.7,
+        -1.2,
+        2.5,
+        -0.9,
         -4.8,
         -5.4,
         -4.9
       ],
       "min_temp": [
-        -6.0,
-        -6.5,
-        -1.2,
+        -5.8,
+        -6.4,
+        -1.5,
         -7.3,
         -8.3,
         -7.8,
@@ -366,11 +366,11 @@
     "municipality": "Härryda",
     "lat": 57.7036,
     "lon": 12.446,
-    "status": "Stängt",
+    "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2025-12-30 13:56",
-    "weather": "☀️ Klart",
+    "temperature": "-4°C",
+    "last_update": "2025-12-30 16:58",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -384,23 +384,23 @@
       "max_temp": [
         -1.1,
         -0.4,
-        3.9,
+        3.7,
         -0.3,
         -3.8,
         -5.2,
         -4.3
       ],
       "min_temp": [
-        -6.5,
         -6.4,
-        -0.8,
+        -6.5,
+        -0.3,
         -4.4,
         -7.2,
         -7.2,
         -8.1
       ]
     },
-    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
+    "ai_summary": "(idag): Snöproduktion pågår med målsättning att öppna spår så snart som möjligt. Vi rapporterar här löpande.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -410,6 +410,12 @@
     ],
     "phone": "-",
     "total_track_length_km": 0,
-    "ai_comments": []
+    "ai_comments": [
+      {
+        "date": "2025-12-30T14:07:34.000Z",
+        "days_ago": 0,
+        "text": "Snöproduktion pågår med målsättning att öppna spår så snart som möjligt. Vi rapporterar här löpande."
+      }
+    ]
   }
 ]
