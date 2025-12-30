@@ -5,10 +5,10 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "Ingen snö",
+    "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 05:02",
-    "weather": "⛅ Halvklart",
+    "last_update": "2025-12-30 09:32",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -20,25 +20,25 @@
         "2026-01-05"
       ],
       "max_temp": [
-        -2.3,
-        -0.4,
+        -2.4,
+        -0.7,
         2.4,
-        -2.6,
-        -7.4,
-        -7.6,
-        -8.8
+        -2.5,
+        -3.3,
+        -4.8,
+        -5.3
       ],
       "min_temp": [
-        -7.5,
-        -7.7,
-        -3.6,
+        -6.9,
+        -7.3,
+        -3.4,
+        -5.6,
+        -4.7,
         -7.2,
-        -8.8,
-        -9.6,
-        -10.1
+        -6.8
       ]
     },
-    "ai_summary": "(idag): Till idag, måndag erbjuder vi spår för klassiskt och fristil ca 1.6 km. O.B.S åkriktning endast åt ett håll. Ikväll stänger vi av spåret fom kl 17:00 då vi måste producera mera snö på spåret för att det skall hålla vid kommande mildväder samt minska risken för skador på multibananans asfalt.\n\n(1 dagar sedan): Till imorgon, måndag erbjuder vi spår för klassiskt och fristil ca 1.6 km. O.B.S åkriktning endast åt ett håll. Med stor sannolikhet stänger vi av spåret fom kl 17:00 måndag kväll då vi måste producera mera snö på spåret för att det skall hålla vid kommande mildväder samt minska risken för skador på multibananans asfalt.",
+    "ai_summary": "(idag): Idag är anläggningen stängd till förmån för snötillverkning. Åkbart spår tidigast nyårsdagen. Oklart hur långt vi hinner preparera.\n\n(1 dagar sedan): Till idag, måndag erbjuder vi spår för klassiskt och fristil ca 1.6 km. O.B.S åkriktning endast åt ett håll. Ikväll stänger vi av spåret fom kl 17:00 då vi måste producera mera snö på spåret för att det skall hålla vid kommande mildväder samt minska risken för skador på multibananans asfalt.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2025-12-29T06:09:03.000Z",
+        "date": "2025-12-30T07:59:46.000Z",
         "days_ago": 0,
-        "text": "Till idag, måndag erbjuder vi spår för klassiskt och fristil ca 1.6 km. O.B.S åkriktning endast åt ett håll. Ikväll stänger vi av spåret fom kl 17:00 då vi måste producera mera snö på spåret för att det skall hålla vid kommande mildväder samt minska risken för skador på multibananans asfalt."
+        "text": "Idag är anläggningen stängd till förmån för snötillverkning. Åkbart spår tidigast nyårsdagen. Oklart hur långt vi hinner preparera."
       },
       {
-        "date": "2025-12-28T15:36:31.000Z",
+        "date": "2025-12-29T06:09:03.000Z",
         "days_ago": 1,
-        "text": "Till imorgon, måndag erbjuder vi spår för klassiskt och fristil ca 1.6 km. O.B.S åkriktning endast åt ett håll. Med stor sannolikhet stänger vi av spåret fom kl 17:00 måndag kväll då vi måste producera mera snö på spåret för att det skall hålla vid kommande mildväder samt minska risken för skador på multibananans asfalt."
+        "text": "Till idag, måndag erbjuder vi spår för klassiskt och fristil ca 1.6 km. O.B.S åkriktning endast åt ett håll. Ikväll stänger vi av spåret fom kl 17:00 då vi måste producera mera snö på spåret för att det skall hålla vid kommande mildväder samt minska risken för skador på multibananans asfalt."
       }
     ]
   },
@@ -72,7 +72,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 05:03",
+    "last_update": "2025-12-30 09:32",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-01-05"
       ],
       "max_temp": [
+        -0.7,
+        -0.0,
+        4.1,
         -1.2,
-        -0.4,
-        3.9,
-        -1.4,
-        -7.0,
-        -7.1,
-        -6.8
+        -3.6,
+        -5.1,
+        -4.2
       ],
       "min_temp": [
+        -5.5,
+        -5.6,
+        -3.7,
+        -4.2,
+        -4.9,
         -6.6,
-        -6.9,
-        -3.2,
-        -6.9,
-        -8.6,
-        -8.6,
-        -10.5
+        -8.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
@@ -123,7 +123,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 05:03",
+    "last_update": "2025-12-30 09:32",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -136,22 +136,22 @@
         "2026-01-05"
       ],
       "max_temp": [
-        0.4,
-        2.2,
+        0.5,
+        2.0,
         5.5,
-        -0.2,
-        -6.8,
-        -7.3,
-        -7.1
+        0.2,
+        -3.3,
+        -4.8,
+        -4.1
       ],
       "min_temp": [
-        -3.3,
-        -2.7,
-        -2.5,
-        -6.8,
-        -8.8,
-        -8.9,
-        -10.9
+        -2.8,
+        -2.3,
+        -2.8,
+        -4.2,
+        -4.7,
+        -6.6,
+        -7.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -174,11 +174,11 @@
     "municipality": "Skövde",
     "lat": 58.4108,
     "lon": 13.8347,
-    "status": "Stängt",
+    "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2025-12-30 05:03",
-    "weather": "☀️ Klart",
+    "temperature": "-2°C",
+    "last_update": "2025-12-30 09:32",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2025-12-30",
@@ -190,22 +190,22 @@
         "2026-01-05"
       ],
       "max_temp": [
+        -0.9,
         -0.7,
-        -0.4,
-        2.2,
-        -1.5,
-        -6.3,
-        -8.1,
-        -7.9
+        2.4,
+        -2.2,
+        -2.5,
+        -3.0,
+        -3.4
       ],
       "min_temp": [
+        -3.6,
         -3.9,
-        -3.9,
-        -2.6,
-        -6.3,
-        -8.5,
-        -9.9,
-        -10.4
+        -2.4,
+        -3.7,
+        -4.0,
+        -4.4,
+        -4.9
       ]
     },
     "ai_summary": "(idag): Hej, äntligen är vädret med oss och klockan 13.00 idag startade vi igång vårat konstsnösystem. Idag så visade termometern knappt minus två grader hos oss på Billingen, men luftfuktigheten var 67 % vilket ger en temperatur på cirka minus fyra grader att tillverka konstsnö i. Vi kommer nu fortsätta producera konstsnö så länge vädret tillåter eller att vi har ett klart konstsnöspår och slalombacke.\n\n(5 dagar sedan): Hej Idag på julafton gjorde vi ett tappert försök att starta vår konstsnö tillverkning. Kanonerna och lansarna startade vid 13.00 för att 18.30 stänga ner då minusgraderna inte var med oss. I slalombacken var det aldrig tillräckligt kallt för att kunna starta tillverkningen. God fortsättning på julen önskar vi på Billingen",
@@ -242,7 +242,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 05:04",
+    "last_update": "2025-12-30 09:32",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -256,21 +256,21 @@
       ],
       "max_temp": [
         -1.6,
-        0.3,
-        3.4,
-        -2.0,
-        -6.8,
-        -7.1,
-        -7.2
+        0.2,
+        3.6,
+        -1.9,
+        -3.4,
+        -4.9,
+        -4.7
       ],
       "min_temp": [
-        -6.9,
-        -7.5,
-        -3.3,
+        -5.6,
+        -6.7,
+        -3.1,
+        -4.8,
+        -4.6,
         -6.6,
-        -8.2,
-        -8.1,
-        -9.4
+        -6.2
       ]
     },
     "ai_summary": "(idag): Nypreparerat för klassiskt och skate. Snöproduktion pågår men det bör inte påverka nuvarande bansträckning. Café och skiduthyrning är öppet hela vecka 1 kl.10-15 (Nyårsafton 10-14) Välkomna!\n\n(idag): Underbar skidåkning. Fantastisk fina spår. Snöproduktionen påverkade inte befintliga spår",
@@ -307,7 +307,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 05:04",
+    "last_update": "2025-12-30 09:32",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -320,22 +320,22 @@
         "2026-01-05"
       ],
       "max_temp": [
-        -2.6,
-        -0.4,
-        2.6,
+        -2.5,
+        -0.5,
+        2.7,
         -2.3,
-        -7.3,
-        -7.4,
-        -7.5
+        -4.0,
+        -5.6,
+        -4.9
       ],
       "min_temp": [
-        -6.6,
+        -5.4,
+        -6.0,
+        -4.1,
+        -5.1,
+        -5.3,
         -7.1,
-        -3.5,
-        -7.1,
-        -8.9,
-        -8.7,
-        -10.2
+        -6.7
       ]
     },
     "ai_summary": "(idag): Vi utnyttjar den kylan som kom ikväll för att producera mer snö. De gör att de ryker lite på planen samt att vi kortat spåret tillfälligt till 1100m nya spår och skateytan prepparerad. Ut och njut! Spårpatrullen!\n\n(1 dagar sedan): Städat spåret sedan preparerat för skate och klassiskt. Ut och njut I solen. Välkomna! spårpatrullen.",
@@ -368,8 +368,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2025-12-30 05:05",
+    "temperature": "-3°C",
+    "last_update": "2025-12-30 09:32",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -382,22 +382,22 @@
         "2026-01-05"
       ],
       "max_temp": [
-        -1.2,
-        0.1,
-        3.8,
-        -1.6,
-        -6.9,
-        -6.8,
-        -6.9
+        -0.8,
+        -0.0,
+        4.0,
+        -1.0,
+        -3.7,
+        -5.1,
+        -4.3
       ],
       "min_temp": [
-        -6.9,
-        -7.0,
-        -3.3,
-        -6.9,
-        -8.4,
-        -8.1,
-        -9.9
+        -5.7,
+        -5.7,
+        -3.6,
+        -4.2,
+        -4.8,
+        -6.6,
+        -7.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",

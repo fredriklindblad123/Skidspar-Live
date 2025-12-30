@@ -547,7 +547,7 @@ def get_facility_data(facility):
                      break
                      
                  # Positive signals - Troligen öppet
-                 elif any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nyspårad', 'nypreparerat', 'nypreparerade', 'preparerat', 'preparerade', 'körbart', 'fina spår', ' spårat ']):
+                 elif any(x in txt for x in ['öppet', 'öppna', 'nyspårat', 'nyspårad', 'nypreparerat', 'nypreparerade', 'preparerat', 'preparerade', 'körbart', 'fina spår', ' spårat ', 'konstsnö', 'tillverkar', 'producerar', 'snöproduktion', 'sprutar', 'startade', 'igång', 'pistat']):
                      if "inte öppet" not in txt and "inte körbart" not in txt: 
                          status = "Troligen öppet"
 
