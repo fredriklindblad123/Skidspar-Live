@@ -443,8 +443,8 @@
                         <span class="metric-value">${track.snow_depth || '-'}</span>
                     </div>
                     <div class="metric">
-                        <span class="metric-label">Öppna spår</span>
-                        <span class="metric-value">${track.total_track_length_km > 0 ? track.total_track_length_km + ' km' : '&nbsp;'}</span>
+                        <span class="metric-label">Spårstatus</span>
+                        <span class="metric-value">${track.total_track_length_km > 0 ? track.total_track_length_km + ' km' : '<span style="color:var(--text-secondary); font-weight:normal;">Okänt</span>'}</span>
                     </div>
                     ${wax ? `
                     <div class="metric">
