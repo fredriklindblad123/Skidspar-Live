@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 09:43",
+    "last_update": "2025-12-30 09:03",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2025-12-30 09:43",
+    "temperature": "-3°C",
+    "last_update": "2025-12-30 09:03",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -123,7 +123,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 09:43",
+    "last_update": "2025-12-30 09:03",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -177,7 +177,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-2°C",
-    "last_update": "2025-12-30 09:43",
+    "last_update": "2025-12-30 09:03",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -242,7 +242,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2025-12-30 09:43",
+    "last_update": "2025-12-30 09:04",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -307,7 +307,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2025-12-30 09:43",
+    "last_update": "2025-12-30 09:04",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -369,7 +369,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2025-12-30 09:43",
+    "last_update": "2025-12-30 09:05",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
