@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-6°C",
-    "last_update": "2025-12-31 08:57",
+    "temperature": "-3°C",
+    "last_update": "2025-12-31 13:46",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2026-01-06"
       ],
       "max_temp": [
-        -2.6,
-        1.6,
-        0.4,
-        -5.6,
-        -5.9,
-        -5.8,
+        -2.7,
+        1.9,
+        -0.3,
+        -6.8,
+        -6.4,
+        -7.4,
         -1.6
       ],
       "min_temp": [
         -6.6,
-        -2.8,
-        -5.8,
-        -6.9,
-        -7.2,
-        -11.4,
-        -12.1
+        -2.5,
+        -6.4,
+        -8.4,
+        -7.4,
+        -11.6,
+        -12.7
       ]
     },
     "ai_summary": "(idag): Den kompletterande snöproduktionen på den slinga vi öppnade för några dagar sedan har gått bra. Vå återkommer med besked om tid för spårets öppnande inom kort. Planen är att få till ett spår till nyårsdagen.\n\n(1 dagar sedan): Idag är anläggningen stängd till förmån för snötillverkning. Åkbart spår tidigast nyårsdagen. Oklart hur långt vi hinner preparera.",
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2025-12-31 08:57",
+    "temperature": "-2°C",
+    "last_update": "2025-12-31 13:46",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-01-06"
       ],
       "max_temp": [
-        -1.8,
-        3.6,
-        -0.2,
-        -5.5,
-        -5.1,
-        -4.4,
+        -1.9,
+        3.8,
+        -0.5,
+        -6.8,
+        -5.0,
+        -5.6,
         -0.3
       ],
       "min_temp": [
-        -5.7,
-        -1.1,
-        -5.3,
-        -6.8,
-        -6.8,
-        -10.0,
-        -6.4
+        -5.0,
+        -0.7,
+        -6.2,
+        -8.1,
+        -6.9,
+        -11.8,
+        -11.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter.",
@@ -123,7 +123,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2025-12-31 08:57",
+    "last_update": "2025-12-31 13:46",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -137,21 +137,21 @@
       ],
       "max_temp": [
         2.3,
-        5.0,
-        1.7,
-        -5.0,
+        5.1,
+        0.9,
+        -6.6,
+        -5.2,
         -5.6,
-        -4.7,
         0.1
       ],
       "min_temp": [
-        -1.5,
+        -1.2,
         2.0,
-        -5.2,
-        -6.7,
-        -6.9,
-        -9.4,
-        -5.8
+        -5.9,
+        -8.1,
+        -6.8,
+        -11.4,
+        -10.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -176,9 +176,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2025-12-31 08:58",
-    "weather": "☁️ Mulet",
+    "temperature": "-3°C",
+    "last_update": "2025-12-31 13:47",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2025-12-31",
@@ -190,22 +190,22 @@
         "2026-01-06"
       ],
       "max_temp": [
-        -1.9,
-        1.6,
-        -0.1,
-        -4.3,
-        -5.3,
-        -5.9,
+        -1.6,
+        1.9,
+        -0.8,
+        -5.8,
+        -5.7,
+        -7.3,
         -2.8
       ],
       "min_temp": [
-        -4.7,
-        -2.3,
-        -4.8,
-        -6.6,
-        -6.6,
-        -11.1,
-        -12.4
+        -4.0,
+        -2.5,
+        -5.5,
+        -6.7,
+        -7.2,
+        -13.9,
+        -13.7
       ]
     },
     "ai_summary": "(1 dagar sedan): Hej, äntligen är vädret med oss och klockan 13.00 idag startade vi igång vårat konstsnösystem. Idag så visade termometern knappt minus två grader hos oss på Billingen, men luftfuktigheten var 67 % vilket ger en temperatur på cirka minus fyra grader att tillverka konstsnö i. Vi kommer nu fortsätta producera konstsnö så länge vädret tillåter eller att vi har ett klart konstsnöspår och slalombacke.\n\n(6 dagar sedan): Hej Idag på julafton gjorde vi ett tappert försök att starta vår konstsnö tillverkning. Kanonerna och lansarna startade vid 13.00 för att 18.30 stänga ner då minusgraderna inte var med oss. I slalombacken var det aldrig tillräckligt kallt för att kunna starta tillverkningen. God fortsättning på julen önskar vi på Billingen",
@@ -241,8 +241,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-6°C",
-    "last_update": "2025-12-31 08:58",
+    "temperature": "-2°C",
+    "last_update": "2025-12-31 13:47",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -255,25 +255,25 @@
         "2026-01-06"
       ],
       "max_temp": [
-        -2.4,
-        2.9,
-        0.8,
-        -5.7,
-        -5.2,
-        -5.3,
+        -1.8,
+        3.1,
+        0.4,
+        -6.9,
+        -5.8,
+        -6.6,
         -0.9
       ],
       "min_temp": [
         -7.9,
-        -1.8,
-        -5.8,
-        -6.8,
-        -6.4,
-        -9.6,
-        -10.1
+        -1.3,
+        -6.0,
+        -8.6,
+        -6.7,
+        -12.9,
+        -14.6
       ]
     },
-    "ai_summary": "(idag): Nyspårat klassiskt/skate. Fortfarande vändspåret på ca 1km/välkomna\n\n(idag): Helt perfekt idag, härligt att se snön yra från alla kanoner.",
+    "ai_summary": "(idag): Kanonfina spår och skatebädd, ca 1000m skidparadis. Kaffet och våfflan smakade utsökt.\n\n(idag): Mycket fina spår o gott fika! Underbart!",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -288,14 +288,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2025-12-30T22:03:39.000Z",
+        "date": "2025-12-31T11:58:50.000Z",
         "days_ago": 0,
-        "text": "Nyspårat klassiskt/skate. Fortfarande vändspåret på ca 1km/välkomna"
+        "text": "Kanonfina spår och skatebädd, ca 1000m skidparadis. Kaffet och våfflan smakade utsökt."
       },
       {
-        "date": "2025-12-30T17:32:50.000Z",
+        "date": "2025-12-31T11:33:46.000Z",
         "days_ago": 0,
-        "text": "Helt perfekt idag, härligt att se snön yra från alla kanoner."
+        "text": "Mycket fina spår o gott fika! Underbart!"
       }
     ]
   },
@@ -306,8 +306,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2025-12-31 08:58",
+    "temperature": "-3°C",
+    "last_update": "2025-12-31 13:47",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -320,22 +320,22 @@
         "2026-01-06"
       ],
       "max_temp": [
-        -3.1,
-        1.7,
-        -0.3,
-        -6.2,
-        -5.5,
-        -5.6,
+        -2.3,
+        2.1,
+        -0.7,
+        -7.3,
+        -6.0,
+        -6.8,
         -1.1
       ],
       "min_temp": [
         -6.8,
-        -2.9,
-        -6.2,
+        -2.4,
+        -6.8,
+        -9.0,
         -7.2,
-        -7.2,
-        -9.8,
-        -10.4
+        -12.4,
+        -13.9
       ]
     },
     "ai_summary": "(idag): Spåret är nypistat och klart för skate och klassiskt. Våran snöläggning pågår fram till onsdag morgon vilket betyder att spåret fortfarande är 1100m och att det kan ha blåst in en del nysnö i spåret under natten. Välkomna!\n\n(1 dagar sedan): Vi utnyttjar den kylan som kom ikväll för att producera mer snö. De gör att de ryker lite på planen samt att vi kortat spåret tillfälligt till 1100m nya spår och skateytan prepparerad. Ut och njut! Spårpatrullen!",
@@ -368,8 +368,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2025-12-31 08:59",
+    "temperature": "-2°C",
+    "last_update": "2025-12-31 13:48",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -382,22 +382,22 @@
         "2026-01-06"
       ],
       "max_temp": [
-        -1.3,
-        3.3,
-        0.2,
-        -5.6,
-        -5.2,
+        -1.6,
+        3.5,
+        0.1,
+        -6.8,
         -4.8,
+        -5.9,
         -0.5
       ],
       "min_temp": [
-        -5.1,
-        -1.0,
-        -5.7,
+        -4.9,
+        -0.6,
+        -6.2,
+        -8.1,
         -6.8,
-        -6.3,
-        -8.9,
-        -6.8
+        -12.6,
+        -11.9
       ]
     },
     "ai_summary": "(idag): Snöproduktion pågår med målsättning att öppna spår så snart som möjligt. Vi rapporterar här löpande.",
