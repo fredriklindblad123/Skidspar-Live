@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "6 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-02 03:58",
+    "last_update": "2026-01-02 05:04",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,16 +21,16 @@
       ],
       "max_temp": [
         -0.5,
-        -4.7,
-        -4.1,
+        -4.5,
+        -4.0,
         -7.1,
         -8.7,
         -8.9,
         -6.5
       ],
       "min_temp": [
-        -4.7,
-        -5.8,
+        -4.5,
+        -5.6,
         -8.8,
         -11.6,
         -10.8,
@@ -72,8 +72,8 @@
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-02 03:58",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-01-02 05:04",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-02",
@@ -86,16 +86,16 @@
       ],
       "max_temp": [
         0.1,
-        -4.9,
-        -4.5,
+        -5.0,
+        -4.4,
         -5.6,
         -6.8,
         -6.7,
         -5.4
       ],
       "min_temp": [
-        -4.7,
-        -6.2,
+        -4.8,
+        -6.3,
         -9.2,
         -8.1,
         -11.6,
@@ -129,8 +129,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-02 03:58",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-01-02 05:04",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-02",
@@ -143,7 +143,7 @@
       ],
       "max_temp": [
         0.6,
-        -4.0,
+        -4.2,
         -3.9,
         -5.2,
         -7.0,
@@ -151,8 +151,8 @@
         -5.0
       ],
       "min_temp": [
-        -3.8,
-        -5.3,
+        -4.0,
+        -5.4,
         -10.6,
         -9.5,
         -12.6,
@@ -183,7 +183,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-02 03:58",
+    "last_update": "2026-01-02 05:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -197,16 +197,16 @@
       ],
       "max_temp": [
         -1.0,
-        -4.4,
-        -4.8,
+        -4.5,
+        -4.9,
         -6.8,
         -6.0,
         -5.8,
         -6.4
       ],
       "min_temp": [
-        -4.4,
-        -5.7,
+        -4.5,
+        -5.8,
         -7.8,
         -8.6,
         -8.3,
@@ -248,7 +248,7 @@
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
     "temperature": "-1°C",
-    "last_update": "2026-01-02 03:59",
+    "last_update": "2026-01-02 05:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -263,7 +263,7 @@
       "max_temp": [
         0.4,
         -3.7,
-        -3.3,
+        -3.4,
         -6.2,
         -7.8,
         -7.7,
@@ -313,7 +313,7 @@
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-02 03:59",
+    "last_update": "2026-01-02 05:06",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -328,7 +328,7 @@
       "max_temp": [
         -0.5,
         -4.8,
-        -4.4,
+        -4.5,
         -6.6,
         -7.8,
         -7.3,
@@ -375,7 +375,7 @@
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-02 03:59",
+    "last_update": "2026-01-02 05:06",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -389,8 +389,8 @@
       ],
       "max_temp": [
         0.2,
-        -4.2,
-        -4.4,
+        -4.3,
+        -4.3,
         -5.8,
         -6.4,
         -7.1,
@@ -398,7 +398,7 @@
       ],
       "min_temp": [
         -4.1,
-        -5.4,
+        -5.5,
         -8.6,
         -8.6,
         -10.4,
