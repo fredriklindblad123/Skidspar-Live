@@ -5,10 +5,10 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "11 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-02 13:47",
-    "weather": "❄️ Snöfall",
+    "snow_depth": "12 cm",
+    "temperature": "-4°C",
+    "last_update": "2026-01-02 16:53",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-02",
@@ -21,16 +21,16 @@
       ],
       "max_temp": [
         -0.5,
-        -4.4,
-        -3.8,
+        -4.6,
+        -4.0,
         -6.7,
         -9.1,
         -5.7,
         -5.8
       ],
       "min_temp": [
-        -4.5,
-        -5.3,
+        -4.7,
+        -5.6,
         -5.7,
         -13.6,
         -16.5,
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-02 13:47",
+    "temperature": "-4°C",
+    "last_update": "2026-01-02 16:53",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -94,16 +94,16 @@
         -2.0
       ],
       "min_temp": [
-        -5.4,
-        -6.0,
         -5.3,
+        -5.9,
+        -5.4,
         -10.6,
         -11.4,
         -8.7,
         -10.0
       ]
     },
-    "ai_summary": "(idag): Snötilllverkningen har varit igång under två nätter och planen är att återstarta snökanonerna imorgon kväll (2/1). Datum för utläggning av snön är ej fastställt, förhoppningen är att göra det i takt med flytt av kanonerna till nästkommande etapp på slingan.",
+    "ai_summary": "(1 dagar sedan): Snötilllverkningen har varit igång under två nätter och planen är att återstarta snökanonerna imorgon kväll (2/1). Datum för utläggning av snön är ej fastställt, förhoppningen är att göra det i takt med flytt av kanonerna till nästkommande etapp på slingan.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-01-01T15:19:25.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Snötilllverkningen har varit igång under två nätter och planen är att återstarta snökanonerna imorgon kväll (2/1). Datum för utläggning av snön är ej fastställt, förhoppningen är att göra det i takt med flytt av kanonerna till nästkommande etapp på slingan."
       }
     ]
@@ -129,7 +129,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-02 13:48",
+    "last_update": "2026-01-02 16:54",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -143,7 +143,7 @@
       ],
       "max_temp": [
         0.6,
-        -4.0,
+        -3.9,
         -3.2,
         -5.7,
         -7.9,
@@ -151,8 +151,8 @@
         -1.2
       ],
       "min_temp": [
-        -4.7,
-        -5.3,
+        -4.4,
+        -5.1,
         -5.1,
         -11.4,
         -11.0,
@@ -181,9 +181,9 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "4 cm",
+    "snow_depth": "5 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-02 13:48",
+    "last_update": "2026-01-02 16:54",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -197,24 +197,24 @@
       ],
       "max_temp": [
         -1.0,
-        -5.0,
-        -4.1,
+        -5.1,
+        -4.2,
         -6.1,
         -7.6,
         -8.1,
         -5.3
       ],
       "min_temp": [
-        -4.8,
-        -5.9,
-        -5.8,
+        -5.0,
+        -6.0,
+        -6.0,
         -10.6,
         -15.2,
         -14.0,
         -8.8
       ]
     },
-    "ai_summary": "(1 dagar sedan): Gott Nytt 2026! Snökanonerna och lansarna går för fullt, men vi väntar ett dygn med mildväder. Det innebär att någonstans i natt efter midnatt kommer systemet att stängas av och sen får det vila tom någonstans fredag 2/1 på morgonen när det går att starta igen. Som prognosen ser ut nu blir det några bra dagar igen för snötillverkning efter det och då fortsätter arbetet. Gott Nytt År\n\n(3 dagar sedan): Hej, äntligen är vädret med oss och klockan 13.00 idag startade vi igång vårat konstsnösystem. Idag så visade termometern knappt minus två grader hos oss på Billingen, men luftfuktigheten var 67 % vilket ger en temperatur på cirka minus fyra grader att tillverka konstsnö i. Vi kommer nu fortsätta producera konstsnö så länge vädret tillåter eller att vi har ett klart konstsnöspår och slalombacke.",
+    "ai_summary": "(idag): Hej alla skidsugna, vi har startat igång vår konstsnö tillverkning idag igen. På måndag den 5 januari kommer vi lämna besked för när konstsnöspåren kan komma att öppna, lika så kommer en prognos för slalombacken. Håll utkik här för så snart vi kan leverera naturspår kommer vi att uppdatera här. Än så länge är det inte tillräckligt med natursnö för det. God fortsättning på nya året\n\n(2 dagar sedan): Gott Nytt 2026! Snökanonerna och lansarna går för fullt, men vi väntar ett dygn med mildväder. Det innebär att någonstans i natt efter midnatt kommer systemet att stängas av och sen får det vila tom någonstans fredag 2/1 på morgonen när det går att starta igen. Som prognosen ser ut nu blir det några bra dagar igen för snötillverkning efter det och då fortsätter arbetet. Gott Nytt År",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -229,14 +229,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2025-12-31T14:44:56.000Z",
-        "days_ago": 1,
-        "text": "Gott Nytt 2026! Snökanonerna och lansarna går för fullt, men vi väntar ett dygn med mildväder. Det innebär att någonstans i natt efter midnatt kommer systemet att stängas av och sen får det vila tom någonstans fredag 2/1 på morgonen när det går att starta igen. Som prognosen ser ut nu blir det några bra dagar igen för snötillverkning efter det och då fortsätter arbetet. Gott Nytt År"
+        "date": "2026-01-02T15:07:20.000Z",
+        "days_ago": 0,
+        "text": "Hej alla skidsugna, vi har startat igång vår konstsnö tillverkning idag igen. På måndag den 5 januari kommer vi lämna besked för när konstsnöspåren kan komma att öppna, lika så kommer en prognos för slalombacken. Håll utkik här för så snart vi kan leverera naturspår kommer vi att uppdatera här. Än så länge är det inte tillräckligt med natursnö för det. God fortsättning på nya året"
       },
       {
-        "date": "2025-12-29T17:12:17.000Z",
-        "days_ago": 3,
-        "text": "Hej, äntligen är vädret med oss och klockan 13.00 idag startade vi igång vårat konstsnösystem. Idag så visade termometern knappt minus två grader hos oss på Billingen, men luftfuktigheten var 67 % vilket ger en temperatur på cirka minus fyra grader att tillverka konstsnö i. Vi kommer nu fortsätta producera konstsnö så länge vädret tillåter eller att vi har ett klart konstsnöspår och slalombacke."
+        "date": "2025-12-31T14:44:56.000Z",
+        "days_ago": 2,
+        "text": "Gott Nytt 2026! Snökanonerna och lansarna går för fullt, men vi väntar ett dygn med mildväder. Det innebär att någonstans i natt efter midnatt kommer systemet att stängas av och sen får det vila tom någonstans fredag 2/1 på morgonen när det går att starta igen. Som prognosen ser ut nu blir det några bra dagar igen för snötillverkning efter det och då fortsätter arbetet. Gott Nytt År"
       }
     ]
   },
@@ -246,9 +246,9 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Troligen öppet",
-    "snow_depth": "5 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-02 13:48",
+    "snow_depth": "7 cm",
+    "temperature": "-3°C",
+    "last_update": "2026-01-02 16:54",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -262,16 +262,16 @@
       ],
       "max_temp": [
         0.4,
-        -4.1,
-        -3.0,
+        -4.2,
+        -3.1,
         -5.8,
         -9.5,
         -4.9,
         -5.0
       ],
       "min_temp": [
-        -4.0,
-        -4.5,
+        -4.3,
+        -4.9,
         -5.0,
         -10.6,
         -13.4,
@@ -279,7 +279,7 @@
         -10.4
       ]
     },
-    "ai_summary": "(idag): Nu har vi förlängt våra spår till 1700 m. Vi kommer snart återuppta snöproduktionen och kommer inom kort förlänga spåren ytterligare. Följ oss gärna på våra sociala medier för info.\n\n(idag): Just nu jobbar vi med den tillverkade snön och har inte fräs/spårkälkar på maskinen. Spåren drogs på fm idag (lite blanka men fina, skatebädden är körd med groomer. Schaktning fräsning av nya delen kommer färdigställas imorgon så vi får fin åkning🤩 på ca1700m och vinterväder ⛷️/välkomna",
+    "ai_summary": "(idag): Samma spår gäller i morgon lördag det är 1400 meter. Vi kommer att pista i morgon bitti, tid oklart. Det snöar och kommer att fortsätta i natt.\n\n(idag): Nu har vi förlängt våra spår till 1700 m. Vi kommer snart återuppta snöproduktionen och kommer inom kort förlänga spåren ytterligare. Följ oss gärna på våra sociala medier för info.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -294,14 +294,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-02T15:52:57.000Z",
+        "days_ago": 0,
+        "text": "Samma spår gäller i morgon lördag det är 1400 meter. Vi kommer att pista i morgon bitti, tid oklart. Det snöar och kommer att fortsätta i natt."
+      },
+      {
         "date": "2026-01-02T10:29:43.000Z",
         "days_ago": 0,
         "text": "Nu har vi förlängt våra spår till 1700 m. Vi kommer snart återuppta snöproduktionen och kommer inom kort förlänga spåren ytterligare. Följ oss gärna på våra sociala medier för info."
-      },
-      {
-        "date": "2026-01-01T21:59:40.000Z",
-        "days_ago": 0,
-        "text": "Just nu jobbar vi med den tillverkade snön och har inte fräs/spårkälkar på maskinen. Spåren drogs på fm idag (lite blanka men fina, skatebädden är körd med groomer. Schaktning fräsning av nya delen kommer färdigställas imorgon så vi får fin åkning🤩 på ca1700m och vinterväder ⛷️/välkomna"
       }
     ]
   },
@@ -311,9 +311,9 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "5 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-02 13:49",
+    "snow_depth": "6 cm",
+    "temperature": "-4°C",
+    "last_update": "2026-01-02 16:55",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -335,9 +335,9 @@
         -5.2
       ],
       "min_temp": [
-        -5.0,
-        -5.6,
-        -5.6,
+        -5.4,
+        -5.8,
+        -5.7,
         -9.9,
         -13.5,
         -9.4,
@@ -374,9 +374,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "5 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-02 13:49",
-    "weather": "❄️ Snöfall",
+    "temperature": "-4°C",
+    "last_update": "2026-01-02 16:55",
+    "weather": "❄️ Kraftigt snöfall",
     "forecast": {
       "dates": [
         "2026-01-02",
@@ -390,15 +390,15 @@
       "max_temp": [
         0.2,
         -4.6,
-        -4.4,
+        -4.5,
         -5.8,
         -8.9,
         -4.3,
         -3.0
       ],
       "min_temp": [
-        -4.9,
-        -5.6,
+        -5.0,
+        -5.7,
         -5.4,
         -10.4,
         -12.2,
@@ -406,7 +406,7 @@
         -9.8
       ]
     },
-    "ai_summary": "(idag): Premiär! Nu har vi planerat ut och spårat för 1 km vändspår klassiska spår. Vi producerar snö fortsatt och förlänger efter hand. Spåravgift för vuxna, 100 kr betalas med Swish. Välkomna! Barnskidor finns att låna\n\n(2 dagar sedan): Snöproduktion pågår med målsättning att öppna spår så snart som möjligt. Vi rapporterar här löpande.",
+    "ai_summary": "(idag): Premiär! Nu har vi planerat ut och spårat för 1 km vändspår klassiska spår. Vi producerar snö fortsatt och förlänger efter hand. Spåravgift för vuxna, 100 kr betalas med Swish. Välkomna! Barnskidor finns att låna\n\n(3 dagar sedan): Snöproduktion pågår med målsättning att öppna spår så snart som möjligt. Vi rapporterar här löpande.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -424,7 +424,7 @@
       },
       {
         "date": "2025-12-30T14:07:34.000Z",
-        "days_ago": 2,
+        "days_ago": 3,
         "text": "Snöproduktion pågår med målsättning att öppna spår så snart som möjligt. Vi rapporterar här löpande."
       }
     ]
