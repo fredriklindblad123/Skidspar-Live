@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "10 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-03 03:49",
+    "last_update": "2026-01-03 04:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -29,7 +29,7 @@
         -3.8
       ],
       "min_temp": [
-        -6.7,
+        -6.8,
         -5.9,
         -6.5,
         -9.2,
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
     "temperature": "-7°C",
-    "last_update": "2026-01-03 03:49",
+    "last_update": "2026-01-03 04:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -129,7 +129,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-03 03:50",
+    "last_update": "2026-01-03 04:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -142,8 +142,8 @@
         "2026-01-09"
       ],
       "max_temp": [
-        -4.8,
-        -2.9,
+        -4.9,
+        -3.0,
         -2.7,
         -4.0,
         0.4,
@@ -151,8 +151,8 @@
         -2.3
       ],
       "min_temp": [
-        -5.9,
-        -5.4,
+        -6.0,
+        -5.5,
         -5.9,
         -5.6,
         -3.5,
@@ -183,7 +183,7 @@
     "status": "Troligen öppet",
     "snow_depth": "8 cm",
     "temperature": "-7°C",
-    "last_update": "2026-01-03 03:50",
+    "last_update": "2026-01-03 04:57",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -248,7 +248,7 @@
     "status": "Troligen öppet",
     "snow_depth": "6 cm",
     "temperature": "-5°C",
-    "last_update": "2026-01-03 03:50",
+    "last_update": "2026-01-03 04:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -313,7 +313,7 @@
     "status": "Troligen öppet",
     "snow_depth": "6 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-03 03:50",
+    "last_update": "2026-01-03 04:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -374,8 +374,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "5 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-03 03:51",
+    "temperature": "-7°C",
+    "last_update": "2026-01-03 04:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
