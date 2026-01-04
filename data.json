@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "19 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-04 16:55",
+    "snow_depth": "18 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-04 20:42",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         -4.1,
-        -3.4,
-        -2.5,
+        -4.6,
+        -2.9,
+        -5.2,
         -2.8,
         -2.5,
-        -4.1,
-        -6.2
+        -5.1
       ],
       "min_temp": [
         -6.2,
-        -5.8,
-        -7.0,
-        -7.2,
-        -6.6,
-        -6.8,
-        -9.2
+        -6.3,
+        -6.5,
+        -9.1,
+        -5.1,
+        -5.2,
+        -6.8
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret 3 km K & F 5 km gul K & F 10 km grön (ca 8 km K & F) Ovan preparerat med pistmaskin idag på morgonen Golfbanan 5 km K & F spårat med skoter och ginzugroomer\n\n(1 dagar sedan): Den senast producerade snön är nu preparerad till ett ca 3 km långt spår för klassiskt och fristil I vilken omfattning natursnöspåren kommer vara preparerade meddelas under lördag morgon. För att komma till natursnöspåren följer man kraftledningsgatan bakom maskinhallen som ligger vid änden av skidstadion Under fredagskvällen påbörjades snöläggning på resterande del av elljusspåret.",
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-04 16:55",
+    "temperature": "-5°C",
+    "last_update": "2026-01-04 20:42",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -86,21 +86,21 @@
       ],
       "max_temp": [
         -3.3,
-        -3.3,
-        -2.7,
-        -4.1,
+        -3.8,
+        -2.8,
+        -3.2,
         -1.5,
-        -2.0,
-        -4.8
+        -1.0,
+        -3.6
       ],
       "min_temp": [
         -6.9,
-        -5.5,
-        -6.3,
-        -6.9,
-        -5.4,
-        -6.6,
-        -10.8
+        -7.0,
+        -7.0,
+        -7.1,
+        -3.0,
+        -4.0,
+        -6.1
       ]
     },
     "ai_summary": "(idag): Gamla- och nya-elljusspåret är plattat med däckrulle två gånger sedan snöfallets start. En del grus förekommer så använd fulsidorna. Status konstsnön: Grävmaskin väntas anlända imorgon (måndag) och planen är att börja schakta ut snön från skjutvallen till den västra vändplatsen. Jag uppdaterar framåt när ett åkbart spår finns. Njut av vintern!\n\n(3 dagar sedan): Snötilllverkningen har varit igång under två nätter och planen är att återstarta snökanonerna imorgon kväll (2/1). Datum för utläggning av snön är ej fastställt, förhoppningen är att göra det i takt med flytt av kanonerna till nästkommande etapp på slingan.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-04 16:55",
+    "last_update": "2026-01-04 20:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,22 +147,22 @@
         "2026-01-10"
       ],
       "max_temp": [
-        -2.4,
-        -2.1,
-        -1.5,
-        -4.2,
-        -1.5,
+        -2.7,
+        -2.6,
         -1.8,
-        -4.3
+        -3.0,
+        -1.4,
+        -0.9,
+        -3.5
       ],
       "min_temp": [
         -5.6,
-        -4.0,
-        -5.8,
-        -7.0,
-        -5.1,
-        -5.9,
-        -10.6
+        -5.0,
+        -5.7,
+        -7.2,
+        -2.8,
+        -3.7,
+        -6.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -188,7 +188,7 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-04 16:55",
+    "last_update": "2026-01-04 20:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -202,21 +202,21 @@
       ],
       "max_temp": [
         -4.6,
-        -4.5,
-        -3.6,
-        -2.5,
-        -1.4,
-        -3.0,
-        -5.1
+        -3.9,
+        -3.5,
+        -5.3,
+        -2.3,
+        -2.2,
+        -4.4
       ],
       "min_temp": [
-        -6.9,
-        -7.5,
-        -7.4,
-        -10.1,
-        -6.8,
-        -6.8,
-        -11.9
+        -6.2,
+        -9.5,
+        -6.0,
+        -11.3,
+        -5.9,
+        -4.8,
+        -7.9
       ]
     },
     "ai_summary": "(idag): For most of the route the tracks are in good condition, but there are sections where there are no tracks at all\n\n(idag): Efter att snösystemet behövde endel reparationer och snökanonerna fått nya platser att göra snö på, så har vi börjat att spåra alla naturspår med scooter och spårkälke med gott resultat. Välkomna! OBS, Ny kvittorulle i automaten.",
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "13 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-04 16:56",
+    "temperature": "-5°C",
+    "last_update": "2026-01-04 20:44",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,24 +267,24 @@
       ],
       "max_temp": [
         -3.3,
-        -2.3,
-        -1.5,
-        -2.7,
-        -1.8,
-        -3.1,
-        -5.6
+        -3.8,
+        -2.0,
+        -4.0,
+        -2.2,
+        -2.0,
+        -4.4
       ],
       "min_temp": [
         -5.1,
-        -4.6,
         -5.7,
-        -7.0,
-        -6.8,
-        -6.8,
-        -9.4
+        -5.5,
+        -8.9,
+        -3.8,
+        -4.8,
+        -6.1
       ]
     },
-    "ai_summary": "(idag): Vi fortsätter att åka på den gamla slingan 1,4 km. Vi jobbar hårt för att kunna färdigställa hele banan. Nydraget på morgonen. Cafet öppet med korv, kaffe och vofflor. Även skiduthyrningen öppen. Välkomna.\n\n(1 dagar sedan): Härligt snö i spåren idag, dessutom jobbade snögubbarna med pistmaskinen så snart är det förhoppningsvis ännu mer spår att åka på. Många snökanoner igång, men det störde inte skidåkningen.",
+    "ai_summary": "(idag): Fina spår idag natursnö känsla bra belysning också 10 av 10 på underlag spår\n\n(idag): Skidstadion öppen alla dagar 06-22. Omklädningsrum och bastu öppet när spåren är öppna. Vi schaktar just nu ut all snö vi producerat och räknar med att kunna öppna i princip alla spår under veckan. Observera att på lördag 10/1 arrangerar vi Sveriges häftigaste skidtävling XC Games. Det medför att alla spår är avstängda mellan kl 9-ca 20. Endast nedre slingan öppen för allmänheten under tiden tävli",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -299,14 +299,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-04T07:50:05.000Z",
+        "date": "2026-01-04T17:26:45.000Z",
         "days_ago": 0,
-        "text": "Vi fortsätter att åka på den gamla slingan 1,4 km. Vi jobbar hårt för att kunna färdigställa hele banan. Nydraget på morgonen. Cafet öppet med korv, kaffe och vofflor. Även skiduthyrningen öppen. Välkomna."
+        "text": "Fina spår idag natursnö känsla bra belysning också 10 av 10 på underlag spår"
       },
       {
-        "date": "2026-01-03T13:50:29.000Z",
-        "days_ago": 1,
-        "text": "Härligt snö i spåren idag, dessutom jobbade snögubbarna med pistmaskinen så snart är det förhoppningsvis ännu mer spår att åka på. Många snökanoner igång, men det störde inte skidåkningen."
+        "date": "2026-01-04T17:05:57.000Z",
+        "days_ago": 0,
+        "text": "Skidstadion öppen alla dagar 06-22. Omklädningsrum och bastu öppet när spåren är öppna. Vi schaktar just nu ut all snö vi producerat och räknar med att kunna öppna i princip alla spår under veckan. Observera att på lördag 10/1 arrangerar vi Sveriges häftigaste skidtävling XC Games. Det medför att alla spår är avstängda mellan kl 9-ca 20. Endast nedre slingan öppen för allmänheten under tiden tävli"
       }
     ]
   },
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "12 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-04 16:56",
+    "temperature": "-6°C",
+    "last_update": "2026-01-04 20:44",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -4.3,
-        -3.5,
-        -2.7,
-        -3.0,
-        -2.1,
-        -3.0,
-        -5.7
+        -4.8,
+        -3.1,
+        -4.2,
+        -2.4,
+        -2.0,
+        -4.5
       ],
       "min_temp": [
         -6.1,
-        -5.7,
         -6.6,
-        -7.1,
-        -6.7,
-        -7.1,
-        -10.0
+        -6.4,
+        -8.6,
+        -4.0,
+        -4.9,
+        -6.3
       ]
     },
     "ai_summary": "(idag): Samma 1600 m vändspår som idag är nu återigen pistat och spårat inför söndagen. Snötillverkning pågår några dagar till. Välkomna.\n\n(1 dagar sedan): 1600 m vändspår pistat och spårat nu ikväll. Hoppas det fryser ihop lite inatt så det inte blir för mjukt imorgon av nysnön. Snötillverkning pågår för att kunna förlänga spåret kommande vecka. Kan yra in i spåret lite grann beroende på vind. Välkomna till Hestrastugan lördag.",
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "10 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-04 16:57",
+    "temperature": "-5°C",
+    "last_update": "2026-01-04 20:44",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -394,21 +394,21 @@
       ],
       "max_temp": [
         -3.3,
-        -3.2,
-        -2.6,
+        -4.1,
+        -2.7,
         -3.5,
-        -1.6,
-        -2.1,
-        -4.9
+        -1.8,
+        -1.3,
+        -3.8
       ],
       "min_temp": [
         -6.7,
-        -5.7,
-        -6.0,
         -7.0,
-        -6.2,
-        -7.1,
-        -10.6
+        -6.9,
+        -7.9,
+        -3.2,
+        -4.2,
+        -5.8
       ]
     },
     "ai_summary": "(idag): Nyspårat 1km klassiskt vändapår. Barnskidor finns att låna. Pulkabacke, Café. Spåravgift 100 kr betalas med Swish. Välkomna\n\n(1 dagar sedan): Nyspårat nu på morgonen, fortsatt 1km klassiska vändspår. Barnskidor finns att låna. Spåravgift 100 kr betalas med Swish. Välkomna",
