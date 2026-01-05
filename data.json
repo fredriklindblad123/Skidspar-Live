@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "18 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-05 16:57",
-    "weather": "☁️ Mulet",
+    "temperature": "-9°C",
+    "last_update": "2026-01-05 20:48",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-05",
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         -4.3,
-        -5.5,
-        -1.8,
-        -2.1,
-        -4.1,
-        -4.0,
-        -9.9
+        -6.1,
+        -1.3,
+        -1.9,
+        -4.7,
+        -3.4,
+        -9.7
       ],
       "min_temp": [
-        -9.9,
-        -10.7,
-        -8.1,
-        -5.1,
-        -6.6,
-        -13.0,
-        -17.4
+        -10.0,
+        -11.4,
+        -8.2,
+        -4.2,
+        -5.9,
+        -10.9,
+        -16.7
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under gårdagen Golfbanan 5 km K & F spårat med skoter och ginzugroomer under gårdagen.\n\n(2 dagar sedan): Den senast producerade snön är nu preparerad till ett ca 3 km långt spår för klassiskt och fristil I vilken omfattning natursnöspåren kommer vara preparerade meddelas under lördag morgon. För att komma till natursnöspåren följer man kraftledningsgatan bakom maskinhallen som ligger vid änden av skidstadion Under fredagskvällen påbörjades snöläggning på resterande del av elljusspåret.",
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "9 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-05 16:57",
+    "snow_depth": "8 cm",
+    "temperature": "-8°C",
+    "last_update": "2026-01-05 20:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -86,21 +86,21 @@
       ],
       "max_temp": [
         -3.9,
-        -3.6,
-        -1.2,
-        -1.9,
-        -3.0,
-        -3.2,
-        -6.3
+        -5.1,
+        -0.4,
+        -1.5,
+        -2.6,
+        -2.5,
+        -8.8
       ],
       "min_temp": [
-        -8.5,
-        -10.5,
-        -6.2,
-        -4.2,
-        -5.8,
+        -8.9,
         -11.1,
-        -13.6
+        -5.6,
+        -2.6,
+        -5.3,
+        -10.3,
+        -15.3
       ]
     },
     "ai_summary": "(1 dagar sedan): Gamla- och nya-elljusspåret är plattat med däckrulle två gånger sedan snöfallets start. En del grus förekommer så använd fulsidorna. Status konstsnön: Grävmaskin väntas anlända imorgon (måndag) och planen är att börja schakta ut snön från skjutvallen till den västra vändplatsen. Jag uppdaterar framåt när ett åkbart spår finns. Njut av vintern!\n\n(4 dagar sedan): Snötilllverkningen har varit igång under två nätter och planen är att återstarta snökanonerna imorgon kväll (2/1). Datum för utläggning av snön är ej fastställt, förhoppningen är att göra det i takt med flytt av kanonerna till nästkommande etapp på slingan.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-05 16:58",
+    "last_update": "2026-01-05 20:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,22 +147,22 @@
         "2026-01-11"
       ],
       "max_temp": [
-        -2.9,
-        -2.4,
-        0.1,
-        -1.7,
-        -2.7,
         -3.0,
-        -5.8
+        -3.5,
+        0.7,
+        -0.2,
+        -2.3,
+        -2.6,
+        -7.8
       ],
       "min_temp": [
-        -6.1,
-        -8.2,
-        -4.5,
-        -4.1,
-        -5.4,
-        -10.7,
-        -14.6
+        -6.3,
+        -8.1,
+        -3.5,
+        -3.6,
+        -4.8,
+        -9.9,
+        -14.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "16 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-05 16:58",
+    "temperature": "-5°C",
+    "last_update": "2026-01-05 20:49",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,22 +201,22 @@
         "2026-01-11"
       ],
       "max_temp": [
-        -5.4,
-        -5.5,
-        -2.3,
+        -4.8,
+        -5.1,
         -1.5,
-        -3.0,
+        -2.1,
+        -3.6,
         -3.5,
-        -7.6
+        -8.9
       ],
       "min_temp": [
-        -8.2,
-        -9.7,
-        -7.5,
-        -4.3,
-        -6.2,
-        -12.4,
-        -13.9
+        -6.6,
+        -8.9,
+        -8.7,
+        -3.3,
+        -5.6,
+        -16.2,
+        -18.4
       ]
     },
     "ai_summary": "(idag): Hellnermilen var bra, men en del genomslag på några ställen. Spåren slits en del då det är väldigt många som vill åka, men i övrigt fina förhållanden. Nu hoppas vi på att det sprutas klart allt som tillhör konstsnön så att det finns att åka på om det skulle bli mildväder framöver och med tanke på det hårda trycket på spåren.\n\n(idag): Om allt går enligt plan öppnar konstsnöspåren onsdag den 7 januari. Slalombacken hoppas vi kunna välkomna skidåkare till på lördag den 10 januari. Ett slutgiltigt besked om öppning kommer på onsdag den 7 januari. Just nu är den största utmaningen vattnet. Vattennivån i dammen är lite låg, vilket i värsta fall kan göra att vi inte kan ta vatten från sjön. Men vi jobbar på så länge vi kan.",
@@ -251,10 +251,10 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Troligen öppet",
-    "snow_depth": "15 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-05 16:58",
-    "weather": "☁️ Mulet",
+    "snow_depth": "14 cm",
+    "temperature": "-8°C",
+    "last_update": "2026-01-05 20:49",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-05",
@@ -267,21 +267,21 @@
       ],
       "max_temp": [
         -3.5,
-        -4.0,
-        -1.0,
-        -1.8,
-        -3.5,
+        -4.9,
+        -0.6,
+        -1.1,
         -3.8,
-        -8.8
+        -3.0,
+        -10.3
       ],
       "min_temp": [
-        -7.9,
-        -8.7,
-        -6.2,
-        -4.4,
+        -9.0,
+        -10.2,
         -6.4,
-        -11.6,
-        -14.9
+        -3.5,
+        -5.3,
+        -9.8,
+        -16.5
       ]
     },
     "ai_summary": "(idag): Onsdag 6/1 förlänger vi spåren till ca 2,2 km. Inom kort förlänger vi ytterligare. Välkomna!\n\n(idag): Gammal man gör så gott han kan åker fan så illa😊toppen spår inte alls utvägen åk och njut.",
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "14 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-05 16:58",
-    "weather": "☁️ Mulet",
+    "temperature": "-9°C",
+    "last_update": "2026-01-05 20:50",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-05",
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -4.5,
-        -4.9,
+        -5.7,
         -1.6,
-        -1.9,
-        -3.7,
-        -4.0,
-        -8.4
+        -2.2,
+        -3.8,
+        -3.0,
+        -8.2
       ],
       "min_temp": [
-        -8.6,
-        -9.4,
-        -7.1,
-        -4.5,
-        -6.4,
-        -11.6,
-        -14.2
+        -9.1,
+        -10.4,
+        -7.4,
+        -3.5,
+        -5.7,
+        -10.0,
+        -15.6
       ]
     },
     "ai_summary": "(idag): Fantastiskt fint! Lite snö inliften och lite gropigt för stavarna annars fint.\n\n(idag): Nu har vi förlängt spåret till 2,4 km och öppnat även pumphusbacken och skogen. Se bifogad spårkarta. Vi kommer successivt öppna ytterligare sträckor kommande vecka. Snöproduktion pågår på övriga delar av spåret med det stör inte skidåkningen. Välkomna till en fin trettonhelg på Hestrastugan i Borås. ❄️😍",
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "12 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-05 16:59",
-    "weather": "☁️ Mulet",
+    "temperature": "-8°C",
+    "last_update": "2026-01-05 20:50",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-05",
@@ -394,21 +394,21 @@
       ],
       "max_temp": [
         -4.2,
-        -3.7,
-        -0.9,
-        -1.0,
+        -4.9,
+        -0.6,
+        -1.5,
         -3.0,
-        -3.3,
-        -6.8
+        -2.7,
+        -8.9
       ],
       "min_temp": [
-        -8.8,
+        -8.3,
+        -9.8,
+        -5.8,
+        -2.7,
+        -5.1,
         -9.6,
-        -6.1,
-        -3.8,
-        -6.1,
-        -11.0,
-        -15.2
+        -16.9
       ]
     },
     "ai_summary": "(idag): härligt att se så många barn i spåret idag. Tänk vad fantastiskt att ge hopp om en skidåkande framtid för dessa hjältar. Självklart visar vi vuxna hänsyn och ger plats. Snart öppnar längre och bredare spår med rundslinga. Tack Hindås för jobbet\n\n(idag): Fint preppat men väldigt svårt att köra motionsträning med så många barn i spåren, samt föräldrar som går i bredd så det blir svårt att köra om. Hoppas en bättre lösning går att få till framöver!",
