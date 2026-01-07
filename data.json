@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-07 17:01",
+    "last_update": "2026-01-07 20:50",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2026-01-13"
       ],
       "max_temp": [
-        -1.7,
+        -1.8,
         -2.4,
-        -2.4,
-        -4.6,
-        -11.4,
-        -7.0,
-        -6.5
+        -2.5,
+        -3.3,
+        -12.1,
+        -8.6,
+        -7.3
       ],
       "min_temp": [
         -9.4,
-        -4.0,
-        -5.6,
-        -12.4,
-        -16.4,
-        -16.1,
-        -10.0
+        -3.8,
+        -5.2,
+        -13.1,
+        -15.4,
+        -18.3,
+        -9.7
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret drygt 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under gårdagsmorgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.\n\n(1 dagar sedan): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.",
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "16 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-07 17:02",
+    "last_update": "2026-01-07 20:50",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -86,24 +86,24 @@
       ],
       "max_temp": [
         -0.9,
-        -1.0,
-        -1.9,
+        -2.0,
+        -2.0,
         -3.8,
-        -9.4,
-        -7.6,
-        -5.9
+        -7.8,
+        -8.4,
+        -5.6
       ],
       "min_temp": [
         -7.3,
-        -3.8,
-        -5.7,
-        -11.8,
-        -14.9,
-        -16.1,
-        -10.4
+        -4.3,
+        -5.8,
+        -12.4,
+        -14.7,
+        -14.6,
+        -9.4
       ]
     },
-    "ai_summary": "(idag): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!\n\n(idag): Konstsnön nyspårat med traktor, något bättre resultat än igår. Natursnöspåren har stått sig gott under dagen, vi inväntar morgondagens snöfall, mest troligt plattas spåret igen imorgon. Produktionen av konstsnö fortsätter till kl. 07 imorgon. Ytterligare snö schaktas ut imorgon em. Njut av vintern!",
+    "ai_summary": "(idag): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!\n\n(1 dagar sedan): Konstsnön nyspårat med traktor, något bättre resultat än igår. Natursnöspåren har stått sig gott under dagen, vi inväntar morgondagens snöfall, mest troligt plattas spåret igen imorgon. Produktionen av konstsnö fortsätter till kl. 07 imorgon. Ytterligare snö schaktas ut imorgon em. Njut av vintern!",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-06T19:34:54.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Konstsnön nyspårat med traktor, något bättre resultat än igår. Natursnöspåren har stått sig gott under dagen, vi inväntar morgondagens snöfall, mest troligt plattas spåret igen imorgon. Produktionen av konstsnö fortsätter till kl. 07 imorgon. Ytterligare snö schaktas ut imorgon em. Njut av vintern!"
       }
     ]
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-07 17:02",
+    "last_update": "2026-01-07 20:51",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -148,21 +148,21 @@
       ],
       "max_temp": [
         0.9,
-        0.9,
-        -0.6,
+        -0.7,
+        -0.8,
         -3.3,
-        -10.2,
-        -8.2,
-        -5.9
+        -8.1,
+        -9.2,
+        -5.6
       ],
       "min_temp": [
         -5.5,
-        -2.1,
-        -4.2,
-        -11.1,
-        -13.4,
-        -15.5,
-        -10.8
+        -2.8,
+        -4.3,
+        -11.7,
+        -15.1,
+        -14.9,
+        -9.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -186,9 +186,9 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "16 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-07 17:02",
+    "snow_depth": "17 cm",
+    "temperature": "-2°C",
+    "last_update": "2026-01-07 20:51",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,22 +201,22 @@
         "2026-01-13"
       ],
       "max_temp": [
-        -2.2,
         -2.1,
-        -2.7,
-        -4.3,
-        -9.9,
-        -6.6,
-        -6.6
+        -2.1,
+        -2.5,
+        -5.4,
+        -10.3,
+        -7.9,
+        -6.2
       ],
       "min_temp": [
         -7.2,
-        -5.3,
-        -7.3,
+        -4.4,
+        -6.9,
         -13.4,
-        -14.1,
-        -14.4,
-        -10.9
+        -14.9,
+        -18.0,
+        -11.2
       ]
     },
     "ai_summary": "(idag): Man ska kolla vad man skriver -2 grader (inte tolv)\n\n(idag): 12 grader och snörall. Hellnermilen, lasseslingan och majaslingan är alla bra, det har kommit mer snö och när jag åkte var det inte spårat så det var extra jobbigt. Konstsnöspåren pistade de precis så det blir fint till i kväll.",
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "16 cm",
-    "temperature": "-1°C",
-    "last_update": "2026-01-07 17:03",
+    "temperature": "-2°C",
+    "last_update": "2026-01-07 20:51",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,21 +267,21 @@
       ],
       "max_temp": [
         -1.1,
-        -1.4,
+        -1.8,
         -1.7,
-        -4.1,
-        -8.6,
-        -7.2,
-        -5.8
+        -2.9,
+        -9.3,
+        -8.0,
+        -6.4
       ],
       "min_temp": [
         -7.5,
-        -3.1,
-        -5.2,
-        -11.6,
-        -13.2,
+        -2.8,
+        -4.2,
+        -11.9,
         -14.4,
-        -9.6
+        -15.4,
+        -8.4
       ]
     },
     "ai_summary": "(idag): Nyspårat klassiskt/skate efter snöfall . Välkomna\n\n(idag): Mycket fina spår och bred snöbädd. Ser fram emot den längre sträckan som snart öppnas.",
@@ -316,10 +316,10 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "16 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-07 17:03",
-    "weather": "☁️ Mulet",
+    "snow_depth": "17 cm",
+    "temperature": "-3°C",
+    "last_update": "2026-01-07 20:52",
+    "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
         "2026-01-07",
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -2.1,
-        -2.4,
-        -2.8,
-        -4.2,
-        -8.9,
-        -7.1,
-        -5.8
+        -2.9,
+        -2.7,
+        -4.0,
+        -9.5,
+        -8.5,
+        -6.5
       ],
       "min_temp": [
         -8.3,
-        -4.2,
-        -5.6,
-        -11.9,
-        -13.3,
-        -14.1,
-        -10.1
+        -3.9,
+        -5.4,
+        -12.4,
+        -14.5,
+        -14.6,
+        -9.1
       ]
     },
     "ai_summary": "(1 dagar sedan): Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!\n\n(1 dagar sedan): Naturspåren har under dagen preparerats i omgångar ängarna uppe vid sjön är åkbara samt mosslingan och spåren där emellan. Genomslag förekommer. Längd naturspår ca 5.5 km. För konstsnön se föregående inlägg. Välkomna till en fantastisk skiddag vid Hestrastugan. Spårpatrullen.",
@@ -378,9 +378,9 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Troligen öppet",
-    "snow_depth": "19 cm",
+    "snow_depth": "18 cm",
     "temperature": "-2°C",
-    "last_update": "2026-01-07 17:04",
+    "last_update": "2026-01-07 20:52",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -394,21 +394,21 @@
       ],
       "max_temp": [
         -1.2,
-        -1.7,
-        -2.0,
-        -4.0,
-        -8.7,
-        -7.7,
+        -2.1,
+        -2.1,
+        -3.5,
+        -8.1,
+        -8.1,
         -5.7
       ],
       "min_temp": [
         -7.3,
         -3.9,
-        -5.6,
-        -11.7,
-        -12.8,
-        -16.1,
-        -10.1
+        -5.9,
+        -12.1,
+        -14.5,
+        -13.7,
+        -8.7
       ]
     },
     "ai_summary": "(idag): Nyspårat nu på lunchen, 2 km klassiskt vändspår. Väldigt fint i nysnön.\n\n(idag): Underbara nypistade spår! 2 km på vändslinga.",
