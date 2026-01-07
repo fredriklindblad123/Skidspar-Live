@@ -7,38 +7,38 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-7°C",
-    "last_update": "2026-01-06 20:45",
+    "last_update": "2026-01-07 03:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -4.8,
-        -0.4,
-        -2.0,
-        -3.8,
-        -4.6,
-        -9.9,
-        -8.9
+        -1.2,
+        -2.3,
+        -3.2,
+        -5.0,
+        -11.6,
+        -8.5,
+        -8.7
       ],
       "min_temp": [
-        -8.9,
-        -7.3,
-        -4.4,
-        -6.1,
-        -10.1,
-        -14.3,
-        -12.0
+        -9.4,
+        -3.7,
+        -6.0,
+        -12.8,
+        -15.3,
+        -13.4,
+        -10.5
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.\n\n(3 dagar sedan): Den senast producerade snön är nu preparerad till ett ca 3 km långt spår för klassiskt och fristil I vilken omfattning natursnöspåren kommer vara preparerade meddelas under lördag morgon. För att komma till natursnöspåren följer man kraftledningsgatan bakom maskinhallen som ligger vid änden av skidstadion Under fredagskvällen påbörjades snöläggning på resterande del av elljusspåret.",
+    "ai_summary": "(idag): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.\n\n(4 dagar sedan): Den senast producerade snön är nu preparerad till ett ca 3 km långt spår för klassiskt och fristil I vilken omfattning natursnöspåren kommer vara preparerade meddelas under lördag morgon. För att komma till natursnöspåren följer man kraftledningsgatan bakom maskinhallen som ligger vid änden av skidstadion Under fredagskvällen påbörjades snöläggning på resterande del av elljusspåret.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -59,7 +59,7 @@
       },
       {
         "date": "2026-01-02T22:46:09.000Z",
-        "days_ago": 3,
+        "days_ago": 4,
         "text": "Den senast producerade snön är nu preparerad till ett ca 3 km långt spår för klassiskt och fristil I vilken omfattning natursnöspåren kommer vara preparerade meddelas under lördag morgon. För att komma till natursnöspåren följer man kraftledningsgatan bakom maskinhallen som ligger vid änden av skidstadion Under fredagskvällen påbörjades snöläggning på resterande del av elljusspåret."
       }
     ]
@@ -70,40 +70,40 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "8 cm",
-    "temperature": "-9°C",
-    "last_update": "2026-01-06 20:45",
+    "snow_depth": "9 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-07 03:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -6.3,
-        -0.7,
-        -0.9,
-        -3.2,
-        -3.9,
-        -9.1,
-        -7.5
+        -0.8,
+        -1.1,
+        -2.6,
+        -4.5,
+        -8.6,
+        -7.1,
+        -6.6
       ],
       "min_temp": [
-        -12.9,
-        -7.8,
-        -6.5,
-        -6.8,
-        -10.7,
-        -11.9,
-        -11.5
+        -7.3,
+        -4.2,
+        -7.3,
+        -10.3,
+        -9.9,
+        -11.1,
+        -7.6
       ]
     },
-    "ai_summary": "(idag): Konstsnön nyspårat med traktor, något bättre resultat än igår. Natursnöspåren har stått sig gott under dagen, vi inväntar morgondagens snöfall, mest troligt plattas spåret igen imorgon. Produktionen av konstsnö fortsätter till kl. 07 imorgon. Ytterligare snö schaktas ut imorgon em. Njut av vintern!\n\n(idag): Nu har vi 300m vändspår med konstsnö, kört en gång med traktor samt flertalet gånger med fyrhjuling och ginzugroomer. Skejtbädden är ok men de klassiska spåren är tyvvär rätt grunda. Med nuvarande maskinpark har vi svårt att leverera den spårkvalitet som vi själva vill. Men för entusiasten är både nya+gala eljusspåret plattat med ginzugroomern på nytt. Använd oömma skidor. Väl mött!",
+    "ai_summary": "(idag): Konstsnön nyspårat med traktor, något bättre resultat än igår. Natursnöspåren har stått sig gott under dagen, vi inväntar morgondagens snöfall, mest troligt plattas spåret igen imorgon. Produktionen av konstsnö fortsätter till kl. 07 imorgon. Ytterligare snö schaktas ut imorgon em. Njut av vintern!\n\n(1 dagar sedan): Nu har vi 300m vändspår med konstsnö, kört en gång med traktor samt flertalet gånger med fyrhjuling och ginzugroomer. Skejtbädden är ok men de klassiska spåren är tyvvär rätt grunda. Med nuvarande maskinpark har vi svårt att leverera den spårkvalitet som vi själva vill. Men för entusiasten är både nya+gala eljusspåret plattat med ginzugroomern på nytt. Använd oömma skidor. Väl mött!",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-05T22:18:56.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Nu har vi 300m vändspår med konstsnö, kört en gång med traktor samt flertalet gånger med fyrhjuling och ginzugroomer. Skejtbädden är ok men de klassiska spåren är tyvvär rätt grunda. Med nuvarande maskinpark har vi svårt att leverera den spårkvalitet som vi själva vill. Men för entusiasten är både nya+gala eljusspåret plattat med ginzugroomern på nytt. Använd oömma skidor. Väl mött!"
       }
     ]
@@ -134,35 +134,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-06 20:46",
+    "last_update": "2026-01-07 03:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -4.5,
         1.0,
-        0.9,
-        -3.1,
-        -3.5,
-        -9.6,
-        -8.1
+        0.6,
+        -2.0,
+        -4.0,
+        -8.7,
+        -7.1,
+        -6.7
       ],
       "min_temp": [
-        -8.0,
-        -5.6,
-        -3.7,
-        -5.2,
-        -10.4,
-        -12.5,
-        -11.9
+        -5.5,
+        -2.6,
+        -4.1,
+        -9.8,
+        -9.9,
+        -11.3,
+        -7.9
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -187,39 +187,39 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-06 20:46",
-    "weather": "☁️ Mulet",
+    "temperature": "-8°C",
+    "last_update": "2026-01-07 03:57",
+    "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -4.8,
-        -1.1,
-        -1.6,
+        -1.5,
+        -2.0,
         -2.7,
-        -3.5,
-        -11.1,
-        -8.9
+        -4.7,
+        -11.5,
+        -7.9,
+        -8.4
       ],
       "min_temp": [
-        -6.7,
-        -8.1,
-        -7.1,
-        -7.7,
-        -10.5,
-        -14.9,
-        -16.0
+        -7.8,
+        -5.1,
+        -6.6,
+        -12.4,
+        -14.2,
+        -16.6,
+        -9.9
       ]
     },
-    "ai_summary": "(idag): Stundtals episkt och emellanåt genomslag. Spåren är överlag riktigt bra. På vissa delar förekommer genomslag, men väljer man att åka mellan spåren är det hur bra som helst. För den som tränar inför Vasaloppet är det bra med spårbyten för vrister, knän och jumskar. För den som åker för nöjes skull är helhetsintrycket minst 4,5 av 5. Vid solsken hade det varit 5.\n\n(idag): Idag har jag åkt Hellnermilen. Tyvärr så var det väldigt mycket genomslag. Ta inte era nyaste skidor. Hoppas kommunen åker ut och skottar i där det är som sämst så att det går att fortsätta åka naturspåren som är så fina",
+    "ai_summary": "(idag): Konstsnöspåret öppnar! Inatt spårades Sjövägen till krysset, samt halva Gamla Slingan från Koporten till infarten Elitsticket. Naturspåren når ni från starten/infotorget över bron och vänstersida på stadion. Naturspåren ansluter igen vid konstsnöspåret vid krysset, för åkning mot starten igen via Sjövägen. Välkomna!\n\n(idag): Stundtals episkt och emellanåt genomslag. Spåren är överlag riktigt bra. På vissa delar förekommer genomslag, men väljer man att åka mellan spåren är det hur bra som helst. För den som tränar inför Vasaloppet är det bra med spårbyten för vrister, knän och jumskar. För den som åker för nöjes skull är helhetsintrycket minst 4,5 av 5. Vid solsken hade det varit 5.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-07T03:28:08.000Z",
+        "days_ago": 0,
+        "text": "Konstsnöspåret öppnar! Inatt spårades Sjövägen till krysset, samt halva Gamla Slingan från Koporten till infarten Elitsticket. Naturspåren når ni från starten/infotorget över bron och vänstersida på stadion. Naturspåren ansluter igen vid konstsnöspåret vid krysset, för åkning mot starten igen via Sjövägen. Välkomna!"
+      },
+      {
         "date": "2026-01-06T13:10:49.000Z",
         "days_ago": 0,
         "text": "Stundtals episkt och emellanåt genomslag. Spåren är överlag riktigt bra. På vissa delar förekommer genomslag, men väljer man att åka mellan spåren är det hur bra som helst. För den som tränar inför Vasaloppet är det bra med spårbyten för vrister, knän och jumskar. För den som åker för nöjes skull är helhetsintrycket minst 4,5 av 5. Vid solsken hade det varit 5."
-      },
-      {
-        "date": "2026-01-06T10:24:14.000Z",
-        "days_ago": 0,
-        "text": "Idag har jag åkt Hellnermilen. Tyvärr så var det väldigt mycket genomslag. Ta inte era nyaste skidor. Hoppas kommunen åker ut och skottar i där det är som sämst så att det går att fortsätta åka naturspåren som är så fina"
       }
     ]
   },
@@ -253,35 +253,35 @@
     "status": "Troligen öppet",
     "snow_depth": "14 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-06 20:46",
+    "last_update": "2026-01-07 03:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -5.0,
-        0.2,
-        -1.1,
-        -3.5,
-        -3.8,
-        -9.1,
-        -8.0
+        -0.6,
+        -1.0,
+        -2.5,
+        -4.6,
+        -9.4,
+        -8.0,
+        -7.7
       ],
       "min_temp": [
-        -10.6,
-        -5.1,
-        -5.4,
-        -6.2,
-        -9.6,
-        -12.1,
-        -11.4
+        -7.5,
+        -3.0,
+        -5.6,
+        -11.6,
+        -11.9,
+        -12.7,
+        -10.9
       ]
     },
     "ai_summary": "(idag): Fina spår ännu mer variation 10 av 10\n\n(idag): Fantastiskt fint att åka idag. Mycket folk men ändå inte trångt i spåren. Goda våfflor i caféet. Tack alla som kämpar med snötillverkning och spår! Guldstjärna till er alla!",
@@ -318,38 +318,38 @@
     "status": "Troligen öppet",
     "snow_depth": "13 cm",
     "temperature": "-7°C",
-    "last_update": "2026-01-06 20:47",
+    "last_update": "2026-01-07 03:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -5.7,
-        -0.9,
+        -1.5,
         -2.1,
-        -3.7,
-        -4.2,
-        -9.6,
-        -7.9
+        -3.3,
+        -5.0,
+        -8.8,
+        -7.9,
+        -7.2
       ],
       "min_temp": [
-        -10.9,
-        -6.4,
-        -6.4,
-        -7.2,
-        -10.4,
-        -11.9,
-        -11.4
+        -8.3,
+        -4.1,
+        -6.5,
+        -11.4,
+        -11.4,
+        -12.3,
+        -10.8
       ]
     },
-    "ai_summary": "(idag): Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!\n\n(idag): Naturspåren har under dagen preparerats i omgångar ängarna uppe vid sjön är åkbara samt mosslingan och spåren där emellan. Genomslag förekommer. Längd naturspår ca 5.5 km. För konstsnön se föregående inlägg. Välkomna till en fantastisk skiddag vid Hestrastugan. Spårpatrullen.",
+    "ai_summary": "(idag): Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!\n\n(1 dagar sedan): Naturspåren har under dagen preparerats i omgångar ängarna uppe vid sjön är åkbara samt mosslingan och spåren där emellan. Genomslag förekommer. Längd naturspår ca 5.5 km. För konstsnön se föregående inlägg. Välkomna till en fantastisk skiddag vid Hestrastugan. Spårpatrullen.",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -367,7 +367,7 @@
       },
       {
         "date": "2026-01-06T00:13:51.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Naturspåren har under dagen preparerats i omgångar ängarna uppe vid sjön är åkbara samt mosslingan och spåren där emellan. Genomslag förekommer. Längd naturspår ca 5.5 km. För konstsnön se föregående inlägg. Välkomna till en fantastisk skiddag vid Hestrastugan. Spårpatrullen."
       }
     ]
@@ -379,39 +379,39 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "12 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-01-06 20:47",
+    "temperature": "-6°C",
+    "last_update": "2026-01-07 03:59",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-06",
         "2026-01-07",
         "2026-01-08",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ],
       "max_temp": [
-        -6.2,
-        -0.3,
-        -1.3,
-        -3.2,
-        -3.4,
-        -8.9,
-        -7.3
+        -1.0,
+        -1.5,
+        -2.5,
+        -4.2,
+        -8.6,
+        -7.3,
+        -6.5
       ],
       "min_temp": [
-        -11.7,
-        -6.7,
-        -6.1,
-        -6.9,
+        -7.3,
+        -4.0,
+        -7.2,
         -10.4,
-        -11.6,
-        -11.4
+        -10.2,
+        -11.4,
+        -8.2
       ]
     },
-    "ai_summary": "(idag): Förvånansvärt bra spår med tanke på mängden besökande. Lite svårt att hålla sitt eget tempo idag. Blir bra när det förlängs.\n\n(idag): jättefint idag. spåret förlängt till toppen.Gott om snö. Mycket vuxna i vägen dock. Det gick inte motionera. Hoppas på en lösning snart.",
+    "ai_summary": "(idag): Nypistat ca 2km klassiska spår . Vändspår . Nu börjar vi dra ner på snökanonerna så rundslingan närmar sig. Barnskidor finns att låna. Massor med snöhögar att leka i. Välkomna!\n\n(idag): Förvånansvärt bra spår med tanke på mängden besökande. Lite svårt att hålla sitt eget tempo idag. Blir bra när det förlängs.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-06T22:19:55.000Z",
+        "days_ago": 0,
+        "text": "Nypistat ca 2km klassiska spår . Vändspår . Nu börjar vi dra ner på snökanonerna så rundslingan närmar sig. Barnskidor finns att låna. Massor med snöhögar att leka i. Välkomna!"
+      },
+      {
         "date": "2026-01-06T19:41:51.000Z",
         "days_ago": 0,
         "text": "Förvånansvärt bra spår med tanke på mängden besökande. Lite svårt att hålla sitt eget tempo idag. Blir bra när det förlängs."
-      },
-      {
-        "date": "2026-01-06T12:56:12.000Z",
-        "days_ago": 0,
-        "text": "jättefint idag. spåret förlängt till toppen.Gott om snö. Mycket vuxna i vägen dock. Det gick inte motionera. Hoppas på en lösning snart."
       }
     ]
   }
