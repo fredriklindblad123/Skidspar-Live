@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-08 03:55",
+    "last_update": "2026-01-08 05:01",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -38,7 +38,7 @@
         -10.2
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret drygt 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under gårdagsmorgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.\n\n(1 dagar sedan): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.",
+    "ai_summary": "(idag): Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.\n\n(1 dagar sedan): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,9 +53,9 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-07T05:56:24.000Z",
+        "date": "2026-01-08T04:38:14.000Z",
         "days_ago": 0,
-        "text": "Konstsnöspåret drygt 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under gårdagsmorgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer."
+        "text": "Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer."
       },
       {
         "date": "2026-01-06T05:17:46.000Z",
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "17 cm",
+    "snow_depth": "18 cm",
     "temperature": "-3°C",
-    "last_update": "2026-01-08 03:55",
+    "last_update": "2026-01-08 05:01",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -94,8 +94,8 @@
         -6.5
       ],
       "min_temp": [
-        -6.7,
-        -7.2,
+        -6.8,
+        -7.3,
         -12.1,
         -13.5,
         -15.1,
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-08 03:55",
+    "last_update": "2026-01-08 05:02",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -157,7 +157,7 @@
       ],
       "min_temp": [
         -4.2,
-        -5.3,
+        -5.2,
         -11.9,
         -13.8,
         -16.2,
@@ -188,7 +188,7 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-3°C",
-    "last_update": "2026-01-08 03:55",
+    "last_update": "2026-01-08 05:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -210,8 +210,8 @@
         -7.9
       ],
       "min_temp": [
-        -7.2,
-        -8.5,
+        -7.3,
+        -8.6,
         -13.4,
         -15.0,
         -14.6,
@@ -253,7 +253,7 @@
     "status": "Troligen öppet",
     "snow_depth": "16 cm",
     "temperature": "-3°C",
-    "last_update": "2026-01-08 03:56",
+    "last_update": "2026-01-08 05:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,7 +267,7 @@
       ],
       "max_temp": [
         -2.1,
-        -1.9,
+        -2.0,
         -2.9,
         -8.1,
         -10.0,
@@ -275,7 +275,7 @@
         -7.1
       ],
       "min_temp": [
-        -5.2,
+        -5.3,
         -5.6,
         -12.1,
         -14.4,
@@ -318,7 +318,7 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-08 03:56",
+    "last_update": "2026-01-08 05:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -333,7 +333,7 @@
       "max_temp": [
         -3.1,
         -3.0,
-        -4.0,
+        -3.9,
         -8.8,
         -9.5,
         -8.1,
@@ -341,7 +341,7 @@
       ],
       "min_temp": [
         -6.4,
-        -7.0,
+        -7.1,
         -12.2,
         -13.9,
         -14.8,
@@ -349,7 +349,7 @@
         -9.4
       ]
     },
-    "ai_summary": "(1 dagar sedan): Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!\n\n(2 dagar sedan): Naturspåren har under dagen preparerats i omgångar ängarna uppe vid sjön är åkbara samt mosslingan och spåren där emellan. Genomslag förekommer. Längd naturspår ca 5.5 km. För konstsnön se föregående inlägg. Välkomna till en fantastisk skiddag vid Hestrastugan. Spårpatrullen.",
+    "ai_summary": "(idag): I natt har vi schaktat ut det mesta av den nyproducerade snön. På torsdag morgon blir konstsnöspåret tillfälligt något kortare ca 1,8 km (se bifogad spårkarta). Natursnöspåren preparerades på onsdag kväll. Vi kommer preparera alla spår efter nattens snöfall under torsdag förmiddag. Vi återkommer med en ny spårrapport under dagen. Välkomna till en fin skiddag på Hestrastugan i Borås ❄️❤️\n\n(1 dagar sedan): Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -361,14 +361,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-08T04:10:09.000Z",
+        "days_ago": 0,
+        "text": "I natt har vi schaktat ut det mesta av den nyproducerade snön. På torsdag morgon blir konstsnöspåret tillfälligt något kortare ca 1,8 km (se bifogad spårkarta). Natursnöspåren preparerades på onsdag kväll. Vi kommer preparera alla spår efter nattens snöfall under torsdag förmiddag. Vi återkommer med en ny spårrapport under dagen. Välkomna till en fin skiddag på Hestrastugan i Borås ❄️❤️"
+      },
+      {
         "date": "2026-01-06T09:16:36.000Z",
         "days_ago": 1,
         "text": "Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!"
-      },
-      {
-        "date": "2026-01-06T00:13:51.000Z",
-        "days_ago": 2,
-        "text": "Naturspåren har under dagen preparerats i omgångar ängarna uppe vid sjön är åkbara samt mosslingan och spåren där emellan. Genomslag förekommer. Längd naturspår ca 5.5 km. För konstsnön se föregående inlägg. Välkomna till en fantastisk skiddag vid Hestrastugan. Spårpatrullen."
       }
     ]
   },
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
     "temperature": "-3°C",
-    "last_update": "2026-01-08 03:56",
+    "last_update": "2026-01-08 05:03",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -394,7 +394,7 @@
       ],
       "max_temp": [
         -2.3,
-        -2.3,
+        -2.4,
         -3.3,
         -7.8,
         -9.9,
@@ -402,8 +402,8 @@
         -6.2
       ],
       "min_temp": [
-        -6.7,
-        -7.2,
+        -6.8,
+        -7.3,
         -11.9,
         -14.7,
         -17.5,
