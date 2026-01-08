@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-08 13:53",
-    "weather": "☁️ Mulet",
+    "temperature": "-4°C",
+    "last_update": "2026-01-08 17:02",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-08",
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "22 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-08 13:53",
-    "weather": "☁️ Mulet",
+    "temperature": "-3°C",
+    "last_update": "2026-01-08 17:02",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-08",
@@ -103,7 +103,7 @@
         -1.4
       ]
     },
-    "ai_summary": "(idag): Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka.\n\n(idag): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!",
+    "ai_summary": "(idag): Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka.\n\n(1 dagar sedan): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-07T15:29:15.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!"
       }
     ]
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-08 13:54",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-01-08 17:03",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-08",
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-08 13:54",
+    "temperature": "-4°C",
+    "last_update": "2026-01-08 17:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -219,7 +219,7 @@
         -3.9
       ]
     },
-    "ai_summary": "(idag): Naturspåren spårade på förmiddagen. Gröna milen 10km ett klassiskt spår plus skatebädd. Lasserundan 5 km dubbla klassiska spår. Majaslingan 3,5km endast skatebädd på grund av lite för lite snö för att lägga profiler. Konstsnöbädden spåras nu i eftermiddag. Lika så fjäraturen. Välkomna!\n\n(idag): Konstsnöspåret spårades om under natten! Naturspåren väntar vi lite med tills det kommer mer snö. Välkomna!",
+    "ai_summary": "(idag): Första gången på Billingen för vår del. Underbara spår på Lasseslingan. Ut och åk! :)\n\n(idag): Naturspåren spårade på förmiddagen. Gröna milen 10km ett klassiskt spår plus skatebädd. Lasserundan 5 km dubbla klassiska spår. Majaslingan 3,5km endast skatebädd på grund av lite för lite snö för att lägga profiler. Konstsnöbädden spåras nu i eftermiddag. Lika så fjäraturen. Välkomna!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-08T15:42:44.000Z",
+        "days_ago": 0,
+        "text": "Första gången på Billingen för vår del. Underbara spår på Lasseslingan. Ut och åk! :)"
+      },
+      {
         "date": "2026-01-08T12:17:42.000Z",
         "days_ago": 0,
         "text": "Naturspåren spårade på förmiddagen. Gröna milen 10km ett klassiskt spår plus skatebädd. Lasserundan 5 km dubbla klassiska spår. Majaslingan 3,5km endast skatebädd på grund av lite för lite snö för att lägga profiler. Konstsnöbädden spåras nu i eftermiddag. Lika så fjäraturen. Välkomna!"
-      },
-      {
-        "date": "2026-01-08T02:23:13.000Z",
-        "days_ago": 0,
-        "text": "Konstsnöspåret spårades om under natten! Naturspåren väntar vi lite med tills det kommer mer snö. Välkomna!"
       }
     ]
   },
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-08 13:54",
-    "weather": "☁️ Mulet",
+    "temperature": "-4°C",
+    "last_update": "2026-01-08 17:03",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-08",
@@ -284,7 +284,7 @@
         -2.5
       ]
     },
-    "ai_summary": "(idag): Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det.\n\n(idag): Nyspårat klassiskt/skate efter snöfall . Välkomna",
+    "ai_summary": "(idag): Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det.\n\n(1 dagar sedan): Nyspårat klassiskt/skate efter snöfall . Välkomna",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -305,7 +305,7 @@
       },
       {
         "date": "2026-01-07T15:48:28.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Nyspårat klassiskt/skate efter snöfall . Välkomna"
       }
     ]
@@ -316,10 +316,10 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "20 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-08 13:54",
-    "weather": "☁️ Mulet",
+    "snow_depth": "19 cm",
+    "temperature": "-5°C",
+    "last_update": "2026-01-08 17:04",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-08",
@@ -349,7 +349,7 @@
         -2.6
       ]
     },
-    "ai_summary": "(idag): I natt har vi schaktat ut det mesta av den nyproducerade snön. På torsdag morgon blir konstsnöspåret tillfälligt något kortare ca 1,8 km (se bifogad spårkarta). Natursnöspåren preparerades på onsdag kväll. Vi kommer preparera alla spår efter nattens snöfall under torsdag förmiddag. Vi återkommer med en ny spårrapport under dagen. Välkomna till en fin skiddag på Hestrastugan i Borås ❄️❤️\n\n(2 dagar sedan): Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!",
+    "ai_summary": "(idag): HELA nya utsiktsspåret 3,6 km är nu öppnat och natursnöspåren nydragna! (se bifogad spårkarta) Vår tanke är att åka via ängen, högsta punkten, vända i Mötesplatsen och samma väg tillbaka. Från femvägskorset vänster upp i västra och övre Sprintbacken till Mötesplatsen, vända ner igen via östra Sprintbacken ut på Mossrakan. Tips! Ta gärna höger i femvägskorset för lättare åkning. Välkomna! ❄️🥰\n\n(idag): I natt har vi schaktat ut det mesta av den nyproducerade snön. På torsdag morgon blir konstsnöspåret tillfälligt något kortare ca 1,8 km (se bifogad spårkarta). Natursnöspåren preparerades på onsdag kväll. Vi kommer preparera alla spår efter nattens snöfall under torsdag förmiddag. Vi återkommer med en ny spårrapport under dagen. Välkomna till en fin skiddag på Hestrastugan i Borås ❄️❤️",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -361,14 +361,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-08T16:00:51.000Z",
+        "days_ago": 0,
+        "text": "HELA nya utsiktsspåret 3,6 km är nu öppnat och natursnöspåren nydragna! (se bifogad spårkarta) Vår tanke är att åka via ängen, högsta punkten, vända i Mötesplatsen och samma väg tillbaka. Från femvägskorset vänster upp i västra och övre Sprintbacken till Mötesplatsen, vända ner igen via östra Sprintbacken ut på Mossrakan. Tips! Ta gärna höger i femvägskorset för lättare åkning. Välkomna! ❄️🥰"
+      },
+      {
         "date": "2026-01-08T04:10:09.000Z",
         "days_ago": 0,
         "text": "I natt har vi schaktat ut det mesta av den nyproducerade snön. På torsdag morgon blir konstsnöspåret tillfälligt något kortare ca 1,8 km (se bifogad spårkarta). Natursnöspåren preparerades på onsdag kväll. Vi kommer preparera alla spår efter nattens snöfall under torsdag förmiddag. Vi återkommer med en ny spårrapport under dagen. Välkomna till en fin skiddag på Hestrastugan i Borås ❄️❤️"
-      },
-      {
-        "date": "2026-01-06T09:16:36.000Z",
-        "days_ago": 2,
-        "text": "Våra Naturspår nås enklast nu när vi producerar snö genom att ta backen upp från planen. Följ konstsnön till vändningen innan plane och sedan upp för backen som då är på din vänstra sida. Ut och njut!"
       }
     ]
   },
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "23 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-08 13:55",
-    "weather": "☁️ Mulet",
+    "temperature": "-4°C",
+    "last_update": "2026-01-08 17:04",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-08",
@@ -411,7 +411,7 @@
         -1.6
       ]
     },
-    "ai_summary": "(1 dagar sedan): Nyspårat nu på lunchen, 2 km klassiskt vändspår. Väldigt fint i nysnön.\n\n(1 dagar sedan): Underbara nypistade spår! 2 km på vändslinga.",
+    "ai_summary": "(idag): Jättefint!\n\n(idag): Nyspårat 2 km klassiska spår i vändslinga. Vi kommer att ge oss på snöhögar och natursnö för rejäl förlängning det närmsta dygnet. Vänligen parkera ansvarsfullt. Välkomna!",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-07T13:49:36.000Z",
-        "days_ago": 1,
-        "text": "Nyspårat nu på lunchen, 2 km klassiskt vändspår. Väldigt fint i nysnön."
+        "date": "2026-01-08T16:10:47.000Z",
+        "days_ago": 0,
+        "text": "Jättefint!"
       },
       {
-        "date": "2026-01-07T13:18:28.000Z",
-        "days_ago": 1,
-        "text": "Underbara nypistade spår! 2 km på vändslinga."
+        "date": "2026-01-08T13:59:17.000Z",
+        "days_ago": 0,
+        "text": "Nyspårat 2 km klassiska spår i vändslinga. Vi kommer att ge oss på snöhögar och natursnö för rejäl förlängning det närmsta dygnet. Vänligen parkera ansvarsfullt. Välkomna!"
       }
     ]
   }
