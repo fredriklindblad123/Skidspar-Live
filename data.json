@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "9 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-09 08:59",
+    "snow_depth": "17 cm",
+    "temperature": "-4°C",
+    "last_update": "2026-01-09 13:56",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -3.5,
-        -5.4,
-        -5.3,
+        -4.1,
+        -6.1,
         -6.0,
-        -1.4,
-        1.6,
+        -5.7,
+        -1.9,
+        0.6,
         1.7
       ],
       "min_temp": [
-        -7.6,
-        -11.0,
-        -16.9,
-        -15.8,
-        -5.6,
-        -1.2,
-        0.9
+        -8.0,
+        -12.4,
+        -16.3,
+        -15.3,
+        -5.4,
+        -1.9,
+        0.8
       ]
     },
     "ai_summary": "(idag): OBS idag kommer det pågå schaktning på skidstadion Vistas inte i närheten av maskinen. Håll avstånd på minst 20-30 m Konstsnöspåret ca 5 km K & F. Nypistat idag. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under gårdagen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer under gårdagen.\n\n(1 dagar sedan): Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.",
@@ -70,10 +70,10 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "13 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-09 09:00",
-    "weather": "☀️ Klart",
+    "snow_depth": "22 cm",
+    "temperature": "-4°C",
+    "last_update": "2026-01-09 13:56",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -85,25 +85,25 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.6,
-        -5.0,
-        -6.1,
-        -4.3,
-        1.0,
-        3.2,
+        -3.5,
+        -5.7,
+        -6.7,
+        -4.0,
+        0.4,
+        2.0,
         3.2
       ],
       "min_temp": [
         -8.1,
-        -10.5,
+        -11.5,
+        -16.8,
         -16.2,
-        -15.4,
-        -3.9,
-        1.2,
+        -3.7,
+        0.4,
         1.1
       ]
     },
-    "ai_summary": "(idag): Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka.\n\n(1 dagar sedan): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!",
+    "ai_summary": "(1 dagar sedan): Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka.\n\n(1 dagar sedan): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-01-08T12:07:10.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka."
       },
       {
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-09 09:00",
-    "weather": "☀️ Klart",
+    "last_update": "2026-01-09 13:57",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -147,21 +147,21 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -1.7,
-        -3.5,
-        -5.0,
+        -2.4,
         -3.8,
-        1.4,
-        3.2,
+        -5.5,
+        -3.5,
+        0.9,
+        2.3,
         3.3
       ],
       "min_temp": [
         -6.0,
-        -8.7,
-        -15.9,
+        -9.6,
+        -16.9,
         -15.4,
-        -3.4,
-        1.5,
+        -3.3,
+        0.9,
         1.2
       ]
     },
@@ -186,10 +186,10 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "9 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-09 09:00",
-    "weather": "☁️ Mulet",
+    "snow_depth": "19 cm",
+    "temperature": "-2°C",
+    "last_update": "2026-01-09 13:57",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -201,25 +201,25 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.8,
-        -6.3,
-        -4.8,
-        -6.2,
-        -1.3,
-        2.0,
+        -1.7,
+        -5.8,
+        -4.6,
+        -5.4,
+        -1.2,
+        0.4,
         2.4
       ],
       "min_temp": [
         -8.2,
-        -9.9,
-        -14.9,
-        -17.0,
-        -6.4,
-        -1.3,
-        1.4
+        -9.5,
+        -13.2,
+        -16.9,
+        -5.6,
+        -1.5,
+        0.6
       ]
     },
-    "ai_summary": "(idag): Lasseslingan i pannlampans sken är magisk nu Bra spår och stavfäste\n\n(idag): Första gången på Billingen för vår del. Underbara spår på Lasseslingan. Ut och åk! :)",
+    "ai_summary": "(idag): Dagens tur med Anna Warner från SLA i -4 grader. Vi åkte Lasseslingan - kanonbra spår, några få genomslag men mycket bra spår. Ut och åk!!\n\n(idag): Lasseslingan i pannlampans sken är magisk nu Bra spår och stavfäste",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-09T09:17:46.000Z",
+        "days_ago": 0,
+        "text": "Dagens tur med Anna Warner från SLA i -4 grader. Vi åkte Lasseslingan - kanonbra spår, några få genomslag men mycket bra spår. Ut och åk!!"
+      },
+      {
         "date": "2026-01-08T19:53:21.000Z",
         "days_ago": 0,
         "text": "Lasseslingan i pannlampans sken är magisk nu Bra spår och stavfäste"
-      },
-      {
-        "date": "2026-01-08T15:42:44.000Z",
-        "days_ago": 0,
-        "text": "Första gången på Billingen för vår del. Underbara spår på Lasseslingan. Ut och åk! :)"
       }
     ]
   },
@@ -251,10 +251,10 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Troligen öppet",
-    "snow_depth": "9 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-09 09:00",
-    "weather": "🌤️ Mestadels klart",
+    "snow_depth": "18 cm",
+    "temperature": "-3°C",
+    "last_update": "2026-01-09 13:58",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -266,25 +266,25 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.7,
-        -5.0,
-        -4.2,
-        -5.3,
-        -0.6,
-        2.3,
+        -3.3,
+        -5.5,
+        -4.7,
+        -5.1,
+        -1.0,
+        1.0,
         2.0
       ],
       "min_temp": [
         -6.1,
-        -8.7,
+        -9.4,
         -16.5,
-        -16.3,
-        -4.9,
-        -0.2,
-        1.2
+        -16.4,
+        -4.7,
+        -1.1,
+        1.1
       ]
     },
-    "ai_summary": "(idag): Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna\n\n(idag): Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det.",
+    "ai_summary": "(idag): Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna\n\n(1 dagar sedan): Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -305,7 +305,7 @@
       },
       {
         "date": "2026-01-08T12:56:04.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det."
       }
     ]
@@ -316,10 +316,10 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "10 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-09 09:01",
-    "weather": "🌤️ Mestadels klart",
+    "snow_depth": "19 cm",
+    "temperature": "-4°C",
+    "last_update": "2026-01-09 13:58",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -331,21 +331,21 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -3.6,
-        -5.7,
-        -4.9,
-        -5.3,
-        -0.6,
-        2.3,
+        -4.3,
+        -6.3,
+        -5.5,
+        -5.0,
+        -1.0,
+        1.0,
         1.9
       ],
       "min_temp": [
-        -7.1,
-        -9.1,
-        -16.9,
-        -13.6,
-        -4.9,
-        -0.2,
+        -7.2,
+        -10.2,
+        -16.1,
+        -14.3,
+        -4.8,
+        -1.2,
         1.1
       ]
     },
@@ -378,10 +378,10 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Troligen öppet",
-    "snow_depth": "14 cm",
+    "snow_depth": "24 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-09 09:01",
-    "weather": "☀️ Klart",
+    "last_update": "2026-01-09 13:58",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -393,21 +393,21 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.3,
-        -4.9,
-        -5.3,
-        -4.6,
-        0.8,
-        3.1,
-        2.2
+        -3.4,
+        -5.7,
+        -6.1,
+        -4.2,
+        0.0,
+        1.8,
+        2.4
       ],
       "min_temp": [
         -8.1,
-        -9.8,
-        -18.3,
-        -17.5,
-        -4.1,
-        1.0,
+        -10.8,
+        -18.0,
+        -17.1,
+        -4.0,
+        0.0,
         1.1
       ]
     },
