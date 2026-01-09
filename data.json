@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-09 13:56",
-    "weather": "⛅ Halvklart",
+    "temperature": "-5°C",
+    "last_update": "2026-01-09 17:03",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -72,8 +72,8 @@
     "status": "Troligen öppet",
     "snow_depth": "22 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-09 13:56",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-01-09 17:03",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -103,7 +103,7 @@
         1.1
       ]
     },
-    "ai_summary": "(1 dagar sedan): Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka.\n\n(1 dagar sedan): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!",
+    "ai_summary": "(1 dagar sedan): Nyspårat på natursnöspåren, otroligt fint! Spår på både gamla och nya, den nykomna snön har gjort de något mjuka.\n\n(2 dagar sedan): Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-07T15:29:15.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Gamla och nya spåret pistade med ginzugroomern och fyrhjuling. Spår dragna längs det gamla elljusspåret med med relativt grund spårprofil. Men generellt väldigt fina förhållanden på Landehof!"
       }
     ]
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-09 13:57",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-01-09 17:04",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-09 13:57",
-    "weather": "⛅ Halvklart",
+    "temperature": "-3°C",
+    "last_update": "2026-01-09 17:04",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -219,7 +219,7 @@
         0.6
       ]
     },
-    "ai_summary": "(idag): Dagens tur med Anna Warner från SLA i -4 grader. Vi åkte Lasseslingan - kanonbra spår, några få genomslag men mycket bra spår. Ut och åk!!\n\n(idag): Lasseslingan i pannlampans sken är magisk nu Bra spår och stavfäste",
+    "ai_summary": "(idag): Hej! Idag fortsätter arbetet med att köra ut snö och iordningställa anläggningen. Så fort något är spårat så meddelar vi det här. Idag har vi gjort ett tappert försök att spåra Blängsmosse, men spåren blåser igen lika snabbt som vi spårar. Vi har därför plattat ifall någon tapper själ vill åka ut och göra ett spår med sina egna skidor. Trevlig tur önskar vi på Billingen\n\n(idag): Dagens tur med Anna Warner från SLA i -4 grader. Vi åkte Lasseslingan - kanonbra spår, några få genomslag men mycket bra spår. Ut och åk!!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-09T15:06:23.000Z",
+        "days_ago": 0,
+        "text": "Hej! Idag fortsätter arbetet med att köra ut snö och iordningställa anläggningen. Så fort något är spårat så meddelar vi det här. Idag har vi gjort ett tappert försök att spåra Blängsmosse, men spåren blåser igen lika snabbt som vi spårar. Vi har därför plattat ifall någon tapper själ vill åka ut och göra ett spår med sina egna skidor. Trevlig tur önskar vi på Billingen"
+      },
+      {
         "date": "2026-01-09T09:17:46.000Z",
         "days_ago": 0,
         "text": "Dagens tur med Anna Warner från SLA i -4 grader. Vi åkte Lasseslingan - kanonbra spår, några få genomslag men mycket bra spår. Ut och åk!!"
-      },
-      {
-        "date": "2026-01-08T19:53:21.000Z",
-        "days_ago": 0,
-        "text": "Lasseslingan i pannlampans sken är magisk nu Bra spår och stavfäste"
       }
     ]
   },
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "18 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-09 13:58",
-    "weather": "⛅ Halvklart",
+    "temperature": "-4°C",
+    "last_update": "2026-01-09 17:05",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -284,7 +284,7 @@
         1.1
       ]
     },
-    "ai_summary": "(idag): Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna\n\n(1 dagar sedan): Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det.",
+    "ai_summary": "(idag): OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen.\n\n(idag): Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -299,14 +299,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-09T14:46:08.000Z",
+        "days_ago": 0,
+        "text": "OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen."
+      },
+      {
         "date": "2026-01-09T01:26:42.000Z",
         "days_ago": 0,
         "text": "Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna"
-      },
-      {
-        "date": "2026-01-08T12:56:04.000Z",
-        "days_ago": 1,
-        "text": "Ikväll torsdag 18.00-19.30 pågår skidskola och träning för barn/ungdomar. 150 barn och ungdomar i spåren, visa hänsyn och planera din träning efter det."
       }
     ]
   },
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-09 13:58",
-    "weather": "⛅ Halvklart",
+    "temperature": "-5°C",
+    "last_update": "2026-01-09 17:05",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -380,8 +380,8 @@
     "status": "Troligen öppet",
     "snow_depth": "24 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-09 13:58",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-01-09 17:05",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
