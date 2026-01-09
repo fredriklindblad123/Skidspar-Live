@@ -7,8 +7,8 @@
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
     "temperature": "-7°C",
-    "last_update": "2026-01-09 03:58",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-01-09 05:02",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -21,8 +21,8 @@
       ],
       "max_temp": [
         -2.7,
-        -4.8,
-        -7.2,
+        -5.0,
+        -7.3,
         -5.9,
         -1.6,
         -0.7,
@@ -30,7 +30,7 @@
       ],
       "min_temp": [
         -7.6,
-        -10.0,
+        -10.1,
         -18.0,
         -17.5,
         -5.8,
@@ -38,7 +38,7 @@
         -2.0
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.\n\n(2 dagar sedan): Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.",
+    "ai_summary": "(idag): OBS idag kommer det pågå schaktning på skidstadion Vistas inte i närheten av maskinen. Håll avstånd på minst 20-30 m Konstsnöspåret ca 5 km K & F. Nypistat idag. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under gårdagen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer under gårdagen.\n\n(1 dagar sedan): Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-08T04:38:14.000Z",
+        "date": "2026-01-09T04:35:04.000Z",
         "days_ago": 0,
-        "text": "Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer."
+        "text": "OBS idag kommer det pågå schaktning på skidstadion Vistas inte i närheten av maskinen. Håll avstånd på minst 20-30 m Konstsnöspåret ca 5 km K & F. Nypistat idag. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under gårdagen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer under gårdagen."
       },
       {
-        "date": "2026-01-06T05:17:46.000Z",
-        "days_ago": 2,
-        "text": "Konstsnöspåret 3 km K & F. Nypistat idag på morgonen. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren preparerade med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer."
+        "date": "2026-01-08T04:38:14.000Z",
+        "days_ago": 1,
+        "text": "Konstsnöspåret drygt 3 km K & F. Postades sent onsdag kväll. 5 km gul K & F 10 km grön (ca 8 km K & F) Natursnöspåren prepareras med pistmaskin under morgonen. Golfbanan 5 km K & F spårat med skoter och ginzugroomer."
       }
     ]
   },
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "22 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-01-09 03:59",
+    "temperature": "-6°C",
+    "last_update": "2026-01-09 05:02",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -85,9 +85,9 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.5,
-        -4.6,
-        -8.0,
+        -2.2,
+        -4.4,
+        -8.1,
         -4.5,
         -0.3,
         1.1,
@@ -95,7 +95,7 @@
       ],
       "min_temp": [
         -8.1,
-        -9.3,
+        -9.4,
         -11.1,
         -16.4,
         -4.3,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-09 03:59",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-01-09 05:03",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-01-09",
@@ -147,9 +147,9 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -1.5,
-        -2.9,
-        -6.6,
+        -1.3,
+        -2.8,
+        -6.8,
         -4.2,
         -0.1,
         1.4,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "20 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-09 03:59",
+    "temperature": "-5°C",
+    "last_update": "2026-01-09 05:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,9 +201,9 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.8,
-        -6.1,
-        -6.2,
+        -3.0,
+        -6.3,
+        -6.3,
         -5.7,
         -2.1,
         -0.9,
@@ -211,7 +211,7 @@
       ],
       "min_temp": [
         -8.2,
-        -9.6,
+        -9.7,
         -14.2,
         -16.5,
         -5.6,
@@ -253,7 +253,7 @@
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
     "temperature": "-5°C",
-    "last_update": "2026-01-09 04:00",
+    "last_update": "2026-01-09 05:04",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -266,7 +266,7 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.3,
+        -1.9,
         -4.3,
         -6.2,
         -5.4,
@@ -276,7 +276,7 @@
       ],
       "min_temp": [
         -6.1,
-        -8.0,
+        -7.9,
         -18.2,
         -18.3,
         -5.2,
@@ -318,7 +318,7 @@
     "status": "Troligen öppet",
     "snow_depth": "20 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-09 04:00",
+    "last_update": "2026-01-09 05:04",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -331,9 +331,9 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -3.3,
-        -5.5,
-        -6.9,
+        -2.9,
+        -5.4,
+        -6.7,
         -5.5,
         -1.1,
         0.0,
@@ -341,7 +341,7 @@
       ],
       "min_temp": [
         -7.1,
-        -8.8,
+        -8.5,
         -16.8,
         -18.0,
         -5.3,
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "24 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-09 04:01",
+    "last_update": "2026-01-09 05:04",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -393,8 +393,8 @@
         "2026-01-15"
       ],
       "max_temp": [
-        -2.3,
-        -4.4,
+        -2.0,
+        -4.3,
         -7.0,
         -4.8,
         -0.4,
@@ -403,7 +403,7 @@
       ],
       "min_temp": [
         -8.1,
-        -8.9,
+        -9.0,
         -12.8,
         -19.0,
         -4.7,
