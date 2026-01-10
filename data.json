@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "16 cm",
-    "temperature": "-8°C",
-    "last_update": "2026-01-10 13:43",
+    "snow_depth": "15 cm",
+    "temperature": "-10°C",
+    "last_update": "2026-01-10 16:49",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "21 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-10 13:43",
+    "temperature": "-9°C",
+    "last_update": "2026-01-10 16:49",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-10 13:44",
+    "last_update": "2026-01-10 16:49",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -194,7 +194,7 @@
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
     "temperature": "-7°C",
-    "last_update": "2026-01-10 13:44",
+    "last_update": "2026-01-10 16:49",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -225,7 +225,7 @@
         -0.6
       ]
     },
-    "ai_summary": "(idag): Ett stort hål på slutet utav gröna. Där spåren går bredvid 3,5 och 5an in emot konstsnön. Annars bra, 5an är bättre än 10an, förre som åkt där. Konsnöspåren är grymma 👍\n\n(idag): -8, knappt bågon vind och solsken 09:30-10:15 Ägnade tiden åt skidskola med 2-6 åringar. Rapporter från de som åkt 5 och 10 säger det var bra spår.",
+    "ai_summary": "(idag): Idag var det en riktigt fin vinterdag. Spåren är bra på Hellnermilen. Några genomslag efter lite drygt 1 km annars bra. Konstsnön är kanon. Tror det skulle vara bra om kommunen kör ut de högarna som är kvar innan det ev blir mildväder. Då får ni med kallsnön i konstsnön istället för att vänta tills det blir milt Alla som har skidor upp och åk nu det är sååå fint\n\n(idag): Ett stort hål på slutet utav gröna. Där spåren går bredvid 3,5 och 5an in emot konstsnön. Annars bra, 5an är bättre än 10an, förre som åkt där. Konsnöspåren är grymma 👍",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -240,14 +240,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-10T14:39:40.000Z",
+        "days_ago": 0,
+        "text": "Idag var det en riktigt fin vinterdag. Spåren är bra på Hellnermilen. Några genomslag efter lite drygt 1 km annars bra. Konstsnön är kanon. Tror det skulle vara bra om kommunen kör ut de högarna som är kvar innan det ev blir mildväder. Då får ni med kallsnön i konstsnön istället för att vänta tills det blir milt Alla som har skidor upp och åk nu det är sååå fint"
+      },
+      {
         "date": "2026-01-10T12:07:32.000Z",
         "days_ago": 0,
         "text": "Ett stort hål på slutet utav gröna. Där spåren går bredvid 3,5 och 5an in emot konstsnön. Annars bra, 5an är bättre än 10an, förre som åkt där. Konsnöspåren är grymma 👍"
-      },
-      {
-        "date": "2026-01-10T11:19:51.000Z",
-        "days_ago": 0,
-        "text": "-8, knappt bågon vind och solsken 09:30-10:15 Ägnade tiden åt skidskola med 2-6 åringar. Rapporter från de som åkt 5 och 10 säger det var bra spår."
       }
     ]
   },
@@ -258,8 +258,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-10 13:45",
+    "temperature": "-7°C",
+    "last_update": "2026-01-10 16:50",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -290,7 +290,7 @@
         0.6
       ]
     },
-    "ai_summary": "(idag): OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen.\n\n(1 dagar sedan): Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna",
+    "ai_summary": "(1 dagar sedan): OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen.\n\n(1 dagar sedan): Nyspårat klassiskt/skate hela banan . Vi har nu 3.3km. Vi stänger av hela övre delen av banan 20.00 Fredag kväll för förberedelser av Ungdomstävling. /välkomna",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -306,7 +306,7 @@
     "ai_comments": [
       {
         "date": "2026-01-09T14:46:08.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen."
       },
       {
@@ -323,8 +323,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "18 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-01-10 13:45",
+    "temperature": "-8°C",
+    "last_update": "2026-01-10 16:50",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -355,7 +355,7 @@
         0.6
       ]
     },
-    "ai_summary": "(idag): Ser ut att kunna bli en fin skiddag lördag vid Hestrastugan. Serveringen är öppen och konstsnöspår ca 4 km är spårat och pistat ikväll samt breddat ute på åkern. Prova gärna våra natursnöspår också. Vi har spår på 4 slingor varav två går att åka skate på också. Myrslingan samt 5 km är enkelt spår. Skyltar visar vägen. Det går även att åka på sjön vid Ängarna men det är lite isigt bitvis. Välkomna!\n\n(idag): Helt suveräna spår idag !! stenhårda djupa spår. Det behövdes lite mjukare valla för bra fäste för mig som åker klassiskt. Våra mest engagerade snögubbar borde bli Hedersmedlemnar i Hestra !! Vilket lyft för föreningen med nya sträckningen !! Jag är stolt medlem sedan 1995 !!",
+    "ai_summary": "(idag): Lyxigt att kunna ut och njuta som om det vore fjällen men vara kvar i Borås. Natursnöspåren håller fint och är lisa för själen. Några genomslag av Ljung här och var men inget som stör. Sjön är isig. Konstsnön är så bra det kan bli. Fullt på parkeringen men ingen trängsel i spåren. Tack för allt jobb som läggs ner för att vi ska kunna njuta av skidåkning!\n\n(idag): Ser ut att kunna bli en fin skiddag lördag vid Hestrastugan. Serveringen är öppen och konstsnöspår ca 4 km är spårat och pistat ikväll samt breddat ute på åkern. Prova gärna våra natursnöspår också. Vi har spår på 4 slingor varav två går att åka skate på också. Myrslingan samt 5 km är enkelt spår. Skyltar visar vägen. Det går även att åka på sjön vid Ängarna men det är lite isigt bitvis. Välkomna!",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -367,14 +367,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-10T14:53:38.000Z",
+        "days_ago": 0,
+        "text": "Lyxigt att kunna ut och njuta som om det vore fjällen men vara kvar i Borås. Natursnöspåren håller fint och är lisa för själen. Några genomslag av Ljung här och var men inget som stör. Sjön är isig. Konstsnön är så bra det kan bli. Fullt på parkeringen men ingen trängsel i spåren. Tack för allt jobb som läggs ner för att vi ska kunna njuta av skidåkning!"
+      },
+      {
         "date": "2026-01-09T23:37:02.000Z",
         "days_ago": 0,
         "text": "Ser ut att kunna bli en fin skiddag lördag vid Hestrastugan. Serveringen är öppen och konstsnöspår ca 4 km är spårat och pistat ikväll samt breddat ute på åkern. Prova gärna våra natursnöspår också. Vi har spår på 4 slingor varav två går att åka skate på också. Myrslingan samt 5 km är enkelt spår. Skyltar visar vägen. Det går även att åka på sjön vid Ängarna men det är lite isigt bitvis. Välkomna!"
-      },
-      {
-        "date": "2026-01-09T19:58:30.000Z",
-        "days_ago": 0,
-        "text": "Helt suveräna spår idag !! stenhårda djupa spår. Det behövdes lite mjukare valla för bra fäste för mig som åker klassiskt. Våra mest engagerade snögubbar borde bli Hedersmedlemnar i Hestra !! Vilket lyft för föreningen med nya sträckningen !! Jag är stolt medlem sedan 1995 !!"
       }
     ]
   },
@@ -385,8 +385,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "23 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-10 13:45",
+    "temperature": "-9°C",
+    "last_update": "2026-01-10 16:51",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
