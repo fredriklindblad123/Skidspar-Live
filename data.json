@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "16 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-01-11 13:45",
+    "temperature": "-10°C",
+    "last_update": "2026-01-11 16:51",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "21 cm",
-    "temperature": "-9°C",
-    "last_update": "2026-01-11 13:45",
+    "temperature": "-12°C",
+    "last_update": "2026-01-11 16:51",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-11 13:45",
+    "last_update": "2026-01-11 16:51",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -193,8 +193,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-11 13:45",
+    "temperature": "-8°C",
+    "last_update": "2026-01-11 16:51",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -258,9 +258,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-11 13:46",
-    "weather": "☀️ Klart",
+    "temperature": "-8°C",
+    "last_update": "2026-01-11 16:52",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-11",
@@ -290,7 +290,7 @@
         0.3
       ]
     },
-    "ai_summary": "(idag): Preparerat nu på morgonen. Snöproduktion pågår på nedre slingan så den är tillfälligt stängd. Ca 2 km spår är öppet för åkning. Välkomna!\n\n(1 dagar sedan): OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen.",
+    "ai_summary": "(idag): Preparerat nu på morgonen. Snöproduktion pågår på nedre slingan så den är tillfälligt stängd. Ca 2 km spår är öppet för åkning. Välkomna!\n\n(2 dagar sedan): OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -311,7 +311,7 @@
       },
       {
         "date": "2026-01-09T14:46:08.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "OBS ingen skiduthyrning öppen i morgon. Vi har en stor ungdomstävling med ca 300 deltagare. För motionärer har vi en slinga på 1 km öppen."
       }
     ]
@@ -323,9 +323,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-01-11 13:46",
-    "weather": "☀️ Klart",
+    "temperature": "-9°C",
+    "last_update": "2026-01-11 16:52",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-11",
@@ -355,7 +355,7 @@
         0.1
       ]
     },
-    "ai_summary": "(idag): Hela vårt konstsnöspår på 3,6 km är nypreparerat för klassiskt och skate. Våra naturspår är också nydragna. Kyperedsängen och Sjöslingan är preparerade för skate och klassiskt. 5 km spåret och Myrslingan är klassiska. Totalt har vi ca 13 km preparerade spår. Välkomna till en fin skiddag på Hestrastugan i Borås! ❤️❄️👍\n\n(idag): Lyxigt att kunna ut och njuta som om det vore fjällen men vara kvar i Borås. Natursnöspåren håller fint och är lisa för själen. Några genomslag av Ljung här och var men inget som stör. Sjön är isig. Konstsnön är så bra det kan bli. Fullt på parkeringen men ingen trängsel i spåren. Tack för allt jobb som läggs ner för att vi ska kunna njuta av skidåkning!",
+    "ai_summary": "(idag): Jättefina spår med lite genomslag på vissa ställen. Sjöslingan var väldigt isig men Myrspåret var underbart!\n\n(idag): Hela vårt konstsnöspår på 3,6 km är nypreparerat för klassiskt och skate. Våra naturspår är också nydragna. Kyperedsängen och Sjöslingan är preparerade för skate och klassiskt. 5 km spåret och Myrslingan är klassiska. Totalt har vi ca 13 km preparerade spår. Välkomna till en fin skiddag på Hestrastugan i Borås! ❤️❄️👍",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -367,14 +367,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-11T15:56:03.000Z",
+        "days_ago": 0,
+        "text": "Jättefina spår med lite genomslag på vissa ställen. Sjöslingan var väldigt isig men Myrspåret var underbart!"
+      },
+      {
         "date": "2026-01-10T23:00:49.000Z",
         "days_ago": 0,
         "text": "Hela vårt konstsnöspår på 3,6 km är nypreparerat för klassiskt och skate. Våra naturspår är också nydragna. Kyperedsängen och Sjöslingan är preparerade för skate och klassiskt. 5 km spåret och Myrslingan är klassiska. Totalt har vi ca 13 km preparerade spår. Välkomna till en fin skiddag på Hestrastugan i Borås! ❤️❄️👍"
-      },
-      {
-        "date": "2026-01-10T14:53:38.000Z",
-        "days_ago": 0,
-        "text": "Lyxigt att kunna ut och njuta som om det vore fjällen men vara kvar i Borås. Natursnöspåren håller fint och är lisa för själen. Några genomslag av Ljung här och var men inget som stör. Sjön är isig. Konstsnön är så bra det kan bli. Fullt på parkeringen men ingen trängsel i spåren. Tack för allt jobb som läggs ner för att vi ska kunna njuta av skidåkning!"
       }
     ]
   },
@@ -385,8 +385,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "23 cm",
-    "temperature": "-8°C",
-    "last_update": "2026-01-11 13:47",
+    "temperature": "-11°C",
+    "last_update": "2026-01-11 16:53",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
