@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "16 cm",
-    "temperature": "-11°C",
-    "last_update": "2026-01-12 09:03",
+    "snow_depth": "17 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-12 13:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -4.0,
-        -0.2,
-        1.9,
-        0.3,
-        0.4,
+        -4.8,
         0.2,
+        2.6,
+        -0.3,
+        -0.3,
+        -0.9,
         -3.0
       ],
       "min_temp": [
         -16.5,
-        -3.7,
-        -0.7,
-        -2.5,
-        -2.5,
+        -4.6,
+        -0.8,
+        -1.8,
+        -1.1,
         -5.6,
-        -4.7
+        -4.6
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil. Håll högerspår så kommer ni rätt. 5 km gul och 10 km grön klassiskt och fristil (genomslag förekommer). 15 km svart/vit. De tuffare delarna preparerade med ginzugroomer. Klassiska spår på vissa delar. Fristil på alla delar. Golfbanan ca 5 km preparerad under gårdagen med ginzugroomer. Genomslag kan förekomma.\n\n(1 dagar sedan): Konstsnöspåret K & F. Nypistat natten till idag. 5 km gul K & F 10 km grön K & F 15 km svart/vit (de tuffare delarna) preparat med ginzugroomer. Endast fristil på ngn del och klassiskt på ngn del) Natursnöspåren preparerade med pistmaskin och ginzugroomer för ngn dag sedan. Golfbanan 5 km K & F preparerad med ginzugroomer.natten till idag.",
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "21 cm",
-    "temperature": "-11°C",
-    "last_update": "2026-01-12 09:03",
+    "snow_depth": "22 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-12 13:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -4.7,
-        -0.4,
-        3.5,
-        2.1,
-        2.8,
+        -4.8,
+        0.5,
+        2.4,
         1.4,
+        1.5,
+        0.9,
         -2.2
       ],
       "min_temp": [
         -18.1,
-        -4.4,
-        -0.2,
-        -0.9,
-        -1.1,
-        -5.0,
-        -3.9
+        -4.5,
+        0.1,
+        -1.9,
+        0.6,
+        -5.4,
+        -3.5
       ]
     },
     "ai_summary": "(idag): Natursnöspåren rekommenderas idag. Vi nyttjar kylan till att göra mer snö på ängen.\n\n(1 dagar sedan): Vi preparerar båda natursnöspåren och konstsnöspåret nu sent på lördagkväll. Klassiskt och skate. Vinterstugan är öppen kl 10-15 lördag och söndag. Servering och skiduthyrning för barn och vuxna. Välkommna!",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-12 09:03",
+    "last_update": "2026-01-12 13:55",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,22 +147,22 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -2.0,
-        1.9,
-        3.8,
+        -3.2,
         2.0,
-        2.8,
+        3.9,
         1.5,
+        1.8,
+        1.4,
         -1.9
       ],
       "min_temp": [
         -12.4,
-        -1.8,
-        2.0,
-        -0.4,
-        -0.6,
-        -4.6,
-        -3.8
+        -2.8,
+        1.5,
+        -1.5,
+        0.8,
+        -5.0,
+        -3.0
       ]
     },
     "ai_summary": "(2 dagar sedan): Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste.",
@@ -192,9 +192,9 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "18 cm",
-    "temperature": "-8°C",
-    "last_update": "2026-01-12 09:03",
+    "snow_depth": "19 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-12 13:55",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -207,25 +207,25 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -3.7,
-        -0.7,
-        2.0,
-        0.5,
-        0.9,
+        -4.4,
+        -0.3,
+        1.7,
+        1.5,
         0.3,
+        -0.4,
         -2.7
       ],
       "min_temp": [
         -13.6,
-        -3.4,
-        -0.7,
-        -5.2,
-        -1.8,
-        -4.0,
+        -4.1,
+        -0.1,
+        -6.2,
+        -1.0,
+        -4.4,
         -4.0
       ]
     },
-    "ai_summary": "(idag): Igår kväll skottades det i snö på naturspåren för att det ska hålla bra om det blir mildare. Tack till Träningskonsulten för ett jättebra jobb. Nyspårade naturspår inför dagens skidåkning samt delar av konstsöspåren. Vi fortsätter under dagen att schackta ut konstsnö på gamlaslingan och toppslingan. Välkomna!\n\n(idag): Billingens mest solsäkra spår i solsken ☀️. Fantastiskt att turåka då det är naturspårat men lite mjukt och ’sladdrigt’ på sina håll. Vore bra om det kunde maskinspåras här uppe också :)",
+    "ai_summary": "(idag): Igår kväll skottades det i snö på naturspåren för att det ska hålla bra om det blir mildare. Tack till Träningskonsulten för ett jättebra jobb. Nyspårade naturspår inför dagens skidåkning samt delar av konstsöspåren. Vi fortsätter under dagen att schackta ut konstsnö på gamlaslingan och toppslingan. Välkomna!\n\n(1 dagar sedan): Billingens mest solsäkra spår i solsken ☀️. Fantastiskt att turåka då det är naturspårat men lite mjukt och ’sladdrigt’ på sina håll. Vore bra om det kunde maskinspåras här uppe också :)",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -246,7 +246,7 @@
       },
       {
         "date": "2026-01-11T09:18:04.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Billingens mest solsäkra spår i solsken ☀️. Fantastiskt att turåka då det är naturspårat men lite mjukt och ’sladdrigt’ på sina håll. Vore bra om det kunde maskinspåras här uppe också :)"
       }
     ]
@@ -258,8 +258,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "17 cm",
-    "temperature": "-10°C",
-    "last_update": "2026-01-12 09:04",
+    "temperature": "-6°C",
+    "last_update": "2026-01-12 13:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -272,21 +272,21 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -3.8,
-        0.2,
-        2.5,
-        1.6,
-        1.5,
+        -4.5,
+        0.7,
+        3.1,
+        -0.3,
         0.6,
+        -0.1,
         -2.6
       ],
       "min_temp": [
         -14.3,
-        -3.6,
-        -0.7,
-        -2.8,
+        -4.2,
+        -0.9,
         -2.3,
-        -5.2,
+        -0.3,
+        -5.1,
         -4.3
       ]
     },
@@ -322,9 +322,9 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "18 cm",
-    "temperature": "-10°C",
-    "last_update": "2026-01-12 09:04",
+    "snow_depth": "19 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-12 13:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -337,21 +337,21 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -4.3,
-        -0.5,
-        2.5,
-        1.5,
-        1.5,
-        0.6,
+        -5.2,
+        -0.0,
+        2.1,
+        0.0,
+        0.5,
+        -0.1,
         -2.8
       ],
       "min_temp": [
         -13.2,
-        -4.1,
+        -4.9,
+        -0.9,
+        -2.6,
         -0.4,
-        -2.3,
-        -2.5,
-        -5.6,
+        -5.4,
         -4.4
       ]
     },
@@ -385,8 +385,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "23 cm",
-    "temperature": "-10°C",
-    "last_update": "2026-01-12 09:05",
+    "temperature": "-6°C",
+    "last_update": "2026-01-12 13:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -399,22 +399,22 @@
         "2026-01-18"
       ],
       "max_temp": [
-        -3.6,
-        0.2,
-        3.5,
-        2.0,
-        2.5,
-        1.1,
+        -4.7,
+        0.5,
+        2.3,
+        1.0,
+        1.2,
+        0.7,
         -2.3
       ],
       "min_temp": [
         -14.9,
-        -3.3,
-        0.2,
-        -1.3,
-        -1.4,
-        -5.2,
-        -4.0
+        -4.4,
+        -0.1,
+        -2.2,
+        0.3,
+        -5.3,
+        -3.6
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret nypistat ikväll klassiskt o skate 3km Passa på att köra även natursnöspåren innan mildvädret. Fin skatebädd, några genomslag i det klassiska spåret. Men fortsatt fint. Välkomna!\n\n(idag): Konstsnöspåret OK, övriga väldigt mycket skit i spåren. Stavfästet bra, kanterna OK till bra.",
