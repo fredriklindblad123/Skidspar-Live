@@ -5,10 +5,10 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "18 cm",
+    "snow_depth": "15 cm",
     "temperature": "1°C",
-    "last_update": "2026-01-14 08:35",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-01-14 12:53",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -20,22 +20,22 @@
         "2026-01-20"
       ],
       "max_temp": [
-        2.0,
-        1.7,
-        4.0,
-        1.0,
-        0.3,
-        -0.4,
+        2.4,
+        2.1,
+        4.4,
+        1.2,
+        0.6,
+        -1.5,
         -2.2
       ],
       "min_temp": [
         0.0,
-        0.5,
         1.1,
-        -0.2,
-        -0.6,
-        -5.3,
-        -5.4
+        1.5,
+        -0.4,
+        -1.2,
+        -6.2,
+        -6.7
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret nypistat idag tidig morgon för klassiskt och fristil. Längsta spårlängd omkring 6 km. Preparering av natursnöspåren sker först när kylan återvänder och förutsättningar för det finns då.\n\n(1 dagar sedan): Konstsnöspåret ca 6.5 km nypistat idag på morgonen Natursnöspåren preparerade för ngr dagar sedan. Genomslag förekommer på 5 och 10 km Golfbanan ca 5 km genomslag kan förekomma",
@@ -70,10 +70,10 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "20 cm",
-    "temperature": "1°C",
-    "last_update": "2026-01-14 08:35",
-    "weather": "🌧️ Lätt duggregn",
+    "snow_depth": "17 cm",
+    "temperature": "3°C",
+    "last_update": "2026-01-14 12:54",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -85,25 +85,25 @@
         "2026-01-20"
       ],
       "max_temp": [
-        2.9,
-        2.3,
-        4.8,
-        2.0,
-        1.2,
-        0.2,
+        3.1,
+        2.6,
+        5.0,
+        2.2,
+        1.3,
+        -0.5,
         -1.4
       ],
       "min_temp": [
-        -0.6,
-        -0.9,
-        1.6,
-        0.4,
+        0.6,
         0.2,
-        -4.4,
-        -5.4
+        2.1,
+        0.4,
+        -0.2,
+        -4.6,
+        -5.8
       ]
     },
-    "ai_summary": "(idag): Otroligt fina spår igår kväll och två längre slingor. Har åkt hör under många år men det har aldrig varit så här bra. Och både för klassiskt och fristil. TACK!\n\n(1 dagar sedan): Passa på att åka natursnöspåren. Vi avslutade snötillverkningen igår och gjorde en första fräsning av den nyutlagda snön.",
+    "ai_summary": "(1 dagar sedan): Otroligt fina spår igår kväll och två längre slingor. Har åkt hör under många år men det har aldrig varit så här bra. Och både för klassiskt och fristil. TACK!\n\n(1 dagar sedan): Passa på att åka natursnöspåren. Vi avslutade snötillverkningen igår och gjorde en första fräsning av den nyutlagda snön.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-01-13T10:33:55.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Otroligt fina spår igår kväll och två längre slingor. Har åkt hör under många år men det har aldrig varit så här bra. Och både för klassiskt och fristil. TACK!"
       },
       {
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-14 08:35",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-01-14 12:54",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -147,22 +147,22 @@
         "2026-01-20"
       ],
       "max_temp": [
-        4.1,
-        3.3,
-        6.2,
-        2.3,
-        1.5,
-        0.4,
+        4.2,
+        3.6,
+        6.1,
+        3.0,
+        1.6,
+        0.3,
         -1.4
       ],
       "min_temp": [
         1.6,
-        1.9,
-        2.0,
+        1.8,
+        2.7,
         0.6,
-        0.4,
-        -3.7,
-        -4.7
+        0.0,
+        -3.8,
+        -4.9
       ]
     },
     "ai_summary": "(4 dagar sedan): Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste.",
@@ -193,9 +193,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "19 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-14 08:35",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "1°C",
+    "last_update": "2026-01-14 12:54",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -207,22 +207,22 @@
         "2026-01-20"
       ],
       "max_temp": [
+        2.3,
         2.1,
-        1.9,
-        3.3,
+        3.6,
         1.8,
-        0.6,
-        -0.2,
+        0.8,
+        -0.4,
         -1.8
       ],
       "min_temp": [
         -0.3,
-        0.7,
-        1.9,
+        0.9,
+        1.8,
         0.2,
-        -0.1,
-        -3.2,
-        -2.8
+        -0.2,
+        -9.9,
+        -9.4
       ]
     },
     "ai_summary": "(idag): Hej, Nu är konstsnöspåren omspårade (stadion, sjövägen och gamla slingan) efter nattens snöfall. Vi kommer att platta naturspåren under dagen och fortsätta att jobba med spåren under tiden som det snöar. Vi ber er att hålla utkik efter pistmaskinerna då det är dålig sikt för oss i skidspåren i dimman och snöfallet. Så vi håller utkik efter varandra. Åk försiktigt! Välkomna till oss på Billingen\n\n(idag): Fina konstsnöspår överlag ikväll. Dock såg jag inte att Campingslingan var öppen som det stod i rapporten. Men den kanske är på gång då det är en väldigt fin sträcka att åka för oss motionärer.",
@@ -257,10 +257,10 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Troligen öppet",
-    "snow_depth": "19 cm",
-    "temperature": "1°C",
-    "last_update": "2026-01-14 08:35",
-    "weather": "🌧️ Duggregn",
+    "snow_depth": "15 cm",
+    "temperature": "2°C",
+    "last_update": "2026-01-14 12:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -272,25 +272,25 @@
         "2026-01-20"
       ],
       "max_temp": [
-        2.7,
-        2.7,
-        4.8,
-        1.0,
-        0.8,
-        -0.3,
+        2.9,
+        2.9,
+        5.1,
+        1.2,
+        0.6,
+        -0.9,
         -1.9
       ],
       "min_temp": [
         0.7,
-        0.7,
-        1.4,
+        1.5,
+        1.9,
         -0.1,
-        -0.2,
+        -0.8,
         -5.8,
         -6.8
       ]
     },
-    "ai_summary": "(idag): I dag tisdag jobbar vi med den dubbelriktade delen. Det innebär att vi åker slingan över bron och runt kullen sen övre delen förutom den dubbelriktade delen. Vi jobbar med all snö vi producerat under helgen.\n\n(2 dagar sedan): Nypreparerat klassiska spår samt skate 2,2 km. Välkomna!",
+    "ai_summary": "(1 dagar sedan): I dag tisdag jobbar vi med den dubbelriktade delen. Det innebär att vi åker slingan över bron och runt kullen sen övre delen förutom den dubbelriktade delen. Vi jobbar med all snö vi producerat under helgen.\n\n(2 dagar sedan): Nypreparerat klassiska spår samt skate 2,2 km. Välkomna!",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -306,7 +306,7 @@
     "ai_comments": [
       {
         "date": "2026-01-13T09:05:56.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "I dag tisdag jobbar vi med den dubbelriktade delen. Det innebär att vi åker slingan över bron och runt kullen sen övre delen förutom den dubbelriktade delen. Vi jobbar med all snö vi producerat under helgen."
       },
       {
@@ -322,10 +322,10 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "21 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-14 08:36",
-    "weather": "🌧️ Duggregn",
+    "snow_depth": "17 cm",
+    "temperature": "2°C",
+    "last_update": "2026-01-14 12:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -337,22 +337,22 @@
         "2026-01-20"
       ],
       "max_temp": [
-        1.9,
-        1.6,
-        3.7,
-        1.0,
-        0.4,
-        -0.4,
+        2.3,
+        1.8,
+        4.1,
+        1.4,
+        0.6,
+        -1.0,
         -2.0
       ],
       "min_temp": [
         -0.1,
-        -0.1,
-        1.4,
-        0.0,
-        -0.3,
-        -4.7,
-        -5.3
+        0.7,
+        1.6,
+        -0.2,
+        -0.9,
+        -5.7,
+        -6.8
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret är nu preparerat för klassiskt och skate, ca 3,6 km. Se bifogad spårkarta❄️❄️❄️ //Spårpatrullen\n\n(1 dagar sedan): Konstsnöspåret nypreparerat för klassiskt och skate, ca 2,5 km. Spårdragning enligt föregående spårapport då det ligger nyproducerad snö på delar av spåret. Tisdag 13/1 kl 17:30-19:30 är spåret avstängt till förmån för klubbens ungdomsträning. Varmt välkomna resterande tider! /Spårpatrullen",
@@ -384,10 +384,10 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Stängt",
-    "snow_depth": "23 cm",
-    "temperature": "1°C",
-    "last_update": "2026-01-14 08:36",
-    "weather": "🌧️ Lätt duggregn",
+    "snow_depth": "19 cm",
+    "temperature": "3°C",
+    "last_update": "2026-01-14 12:55",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-14",
@@ -399,22 +399,22 @@
         "2026-01-20"
       ],
       "max_temp": [
-        3.0,
-        2.3,
-        4.7,
-        1.7,
-        1.0,
-        0.1,
+        3.2,
+        2.5,
+        4.9,
+        1.8,
+        1.1,
+        -0.6,
         -1.8
       ],
       "min_temp": [
-        -0.1,
-        -0.5,
-        1.4,
+        0.5,
+        -0.4,
+        1.9,
         0.3,
-        0.2,
-        -4.1,
-        -4.9
+        -0.3,
+        -4.8,
+        -6.2
       ]
     },
     "ai_summary": "(idag): Vi spårar efter regnet idag vid 12-tiden. Konstsnöspåret 3 km prepareras för klassiskt och skate. Påminner om att spåret är stängt Torsdag 15/1 18:30 - 20:30 då det är ungdomstävling\n\n(1 dagar sedan): Fortsatt fina förhållanden på både natursnö och konstsnöspår. Ut o njut ! På Torsdag 15/1 är det ungdomstävling och spåret är stängt 18:30-20:30 Ungdomsträning onsdag kväll. Visa hänsyn. Gott om plats för alla. Välkomna!",
