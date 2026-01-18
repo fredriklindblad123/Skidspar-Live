@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-18 08:30",
+    "temperature": "2°C",
+    "last_update": "2026-01-18 12:45",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,21 +20,21 @@
         "2026-01-24"
       ],
       "max_temp": [
-        1.7,
-        0.6,
-        -0.2,
+        1.6,
+        0.7,
+        -0.6,
         -2.5,
-        -2.8,
+        -3.4,
         -4.4,
-        -5.7
+        -5.3
       ],
       "min_temp": [
-        0.0,
-        -4.3,
-        -6.9,
-        -7.2,
-        -5.1,
+        -0.2,
+        -4.5,
+        -5.7,
         -6.7,
+        -4.7,
+        -5.8,
         -6.8
       ]
     },
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "3 cm",
-    "temperature": "1°C",
-    "last_update": "2026-01-18 08:30",
+    "snow_depth": "4 cm",
+    "temperature": "2°C",
+    "last_update": "2026-01-18 12:45",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -86,24 +86,24 @@
       ],
       "max_temp": [
         1.8,
-        0.7,
-        -0.7,
-        -0.6,
-        -1.4,
-        -3.2,
-        -4.4
+        0.8,
+        -0.5,
+        -0.9,
+        -2.2,
+        -3.0,
+        -3.8
       ],
       "min_temp": [
-        0.3,
-        -4.7,
-        -6.3,
-        -6.4,
-        -3.5,
-        -4.9,
+        0.2,
+        -5.0,
+        -5.7,
+        -5.8,
+        -3.7,
+        -4.4,
         -5.6
       ]
     },
-    "ai_summary": "(idag): Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare.\n\n(1 dagar sedan): Fräst, plattat och spårat 1,2km både klassiskt och skate. Även några kullar blev preparerade för den lekfulle. Det blir en fin lördag på Landehof.",
+    "ai_summary": "(1 dagar sedan): Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare.\n\n(1 dagar sedan): Fräst, plattat och spårat 1,2km både klassiskt och skate. Även några kullar blev preparerade för den lekfulle. Det blir en fin lördag på Landehof.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-01-17T09:44:27.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare."
       },
       {
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-18 08:31",
+    "last_update": "2026-01-18 12:46",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,21 +147,21 @@
         "2026-01-24"
       ],
       "max_temp": [
-        3.2,
+        3.0,
         2.2,
         0.5,
-        -0.2,
-        -0.6,
+        -0.1,
+        -1.4,
         -2.5,
-        -3.5
+        -3.3
       ],
       "min_temp": [
         1.0,
         -2.4,
-        -5.3,
-        -5.9,
-        -3.0,
         -4.2,
+        -5.3,
+        -3.2,
+        -3.7,
         -4.9
       ]
     },
@@ -193,8 +193,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-18 08:31",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 12:46",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -207,25 +207,25 @@
         "2026-01-24"
       ],
       "max_temp": [
-        1.4,
-        0.4,
+        1.5,
+        -0.1,
         -2.5,
+        -1.8,
         -1.4,
-        -1.5,
-        -3.5,
-        -5.6
+        -3.1,
+        -5.2
       ],
       "min_temp": [
-        0.2,
-        -4.3,
-        -7.1,
-        -6.6,
-        -3.4,
-        -6.2,
-        -6.7
+        -0.0,
+        -4.4,
+        -5.6,
+        -5.6,
+        -3.0,
+        -5.5,
+        -6.5
       ]
     },
-    "ai_summary": "(idag): +2, lite mosigt i stakbädden. Konstsnöspåren är riktigt bra, fulskidor är rekommenderat på 5:an och miööen enligt Johan S, helt okej\n\n(1 dagar sedan): Dubbla spår OCH skatebädd preparerade med en hel och välfungerande maskin under kvällen! Välkomma upp för härlig åkning!",
+    "ai_summary": "(idag): Unfortunately, the snow is melting, and in some places the tracks have some gravel or are nonexistent.\n\n(idag): +2, skins Halva Gamla slinga riktigt bra Toppslinga efter korset - dålig Camping slingan - dålig Resten riktigt bra",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -240,14 +240,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-17T10:43:56.000Z",
+        "date": "2026-01-18T11:40:27.000Z",
         "days_ago": 0,
-        "text": "+2, lite mosigt i stakbädden. Konstsnöspåren är riktigt bra, fulskidor är rekommenderat på 5:an och miööen enligt Johan S, helt okej"
+        "text": "Unfortunately, the snow is melting, and in some places the tracks have some gravel or are nonexistent."
       },
       {
-        "date": "2026-01-17T00:14:20.000Z",
-        "days_ago": 1,
-        "text": "Dubbla spår OCH skatebädd preparerade med en hel och välfungerande maskin under kvällen! Välkomma upp för härlig åkning!"
+        "date": "2026-01-18T11:12:39.000Z",
+        "days_ago": 0,
+        "text": "+2, skins Halva Gamla slinga riktigt bra Toppslinga efter korset - dålig Camping slingan - dålig Resten riktigt bra"
       }
     ]
   },
@@ -258,8 +258,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "1°C",
-    "last_update": "2026-01-18 08:31",
+    "temperature": "2°C",
+    "last_update": "2026-01-18 12:46",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -272,21 +272,21 @@
         "2026-01-24"
       ],
       "max_temp": [
-        2.3,
-        1.3,
-        0.1,
-        -1.4,
-        -2.2,
+        2.2,
+        1.5,
+        0.5,
+        -1.5,
+        -2.7,
         -3.7,
-        -5.1
+        -4.4
       ],
       "min_temp": [
         0.7,
         -3.5,
-        -6.0,
-        -6.7,
-        -4.1,
-        -5.6,
+        -4.6,
+        -5.8,
+        -4.2,
+        -5.1,
         -6.1
       ]
     },
@@ -323,8 +323,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-18 08:31",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 12:46",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -338,20 +338,20 @@
       ],
       "max_temp": [
         1.1,
-        0.2,
-        -0.9,
-        -1.8,
-        -2.5,
-        -4.1,
-        -5.5
+        0.4,
+        -0.6,
+        -1.9,
+        -3.1,
+        -4.0,
+        -4.8
       ],
       "min_temp": [
-        -0.4,
-        -4.5,
+        -0.3,
+        -4.7,
+        -5.6,
         -6.2,
-        -7.2,
         -4.6,
-        -6.1,
+        -5.4,
         -6.3
       ]
     },
@@ -385,8 +385,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "5 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-18 08:32",
+    "temperature": "2°C",
+    "last_update": "2026-01-18 12:47",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -399,21 +399,21 @@
         "2026-01-24"
       ],
       "max_temp": [
-        1.8,
-        0.7,
-        -0.6,
-        -0.9,
-        -1.8,
+        1.7,
+        1.0,
+        -0.2,
+        -1.0,
+        -2.5,
         -3.4,
-        -4.8
+        -4.2
       ],
       "min_temp": [
-        0.3,
+        0.2,
         -4.6,
-        -6.2,
-        -6.6,
-        -3.9,
-        -5.2,
+        -5.4,
+        -5.7,
+        -4.0,
+        -4.7,
         -5.8
       ]
     },
