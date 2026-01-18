@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "2°C",
-    "last_update": "2026-01-17 20:25",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 02:04",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        3.0,
         2.0,
-        1.2,
-        -0.9,
-        -1.9,
-        -2.1,
-        -4.0
+        0.8,
+        -1.0,
+        -1.8,
+        -2.0,
+        -4.0,
+        -5.0
       ],
       "min_temp": [
-        1.2,
-        0.5,
-        -3.9,
-        -6.3,
-        -7.2,
-        -4.5,
-        -5.7
+        0.0,
+        -4.9,
+        -6.2,
+        -6.7,
+        -4.4,
+        -6.4,
+        -7.1
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret 6.5 km nypistat för klassiskt och fristil natten till idag.\n\n(3 dagar sedan): Konstsnöspåret nypistat idag tidig morgon för klassiskt och fristil. Längsta spårlängd omkring 6 km. Preparering av natursnöspåren sker först när kylan återvänder och förutsättningar för det finns då.",
@@ -71,39 +71,39 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "2°C",
-    "last_update": "2026-01-17 20:25",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 02:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        3.3,
-        2.4,
-        1.1,
-        -0.1,
+        2.3,
+        1.0,
+        0.0,
+        -0.2,
         -0.6,
-        -0.7,
-        -2.3
+        -2.5,
+        -3.5
       ],
       "min_temp": [
-        1.5,
-        0.5,
-        -4.2,
-        -5.6,
-        -6.3,
-        -3.1,
-        -3.8
+        0.6,
+        -4.8,
+        -5.7,
+        -6.1,
+        -3.0,
+        -4.6,
+        -4.9
       ]
     },
-    "ai_summary": "(idag): Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare.\n\n(idag): Fräst, plattat och spårat 1,2km både klassiskt och skate. Även några kullar blev preparerade för den lekfulle. Det blir en fin lördag på Landehof.",
+    "ai_summary": "(idag): Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare.\n\n(1 dagar sedan): Fräst, plattat och spårat 1,2km både klassiskt och skate. Även några kullar blev preparerade för den lekfulle. Det blir en fin lördag på Landehof.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-16T22:21:10.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Fräst, plattat och spårat 1,2km både klassiskt och skate. Även några kullar blev preparerade för den lekfulle. Det blir en fin lördag på Landehof."
       }
     ]
@@ -134,35 +134,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-17 20:26",
+    "last_update": "2026-01-18 02:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        4.9,
-        3.9,
-        2.5,
-        0.5,
-        -0.3,
+        3.7,
+        2.3,
+        0.4,
+        0.1,
         -0.2,
-        -2.0
+        -2.2,
+        -3.0
       ],
       "min_temp": [
-        3.2,
-        1.6,
-        -1.8,
+        1.5,
+        -1.9,
         -5.2,
-        -5.9,
+        -5.8,
         -2.5,
-        -3.3
+        -4.0,
+        -4.3
       ]
     },
     "ai_summary": "(7 dagar sedan): Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste.",
@@ -193,39 +193,39 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "2°C",
-    "last_update": "2026-01-17 20:26",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 02:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        3.7,
-        1.7,
+        1.5,
         0.6,
-        -3.2,
-        -1.3,
-        -1.3,
-        -3.8
+        -3.0,
+        -1.4,
+        -1.7,
+        -3.3,
+        -5.6
       ],
       "min_temp": [
-        1.7,
-        0.8,
-        -3.9,
-        -8.4,
-        -7.1,
-        -3.5,
-        -5.4
+        0.2,
+        -4.3,
+        -6.8,
+        -6.8,
+        -3.0,
+        -5.7,
+        -6.6
       ]
     },
-    "ai_summary": "(idag): +2, lite mosigt i stakbädden. Konstsnöspåren är riktigt bra, fulskidor är rekommenderat på 5:an och miööen enligt Johan S, helt okej\n\n(idag): Dubbla spår OCH skatebädd preparerade med en hel och välfungerande maskin under kvällen! Välkomma upp för härlig åkning!",
+    "ai_summary": "(idag): +2, lite mosigt i stakbädden. Konstsnöspåren är riktigt bra, fulskidor är rekommenderat på 5:an och miööen enligt Johan S, helt okej\n\n(1 dagar sedan): Dubbla spår OCH skatebädd preparerade med en hel och välfungerande maskin under kvällen! Välkomma upp för härlig åkning!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -246,7 +246,7 @@
       },
       {
         "date": "2026-01-17T00:14:20.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Dubbla spår OCH skatebädd preparerade med en hel och välfungerande maskin under kvällen! Välkomma upp för härlig åkning!"
       }
     ]
@@ -258,39 +258,39 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "2°C",
-    "last_update": "2026-01-17 20:26",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 02:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        4.0,
-        2.7,
+        2.6,
         1.5,
-        -0.4,
+        -0.6,
         -1.0,
-        -1.7,
-        -3.2
+        -1.5,
+        -3.2,
+        -4.4
       ],
       "min_temp": [
-        2.1,
-        1.2,
-        -2.8,
+        0.9,
+        -3.2,
         -5.9,
-        -6.7,
-        -3.5,
-        -4.8
+        -6.2,
+        -4.0,
+        -5.6,
+        -6.1
       ]
     },
-    "ai_summary": "(idag): Fin åkning på skidstadion idag. Hårda, fina klassiska spår. Skatebädden något mjuk men överlag riktigt bra.\n\n(1 dagar sedan): Nu är alla våra slingor klara! Kom o njut av skidåkning varje dag klockan 06-22. Omklädningsrum och bastu öppet klockan 06-22 alla dagar. Skiduthyrning och café öppet lördag-söndag kl 10-15. Pulkabacke för de minsta.",
+    "ai_summary": "(idag): Nypreparerat klassiskt samt skate. Välkomna!\n\n(idag): Fin åkning på skidstadion idag. Hårda, fina klassiska spår. Skatebädden något mjuk men överlag riktigt bra.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -305,14 +305,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-17T22:04:32.000Z",
+        "days_ago": 0,
+        "text": "Nypreparerat klassiskt samt skate. Välkomna!"
+      },
+      {
         "date": "2026-01-17T12:59:04.000Z",
         "days_ago": 0,
         "text": "Fin åkning på skidstadion idag. Hårda, fina klassiska spår. Skatebädden något mjuk men överlag riktigt bra."
-      },
-      {
-        "date": "2026-01-16T17:09:34.000Z",
-        "days_ago": 1,
-        "text": "Nu är alla våra slingor klara! Kom o njut av skidåkning varje dag klockan 06-22. Omklädningsrum och bastu öppet klockan 06-22 alla dagar. Skiduthyrning och café öppet lördag-söndag kl 10-15. Pulkabacke för de minsta."
       }
     ]
   },
@@ -323,39 +323,39 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "1°C",
-    "last_update": "2026-01-17 20:27",
+    "temperature": "0°C",
+    "last_update": "2026-01-18 02:06",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        3.0,
         1.5,
         0.4,
-        -0.3,
-        -1.4,
+        -0.4,
+        -1.2,
         -1.6,
-        -3.3
+        -3.4,
+        -4.6
       ],
       "min_temp": [
-        1.1,
-        0.1,
+        -0.0,
+        -4.3,
+        -6.2,
+        -6.7,
         -4.0,
-        -6.1,
-        -7.1,
-        -3.6,
-        -5.0
+        -5.8,
+        -6.3
       ]
     },
-    "ai_summary": "(idag): Vi har fått släppa våra naturspår tills de blir kallare. Konstsnön preparerad för skate och klassiskt. Serveringen öppen. Låneskidor till barnen. Välkommen. Spårpatrullen\n\n(1 dagar sedan): Konstsnöspåret pistat och spårat. Ca 3,6 km.",
+    "ai_summary": "(idag): Hela nya konstsnöspåret på 3650 m är nypreparerat för skate och klassiskt. Se bifogad spårkarta. Välkomna till en fin skiddag på Hestrastugan i Borås! //Spårpatrullen\n\n(1 dagar sedan): Vi har fått släppa våra naturspår tills de blir kallare. Konstsnön preparerad för skate och klassiskt. Serveringen öppen. Låneskidor till barnen. Välkommen. Spårpatrullen",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -367,14 +367,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-16T21:51:34.000Z",
+        "date": "2026-01-17T22:42:54.000Z",
         "days_ago": 0,
-        "text": "Vi har fått släppa våra naturspår tills de blir kallare. Konstsnön preparerad för skate och klassiskt. Serveringen öppen. Låneskidor till barnen. Välkommen. Spårpatrullen"
+        "text": "Hela nya konstsnöspåret på 3650 m är nypreparerat för skate och klassiskt. Se bifogad spårkarta. Välkomna till en fin skiddag på Hestrastugan i Borås! //Spårpatrullen"
       },
       {
-        "date": "2026-01-15T21:00:01.000Z",
+        "date": "2026-01-16T21:51:34.000Z",
         "days_ago": 1,
-        "text": "Konstsnöspåret pistat och spårat. Ca 3,6 km."
+        "text": "Vi har fått släppa våra naturspår tills de blir kallare. Konstsnön preparerad för skate och klassiskt. Serveringen öppen. Låneskidor till barnen. Välkommen. Spårpatrullen"
       }
     ]
   },
@@ -385,39 +385,39 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "2°C",
-    "last_update": "2026-01-17 20:27",
+    "temperature": "1°C",
+    "last_update": "2026-01-18 02:06",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-01-17",
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-24"
       ],
       "max_temp": [
-        3.2,
-        2.4,
-        1.2,
-        0.2,
-        -0.6,
-        -1.0,
-        -2.7
+        2.2,
+        1.1,
+        0.1,
+        -0.4,
+        -0.9,
+        -2.8,
+        -3.8
       ],
       "min_temp": [
-        1.6,
-        0.6,
-        -3.9,
-        -5.9,
-        -6.5,
-        -3.3,
-        -4.2
+        0.5,
+        -4.7,
+        -6.0,
+        -6.1,
+        -3.1,
+        -4.9,
+        -5.2
       ]
     },
-    "ai_summary": "(idag): Nypistat och fint inför helgen. 3 km klassiskt och skate. Pulkabacke, barnskidor att låna. Café 11-15 Välkomna!\n\n(1 dagar sedan): Nypistat tidig morgon efter regnet. 3km klassiskt o skate. Barnskidor finns att låna. Pulkabacke. Ut o njut! Välkommen!",
+    "ai_summary": "(idag): Nypistat inför söndagen 3 km klassiska spår samt skatebädd Pulkabacke Låneskidor för barn 2 grillplatser Café öppet 11-15 Välkomna\n\n(1 dagar sedan): Nypistat och fint inför helgen. 3 km klassiskt och skate. Pulkabacke, barnskidor att låna. Café 11-15 Välkomna!",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -429,14 +429,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-16T22:57:08.000Z",
+        "date": "2026-01-17T22:04:53.000Z",
         "days_ago": 0,
-        "text": "Nypistat och fint inför helgen. 3 km klassiskt och skate. Pulkabacke, barnskidor att låna. Café 11-15 Välkomna!"
+        "text": "Nypistat inför söndagen 3 km klassiska spår samt skatebädd Pulkabacke Låneskidor för barn 2 grillplatser Café öppet 11-15 Välkomna"
       },
       {
-        "date": "2026-01-16T06:54:04.000Z",
+        "date": "2026-01-16T22:57:08.000Z",
         "days_ago": 1,
-        "text": "Nypistat tidig morgon efter regnet. 3km klassiskt o skate. Barnskidor finns att låna. Pulkabacke. Ut o njut! Välkommen!"
+        "text": "Nypistat och fint inför helgen. 3 km klassiskt och skate. Pulkabacke, barnskidor att låna. Café 11-15 Välkomna!"
       }
     ]
   }
