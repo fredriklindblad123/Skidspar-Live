@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2026-01-19 12:56",
+    "temperature": "-4°C",
+    "last_update": "2026-01-19 16:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,17 +21,17 @@
       ],
       "max_temp": [
         -0.1,
+        -1.3,
+        -0.8,
         -1.0,
-        -1.2,
-        -2.0,
         -4.9,
         -5.2,
         -3.5
       ],
       "min_temp": [
-        -5.6,
-        -6.3,
-        -4.0,
+        -6.1,
+        -6.5,
+        -3.8,
         -5.4,
         -6.0,
         -6.1,
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "1 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-19 12:56",
+    "temperature": "-3°C",
+    "last_update": "2026-01-19 16:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -87,16 +87,16 @@
       "max_temp": [
         0.3,
         -1.0,
-        -0.5,
-        -0.3,
+        -0.1,
+        -0.2,
         -3.2,
         -3.4,
         -2.4
       ],
       "min_temp": [
-        -4.8,
-        -6.4,
-        -3.9,
+        -4.3,
+        -6.3,
+        -3.5,
         -3.8,
         -4.9,
         -4.8,
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-19 12:56",
+    "last_update": "2026-01-19 16:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -148,17 +148,17 @@
       ],
       "max_temp": [
         1.3,
-        0.1,
-        0.0,
-        0.2,
+        0.4,
+        0.6,
+        0.4,
         -2.6,
         -3.0,
         -2.0
       ],
       "min_temp": [
-        -3.0,
-        -3.8,
-        -2.9,
+        -2.3,
+        -3.6,
+        -2.6,
         -3.4,
         -4.5,
         -4.6,
@@ -193,8 +193,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "-1°C",
-    "last_update": "2026-01-19 12:57",
+    "temperature": "-4°C",
+    "last_update": "2026-01-19 16:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -208,15 +208,15 @@
       ],
       "max_temp": [
         0.1,
-        -3.2,
-        -0.8,
-        -1.4,
+        -2.5,
+        -0.6,
+        -0.7,
         -3.5,
         -4.6,
         -3.7
       ],
       "min_temp": [
-        -5.7,
+        -5.3,
         -6.7,
         -4.5,
         -3.3,
@@ -225,7 +225,7 @@
         -6.2
       ]
     },
-    "ai_summary": "(idag): Konstsnö slingan pistades iordning igår kväll inför dagens åkning. Belysningen på toppslingan ska vara åtgärdad till mörkret faller in. Välkomna!\n\n(idag): Skottade ikväll större delen av sträckan på milen fram t Rövarkulan (7,5). Jag skottade på partier där det var - på många ställen - dåligt med snö även på sidan av spåret och hade en liten spade. Dessutom fastnade snön på den inte optimala spaden och det var bökigt skotta. Men det är inte många genomslag nu på milen fram t Rövarkulan. Några små områden sista två km bara. Fortsätter lite i morgon.",
+    "ai_summary": "(idag): Skottade klart 7,5 på fm. Ta av Hellnermilen vid Rövarkulan efter ca 5 km. Bitvis väldigt bra, bitvis lite sämre där jag och sonen som var med en stund igår kväll, har skottat. Inga genomslag att tala om. Nåt ställe där det går gemensamt med femman möjligen och då får man byta spår.\n\n(idag): Konstsnö slingan pistades iordning igår kväll inför dagens åkning. Belysningen på toppslingan ska vara åtgärdad till mörkret faller in. Välkomna!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -240,14 +240,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-19T13:43:40.000Z",
+        "days_ago": 0,
+        "text": "Skottade klart 7,5 på fm. Ta av Hellnermilen vid Rövarkulan efter ca 5 km. Bitvis väldigt bra, bitvis lite sämre där jag och sonen som var med en stund igår kväll, har skottat. Inga genomslag att tala om. Nåt ställe där det går gemensamt med femman möjligen och då får man byta spår."
+      },
+      {
         "date": "2026-01-19T07:03:16.000Z",
         "days_ago": 0,
         "text": "Konstsnö slingan pistades iordning igår kväll inför dagens åkning. Belysningen på toppslingan ska vara åtgärdad till mörkret faller in. Välkomna!"
-      },
-      {
-        "date": "2026-01-18T20:52:22.000Z",
-        "days_ago": 0,
-        "text": "Skottade ikväll större delen av sträckan på milen fram t Rövarkulan (7,5). Jag skottade på partier där det var - på många ställen - dåligt med snö även på sidan av spåret och hade en liten spade. Dessutom fastnade snön på den inte optimala spaden och det var bökigt skotta. Men det är inte många genomslag nu på milen fram t Rövarkulan. Några små områden sista två km bara. Fortsätter lite i morgon."
       }
     ]
   },
@@ -258,8 +258,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-01-19 12:57",
+    "temperature": "-2°C",
+    "last_update": "2026-01-19 16:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -274,23 +274,23 @@
       "max_temp": [
         0.6,
         -0.4,
-        -0.5,
-        -1.5,
+        -0.0,
+        -0.4,
         -4.2,
         -4.2,
         -3.1
       ],
       "min_temp": [
-        -4.6,
-        -5.4,
-        -3.4,
+        -4.0,
+        -5.1,
+        -3.2,
         -4.8,
         -6.0,
         -5.9,
         -5.2
       ]
     },
-    "ai_summary": "(idag): Ikväll har det fryst till igen. Vi har schaktat på mer snö och spårat klassiskt/skate hela banan. Välkomna\n\n(1 dagar sedan): Helt sanslöst bra spår! Norsk är jag och erkänner med glädje att världens främsta spårdragnings- och pistningshantverk finns i Borås. Allt är bra: Snökvalité, pisttiden (gör att spåren ska härda), ickeförorenad snö, jämna fina kurvor där största möjliga minimala krökningdradie eftersträvats, spårsläpp på rätt ställen och nu en perfekt designad slinga som mäter exakt 3,3 km på en Garminklocka ❤️❤️❤",
+    "ai_summary": "(idag): Fina spår som att åka på räls ☀️🤗\n\n(idag): En fröjd att åka på lunchen. Hårda fina spår och underbart stavfäste. Och så sol på det. Magiskt.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -305,14 +305,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-19T00:47:08.000Z",
+        "date": "2026-01-19T15:24:59.000Z",
         "days_ago": 0,
-        "text": "Ikväll har det fryst till igen. Vi har schaktat på mer snö och spårat klassiskt/skate hela banan. Välkomna"
+        "text": "Fina spår som att åka på räls ☀️🤗"
       },
       {
-        "date": "2026-01-18T12:52:09.000Z",
-        "days_ago": 1,
-        "text": "Helt sanslöst bra spår! Norsk är jag och erkänner med glädje att världens främsta spårdragnings- och pistningshantverk finns i Borås. Allt är bra: Snökvalité, pisttiden (gör att spåren ska härda), ickeförorenad snö, jämna fina kurvor där största möjliga minimala krökningdradie eftersträvats, spårsläpp på rätt ställen och nu en perfekt designad slinga som mäter exakt 3,3 km på en Garminklocka ❤️❤️❤"
+        "date": "2026-01-19T14:00:41.000Z",
+        "days_ago": 0,
+        "text": "En fröjd att åka på lunchen. Hårda fina spår och underbart stavfäste. Och så sol på det. Magiskt."
       }
     ]
   },
@@ -323,8 +323,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-1°C",
-    "last_update": "2026-01-19 12:57",
+    "temperature": "-3°C",
+    "last_update": "2026-01-19 16:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -338,17 +338,17 @@
       ],
       "max_temp": [
         -0.3,
-        -1.6,
-        -1.5,
-        -1.5,
+        -1.3,
+        -1.0,
+        -1.1,
         -4.3,
         -4.6,
         -3.2
       ],
       "min_temp": [
-        -5.7,
-        -6.5,
-        -4.6,
+        -5.1,
+        -6.1,
+        -4.3,
         -4.9,
         -6.0,
         -5.9,
@@ -385,8 +385,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "0°C",
-    "last_update": "2026-01-19 12:58",
+    "temperature": "-3°C",
+    "last_update": "2026-01-19 16:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -401,16 +401,16 @@
       "max_temp": [
         0.2,
         -1.0,
-        -0.7,
-        -0.6,
+        -0.3,
+        -0.3,
         -3.5,
         -3.8,
         -2.5
       ],
       "min_temp": [
-        -4.9,
-        -6.3,
-        -3.9,
+        -4.8,
+        -6.1,
+        -3.6,
         -4.2,
         -5.4,
         -5.4,
