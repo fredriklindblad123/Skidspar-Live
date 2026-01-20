@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "2 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-20 08:36",
+    "snow_depth": "Ingen snö",
+    "temperature": "-1°C",
+    "last_update": "2026-01-20 12:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,21 +20,21 @@
         "2026-01-26"
       ],
       "max_temp": [
-        -1.0,
+        -1.3,
         -0.8,
         -0.5,
-        -4.6,
+        -3.8,
+        -5.7,
         -6.0,
-        -6.1,
         -7.3
       ],
       "min_temp": [
         -5.7,
-        -3.5,
-        -4.7,
-        -6.3,
-        -8.0,
-        -8.1,
+        -3.4,
+        -4.2,
+        -5.9,
+        -7.1,
+        -7.3,
         -9.6
       ]
     },
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Stängt",
-    "snow_depth": "2 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-20 08:36",
+    "snow_depth": "1 cm",
+    "temperature": "-1°C",
+    "last_update": "2026-01-20 12:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,25 +85,25 @@
         "2026-01-26"
       ],
       "max_temp": [
-        -0.6,
+        -0.9,
         0.1,
-        0.4,
-        -3.0,
-        -4.3,
-        -4.1,
-        -5.4
+        0.3,
+        -2.4,
+        -3.9,
+        -4.8,
+        -5.6
       ],
       "min_temp": [
         -4.9,
-        -3.4,
-        -3.2,
-        -4.9,
-        -6.1,
+        -2.7,
+        -2.7,
+        -4.1,
+        -6.2,
         -6.3,
         -10.8
       ]
     },
-    "ai_summary": "(1 dagar sedan): Preparat 1,2 km rund slinga klassiskt och skate sent söndag kväll. Välkomna! På tisdag 20/1 arrangerar vi ungdomstävlingen Kvällscupen. För att skapa goda förutsättningar för ungdomarna är spåret vara avstängt på tisdag eftermiddag/kväll från kl 15:00.\n\n(2 dagar sedan): Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare.",
+    "ai_summary": "(1 dagar sedan): Preparat 1,2 km rund slinga klassiskt och skate sent söndag kväll. Välkomna! På tisdag 20/1 arrangerar vi ungdomstävlingen Kvällscupen. För att skapa goda förutsättningar för ungdomarna är spåret vara avstängt på tisdag eftermiddag/kväll från kl 15:00.\n\n(3 dagar sedan): Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-17T09:44:27.000Z",
-        "days_ago": 2,
+        "days_ago": 3,
         "text": "Vet inte riktigt vad som hänt i Landehof till den här lördagen men jag upplevde att spårens status inte riktigt stämde med förväntningarna som gavs när jag läste om nyfrästa spår sent fredag kväll. Jag var på plats innan klockan 08:00 och spåren var inte riktigt på topp. Jag körde 1 varv och drog sedan vidare."
       }
     ]
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-20 08:37",
+    "last_update": "2026-01-20 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,21 +147,21 @@
         "2026-01-26"
       ],
       "max_temp": [
-        0.4,
-        1.1,
-        1.6,
-        -2.5,
-        -3.9,
-        -3.5,
-        -4.8
+        -0.6,
+        0.7,
+        1.3,
+        -2.0,
+        -3.3,
+        -4.3,
+        -5.0
       ],
       "min_temp": [
         -3.0,
-        -2.2,
-        -2.4,
-        -4.7,
-        -5.4,
-        -5.9,
+        -2.0,
+        -1.9,
+        -3.5,
+        -5.7,
+        -6.1,
         -9.1
       ]
     },
@@ -192,9 +192,9 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "2 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-20 08:37",
+    "snow_depth": "1 cm",
+    "temperature": "-3°C",
+    "last_update": "2026-01-20 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -207,21 +207,21 @@
         "2026-01-26"
       ],
       "max_temp": [
-        -2.4,
-        -0.5,
-        -0.4,
-        -3.5,
-        -5.2,
-        -5.9,
-        -6.3
+        -3.1,
+        -0.6,
+        -0.6,
+        -3.3,
+        -4.8,
+        -5.5,
+        -5.9
       ],
       "min_temp": [
         -4.5,
-        -3.2,
-        -3.5,
-        -5.2,
-        -6.5,
-        -6.8,
+        -3.6,
+        -3.7,
+        -4.8,
+        -6.3,
+        -6.2,
         -8.6
       ]
     },
@@ -258,8 +258,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2026-01-20 08:37",
+    "temperature": "0°C",
+    "last_update": "2026-01-20 12:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -272,21 +272,21 @@
         "2026-01-26"
       ],
       "max_temp": [
-        -0.4,
+        -0.3,
         0.4,
-        0.5,
-        -3.7,
-        -5.2,
-        -5.1,
+        0.6,
+        -3.2,
+        -4.9,
+        -5.6,
         -6.2
       ],
       "min_temp": [
         -4.8,
-        -2.7,
-        -3.7,
-        -5.9,
-        -6.9,
-        -7.1,
+        -2.2,
+        -3.1,
+        -4.9,
+        -7.0,
+        -7.2,
         -9.8
       ]
     },
@@ -322,9 +322,9 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Stängt",
-    "snow_depth": "2 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-01-20 08:37",
+    "snow_depth": "1 cm",
+    "temperature": "-1°C",
+    "last_update": "2026-01-20 12:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -337,21 +337,21 @@
         "2026-01-26"
       ],
       "max_temp": [
-        -1.4,
+        -1.3,
         -0.7,
         -0.4,
-        -4.2,
+        -3.5,
+        -5.1,
         -5.7,
-        -5.7,
-        -6.7
+        -6.8
       ],
       "min_temp": [
         -5.6,
-        -3.8,
-        -4.3,
-        -6.2,
-        -7.3,
-        -7.7,
+        -3.4,
+        -3.7,
+        -5.2,
+        -7.1,
+        -7.2,
         -10.5
       ]
     },
@@ -384,9 +384,9 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Troligen öppet",
-    "snow_depth": "3 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-20 08:38",
+    "snow_depth": "2 cm",
+    "temperature": "-1°C",
+    "last_update": "2026-01-20 12:58",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -402,18 +402,18 @@
         -0.6,
         0.1,
         0.3,
-        -3.5,
-        -4.9,
-        -4.6,
+        -2.8,
+        -4.2,
+        -5.1,
         -6.0
       ],
       "min_temp": [
         -4.6,
-        -3.4,
-        -3.4,
-        -5.7,
-        -6.5,
-        -6.7,
+        -2.6,
+        -2.8,
+        -4.3,
+        -6.6,
+        -7.2,
         -10.6
       ]
     },
