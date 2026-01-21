@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-2°C",
-    "last_update": "2026-01-21 16:55",
+    "last_update": "2026-01-21 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,24 +21,24 @@
       ],
       "max_temp": [
         -1.3,
-        -0.6,
-        -1.6,
-        -4.8,
-        -7.0,
-        -6.9,
-        -7.1
+        -0.7,
+        -1.8,
+        -4.2,
+        -5.3,
+        -5.6,
+        -4.8
       ],
       "min_temp": [
         -3.9,
-        -1.8,
+        -2.4,
         -4.3,
-        -7.1,
-        -8.4,
-        -8.8,
-        -12.2
+        -7.7,
+        -8.9,
+        -10.8,
+        -11.6
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 km Beträffande kommande helg se tidigare spårinfo med bifogad karta\n\n(1 dagar sedan): Till helgen, lördag och söndag arrangerar Ulricehamns IF Skidor tävling både lördag och söndag och därför begränsas allmänhetens tillgång till konstsnöspåret. Preliminär tid för sista målgång båda dagarna ca 14:00. Efter sista målgång öppnas spåret. Exakta tider meddelas senare. På bilden kan ni se möjligheten till att åka på spåret under tävlingen.",
+    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 km Beträffande kommande helg se tidigare spårinfo med bifogad karta\n\n(2 dagar sedan): Till helgen, lördag och söndag arrangerar Ulricehamns IF Skidor tävling både lördag och söndag och därför begränsas allmänhetens tillgång till konstsnöspåret. Preliminär tid för sista målgång båda dagarna ca 14:00. Efter sista målgång öppnas spåret. Exakta tider meddelas senare. På bilden kan ni se möjligheten till att åka på spåret under tävlingen.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -59,7 +59,7 @@
       },
       {
         "date": "2026-01-19T17:27:09.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Till helgen, lördag och söndag arrangerar Ulricehamns IF Skidor tävling både lördag och söndag och därför begränsas allmänhetens tillgång till konstsnöspåret. Preliminär tid för sista målgång båda dagarna ca 14:00. Efter sista målgång öppnas spåret. Exakta tider meddelas senare. På bilden kan ni se möjligheten till att åka på spåret under tävlingen."
       }
     ]
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-1°C",
-    "last_update": "2026-01-21 16:56",
+    "last_update": "2026-01-21 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-01-27"
       ],
       "max_temp": [
-        -1.2,
+        -1.1,
         0.3,
-        -0.9,
-        -3.9,
-        -5.2,
-        -5.2,
-        -5.4
+        -1.1,
+        -3.2,
+        -3.5,
+        -4.2,
+        -3.7
       ],
       "min_temp": [
         -3.6,
-        -1.6,
-        -3.8,
+        -1.7,
+        -3.7,
+        -5.6,
         -6.3,
-        -6.6,
-        -7.9,
-        -10.3
+        -9.9,
+        -10.8
       ]
     },
     "ai_summary": "(idag): 1,2 km nypreparat klassiskt och skate. Tack till alla deltagare i kvällens ungdomstävling!\n\n(2 dagar sedan): Preparat 1,2 km rund slinga klassiskt och skate sent söndag kväll. Välkomna! På tisdag 20/1 arrangerar vi ungdomstävlingen Kvällscupen. För att skapa goda förutsättningar för ungdomarna är spåret vara avstängt på tisdag eftermiddag/kväll från kl 15:00.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-21 16:56",
+    "last_update": "2026-01-21 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,22 +147,22 @@
         "2026-01-27"
       ],
       "max_temp": [
-        -0.1,
-        1.5,
-        0.3,
-        -2.8,
-        -4.6,
-        -4.6,
-        -4.9
+        0.1,
+        1.6,
+        0.2,
+        -2.4,
+        -3.1,
+        -3.6,
+        -3.2
       ],
       "min_temp": [
         -2.5,
-        -0.6,
-        -2.4,
-        -6.1,
-        -6.3,
-        -7.2,
-        -9.6
+        -0.4,
+        -2.5,
+        -5.3,
+        -5.8,
+        -9.4,
+        -10.4
       ]
     },
     "ai_summary": "(11 dagar sedan): Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste.",
@@ -193,9 +193,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-01-21 16:56",
-    "weather": "☁️ Mulet",
+    "temperature": "-1°C",
+    "last_update": "2026-01-21 20:35",
+    "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
         "2026-01-21",
@@ -207,25 +207,25 @@
         "2026-01-27"
       ],
       "max_temp": [
-        -0.6,
-        -0.6,
-        -2.2,
-        -4.0,
-        -6.2,
-        -6.7,
-        -6.7
+        -0.8,
+        -0.8,
+        -2.3,
+        -3.7,
+        -5.4,
+        -6.5,
+        -4.8
       ],
       "min_temp": [
         -4.5,
-        -2.4,
-        -3.7,
-        -6.3,
-        -7.3,
-        -10.2,
-        -13.3
+        -2.5,
+        -3.8,
+        -6.7,
+        -6.9,
+        -12.1,
+        -10.9
       ]
     },
-    "ai_summary": "(idag): Nu har vi startat snökanonerna på toppslingan och campingslingan för att kunna få till hållbara spår där. Det har skottats på snö på delar av natursnöspåren, vi återkommer när vi kan spåra om dessa. Ni som vill åka där ändå kan ta sjövägen förbi dämmet och åka baklänges ut på femman vända och åka tillbaka. För vi vill INTE ha skidåkning på områden där vi lägger snö. Välkomna!\n\n(idag): -4, 17:30-19:00 Toppslingan är till korset. Övriga spår - perfekta",
+    "ai_summary": "(idag): -3, lite vind, 17:45-19:15 Bra spår, lite trögare än i går, men vilka spår. Teknik träning\n\n(idag): Nu har vi startat snökanonerna på toppslingan och campingslingan för att kunna få till hållbara spår där. Det har skottats på snö på delar av natursnöspåren, vi återkommer när vi kan spåra om dessa. Ni som vill åka där ändå kan ta sjövägen förbi dämmet och åka baklänges ut på femman vända och åka tillbaka. För vi vill INTE ha skidåkning på områden där vi lägger snö. Välkomna!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -240,14 +240,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-21T18:29:51.000Z",
+        "days_ago": 0,
+        "text": "-3, lite vind, 17:45-19:15 Bra spår, lite trögare än i går, men vilka spår. Teknik träning"
+      },
+      {
         "date": "2026-01-21T09:35:47.000Z",
         "days_ago": 0,
         "text": "Nu har vi startat snökanonerna på toppslingan och campingslingan för att kunna få till hållbara spår där. Det har skottats på snö på delar av natursnöspåren, vi återkommer när vi kan spåra om dessa. Ni som vill åka där ändå kan ta sjövägen förbi dämmet och åka baklänges ut på femman vända och åka tillbaka. För vi vill INTE ha skidåkning på områden där vi lägger snö. Välkomna!"
-      },
-      {
-        "date": "2026-01-20T18:11:17.000Z",
-        "days_ago": 0,
-        "text": "-4, 17:30-19:00 Toppslingan är till korset. Övriga spår - perfekta"
       }
     ]
   },
@@ -258,8 +258,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2026-01-21 16:57",
+    "temperature": "-2°C",
+    "last_update": "2026-01-21 20:36",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -273,21 +273,21 @@
       ],
       "max_temp": [
         -0.5,
-        0.4,
-        -0.8,
-        -4.0,
-        -6.1,
-        -5.9,
-        -5.7
+        0.3,
+        -1.0,
+        -3.4,
+        -4.6,
+        -4.4,
+        -4.0
       ],
       "min_temp": [
         -3.3,
-        -1.0,
-        -3.5,
-        -6.1,
-        -7.3,
-        -8.1,
-        -10.6
+        -1.5,
+        -3.4,
+        -6.6,
+        -8.3,
+        -10.1,
+        -10.9
       ]
     },
     "ai_summary": "(idag): Fina spår bra stavfäste lite nysnö på något ställe\n\n(idag): Nyspårat klassiskt och skate hela banan 3.3km /Välkomna",
@@ -324,7 +324,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-2°C",
-    "last_update": "2026-01-21 16:57",
+    "last_update": "2026-01-21 20:36",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -338,20 +338,20 @@
       ],
       "max_temp": [
         -1.6,
-        -0.6,
-        -1.8,
-        -4.9,
-        -6.1,
-        -6.1,
-        -6.2
+        -0.7,
+        -2.0,
+        -4.5,
+        -4.7,
+        -4.8,
+        -4.3
       ],
       "min_temp": [
         -4.5,
-        -2.0,
-        -4.6,
-        -6.2,
-        -7.6,
-        -8.6,
+        -2.5,
+        -4.5,
+        -6.7,
+        -8.4,
+        -10.6,
         -11.4
       ]
     },
@@ -385,8 +385,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-1°C",
-    "last_update": "2026-01-21 16:57",
+    "temperature": "-2°C",
+    "last_update": "2026-01-21 20:36",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -401,20 +401,20 @@
       "max_temp": [
         -1.1,
         0.2,
-        -1.0,
-        -4.0,
-        -5.5,
-        -5.2,
-        -5.3
+        -1.2,
+        -3.5,
+        -3.7,
+        -4.1,
+        -3.7
       ],
       "min_temp": [
         -3.8,
-        -1.5,
-        -3.8,
-        -6.1,
-        -7.0,
-        -8.4,
-        -10.2
+        -1.7,
+        -3.7,
+        -5.8,
+        -7.2,
+        -10.4,
+        -10.9
       ]
     },
     "ai_summary": "(idag): Kanonfina spår idag\n\n(idag): Grymma spår!!",
