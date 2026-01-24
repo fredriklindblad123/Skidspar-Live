@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "1 cm",
+    "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-24 04:37",
+    "last_update": "2026-01-24 08:30",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,25 +20,25 @@
         "2026-01-30"
       ],
       "max_temp": [
-        -2.5,
-        -2.0,
+        -2.3,
+        -2.1,
         -2.2,
-        -5.1,
-        -5.5,
+        -4.0,
+        -5.2,
         -4.9,
-        -4.9
+        -4.3
       ],
       "min_temp": [
-        -4.3,
-        -4.3,
-        -7.7,
-        -8.3,
-        -7.2,
-        -6.8,
-        -6.1
+        -4.2,
+        -4.4,
+        -9.4,
+        -7.4,
+        -6.7,
+        -7.0,
+        -5.6
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 Beträffande helgens spårinfo se bifogad karta över tillgänglighet på konstsnöspåret.\n\n(4 dagar sedan): Till helgen, lördag och söndag arrangerar Ulricehamns IF Skidor tävling både lördag och söndag och därför begränsas allmänhetens tillgång till konstsnöspåret. Preliminär tid för sista målgång båda dagarna ca 14:00. Efter sista målgång öppnas spåret. Exakta tider meddelas senare. På bilden kan ni se möjligheten till att åka på spåret under tävlingen.",
+    "ai_summary": "(idag): Idag lördag och imorgon söndag arrangerar Ulricehamns IF ungdomstävling på spåret. En begränsad del av spåret är tillgängligt för allmänheten under tävlingarna. Efter sista målgång, ca 14:30 öppnas spåret igen för alla. Preparering inför söndagens tävling påbörjas kl 20:00 Karta bifigas\n\n(1 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 Beträffande helgens spårinfo se bifogad karta över tillgänglighet på konstsnöspåret.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-23T06:08:31.000Z",
+        "date": "2026-01-24T05:05:59.000Z",
         "days_ago": 0,
-        "text": "Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 Beträffande helgens spårinfo se bifogad karta över tillgänglighet på konstsnöspåret."
+        "text": "Idag lördag och imorgon söndag arrangerar Ulricehamns IF ungdomstävling på spåret. En begränsad del av spåret är tillgängligt för allmänheten under tävlingarna. Efter sista målgång, ca 14:30 öppnas spåret igen för alla. Preparering inför söndagens tävling påbörjas kl 20:00 Karta bifigas"
       },
       {
-        "date": "2026-01-19T17:27:09.000Z",
-        "days_ago": 4,
-        "text": "Till helgen, lördag och söndag arrangerar Ulricehamns IF Skidor tävling både lördag och söndag och därför begränsas allmänhetens tillgång till konstsnöspåret. Preliminär tid för sista målgång båda dagarna ca 14:00. Efter sista målgång öppnas spåret. Exakta tider meddelas senare. På bilden kan ni se möjligheten till att åka på spåret under tävlingen."
+        "date": "2026-01-23T06:08:31.000Z",
+        "days_ago": 1,
+        "text": "Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 Beträffande helgens spårinfo se bifogad karta över tillgänglighet på konstsnöspåret."
       }
     ]
   },
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2026-01-24 04:37",
+    "last_update": "2026-01-24 08:30",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-01-30"
       ],
       "max_temp": [
-        -1.4,
         -1.3,
-        -2.1,
+        -1.2,
+        -1.8,
+        -2.0,
+        -2.8,
         -3.2,
-        -3.5,
-        -3.2,
-        -3.8
+        -2.7
       ],
       "min_temp": [
+        -3.5,
         -3.6,
-        -3.8,
-        -7.4,
-        -8.0,
-        -5.8,
+        -8.3,
+        -6.3,
+        -4.6,
         -5.4,
-        -5.2
+        -3.9
       ]
     },
     "ai_summary": "(idag): Nyfrästa spår med skatebädd. 1,2km. Vinterstugan är öppen kl 10-15 lördag och söndag. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!\n\n(1 dagar sedan): Nyfrästa spår och skatebädd med traktorfräsen. 1,2km.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-24 04:37",
+    "last_update": "2026-01-24 08:31",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -149,23 +149,23 @@
       "max_temp": [
         -0.2,
         -0.2,
-        -1.4,
-        -2.7,
+        -1.0,
+        -1.5,
+        -2.2,
         -2.8,
-        -2.7,
-        -3.2
+        -2.2
       ],
       "min_temp": [
+        -2.3,
         -2.4,
-        -2.6,
-        -6.8,
-        -7.2,
-        -5.2,
-        -5.0,
-        -4.9
+        -7.7,
+        -5.9,
+        -4.4,
+        -4.9,
+        -3.5
       ]
     },
-    "ai_summary": "(13 dagar sedan): Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste.",
+    "ai_summary": "(14 dagar sedan): Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste.",
     "official_url": "https://skidome.ski/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/goteborg/skidome",
     "webcam_url": null,
@@ -181,7 +181,7 @@
     "ai_comments": [
       {
         "date": "2026-01-10T07:54:40.000Z",
-        "days_ago": 13,
+        "days_ago": 14,
         "text": "Nyspårat fredagskväll så perfekta spår nu på lördagsmorgonen. Vi har också dragit ett utomhusspår vid fotbollsplanerna. Perfekta spår och stavfäste."
       }
     ]
@@ -194,7 +194,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-24 04:37",
+    "last_update": "2026-01-24 08:31",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -207,22 +207,22 @@
         "2026-01-30"
       ],
       "max_temp": [
-        -2.7,
+        -2.5,
         -2.8,
-        -3.1,
-        -5.2,
-        -6.4,
-        -4.7,
-        -4.9
+        -3.4,
+        -4.9,
+        -5.7,
+        -4.4,
+        -3.7
       ],
       "min_temp": [
+        -4.2,
         -4.3,
-        -4.4,
-        -10.6,
-        -10.6,
-        -7.8,
-        -7.3,
-        -6.5
+        -10.4,
+        -8.2,
+        -8.3,
+        -6.0,
+        -5.6
       ]
     },
     "ai_summary": "(idag): Hej Idag har vi spårat om 3,5 km, 5 km och gröna milen (naturspår) med fint resultat. Konstsnöpåren spåras om samtliga kvällar, vi fortsätter att spruta snö på resterande toppslingan och campingslingan. Varmt välkomna till oss i helgen!\n\n(idag): Lasseslingan superfin idag på förmiddagen o Majaslingan ävenledes bra. Rätt mycket skräp på Hellnermilen. Tack för allt ert arbete med spåren.",
@@ -259,7 +259,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2026-01-24 04:38",
+    "last_update": "2026-01-24 08:32",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -272,22 +272,22 @@
         "2026-01-30"
       ],
       "max_temp": [
-        -1.6,
-        -1.1,
-        -1.5,
-        -4.0,
-        -4.3,
-        -4.1,
-        -4.1
+        -1.3,
+        -1.0,
+        -1.4,
+        -3.0,
+        -3.8,
+        -4.2,
+        -3.8
       ],
       "min_temp": [
-        -3.4,
-        -3.4,
-        -6.7,
-        -7.3,
+        -3.2,
+        -3.3,
+        -8.2,
         -6.2,
-        -6.1,
-        -5.3
+        -5.5,
+        -6.6,
+        -4.8
       ]
     },
     "ai_summary": "(idag): Nypreppat klassiskt/skate 3.3km . Fik och skiduthyrning öppet /Välkomna\n\n(idag): Dårlig preppa for skate.",
@@ -324,7 +324,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-24 04:38",
+    "last_update": "2026-01-24 08:32",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -337,22 +337,22 @@
         "2026-01-30"
       ],
       "max_temp": [
-        -2.6,
-        -2.2,
-        -2.6,
-        -4.5,
-        -4.7,
+        -2.3,
+        -2.1,
+        -2.4,
+        -3.2,
+        -4.2,
         -4.3,
-        -4.5
+        -3.9
       ],
       "min_temp": [
-        -4.6,
+        -4.3,
         -4.5,
-        -7.7,
-        -7.9,
+        -8.8,
+        -6.8,
+        -5.7,
         -6.7,
-        -6.4,
-        -5.5
+        -4.9
       ]
     },
     "ai_summary": "(idag): Spåret är preparerat nu ikväll både för skate och klassiskt. Spåret mäter 3650 m. Tips! Om man känner sig osäker att åka i de lite brantare backarna så kolla på spårkartan ”Lättare Alternativ”. Gillar man fart och fläkt följer man det ordinarie spåret. // Spårpatrullen\n\n(1 dagar sedan): På fredag kl 15 stänger vi spåren för Lady Ski Event. Fram tills dess är ni välkomna att åka NÄSTAN som vanligt. Se bifogad spårkarta! Vi har stängt av Västra Sprintbacken så när man kommer tillbaka från ängen håller man höger tillbaka mot stadion. Vill man inte åka de röda Sprintbackarna vänder man som vanligt i Mötesplatsen. Fredagens spår är 3,5 km och endast klassiskt dubbelspår. Välkomna! ❤️",
@@ -386,7 +386,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2026-01-24 04:39",
+    "last_update": "2026-01-24 08:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -399,22 +399,22 @@
         "2026-01-30"
       ],
       "max_temp": [
-        -1.7,
-        -1.4,
-        -2.0,
-        -3.4,
+        -1.5,
+        -1.3,
+        -1.8,
+        -2.2,
+        -3.0,
         -3.5,
-        -3.5,
-        -3.7
+        -3.0
       ],
       "min_temp": [
-        -3.8,
-        -3.9,
-        -7.0,
-        -7.2,
+        -3.6,
+        -3.6,
+        -8.1,
+        -6.4,
+        -4.8,
         -5.8,
-        -5.6,
-        -4.9
+        -4.1
       ]
     },
     "ai_summary": "(idag): Nypistad spårbädd inför lördaf Klassiskt spår och skatebädd ca 3km Var god visa hänsyn till liten såsom stor skidåkare. Barnskidor finns att låna. 2 grillplatser Caféet öppet 11-15 Välkomna till Hindås skidcenter\n\n(1 dagar sedan): Nypistad spårbädd kl22,30 Klassiskt och skatebädd ca 3 km Låneskidor till barn Pulkabacke 2 grillplatser Välkomna till Hindås skidcenter",
