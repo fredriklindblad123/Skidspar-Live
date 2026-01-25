@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-5°C",
-    "last_update": "2026-01-25 02:08",
+    "last_update": "2026-01-25 04:53",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,17 +20,17 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -3.7,
-        -3.2,
         -3.6,
+        -3.2,
+        -3.0,
         -5.8,
         -5.2,
         -4.4,
         -5.1
       ],
       "min_temp": [
-        -6.3,
-        -5.4,
+        -6.0,
+        -5.2,
         -5.7,
         -7.3,
         -7.2,
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-25 02:08",
+    "temperature": "-4°C",
+    "last_update": "2026-01-25 04:53",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,25 +85,25 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -2.8,
         -2.4,
         -2.7,
+        -2.0,
         -4.1,
         -3.9,
         -2.9,
         -3.2
       ],
       "min_temp": [
-        -5.3,
-        -5.2,
-        -4.5,
+        -5.5,
+        -5.6,
+        -4.2,
         -6.0,
         -6.1,
         -6.6,
         -4.4
       ]
     },
-    "ai_summary": "(1 dagar sedan): Nyfrästa spår med skatebädd. 1,2km. Vinterstugan är öppen kl 10-15 lördag och söndag. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!\n\n(2 dagar sedan): Nyfrästa spår och skatebädd med traktorfräsen. 1,2km.",
+    "ai_summary": "(idag): Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!\n\n(2 dagar sedan): Nyfrästa spår och skatebädd med traktorfräsen. 1,2km.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -115,9 +115,9 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-23T21:51:16.000Z",
-        "days_ago": 1,
-        "text": "Nyfrästa spår med skatebädd. 1,2km. Vinterstugan är öppen kl 10-15 lördag och söndag. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!"
+        "date": "2026-01-25T03:21:48.000Z",
+        "days_ago": 0,
+        "text": "Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!"
       },
       {
         "date": "2026-01-22T20:58:21.000Z",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-25 02:08",
+    "last_update": "2026-01-25 04:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,9 +147,9 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -1.6,
+        -1.3,
         -1.8,
-        -2.0,
+        -1.4,
         -3.5,
         -3.3,
         -2.4,
@@ -157,8 +157,8 @@
       ],
       "min_temp": [
         -4.5,
-        -4.5,
-        -4.2,
+        -4.4,
+        -4.1,
         -5.2,
         -5.6,
         -6.0,
@@ -193,8 +193,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-25 02:08",
+    "temperature": "-5°C",
+    "last_update": "2026-01-25 04:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -207,25 +207,25 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -3.7,
-        -4.5,
-        -4.9,
+        -4.0,
+        -4.4,
+        -4.2,
         -6.4,
         -4.7,
         -3.6,
         -5.3
       ],
       "min_temp": [
-        -5.3,
-        -7.2,
-        -6.5,
+        -6.1,
+        -7.1,
+        -6.2,
         -8.4,
         -8.6,
         -6.8,
         -5.8
       ]
     },
-    "ai_summary": "(idag): Fantastiskt! -3, lätt snöfall 8:30-12:15 Konstsnöspåren är bra, stavfäste bra Man kan åka ut på naturspåren - kör felhåll vid korset och ha uppsikt - mao slå av farten och njut i stället\n\n(idag): Lördag förmiddag hela parkeringen full möts av ej spårade konstsnöspår, personalen väljer att starta kanonerna kl. 10 så man inte kan åka ut på naturspåren från stadion.",
+    "ai_summary": "(idag): Nyspårat under natten. Välkomna\n\n(idag): Fantastiskt! -3, lätt snöfall 8:30-12:15 Konstsnöspåren är bra, stavfäste bra Man kan åka ut på naturspåren - kör felhåll vid korset och ha uppsikt - mao slå av farten och njut i stället",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -240,14 +240,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-25T04:05:26.000Z",
+        "days_ago": 0,
+        "text": "Nyspårat under natten. Välkomna"
+      },
+      {
         "date": "2026-01-24T11:18:28.000Z",
         "days_ago": 0,
         "text": "Fantastiskt! -3, lätt snöfall 8:30-12:15 Konstsnöspåren är bra, stavfäste bra Man kan åka ut på naturspåren - kör felhåll vid korset och ha uppsikt - mao slå av farten och njut i stället"
-      },
-      {
-        "date": "2026-01-24T10:47:39.000Z",
-        "days_ago": 0,
-        "text": "Lördag förmiddag hela parkeringen full möts av ej spårade konstsnöspår, personalen väljer att starta kanonerna kl. 10 så man inte kan åka ut på naturspåren från stadion."
       }
     ]
   },
@@ -259,7 +259,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-25 02:09",
+    "last_update": "2026-01-25 04:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -272,17 +272,17 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -2.7,
+        -2.6,
         -2.3,
-        -2.8,
+        -2.0,
         -4.7,
         -4.1,
         -3.8,
         -4.2
       ],
       "min_temp": [
-        -5.0,
-        -4.4,
+        -4.7,
+        -4.5,
         -4.7,
         -6.3,
         -6.7,
@@ -324,7 +324,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-5°C",
-    "last_update": "2026-01-25 02:09",
+    "last_update": "2026-01-25 04:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -337,17 +337,17 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -3.8,
+        -3.6,
         -3.5,
-        -3.7,
+        -3.0,
         -5.1,
         -4.4,
         -3.8,
         -4.4
       ],
       "min_temp": [
-        -6.1,
-        -5.6,
+        -5.8,
+        -5.7,
         -5.0,
         -6.6,
         -6.8,
@@ -384,9 +384,9 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Troligen öppet",
-    "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2026-01-25 02:09",
+    "snow_depth": "1 cm",
+    "temperature": "-4°C",
+    "last_update": "2026-01-25 04:55",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -399,18 +399,18 @@
         "2026-01-31"
       ],
       "max_temp": [
-        -3.0,
         -2.5,
-        -2.6,
+        -2.7,
+        -2.0,
         -4.2,
         -3.6,
         -3.1,
         -3.5
       ],
       "min_temp": [
-        -5.2,
-        -5.0,
-        -4.2,
+        -5.1,
+        -5.1,
+        -4.1,
         -5.7,
         -6.2,
         -6.7,
