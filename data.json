@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-25 16:29",
-    "weather": "☁️ Mulet",
+    "temperature": "-5°C",
+    "last_update": "2026-01-25 20:27",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-25",
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         -3.6,
-        -3.5,
-        -2.2,
-        -4.2,
-        -5.4,
-        -5.8,
-        -4.7
+        -3.6,
+        -2.4,
+        -4.3,
+        -5.2,
+        -5.6,
+        -5.7
       ],
       "min_temp": [
         -5.8,
-        -6.3,
-        -4.6,
-        -7.6,
-        -7.5,
-        -7.5,
-        -5.5
+        -6.8,
+        -5.0,
+        -6.6,
+        -6.6,
+        -7.0,
+        -8.4
       ]
     },
     "ai_summary": "(1 dagar sedan): Idag lördag och imorgon söndag arrangerar Ulricehamns IF ungdomstävling på spåret. En begränsad del av spåret är tillgängligt för allmänheten under tävlingarna. Efter sista målgång, ca 14:30 öppnas spåret igen för alla. Preparering inför söndagens tävling påbörjas kl 20:00 Karta bifigas\n\n(2 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil natten till idag. Maximal spårlängd 7.2 km Lättare delar spårlängd 5.3 Beträffande helgens spårinfo se bifogad karta över tillgänglighet på konstsnöspåret.",
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2026-01-25 16:29",
+    "last_update": "2026-01-25 20:27",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -86,21 +86,21 @@
       ],
       "max_temp": [
         -2.3,
-        -2.6,
-        -1.1,
-        -4.2,
+        -2.7,
+        -1.3,
+        -2.5,
+        -3.3,
         -3.7,
-        -4.0,
-        -2.7
+        -4.0
       ],
       "min_temp": [
         -5.3,
         -6.1,
-        -5.4,
-        -6.1,
-        -6.7,
-        -6.9,
-        -3.9
+        -5.7,
+        -5.3,
+        -6.3,
+        -6.2,
+        -7.2
       ]
     },
     "ai_summary": "(idag): Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!\n\n(2 dagar sedan): Nyfrästa spår och skatebädd med traktorfräsen. 1,2km.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-25 16:29",
+    "last_update": "2026-01-25 20:28",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -148,21 +148,21 @@
       ],
       "max_temp": [
         -1.2,
-        -1.9,
+        -2.0,
         -0.5,
-        -3.2,
-        -3.3,
-        -3.3,
-        -2.0
+        -2.1,
+        -2.8,
+        -3.5,
+        -3.7
       ],
       "min_temp": [
         -4.5,
-        -5.0,
-        -4.7,
-        -5.3,
+        -4.6,
+        -4.6,
+        -5.1,
         -6.2,
-        -6.2,
-        -3.4
+        -6.1,
+        -6.4
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-25 16:30",
+    "temperature": "-5°C",
+    "last_update": "2026-01-25 20:28",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -202,21 +202,21 @@
       ],
       "max_temp": [
         -3.9,
+        -4.4,
+        -2.9,
         -4.5,
-        -2.7,
-        -4.8,
+        -5.7,
         -5.0,
-        -5.3,
-        -3.6
+        -4.6
       ],
       "min_temp": [
-        -5.0,
-        -8.0,
-        -6.7,
-        -9.3,
+        -5.1,
         -8.2,
-        -6.7,
-        -5.3
+        -6.8,
+        -7.2,
+        -7.6,
+        -7.1,
+        -8.2
       ]
     },
     "ai_summary": "(idag): Magiskt, -3, sol och vindstilla Milen, fjäraturen, rakt genom skogen Sjöslingan - görbra - Uppåkt men så bra\n\n(idag): Nyspårat under natten. Välkomna",
@@ -253,7 +253,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-3°C",
-    "last_update": "2026-01-25 16:30",
+    "last_update": "2026-01-25 20:29",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,21 +267,21 @@
       ],
       "max_temp": [
         -2.5,
-        -2.5,
-        -1.3,
-        -3.6,
-        -4.7,
-        -4.9,
-        -3.5
+        -2.7,
+        -1.4,
+        -3.2,
+        -4.2,
+        -4.8,
+        -5.1
       ],
       "min_temp": [
         -4.3,
-        -5.1,
-        -4.0,
-        -6.6,
-        -6.7,
-        -7.2,
-        -4.9
+        -5.4,
+        -4.4,
+        -6.3,
+        -6.5,
+        -6.5,
+        -7.8
       ]
     },
     "ai_summary": "(idag): Idag stänger vi nedre slingan från bron klocka 21:00 för att bredda backen o få fullbredd med snö på bron. Ser fint ut idag då det inte kom mycket snö efter spårningen/ välkomna\n\n(idag): Neddragna spår och preparerad skatebädd . Fina vinterdagar nu. Fik och skiduthyrning öppet imorgon. Välkomna",
@@ -318,7 +318,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-25 16:30",
+    "last_update": "2026-01-25 20:29",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -3.6,
+        -3.8,
+        -2.4,
         -3.7,
-        -2.3,
-        -4.5,
-        -4.8,
-        -5.2,
-        -3.8
+        -4.4,
+        -5.1,
+        -5.2
       ],
       "min_temp": [
-        -5.4,
+        -5.3,
+        -6.4,
+        -5.6,
         -6.3,
-        -5.2,
-        -7.0,
-        -7.2,
-        -7.6,
-        -5.0
+        -6.7,
+        -6.7,
+        -7.9
       ]
     },
     "ai_summary": "(idag): Sockrigt i saxbackarna.\n\n(idag): Fantastisk med många åkare i spåret idag! Konstsnöspåret, 3,6 km, är nu preparerat för klassiskt och skate. Varmt välkomna till en fin skidsöndag vid Hestrastugan! /Spårpatrullen",
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2026-01-25 16:31",
+    "last_update": "2026-01-25 20:30",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -394,21 +394,21 @@
       ],
       "max_temp": [
         -2.6,
-        -2.8,
-        -1.3,
-        -4.2,
-        -4.1,
-        -4.1,
-        -2.8
+        -2.9,
+        -1.4,
+        -2.5,
+        -3.5,
+        -4.3,
+        -4.3
       ],
       "min_temp": [
         -4.9,
         -5.7,
-        -4.5,
-        -5.9,
+        -4.9,
+        -5.8,
         -6.6,
-        -7.0,
-        -4.2
+        -6.6,
+        -7.2
       ]
     },
     "ai_summary": "(idag): Morgontur med helt ok spår, bitvis grunda, bitvis djupa, ibland lite barr. Tjock sockrig snö i saxbackarna - bra benträning ;) . Funkade idag med burkvalla blå+vr 45 (swix).\n\n(idag): Nypistat klassiskt spår och skatebädd ca 3km Hoppas spåret fryser ihop tillräckligt. Risk finns att det blir löst och kanske lite ”sockrigt” fram till vi får lite fukt i snön igen.Vinden och den torra luften torkar ur snön rejält. Stig på spårbädden via gallertrappan för att minimera smuts i snöbädden! Låneskidor för barn finns Caféet öppet 11-15 Välkomna till Hindås skidcenter",
