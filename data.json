@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-27 08:37",
+    "temperature": "-2°C",
+    "last_update": "2026-01-27 12:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,9 +20,9 @@
         "2026-02-02"
       ],
       "max_temp": [
-        -2.5,
-        -2.0,
-        -2.3,
+        -2.4,
+        -2.2,
+        -2.6,
         -6.5,
         -4.9,
         -4.8,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         -5.0,
-        -5.5,
-        -7.7,
+        -6.5,
+        -7.2,
         -8.1,
         -7.6,
         -8.9,
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2026-01-27 08:37",
-    "weather": "☀️ Klart",
+    "temperature": "-2°C",
+    "last_update": "2026-01-27 12:57",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-27",
@@ -85,18 +85,18 @@
         "2026-02-02"
       ],
       "max_temp": [
-        -1.3,
-        -0.9,
-        -1.3,
+        -1.6,
+        -1.2,
+        -1.6,
         -4.4,
         -3.5,
         -4.0,
         -2.8
       ],
       "min_temp": [
-        -5.5,
-        -6.7,
-        -7.4,
+        -6.0,
+        -6.5,
+        -7.6,
         -8.2,
         -6.0,
         -6.9,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-27 08:37",
-    "weather": "☀️ Klart",
+    "last_update": "2026-01-27 12:57",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-27",
@@ -148,17 +148,17 @@
       ],
       "max_temp": [
         -0.1,
-        0.3,
-        -0.0,
+        0.1,
+        -0.3,
         -4.0,
         -3.0,
         -3.5,
         -1.9
       ],
       "min_temp": [
-        -3.7,
-        -4.2,
-        -6.7,
+        -3.9,
+        -4.3,
+        -6.0,
         -7.6,
         -5.4,
         -5.8,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-27 08:37",
+    "temperature": "-4°C",
+    "last_update": "2026-01-27 12:57",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,9 +201,9 @@
         "2026-02-02"
       ],
       "max_temp": [
-        -2.8,
-        -2.5,
-        -2.5,
+        -3.7,
+        -2.7,
+        -2.7,
         -6.0,
         -4.3,
         -4.4,
@@ -211,15 +211,15 @@
       ],
       "min_temp": [
         -8.4,
-        -5.7,
-        -7.3,
+        -6.3,
+        -6.5,
         -7.5,
         -7.2,
         -8.9,
         -8.9
       ]
     },
-    "ai_summary": "(idag): Konstsnöbädden nyspårad under natten. Välkomna\n\n(idag): Jätte fina spår och rolig åkning på billingen idag. Det var bara en sak som kunnat vara bättre. Väldigt svårt att hitta, väldigt oklart hur man skulle åka, åkriktning mm. För den som inte känner till området var det mycket chansning för att hitta rätt. Mötte flera skidåkare som såg ut att tveka vid olika vägval. Blev som sagt en del fram och tillbaka men ändå trevlig åkning.",
+    "ai_summary": "(idag): Igår 26/1, kvällen med pannlampa: 85% Kanonfina spår. Främst sista 5 km lämpligt att ligga i vänster-spår om \"trafiken tillåter\" då det verkar varit tunt för att få till spårprofilen på flera ställen i högerspåret. Genomslag på enstaka ställe, mycket barr/skräp på de vanliga ställena. Blå och lila burkvalla, 80% blå, fungerade bra.\n\n(idag): Några genomslag på naturspåren, främst på 5:an.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-27T01:35:00.000Z",
+        "date": "2026-01-27T11:09:21.000Z",
         "days_ago": 0,
-        "text": "Konstsnöbädden nyspårad under natten. Välkomna"
+        "text": "Igår 26/1, kvällen med pannlampa: 85% Kanonfina spår. Främst sista 5 km lämpligt att ligga i vänster-spår om \"trafiken tillåter\" då det verkar varit tunt för att få till spårprofilen på flera ställen i högerspåret. Genomslag på enstaka ställe, mycket barr/skräp på de vanliga ställena. Blå och lila burkvalla, 80% blå, fungerade bra."
       },
       {
-        "date": "2026-01-26T14:06:03.000Z",
+        "date": "2026-01-27T09:19:35.000Z",
         "days_ago": 0,
-        "text": "Jätte fina spår och rolig åkning på billingen idag. Det var bara en sak som kunnat vara bättre. Väldigt svårt att hitta, väldigt oklart hur man skulle åka, åkriktning mm. För den som inte känner till området var det mycket chansning för att hitta rätt. Mötte flera skidåkare som såg ut att tveka vid olika vägval. Blev som sagt en del fram och tillbaka men ändå trevlig åkning."
+        "text": "Några genomslag på naturspåren, främst på 5:an."
       }
     ]
   },
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-27 08:38",
-    "weather": "⛅ Halvklart",
+    "temperature": "-2°C",
+    "last_update": "2026-01-27 12:58",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-27",
@@ -266,9 +266,9 @@
         "2026-02-02"
       ],
       "max_temp": [
+        -1.5,
+        -1.3,
         -1.7,
-        -1.1,
-        -1.4,
         -5.5,
         -4.4,
         -4.5,
@@ -276,8 +276,8 @@
       ],
       "min_temp": [
         -4.2,
-        -4.7,
-        -7.3,
+        -5.4,
+        -6.8,
         -7.9,
         -6.9,
         -8.1,
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-27 08:38",
-    "weather": "⛅ Halvklart",
+    "temperature": "-2°C",
+    "last_update": "2026-01-27 12:58",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-27",
@@ -331,9 +331,9 @@
         "2026-02-02"
       ],
       "max_temp": [
-        -2.7,
-        -2.2,
         -2.4,
+        -2.3,
+        -2.7,
         -5.7,
         -4.6,
         -4.7,
@@ -341,8 +341,8 @@
       ],
       "min_temp": [
         -5.4,
-        -6.1,
-        -7.9,
+        -6.5,
+        -7.7,
         -8.4,
         -7.1,
         -8.1,
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-27 08:38",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "-2°C",
+    "last_update": "2026-01-27 12:58",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-27",
@@ -393,25 +393,25 @@
         "2026-02-02"
       ],
       "max_temp": [
+        -1.6,
+        -1.3,
         -1.7,
-        -1.1,
-        -1.4,
         -4.8,
         -3.8,
         -4.3,
         -2.8
       ],
       "min_temp": [
-        -4.7,
-        -6.4,
-        -7.6,
+        -5.0,
+        -6.2,
+        -6.9,
         -7.9,
         -6.1,
         -7.1,
         -5.8
       ]
     },
-    "ai_summary": "(idag): I veckan kommer vi att köra snökanoner på delar av banan under nätterna. Vi pistar på förmiddagen och hela slingan igång på eftermiddag/kväll. På morgon och förmiddag blir det lite olika varianter på spåret . Allt för att bibehålla fina spår så länge det går. Välkomna\n\n(idag): Som tidigare rapporterat så är det nypistad spårbädd sen sent igår kväll. Extra info: I morgon tisdag kl 18-ca 20 bedriver Hsk en grundkurs i klassisk skidteknik för en vuxengrupp, därför låter vi övriga åka förbi ”stadion”bakom kullen i vänsterspår och ut på spåret. Vi gör anvisningar på plats, Även en grupp från Göteborgs skidklubb kommer att besöka oss vid den tiden.",
+    "ai_summary": "(idag): I veckan kommer vi att köra snökanoner på delar av banan under nätterna. Vi pistar på förmiddagen och hela slingan igång på eftermiddag/kväll. På morgon och förmiddag blir det lite olika varianter på spåret . Allt för att bibehålla fina spår så länge det går. Välkomna\n\n(1 dagar sedan): Som tidigare rapporterat så är det nypistad spårbädd sen sent igår kväll. Extra info: I morgon tisdag kl 18-ca 20 bedriver Hsk en grundkurs i klassisk skidteknik för en vuxengrupp, därför låter vi övriga åka förbi ”stadion”bakom kullen i vänsterspår och ut på spåret. Vi gör anvisningar på plats, Även en grupp från Göteborgs skidklubb kommer att besöka oss vid den tiden.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -429,7 +429,7 @@
       },
       {
         "date": "2026-01-26T09:08:26.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Som tidigare rapporterat så är det nypistad spårbädd sen sent igår kväll. Extra info: I morgon tisdag kl 18-ca 20 bedriver Hsk en grundkurs i klassisk skidteknik för en vuxengrupp, därför låter vi övriga åka förbi ”stadion”bakom kullen i vänsterspår och ut på spåret. Vi gör anvisningar på plats, Även en grupp från Göteborgs skidklubb kommer att besöka oss vid den tiden."
       }
     ]
