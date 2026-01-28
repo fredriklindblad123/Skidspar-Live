@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-28 02:00",
+    "last_update": "2026-01-28 04:47",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,17 +20,17 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -2.8,
+        -2.5,
         -2.7,
-        -6.2,
+        -4.6,
         -5.7,
         -4.1,
         -5.3,
         -5.1
       ],
       "min_temp": [
-        -4.8,
-        -6.7,
+        -6.1,
+        -6.9,
         -7.6,
         -8.6,
         -8.8,
@@ -38,7 +38,7 @@
         -10.6
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon. Golfbanan ca 5 km K preparerad med ginzugroomer under måndagen. Konstsnöspåret kommer inom ngn dag förlängas med ca 1.5 km flack skidåkning på det sk vägspåret.\n\n(3 dagar sedan): Idag lördag och imorgon söndag arrangerar Ulricehamns IF ungdomstävling på spåret. En begränsad del av spåret är tillgängligt för allmänheten under tävlingarna. Efter sista målgång, ca 14:30 öppnas spåret igen för alla. Preparering inför söndagens tävling påbörjas kl 20:00 Karta bifigas",
+    "ai_summary": "(idag): Konstsnöspåret inkl vägspåret nypistat för klassiskt och fristil sent tis kväll. De tuffare bandelarnas preparering gjordes inte om. Golfbanan ca 5 km K. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter med sämre skidor.\n\n(1 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon. Golfbanan ca 5 km K preparerad med ginzugroomer under måndagen. Konstsnöspåret kommer inom ngn dag förlängas med ca 1.5 km flack skidåkning på det sk vägspåret.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-27T04:21:02.000Z",
+        "date": "2026-01-28T04:28:46.000Z",
         "days_ago": 0,
-        "text": "Konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon. Golfbanan ca 5 km K preparerad med ginzugroomer under måndagen. Konstsnöspåret kommer inom ngn dag förlängas med ca 1.5 km flack skidåkning på det sk vägspåret."
+        "text": "Konstsnöspåret inkl vägspåret nypistat för klassiskt och fristil sent tis kväll. De tuffare bandelarnas preparering gjordes inte om. Golfbanan ca 5 km K. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter med sämre skidor."
       },
       {
-        "date": "2026-01-24T05:05:59.000Z",
-        "days_ago": 3,
-        "text": "Idag lördag och imorgon söndag arrangerar Ulricehamns IF ungdomstävling på spåret. En begränsad del av spåret är tillgängligt för allmänheten under tävlingarna. Efter sista målgång, ca 14:30 öppnas spåret igen för alla. Preparering inför söndagens tävling påbörjas kl 20:00 Karta bifigas"
+        "date": "2026-01-27T04:21:02.000Z",
+        "days_ago": 1,
+        "text": "Konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon. Golfbanan ca 5 km K preparerad med ginzugroomer under måndagen. Konstsnöspåret kommer inom ngn dag förlängas med ca 1.5 km flack skidåkning på det sk vägspåret."
       }
     ]
   },
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-28 02:00",
+    "last_update": "2026-01-28 04:47",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -85,9 +85,9 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -1.3,
-        -1.4,
-        -4.5,
+        -1.5,
+        -1.9,
+        -3.7,
         -4.1,
         -2.5,
         -3.5,
@@ -96,14 +96,14 @@
       "min_temp": [
         -6.8,
         -7.7,
-        -6.2,
+        -6.8,
         -7.0,
         -7.2,
         -8.7,
         -9.5
       ]
     },
-    "ai_summary": "(idag): Snötillverkning pågår på den nedre slingan för att förlänga spåret. Vi jobbar för att öppna det nedre spåret på lördag. På den övre delen av konstsnöspåret startade vi ikväll några snökanon på ytor bredvid spåret. Men vinden kan göra att snö kan driva in i spåret på delar var slingan.\n\n(2 dagar sedan): Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!",
+    "ai_summary": "(idag): Snötillverkning pågår på den nedre slingan för att förlänga spåret. Vi jobbar för att öppna det nedre spåret på lördag. På den övre delen av konstsnöspåret startade vi ikväll några snökanon på ytor bredvid spåret. Men vinden kan göra att snö kan driva in i spåret på delar var slingan.\n\n(3 dagar sedan): Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-01-25T03:21:48.000Z",
-        "days_ago": 2,
+        "days_ago": 3,
         "text": "Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!"
       }
     ]
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-28 02:00",
+    "last_update": "2026-01-28 04:48",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -147,9 +147,9 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -0.1,
-        -0.2,
-        -3.9,
+        -0.4,
+        -0.7,
+        -2.6,
         -3.5,
         -2.0,
         -3.0,
@@ -157,7 +157,7 @@
       ],
       "min_temp": [
         -4.7,
-        -5.2,
+        -5.7,
         -5.2,
         -5.9,
         -6.3,
@@ -188,7 +188,7 @@
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-28 02:01",
+    "last_update": "2026-01-28 04:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,18 +201,18 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -3.1,
+        -2.9,
         -3.0,
-        -5.5,
+        -4.4,
         -5.3,
         -3.9,
         -4.9,
         -4.4
       ],
       "min_temp": [
-        -6.3,
-        -6.6,
-        -7.7,
+        -5.8,
+        -6.9,
+        -8.0,
         -7.8,
         -8.2,
         -8.9,
@@ -253,8 +253,8 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-3°C",
-    "last_update": "2026-01-28 02:01",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-01-28 04:48",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -266,17 +266,17 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -1.5,
-        -1.6,
-        -4.8,
+        -1.3,
+        -1.8,
+        -3.7,
         -5.1,
         -3.4,
         -4.4,
         -4.1
       ],
       "min_temp": [
-        -5.0,
-        -6.2,
+        -5.8,
+        -6.1,
         -6.8,
         -7.8,
         -7.8,
@@ -318,8 +318,8 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-28 02:02",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-01-28 04:48",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -331,17 +331,17 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -2.6,
-        -2.6,
-        -5.6,
+        -2.4,
+        -2.8,
+        -4.6,
         -5.2,
         -3.6,
         -4.7,
         -4.2
       ],
       "min_temp": [
-        -6.4,
-        -7.0,
+        -6.6,
+        -7.1,
         -7.0,
         -7.9,
         -8.0,
@@ -380,8 +380,8 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-28 02:02",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-01-28 04:49",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -393,18 +393,18 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -1.4,
-        -1.4,
-        -4.8,
+        -1.5,
+        -1.9,
+        -3.8,
         -4.4,
         -2.8,
         -3.8,
         -3.5
       ],
       "min_temp": [
-        -6.7,
-        -7.4,
-        -6.1,
+        -6.4,
+        -7.3,
+        -6.3,
         -7.1,
         -7.4,
         -8.5,
