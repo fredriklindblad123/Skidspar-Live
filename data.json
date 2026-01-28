@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-28 08:36",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "-2°C",
+    "last_update": "2026-01-28 12:57",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -20,22 +20,22 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -2.4,
+        -2.5,
         -2.6,
-        -3.1,
-        -5.6,
-        -4.6,
+        -3.0,
         -5.4,
+        -4.5,
+        -5.8,
         -5.2
       ],
       "min_temp": [
-        -6.6,
-        -7.3,
-        -7.4,
-        -8.1,
-        -8.8,
-        -10.1,
-        -10.4
+        -6.2,
+        -6.3,
+        -7.2,
+        -8.4,
+        -7.9,
+        -11.1,
+        -11.2
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret inkl vägspåret nypistat för klassiskt och fristil sent tis kväll. De tuffare bandelarnas preparering gjordes inte om. Golfbanan ca 5 km K. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter med sämre skidor.\n\n(1 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon. Golfbanan ca 5 km K preparerad med ginzugroomer under måndagen. Konstsnöspåret kommer inom ngn dag förlängas med ca 1.5 km flack skidåkning på det sk vägspåret.",
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-28 08:36",
-    "weather": "☀️ Klart",
+    "temperature": "-2°C",
+    "last_update": "2026-01-28 12:57",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -85,22 +85,22 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -1.3,
         -1.6,
-        -2.5,
-        -3.7,
+        -1.7,
+        -2.2,
+        -3.8,
         -2.8,
-        -3.7,
+        -4.1,
         -3.3
       ],
       "min_temp": [
-        -6.7,
-        -7.4,
-        -7.1,
-        -6.2,
         -6.5,
-        -8.6,
-        -9.4
+        -7.5,
+        -6.2,
+        -6.6,
+        -6.2,
+        -9.6,
+        -10.1
       ]
     },
     "ai_summary": "(idag): Snötillverkning pågår på den nedre slingan för att förlänga spåret. Vi jobbar för att öppna det nedre spåret på lördag. På den övre delen av konstsnöspåret startade vi ikväll några snökanon på ytor bredvid spåret. Men vinden kan göra att snö kan driva in i spåret på delar var slingan.\n\n(3 dagar sedan): Nyfrästa spår med skatebädd. 1,2km lördagkväll 22:30. Vinterstugan är öppen lördag och söndag kl 10-15. Skiduthyrning för barn och vuxna. Kaffestuga med våfflor. Välkomna!",
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-28 08:37",
-    "weather": "☀️ Klart",
+    "last_update": "2026-01-28 12:57",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -147,22 +147,22 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -0.3,
-        -0.5,
+        -0.7,
+        -0.7,
         -1.0,
-        -3.1,
-        -2.2,
         -3.2,
+        -2.3,
+        -3.5,
         -2.8
       ],
       "min_temp": [
-        -4.5,
+        -4.8,
+        -5.9,
+        -5.2,
         -5.6,
-        -6.1,
-        -5.6,
-        -5.7,
-        -7.8,
-        -8.6
+        -5.4,
+        -8.8,
+        -9.3
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-28 08:37",
-    "weather": "⛅ Halvklart",
+    "temperature": "-3°C",
+    "last_update": "2026-01-28 12:57",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-01-28",
@@ -201,22 +201,22 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -2.8,
-        -2.9,
-        -3.6,
-        -5.4,
+        -3.3,
+        -3.0,
+        -3.4,
+        -4.7,
         -4.1,
-        -5.5,
+        -5.3,
         -4.7
       ],
       "min_temp": [
-        -5.9,
-        -7.1,
-        -8.3,
-        -7.7,
-        -8.4,
-        -9.5,
-        -9.9
+        -6.1,
+        -5.8,
+        -6.6,
+        -7.8,
+        -7.6,
+        -10.1,
+        -10.3
       ]
     },
     "ai_summary": "(idag): Campingslinga,Sjövägen och halva toppslingan spårade under natten. Välkomna\n\n(idag): Inför kvällen går det att åka hela campingslingan, gamla slingan, sjövägen och toppslingan.vi har snöhögar kvar att köra ut på toppslingan, klart till imorgon. För att spåra om blängen och fjäraturen behöver det komma mer natursnö. Välkomna!",
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-3°C",
-    "last_update": "2026-01-28 08:37",
+    "temperature": "-2°C",
+    "last_update": "2026-01-28 12:58",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -266,22 +266,22 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -1.2,
-        -1.6,
-        -2.4,
+        -2.1,
+        -1.9,
+        -2.3,
+        -4.8,
+        -3.8,
         -4.9,
-        -3.7,
-        -4.4,
         -4.3
       ],
       "min_temp": [
-        -5.6,
-        -6.1,
+        -5.9,
+        -6.0,
+        -6.7,
+        -7.6,
         -7.3,
-        -6.9,
-        -7.8,
-        -9.3,
-        -9.6
+        -10.2,
+        -10.3
       ]
     },
     "ai_summary": "(idag): Nedre slingan preparerad igår kväll , övre delen ser bra ut /välkomna\n\n(idag): Räls överallt lite broms där snön från snökanonerna yr in bra stavfäste",
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-28 08:37",
+    "temperature": "-3°C",
+    "last_update": "2026-01-28 12:58",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -331,22 +331,22 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -2.2,
-        -2.6,
-        -3.5,
-        -5.0,
-        -3.9,
-        -4.7,
+        -3.1,
+        -3.0,
+        -3.4,
+        -4.9,
+        -4.0,
+        -5.1,
         -4.3
       ],
       "min_temp": [
-        -6.5,
-        -7.0,
-        -7.8,
+        -6.9,
+        -7.1,
         -7.3,
-        -7.8,
-        -9.3,
-        -9.6
+        -7.7,
+        -7.5,
+        -10.3,
+        -10.4
       ]
     },
     "ai_summary": "(idag): Då har vi lite \"specialspår\" tillfälligt enligt tidigare inlägg (karta) pga snötillverkning. Består i princip av en nedre (mycket lättåkt) och en övre (lite mer backar) slinga. Sammanlagt ca 3,3 km. Slingan nyspårad och pistad för klassikt och skate.\n\n(1 dagar sedan): Söndag kväll \"renoverade\" vi snöbäddden genom att schakta bort översta lagret och har fått fram finfin snö! Måndagens spår är därför så fina att vi väljer att inte fräsa och spåra på nytt. I natt gör vi snö på ett par ställen och har därför en lite annorlunda spårdragning på ca 3,3 km. Se bifogad spårkarta! På tisdag är spåret avstängt för ungdomsträning 17:30-19:30. Välkomna övriga tider! ❤️❄️",
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-28 08:38",
+    "temperature": "-2°C",
+    "last_update": "2026-01-28 12:58",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -393,25 +393,25 @@
         "2026-02-03"
       ],
       "max_temp": [
-        -1.4,
-        -1.7,
-        -2.5,
+        -2.0,
+        -2.0,
+        -2.4,
         -4.0,
-        -3.1,
-        -3.8,
+        -3.2,
+        -4.3,
         -3.5
       ],
       "min_temp": [
-        -6.3,
-        -7.0,
+        -6.2,
         -7.1,
         -6.3,
         -6.8,
-        -8.5,
-        -9.1
+        -6.4,
+        -9.6,
+        -9.9
       ]
     },
-    "ai_summary": "(1 dagar sedan): I veckan kommer vi att köra snökanoner på delar av banan under nätterna. Vi pistar på förmiddagen och hela slingan igång på eftermiddag/kväll. På morgon och förmiddag blir det lite olika varianter på spåret . Allt för att bibehålla fina spår så länge det går. Välkomna\n\n(1 dagar sedan): Som tidigare rapporterat så är det nypistad spårbädd sen sent igår kväll. Extra info: I morgon tisdag kl 18-ca 20 bedriver Hsk en grundkurs i klassisk skidteknik för en vuxengrupp, därför låter vi övriga åka förbi ”stadion”bakom kullen i vänsterspår och ut på spåret. Vi gör anvisningar på plats, Även en grupp från Göteborgs skidklubb kommer att besöka oss vid den tiden.",
+    "ai_summary": "(1 dagar sedan): I veckan kommer vi att köra snökanoner på delar av banan under nätterna. Vi pistar på förmiddagen och hela slingan igång på eftermiddag/kväll. På morgon och förmiddag blir det lite olika varianter på spåret . Allt för att bibehålla fina spår så länge det går. Välkomna\n\n(2 dagar sedan): Som tidigare rapporterat så är det nypistad spårbädd sen sent igår kväll. Extra info: I morgon tisdag kl 18-ca 20 bedriver Hsk en grundkurs i klassisk skidteknik för en vuxengrupp, därför låter vi övriga åka förbi ”stadion”bakom kullen i vänsterspår och ut på spåret. Vi gör anvisningar på plats, Även en grupp från Göteborgs skidklubb kommer att besöka oss vid den tiden.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -429,7 +429,7 @@
       },
       {
         "date": "2026-01-26T09:08:26.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Som tidigare rapporterat så är det nypistad spårbädd sen sent igår kväll. Extra info: I morgon tisdag kl 18-ca 20 bedriver Hsk en grundkurs i klassisk skidteknik för en vuxengrupp, därför låter vi övriga åka förbi ”stadion”bakom kullen i vänsterspår och ut på spåret. Vi gör anvisningar på plats, Även en grupp från Göteborgs skidklubb kommer att besöka oss vid den tiden."
       }
     ]
