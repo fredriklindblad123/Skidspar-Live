@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-29 16:48",
+    "last_update": "2026-01-29 20:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         -3.5,
-        -2.9,
+        -3.0,
         -2.2,
-        -5.5,
-        -8.1,
-        -5.9,
-        -5.3
+        -5.1,
+        -8.3,
+        -4.2,
+        -2.9
       ],
       "min_temp": [
         -4.7,
-        -5.1,
         -5.3,
-        -8.2,
-        -10.1,
-        -10.1,
-        -8.3
+        -5.4,
+        -8.3,
+        -10.0,
+        -10.0,
+        -7.6
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil. Spåret är nu förlängt med det sk vägspåret. Spårets längd nu maximalt 8.5 km och de lättare delarna ca 6.5 km Golfbanan ca 5 km preparerad med ginzugroomer för några dagar sedan. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter. Genomslag förekommer. Till helgen arrangeras Västgötaloppet på anläggningen.\n\n(1 dagar sedan): Konstsnöspåret inkl vägspåret nypistat för klassiskt och fristil sent tis kväll. De tuffare bandelarnas preparering gjordes inte om. Golfbanan ca 5 km K. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter med sämre skidor.",
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-3°C",
-    "last_update": "2026-01-29 16:48",
+    "temperature": "-4°C",
+    "last_update": "2026-01-29 20:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -86,21 +86,21 @@
       ],
       "max_temp": [
         -2.6,
-        -1.9,
-        -1.3,
-        -4.2,
-        -6.1,
-        -4.6,
-        -3.2
+        -2.0,
+        -1.4,
+        -4.1,
+        -6.2,
+        -2.0,
+        -1.4
       ],
       "min_temp": [
         -9.1,
-        -4.3,
-        -4.9,
-        -7.1,
-        -9.1,
-        -9.5,
-        -6.9
+        -4.7,
+        -4.8,
+        -6.5,
+        -8.6,
+        -8.4,
+        -6.2
       ]
     },
     "ai_summary": "(idag): Nyspårat med traktorn 1200 m spår+skate. Ytterligare 600 m vändslinga utan spår finns för dig som kör skate.\n\n(1 dagar sedan): Snötillverkning pågår på den nedre slingan för att förlänga spåret. Vi jobbar för att öppna det nedre spåret på lördag. På den övre delen av konstsnöspåret startade vi ikväll några snökanon på ytor bredvid spåret. Men vinden kan göra att snö kan driva in i spåret på delar var slingan.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-29 16:49",
+    "last_update": "2026-01-29 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -148,21 +148,21 @@
       ],
       "max_temp": [
         -1.5,
-        -0.6,
+        -0.7,
         -0.1,
-        -2.9,
-        -5.6,
-        -4.0,
-        -2.7
+        -2.6,
+        -5.7,
+        -1.5,
+        -1.0
       ],
       "min_temp": [
         -5.8,
-        -2.8,
+        -3.3,
         -3.6,
-        -6.4,
-        -8.6,
-        -8.9,
-        -6.2
+        -5.8,
+        -7.8,
+        -7.7,
+        -5.4
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -188,7 +188,7 @@
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-29 16:49",
+    "last_update": "2026-01-29 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -203,23 +203,23 @@
       "max_temp": [
         -4.2,
         -3.4,
-        -2.3,
-        -5.9,
-        -7.4,
-        -6.8,
-        -4.3
+        -2.2,
+        -5.7,
+        -7.8,
+        -5.6,
+        -4.7
       ],
       "min_temp": [
         -7.4,
-        -6.7,
         -6.2,
-        -7.8,
-        -9.4,
-        -9.7,
-        -9.4
+        -6.2,
+        -7.9,
+        -8.7,
+        -8.1,
+        -7.3
       ]
     },
-    "ai_summary": "(idag): Milen en del grus och barr. 5:an något bättre. Härligt ändå med åkbara naturspår.\n\n(idag): -5, nästan vindstilla och underbara spår",
+    "ai_summary": "(idag): Milen en del grus och barr. 5:an något bättre. Härligt ändå med åkbara naturspår.\n\n(1 dagar sedan): -5, nästan vindstilla och underbara spår",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -240,7 +240,7 @@
       },
       {
         "date": "2026-01-28T18:19:14.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "-5, nästan vindstilla och underbara spår"
       }
     ]
@@ -253,7 +253,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-3°C",
-    "last_update": "2026-01-29 16:50",
+    "last_update": "2026-01-29 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,21 +267,21 @@
       ],
       "max_temp": [
         -2.6,
-        -1.9,
-        -1.3,
-        -4.5,
-        -7.1,
-        -5.4,
-        -4.3
+        -2.0,
+        -1.4,
+        -4.0,
+        -7.3,
+        -3.2,
+        -2.0
       ],
       "min_temp": [
         -5.0,
-        -4.1,
-        -4.2,
-        -7.7,
+        -4.5,
+        -4.5,
+        -7.5,
         -9.4,
-        -9.6,
-        -7.7
+        -9.3,
+        -7.0
       ]
     },
     "ai_summary": "(idag): Preparerat klassiskt o skate 3,3km/välkomna\n\n(1 dagar sedan): Nedre slingan preparerad igår kväll , övre delen ser bra ut /välkomna",
@@ -318,7 +318,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-4°C",
-    "last_update": "2026-01-29 16:50",
+    "last_update": "2026-01-29 20:36",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -3.6,
-        -3.0,
+        -3.1,
         -2.4,
-        -5.3,
-        -7.2,
-        -5.5,
-        -4.3
+        -5.1,
+        -7.4,
+        -3.4,
+        -2.1
       ],
       "min_temp": [
         -5.8,
-        -5.1,
-        -5.4,
-        -7.9,
-        -9.7,
-        -10.1,
-        -7.7
+        -5.6,
+        -5.6,
+        -7.7,
+        -9.4,
+        -9.4,
+        -7.2
       ]
     },
     "ai_summary": "(idag): Hela spårsystemet (utom Västra Sprintbacken) är nypreparerat för skate och klassiskt. Se bifogad spårkarta! Motionsslingan är ca 3,5 km. Utöver detta är Kraftbacken öppen och från Högsta Punkten börjar konstsnöanslutningen (ca 200m t.o.r) till Sjöslingan, där du fortfarande kan åka på första ängen på tunn ospårad natursnö. Välkomna till en fin torsdag på Hestrastugan i Borås! ❄️❤️👍\n\n(1 dagar sedan): Nu har vi schaktat ut den nya snön i Slakmotan och man kan åka nästan hela spårsystemet igen. Västra Sprintbacken är fortfarande avstängd men spåret är trots detta 3,5 km. Se bifogad spårkarta. Dessutom är Kraftbacken (ca 120m) öppen och vi har schaktat ut ytterligare 100m konstsnö för anslutning till Sjöslingan (tunn natursnö). Välkomna till en fin kvällsåkning på Hestrastugan i Borås! ❄️❤️👍",
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-3°C",
-    "last_update": "2026-01-29 16:50",
+    "temperature": "-4°C",
+    "last_update": "2026-01-29 20:36",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -396,19 +396,19 @@
         -2.8,
         -2.1,
         -1.5,
-        -4.4,
-        -6.3,
-        -4.8,
-        -3.3
+        -4.2,
+        -6.5,
+        -2.2,
+        -1.5
       ],
       "min_temp": [
         -8.2,
-        -4.3,
-        -4.7,
-        -7.3,
-        -9.2,
-        -9.6,
-        -7.1
+        -4.8,
+        -4.8,
+        -6.7,
+        -8.6,
+        -8.4,
+        -6.3
       ]
     },
     "ai_summary": "(idag): Nu är nattens snöproduktion utpistad och spåret öppet i sin fulla längd 3 km klassiskt o skate. Barnskidor finns att låna, fin pulkabacke. Spåravgift 100 kr betalas på plats med Swish. Välkomna!\n\n(idag): Vändspår på förmiddagen ca 2,4 km Klassiska spår. Full längd sen eftermiddag. Välkomna!",
