@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-30 13:02",
+    "temperature": "-5°C",
+    "last_update": "2026-01-30 16:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,24 +21,24 @@
       ],
       "max_temp": [
         -3.8,
-        -2.4,
+        -2.6,
         -3.9,
-        -7.1,
+        -6.7,
         -4.0,
         -3.0,
         -3.5
       ],
       "min_temp": [
-        -5.9,
-        -5.9,
-        -7.3,
+        -5.7,
+        -6.5,
+        -6.3,
         -9.9,
         -10.8,
         -7.5,
         -6.1
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret: Idag gäller prepareringen K & F från gårdagen. Ikväll stänger spåret för preparering redan kl 19:30. Golfbanan ca 5 km klassiskt preparerad med ginzugroomer för flera dagar sedan. Övriga natursnöspår ej preparerade.\n\n(1 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil. Spåret är nu förlängt med det sk vägspåret. Spårets längd nu maximalt 8.5 km och de lättare delarna ca 6.5 km Golfbanan ca 5 km preparerad med ginzugroomer för några dagar sedan. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter. Genomslag förekommer. Till helgen arrangeras Västgötaloppet på anläggningen.",
+    "ai_summary": "(idag): Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer.\n\n(idag): Konstsnöspåret: Idag gäller prepareringen K & F från gårdagen. Ikväll stänger spåret för preparering redan kl 19:30. Golfbanan ca 5 km klassiskt preparerad med ginzugroomer för flera dagar sedan. Övriga natursnöspår ej preparerade.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-30T16:37:54.000Z",
+        "days_ago": 0,
+        "text": "Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer."
+      },
+      {
         "date": "2026-01-30T04:29:11.000Z",
         "days_ago": 0,
         "text": "Konstsnöspåret: Idag gäller prepareringen K & F från gårdagen. Ikväll stänger spåret för preparering redan kl 19:30. Golfbanan ca 5 km klassiskt preparerad med ginzugroomer för flera dagar sedan. Övriga natursnöspår ej preparerade."
-      },
-      {
-        "date": "2026-01-29T05:26:10.000Z",
-        "days_ago": 1,
-        "text": "Konstsnöspåret nypistat för klassiskt och fristil. Spåret är nu förlängt med det sk vägspåret. Spårets längd nu maximalt 8.5 km och de lättare delarna ca 6.5 km Golfbanan ca 5 km preparerad med ginzugroomer för några dagar sedan. Genomslag kan förekomma. Övriga natursnöspår lämpar sig endast för utflykter. Genomslag förekommer. Till helgen arrangeras Västgötaloppet på anläggningen."
       }
     ]
   },
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-3°C",
-    "last_update": "2026-01-30 13:02",
+    "temperature": "-4°C",
+    "last_update": "2026-01-30 16:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -87,16 +87,16 @@
       "max_temp": [
         -2.9,
         -1.8,
-        -2.8,
+        -2.7,
         -5.2,
         -2.5,
         -1.0,
         -1.6
       ],
       "min_temp": [
-        -4.6,
-        -5.1,
-        -6.3,
+        -4.5,
+        -4.8,
+        -5.5,
         -8.6,
         -9.1,
         -5.6,
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-30 13:02",
+    "last_update": "2026-01-30 16:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -149,16 +149,16 @@
       "max_temp": [
         -1.7,
         -0.6,
-        -1.5,
-        -4.8,
+        -1.4,
+        -4.7,
         -2.0,
         -0.4,
         -1.1
       ],
       "min_temp": [
-        -3.3,
-        -3.7,
-        -5.5,
+        -2.8,
+        -3.5,
+        -4.2,
         -7.8,
         -8.3,
         -4.9,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-30 13:02",
+    "temperature": "-5°C",
+    "last_update": "2026-01-30 16:43",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -204,15 +204,15 @@
         -3.9,
         -2.4,
         -4.3,
-        -6.8,
+        -6.6,
         -4.3,
         -2.8,
         -3.0
       ],
       "min_temp": [
-        -6.0,
-        -6.0,
-        -7.2,
+        -6.1,
+        -6.1,
+        -6.2,
         -8.8,
         -10.1,
         -7.7,
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-3°C",
-    "last_update": "2026-01-30 13:03",
+    "temperature": "-4°C",
+    "last_update": "2026-01-30 16:44",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,17 +267,17 @@
       ],
       "max_temp": [
         -3.0,
-        -1.7,
+        -1.8,
         -2.9,
-        -6.2,
+        -5.7,
         -3.2,
         -2.0,
         -2.6
       ],
       "min_temp": [
+        -4.3,
         -4.8,
-        -5.1,
-        -6.7,
+        -5.3,
         -8.9,
         -9.5,
         -6.7,
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-30 13:03",
+    "temperature": "-5°C",
+    "last_update": "2026-01-30 16:44",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -332,7 +332,7 @@
       ],
       "max_temp": [
         -4.1,
-        -2.7,
+        -2.9,
         -4.0,
         -6.2,
         -3.5,
@@ -340,9 +340,9 @@
         -2.8
       ],
       "min_temp": [
-        -5.9,
+        -5.5,
         -6.2,
-        -7.1,
+        -6.4,
         -9.4,
         -9.9,
         -6.8,
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-3°C",
-    "last_update": "2026-01-30 13:04",
+    "temperature": "-4°C",
+    "last_update": "2026-01-30 16:45",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -393,25 +393,25 @@
         "2026-02-05"
       ],
       "max_temp": [
-        -3.3,
-        -2.0,
         -3.1,
+        -2.1,
+        -2.9,
         -5.6,
         -2.7,
         -1.2,
         -1.8
       ],
       "min_temp": [
-        -4.9,
+        -4.6,
         -5.2,
-        -6.5,
+        -5.6,
         -8.6,
         -9.1,
         -5.8,
         -5.2
       ]
     },
-    "ai_summary": "(idag): OBSERVERA ATT NU PÅ FÖRMIDDAGEN GÅR DET INTE ATT GÅ PÅ SPÅRET VID HINDÅSGÅRDEN PÅ GRUND AV SNÖPRODUKTION. Öppnar tidig eftermiddag\n\n(idag): Snöproduktion pågår, därför förkortad spårbädd med Klassiskt och skate 1,6 km rundslinga Full spårlängd ca 3km beräknas till tidig eftermiddag Pulkabacke Låneskidor för barn 2 grillplatser Välkomna till Hindås skidcenter",
+    "ai_summary": "(idag): Nu är 3 km spåret öppet igen Klassiskt och skatebädd Pulkabacke Låneskidor till barn Välkomna till Hindås skidcenter\n\n(idag): OBSERVERA ATT NU PÅ FÖRMIDDAGEN GÅR DET INTE ATT GÅ PÅ SPÅRET VID HINDÅSGÅRDEN PÅ GRUND AV SNÖPRODUKTION. Öppnar tidig eftermiddag",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-30T15:11:37.000Z",
+        "days_ago": 0,
+        "text": "Nu är 3 km spåret öppet igen Klassiskt och skatebädd Pulkabacke Låneskidor till barn Välkomna till Hindås skidcenter"
+      },
+      {
         "date": "2026-01-30T04:24:18.000Z",
         "days_ago": 0,
         "text": "OBSERVERA ATT NU PÅ FÖRMIDDAGEN GÅR DET INTE ATT GÅ PÅ SPÅRET VID HINDÅSGÅRDEN PÅ GRUND AV SNÖPRODUKTION. Öppnar tidig eftermiddag"
-      },
-      {
-        "date": "2026-01-29T22:46:39.000Z",
-        "days_ago": 0,
-        "text": "Snöproduktion pågår, därför förkortad spårbädd med Klassiskt och skate 1,6 km rundslinga Full spårlängd ca 3km beräknas till tidig eftermiddag Pulkabacke Låneskidor för barn 2 grillplatser Välkomna till Hindås skidcenter"
       }
     ]
   }
