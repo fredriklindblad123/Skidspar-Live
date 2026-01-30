@@ -5,10 +5,10 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2026-01-30 16:43",
-    "weather": "☁️ Mulet",
+    "snow_depth": "1 cm",
+    "temperature": "-6°C",
+    "last_update": "2026-01-30 20:34",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-30",
@@ -22,20 +22,20 @@
       "max_temp": [
         -3.8,
         -2.6,
-        -3.9,
-        -6.7,
         -4.0,
-        -3.0,
-        -3.5
+        -6.2,
+        -3.8,
+        -4.6,
+        -6.3
       ],
       "min_temp": [
         -5.7,
-        -6.5,
+        -6.1,
         -6.3,
-        -9.9,
-        -10.8,
-        -7.5,
-        -6.1
+        -10.2,
+        -10.5,
+        -10.1,
+        -10.1
       ]
     },
     "ai_summary": "(idag): Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer.\n\n(idag): Konstsnöspåret: Idag gäller prepareringen K & F från gårdagen. Ikväll stänger spåret för preparering redan kl 19:30. Golfbanan ca 5 km klassiskt preparerad med ginzugroomer för flera dagar sedan. Övriga natursnöspår ej preparerade.",
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-30 16:43",
+    "last_update": "2026-01-30 20:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -86,21 +86,21 @@
       ],
       "max_temp": [
         -2.9,
-        -1.8,
-        -2.7,
+        -1.9,
+        -2.8,
         -5.2,
+        -2.3,
         -2.5,
-        -1.0,
-        -1.6
+        -3.8
       ],
       "min_temp": [
         -4.5,
-        -4.8,
-        -5.5,
-        -8.6,
+        -5.3,
+        -5.9,
         -9.1,
-        -5.6,
-        -5.5
+        -9.5,
+        -8.5,
+        -9.1
       ]
     },
     "ai_summary": "(idag): Hej! Pga skidskyttetävling kommer det på söndag 1/2 vara avstängd för allmän skidåkning från kl.10 till tävlingen är slut - vid kl. 13:30. Man är välkommen som publik och serveringen är öppen för alla kl. 10-15. Spåret kommer även stängas kl. 19 på lördag kväll för förberedelser, men öppnar som vanligt söndag morgon.\n\n(1 dagar sedan): Nyspårat med traktorn 1200 m spår+skate. Ytterligare 600 m vändslinga utan spår finns för dig som kör skate.",
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-30 16:43",
+    "last_update": "2026-01-30 20:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -149,20 +149,20 @@
       "max_temp": [
         -1.7,
         -0.6,
-        -1.4,
-        -4.7,
+        -1.5,
+        -4.2,
+        -1.8,
         -2.0,
-        -0.4,
-        -1.1
+        -3.6
       ],
       "min_temp": [
         -2.8,
-        -3.5,
+        -3.9,
         -4.2,
+        -8.4,
+        -8.7,
         -7.8,
-        -8.3,
-        -4.9,
-        -5.1
+        -8.4
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-30 16:43",
+    "temperature": "-6°C",
+    "last_update": "2026-01-30 20:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -202,21 +202,21 @@
       ],
       "max_temp": [
         -3.9,
-        -2.4,
-        -4.3,
-        -6.6,
-        -4.3,
-        -2.8,
-        -3.0
+        -2.5,
+        -4.4,
+        -6.2,
+        -3.9,
+        -4.2,
+        -5.5
       ],
       "min_temp": [
-        -6.1,
-        -6.1,
+        -6.3,
+        -6.7,
         -6.2,
-        -8.8,
-        -10.1,
-        -7.7,
-        -5.6
+        -9.2,
+        -10.2,
+        -7.8,
+        -7.3
       ]
     },
     "ai_summary": "(idag): Mycket barr och en del småkvistar men ändå åkbart, gäller både 5 och 3,5 km Sjövägen något sladdriga spår men endast lite barr i spåret\n\n(idag): från idag 30 januari-1 februari, är det dags för södra Sveriges största skidfest- Billingens långlopp! Under tävlingsdagarna gäller följande öppettider för allmänheten i skidspåren: Fredag 05.00-13.00 Lördag 15.00-21.00 Söndag 18.00-21.00 Tack för förståelse och stort lycka till alla åkare!",
@@ -253,7 +253,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-30 16:44",
+    "last_update": "2026-01-30 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -268,20 +268,20 @@
       "max_temp": [
         -3.0,
         -1.8,
-        -2.9,
-        -5.7,
-        -3.2,
-        -2.0,
-        -2.6
+        -3.1,
+        -5.1,
+        -3.0,
+        -3.5,
+        -5.3
       ],
       "min_temp": [
         -4.3,
-        -4.8,
+        -5.0,
         -5.3,
-        -8.9,
+        -9.8,
+        -10.4,
         -9.5,
-        -6.7,
-        -5.5
+        -9.5
       ]
     },
     "ai_summary": "(idag): Lagt på mer snö på en del. Spårat , preparerat hela banan . Välkomna\n\n(1 dagar sedan): Preparerat klassiskt o skate 3,3km/välkomna",
@@ -318,7 +318,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-5°C",
-    "last_update": "2026-01-30 16:44",
+    "last_update": "2026-01-30 20:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -4.1,
-        -2.9,
-        -4.0,
-        -6.2,
-        -3.5,
-        -2.2,
-        -2.8
+        -2.8,
+        -4.1,
+        -6.1,
+        -3.2,
+        -3.7,
+        -5.2
       ],
       "min_temp": [
-        -5.5,
-        -6.2,
-        -6.4,
-        -9.4,
-        -9.9,
-        -6.8,
-        -5.8
+        -5.3,
+        -6.0,
+        -6.3,
+        -10.0,
+        -10.5,
+        -9.6,
+        -9.7
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret på 3,5 km är preparerat för klassiskt och skate. Se bifogad spårkarta! På lördag arrangerar vi Hestras Skidultra, ett 6 timmars lopp för lag eller individuellt. Bifogar även spårkarta för lördag, ca 2 km, upp till nya området med extra anslutning till Sjöslingan. Kom och heja på de tävlande! Serveringen är öppen som vanligt! Välkomna till Hestrastugan i helgen! ❄️❤️👍\n\n(1 dagar sedan): Hela spårsystemet (utom Västra Sprintbacken) är nypreparerat för skate och klassiskt. Se bifogad spårkarta! Motionsslingan är ca 3,5 km. Utöver detta är Kraftbacken öppen och från Högsta Punkten börjar konstsnöanslutningen (ca 200m t.o.r) till Sjöslingan, där du fortfarande kan åka på första ängen på tunn ospårad natursnö. Välkomna till en fin torsdag på Hestrastugan i Borås! ❄️❤️👍",
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-30 16:45",
+    "last_update": "2026-01-30 20:36",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -395,20 +395,20 @@
       "max_temp": [
         -3.1,
         -2.1,
-        -2.9,
-        -5.6,
-        -2.7,
-        -1.2,
-        -1.8
+        -3.1,
+        -5.4,
+        -2.3,
+        -2.8,
+        -4.2
       ],
       "min_temp": [
         -4.6,
-        -5.2,
-        -5.6,
-        -8.6,
+        -5.5,
+        -5.9,
         -9.1,
-        -5.8,
-        -5.2
+        -9.6,
+        -8.6,
+        -9.1
       ]
     },
     "ai_summary": "(idag): Nu är 3 km spåret öppet igen Klassiskt och skatebädd Pulkabacke Låneskidor till barn Välkomna till Hindås skidcenter\n\n(idag): OBSERVERA ATT NU PÅ FÖRMIDDAGEN GÅR DET INTE ATT GÅ PÅ SPÅRET VID HINDÅSGÅRDEN PÅ GRUND AV SNÖPRODUKTION. Öppnar tidig eftermiddag",
