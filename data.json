@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-31 02:10",
+    "temperature": "-7°C",
+    "last_update": "2026-01-31 05:02",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -20,17 +20,17 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.8,
+        -3.1,
         -4.0,
-        -6.1,
+        -5.4,
         -4.3,
         -5.9,
         -6.4,
         -6.8
       ],
       "min_temp": [
+        -7.0,
         -6.6,
-        -6.0,
         -9.4,
         -9.7,
         -9.2,
@@ -38,7 +38,7 @@
         -7.9
       ]
     },
-    "ai_summary": "(idag): Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer.\n\n(idag): Konstsnöspåret: Idag gäller prepareringen K & F från gårdagen. Ikväll stänger spåret för preparering redan kl 19:30. Golfbanan ca 5 km klassiskt preparerad med ginzugroomer för flera dagar sedan. Övriga natursnöspår ej preparerade.",
+    "ai_summary": "(idag): Under lö & sö är det Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades igår. Genomslag finns..\n\n(idag): Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-31T04:24:03.000Z",
+        "days_ago": 0,
+        "text": "Under lö & sö är det Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades igår. Genomslag finns.."
+      },
+      {
         "date": "2026-01-30T16:37:54.000Z",
         "days_ago": 0,
         "text": "Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer."
-      },
-      {
-        "date": "2026-01-30T04:29:11.000Z",
-        "days_ago": 0,
-        "text": "Konstsnöspåret: Idag gäller prepareringen K & F från gårdagen. Ikväll stänger spåret för preparering redan kl 19:30. Golfbanan ca 5 km klassiskt preparerad med ginzugroomer för flera dagar sedan. Övriga natursnöspår ej preparerade."
       }
     ]
   },
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-31 02:10",
+    "last_update": "2026-01-31 05:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,17 +85,17 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.1,
-        -2.9,
-        -5.1,
+        -1.9,
+        -2.8,
+        -4.2,
         -2.8,
         -3.2,
         -4.9,
         -5.1
       ],
       "min_temp": [
-        -4.8,
-        -5.8,
+        -4.4,
+        -5.6,
         -8.6,
         -9.5,
         -7.9,
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-31 02:10",
+    "last_update": "2026-01-31 05:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,17 +147,17 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -0.9,
-        -1.7,
-        -4.5,
+        -0.6,
+        -1.6,
+        -3.2,
         -2.2,
         -2.7,
         -4.4,
         -4.4
       ],
       "min_temp": [
-        -3.2,
-        -4.6,
+        -2.8,
+        -4.4,
         -8.0,
         -8.7,
         -7.2,
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-31 02:11",
-    "weather": "⛅ Halvklart",
+    "temperature": "-6°C",
+    "last_update": "2026-01-31 05:03",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-31",
@@ -201,8 +201,8 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.4,
-        -4.2,
+        -2.8,
+        -4.4,
         -5.8,
         -4.6,
         -6.3,
@@ -210,8 +210,8 @@
         -6.8
       ],
       "min_temp": [
-        -5.6,
-        -5.8,
+        -6.4,
+        -6.1,
         -8.7,
         -9.6,
         -8.1,
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-31 02:11",
-    "weather": "⛅ Halvklart",
+    "temperature": "-5°C",
+    "last_update": "2026-01-31 05:04",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-31",
@@ -266,17 +266,17 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.1,
+        -2.0,
         -3.1,
-        -5.3,
+        -4.5,
         -3.6,
         -4.6,
         -5.6,
         -5.8
       ],
       "min_temp": [
-        -5.0,
-        -5.2,
+        -4.8,
+        -5.3,
         -8.8,
         -9.6,
         -8.4,
@@ -318,8 +318,8 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-6°C",
-    "last_update": "2026-01-31 02:11",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-01-31 05:04",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-01-31",
@@ -331,17 +331,17 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -3.2,
+        -3.0,
         -4.2,
-        -6.4,
+        -5.4,
         -3.9,
         -4.7,
         -5.8,
         -5.9
       ],
       "min_temp": [
-        -6.1,
-        -6.3,
+        -5.9,
+        -6.4,
         -9.1,
         -10.1,
         -8.8,
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-4°C",
-    "last_update": "2026-01-31 02:12",
+    "last_update": "2026-01-31 05:04",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -393,17 +393,17 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.3,
-        -3.3,
-        -5.5,
+        -2.1,
+        -3.1,
+        -4.4,
         -2.9,
         -3.5,
         -5.1,
         -5.1
       ],
       "min_temp": [
-        -5.1,
-        -5.9,
+        -4.7,
+        -5.7,
         -8.4,
         -9.5,
         -7.8,
