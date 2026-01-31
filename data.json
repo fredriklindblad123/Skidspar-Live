@@ -5,10 +5,10 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-31 08:34",
-    "weather": "☁️ Mulet",
+    "snow_depth": "Ingen snö",
+    "temperature": "-3°C",
+    "last_update": "2026-01-31 12:54",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-01-31",
@@ -20,21 +20,21 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.9,
-        -4.1,
+        -2.6,
+        -3.9,
         -4.5,
-        -4.0,
-        -5.8,
-        -5.2,
-        -6.5
+        -3.5,
+        -5.4,
+        -5.7,
+        -6.8
       ],
       "min_temp": [
         -6.9,
         -6.4,
-        -9.4,
-        -10.5,
-        -8.3,
-        -8.1,
+        -8.7,
+        -10.1,
+        -8.6,
+        -8.7,
         -8.3
       ]
     },
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-31 08:34",
+    "temperature": "-2°C",
+    "last_update": "2026-01-31 12:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,21 +85,21 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.0,
+        -2.4,
         -2.9,
+        -3.4,
+        -1.6,
         -3.2,
-        -2.2,
-        -3.3,
-        -2.9,
+        -3.6,
         -5.3
       ],
       "min_temp": [
         -4.3,
-        -5.6,
-        -8.9,
-        -9.4,
-        -6.9,
-        -6.3,
+        -5.8,
+        -7.9,
+        -9.1,
+        -7.8,
+        -7.8,
         -7.3
       ]
     },
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-01-31 08:34",
+    "last_update": "2026-01-31 12:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,21 +147,21 @@
         "2026-02-06"
       ],
       "max_temp": [
+        -0.8,
+        -1.5,
+        -2.1,
         -1.1,
-        -1.8,
-        -2.0,
-        -1.6,
-        -2.8,
-        -2.5,
+        -2.7,
+        -2.9,
         -4.6
       ],
       "min_temp": [
-        -3.3,
+        -3.2,
         -4.4,
-        -8.2,
-        -8.6,
-        -6.3,
-        -5.8,
+        -7.2,
+        -8.4,
+        -7.2,
+        -7.1,
         -6.9
       ]
     },
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-01-31 08:35",
+    "temperature": "-3°C",
+    "last_update": "2026-01-31 12:54",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,25 +201,25 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -3.0,
-        -4.5,
-        -4.9,
-        -5.5,
-        -5.6,
-        -5.5,
-        -7.4
+        -2.8,
+        -4.4,
+        -5.1,
+        -5.1,
+        -4.6,
+        -5.3,
+        -8.7
       ],
       "min_temp": [
         -6.6,
-        -6.2,
-        -8.9,
-        -9.7,
-        -8.0,
-        -7.2,
-        -9.6
+        -6.0,
+        -8.4,
+        -9.6,
+        -8.1,
+        -9.6,
+        -10.2
       ]
     },
-    "ai_summary": "(idag): Mycket barr och en del småkvistar men ändå åkbart, gäller både 5 och 3,5 km Sjövägen något sladdriga spår men endast lite barr i spåret\n\n(1 dagar sedan): från idag 30 januari-1 februari, är det dags för södra Sveriges största skidfest- Billingens långlopp! Under tävlingsdagarna gäller följande öppettider för allmänheten i skidspåren: Fredag 05.00-13.00 Lördag 15.00-21.00 Söndag 18.00-21.00 Tack för förståelse och stort lycka till alla åkare!",
+    "ai_summary": "(idag): Konstsnöspåret kommer inte att spåras om mellan tävling och allmänhetens åkning som öppnar 15.00. Det är 3 spår i vardera riktning på Camping-, Gamla-, och Toppslingan samt endast 3 spår på Sjövägen. Detta göra att skatebädden påverkas. Visa hänsyn och hjälps åt på Sjövägen och håll högertrafik i spåren. Välkomna upp till ett soligt Billingen för skidåkning i eftermiddag!\n\n(1 dagar sedan): Mycket barr och en del småkvistar men ändå åkbart, gäller både 5 och 3,5 km Sjövägen något sladdriga spår men endast lite barr i spåret",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-30T09:38:10.000Z",
+        "date": "2026-01-31T09:17:26.000Z",
         "days_ago": 0,
-        "text": "Mycket barr och en del småkvistar men ändå åkbart, gäller både 5 och 3,5 km Sjövägen något sladdriga spår men endast lite barr i spåret"
+        "text": "Konstsnöspåret kommer inte att spåras om mellan tävling och allmänhetens åkning som öppnar 15.00. Det är 3 spår i vardera riktning på Camping-, Gamla-, och Toppslingan samt endast 3 spår på Sjövägen. Detta göra att skatebädden påverkas. Visa hänsyn och hjälps åt på Sjövägen och håll högertrafik i spåren. Välkomna upp till ett soligt Billingen för skidåkning i eftermiddag!"
       },
       {
-        "date": "2026-01-30T06:49:22.000Z",
+        "date": "2026-01-30T09:38:10.000Z",
         "days_ago": 1,
-        "text": "från idag 30 januari-1 februari, är det dags för södra Sveriges största skidfest- Billingens långlopp! Under tävlingsdagarna gäller följande öppettider för allmänheten i skidspåren: Fredag 05.00-13.00 Lördag 15.00-21.00 Söndag 18.00-21.00 Tack för förståelse och stort lycka till alla åkare!"
+        "text": "Mycket barr och en del småkvistar men ändå åkbart, gäller både 5 och 3,5 km Sjövägen något sladdriga spår men endast lite barr i spåret"
       }
     ]
   },
@@ -251,9 +251,9 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Troligen öppet",
-    "snow_depth": "1 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-01-31 08:35",
+    "snow_depth": "Ingen snö",
+    "temperature": "-2°C",
+    "last_update": "2026-01-31 12:55",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -267,20 +267,20 @@
       ],
       "max_temp": [
         -2.1,
-        -3.2,
-        -3.5,
         -3.0,
-        -4.7,
-        -3.9,
+        -3.5,
+        -2.3,
+        -4.4,
+        -4.3,
         -5.4
       ],
       "min_temp": [
         -4.8,
-        -5.5,
-        -9.1,
-        -9.9,
-        -7.8,
-        -7.6,
+        -5.3,
+        -8.1,
+        -9.6,
+        -8.4,
+        -8.3,
         -7.5
       ]
     },
@@ -316,9 +316,9 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "1 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-01-31 08:35",
+    "snow_depth": "Ingen snö",
+    "temperature": "-3°C",
+    "last_update": "2026-01-31 12:55",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -331,21 +331,21 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -3.1,
-        -4.3,
-        -4.6,
-        -3.3,
-        -4.8,
+        -3.2,
         -4.0,
+        -4.6,
+        -2.6,
+        -4.5,
+        -4.6,
         -5.8
       ],
       "min_temp": [
         -5.9,
-        -6.6,
-        -9.6,
-        -10.1,
-        -7.8,
-        -7.5,
+        -6.5,
+        -8.6,
+        -9.9,
+        -8.6,
+        -8.6,
         -7.8
       ]
     },
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-01-31 08:36",
+    "temperature": "-3°C",
+    "last_update": "2026-01-31 12:56",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -393,25 +393,25 @@
         "2026-02-06"
       ],
       "max_temp": [
-        -2.2,
+        -2.7,
         -3.2,
+        -3.7,
+        -1.8,
         -3.5,
-        -2.3,
-        -3.6,
-        -3.0,
+        -3.5,
         -4.9
       ],
       "min_temp": [
         -4.5,
-        -5.7,
-        -8.9,
-        -9.4,
-        -7.2,
-        -6.5,
+        -5.9,
+        -7.8,
+        -9.1,
+        -7.9,
+        -7.8,
         -7.2
       ]
     },
-    "ai_summary": "(idag): Lagom till helgen har vi nu förlängt spåret ett par hundra meter så drygt 3km vitt och fint klassiskt och skate. Pulkabacke grillplatser och barnskidor att låna. Café 11-15 Slår också ett slag för lunchbuffé på Hindåsgården Välkomna!\n\n(idag): Nu är 3 km spåret öppet igen Klassiskt och skatebädd Pulkabacke Låneskidor till barn Välkomna till Hindås skidcenter",
+    "ai_summary": "(idag): Superfina spår! Bra underlag.\n\n(idag): Lagom till helgen har vi nu förlängt spåret ett par hundra meter så drygt 3km vitt och fint klassiskt och skate. Pulkabacke grillplatser och barnskidor att låna. Café 11-15 Slår också ett slag för lunchbuffé på Hindåsgården Välkomna!",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-01-31T12:04:30.000Z",
+        "days_ago": 0,
+        "text": "Superfina spår! Bra underlag."
+      },
+      {
         "date": "2026-01-30T23:47:21.000Z",
         "days_ago": 0,
         "text": "Lagom till helgen har vi nu förlängt spåret ett par hundra meter så drygt 3km vitt och fint klassiskt och skate. Pulkabacke grillplatser och barnskidor att låna. Café 11-15 Slår också ett slag för lunchbuffé på Hindåsgården Välkomna!"
-      },
-      {
-        "date": "2026-01-30T15:11:37.000Z",
-        "days_ago": 0,
-        "text": "Nu är 3 km spåret öppet igen Klassiskt och skatebädd Pulkabacke Låneskidor till barn Välkomna till Hindås skidcenter"
       }
     ]
   }
