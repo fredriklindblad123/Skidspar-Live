@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-8°C",
-    "last_update": "2026-02-01 02:40",
+    "temperature": "-7°C",
+    "last_update": "2026-02-01 05:22",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,17 +20,17 @@
         "2026-02-07"
       ],
       "max_temp": [
-        -4.8,
         -4.5,
-        -3.6,
+        -4.4,
+        -2.9,
         -5.3,
         -5.9,
         -3.2,
         -6.6
       ],
       "min_temp": [
-        -7.8,
         -7.6,
+        -7.5,
         -8.1,
         -8.8,
         -9.0,
@@ -38,7 +38,7 @@
         -9.0
       ]
     },
-    "ai_summary": "(idag): Under lö & sö är det Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades igår. Genomslag finns..\n\n(1 dagar sedan): Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer.",
+    "ai_summary": "(idag): Idag söndag arrangeras Västgötaloppet på anläggningen. Konstsnöspåren är helt stängda fram till sista målgång kl 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades i fredags med ginzugroomer. Genomslag förekommer. Kommande helg 6-8 februari arrangeras Sverigecup på anläggningen.\n\n(1 dagar sedan): Under lö & sö är det Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades igår. Genomslag finns..",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-01-31T04:24:03.000Z",
+        "date": "2026-02-01T04:50:00.000Z",
         "days_ago": 0,
-        "text": "Under lö & sö är det Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades igår. Genomslag finns.."
+        "text": "Idag söndag arrangeras Västgötaloppet på anläggningen. Konstsnöspåren är helt stängda fram till sista målgång kl 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades i fredags med ginzugroomer. Genomslag förekommer. Kommande helg 6-8 februari arrangeras Sverigecup på anläggningen."
       },
       {
-        "date": "2026-01-30T16:37:54.000Z",
+        "date": "2026-01-31T04:24:03.000Z",
         "days_ago": 1,
-        "text": "Nu i helgen arrangeras Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km öppen hela helgen. Genomslag förekommer."
+        "text": "Under lö & sö är det Västgötaloppet på anläggningen. Den som vill kan åka skidor fram till kl 11:00 på lördagen men efter kl 09:30 stänger stadion. Därefter är konstsnöspåren stängda fram till sista målgång söndag 17:00 Passa gärna på att besöka någon utav de andra anläggningarna i närområdet som också erbjuder fantastisk skidåkning. Golfbanan ca 5 km K preparerades igår. Genomslag finns.."
       }
     ]
   },
@@ -72,8 +72,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "-6°C",
-    "last_update": "2026-02-01 02:40",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-02-01 05:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-02-01",
@@ -85,18 +85,18 @@
         "2026-02-07"
       ],
       "max_temp": [
-        -3.7,
-        -3.7,
-        -1.9,
+        -3.4,
+        -3.6,
+        -1.6,
         -3.0,
         -4.1,
         -2.3,
         -5.2
       ],
       "min_temp": [
-        -6.7,
-        -6.9,
-        -7.0,
+        -6.4,
+        -6.8,
+        -7.1,
         -7.1,
         -7.4,
         -9.2,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-01 02:41",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-02-01 05:23",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-02-01",
@@ -147,17 +147,17 @@
         "2026-02-07"
       ],
       "max_temp": [
-        -1.9,
-        -2.1,
-        -1.4,
+        -2.0,
+        -2.2,
+        -1.2,
         -2.4,
         -3.5,
         -2.0,
         -4.8
       ],
       "min_temp": [
-        -4.9,
-        -5.6,
+        -5.0,
+        -5.3,
         -6.0,
         -6.4,
         -6.7,
@@ -188,7 +188,7 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-5°C",
-    "last_update": "2026-02-01 02:41",
+    "last_update": "2026-02-01 05:23",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,18 +201,18 @@
         "2026-02-07"
       ],
       "max_temp": [
-        -4.4,
-        -4.9,
+        -4.3,
         -4.8,
+        -3.8,
         -5.5,
         -5.0,
         -5.6,
         -6.7
       ],
       "min_temp": [
-        -5.9,
-        -7.3,
-        -7.7,
+        -6.0,
+        -7.6,
+        -7.6,
         -8.1,
         -7.6,
         -8.7,
@@ -253,8 +253,8 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-6°C",
-    "last_update": "2026-02-01 02:41",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-02-01 05:23",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-01",
@@ -266,16 +266,16 @@
         "2026-02-07"
       ],
       "max_temp": [
+        -3.4,
         -3.6,
-        -3.6,
-        -2.5,
+        -2.1,
         -4.2,
         -5.2,
         -2.8,
         -5.8
       ],
       "min_temp": [
-        -6.1,
+        -5.7,
         -6.4,
         -7.6,
         -8.1,
@@ -318,8 +318,8 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-7°C",
-    "last_update": "2026-02-01 02:42",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-02-01 05:24",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-01",
@@ -331,18 +331,18 @@
         "2026-02-07"
       ],
       "max_temp": [
-        -4.6,
+        -4.4,
         -4.7,
-        -2.8,
+        -2.6,
         -4.3,
         -5.1,
         -2.8,
         -6.1
       ],
       "min_temp": [
-        -7.1,
+        -6.8,
         -7.5,
-        -7.9,
+        -7.6,
         -8.1,
         -8.4,
         -9.6,
@@ -380,8 +380,8 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-6°C",
-    "last_update": "2026-02-01 02:42",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-02-01 05:24",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-01",
@@ -393,18 +393,18 @@
         "2026-02-07"
       ],
       "max_temp": [
-        -3.9,
-        -3.9,
-        -2.0,
+        -3.7,
+        -3.8,
+        -1.7,
         -3.3,
         -4.3,
         -2.2,
         -5.2
       ],
       "min_temp": [
+        -6.6,
         -6.9,
-        -6.9,
-        -6.9,
+        -7.0,
         -7.2,
         -7.3,
         -9.1,
