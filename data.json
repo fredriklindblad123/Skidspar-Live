@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-02 13:06",
+    "temperature": "-7°C",
+    "last_update": "2026-02-02 16:44",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -21,24 +21,24 @@
       ],
       "max_temp": [
         -5.7,
-        -2.6,
-        -3.9,
+        -2.7,
+        -3.7,
         -4.7,
         -5.8,
         -6.2,
         -2.6
       ],
       "min_temp": [
-        -9.3,
+        -8.8,
         -9.2,
-        -7.8,
-        -7.6,
+        -5.7,
+        -7.2,
         -6.7,
         -6.9,
         -8.7
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se gårdagens spårinfo.\n\n(idag): Lite förhandsinformation om kommande helg, 6-8 feb då den svenska elitserien på skidor kommer att arrangeras på Lassalyckan. Fre 6/2 intervallstart 10 km Lör 7/2 sprint Sön 8/2 masstart Kartor på tävlingsspår och spår tillgängliga för allmänheten bifogas i denna rapport",
+    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se gårdagens spårinfo.\n\n(1 dagar sedan): Lite förhandsinformation om kommande helg, 6-8 feb då den svenska elitserien på skidor kommer att arrangeras på Lassalyckan. Fre 6/2 intervallstart 10 km Lör 7/2 sprint Sön 8/2 masstart Kartor på tävlingsspår och spår tillgängliga för allmänheten bifogas i denna rapport",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -59,7 +59,7 @@
       },
       {
         "date": "2026-02-01T14:38:05.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Lite förhandsinformation om kommande helg, 6-8 feb då den svenska elitserien på skidor kommer att arrangeras på Lassalyckan. Fre 6/2 intervallstart 10 km Lör 7/2 sprint Sön 8/2 masstart Kartor på tävlingsspår och spår tillgängliga för allmänheten bifogas i denna rapport"
       }
     ]
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-4°C",
-    "last_update": "2026-02-02 13:06",
+    "temperature": "-6°C",
+    "last_update": "2026-02-02 16:44",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -86,7 +86,7 @@
       ],
       "max_temp": [
         -4.3,
-        -1.1,
+        -1.4,
         -2.7,
         -3.2,
         -4.7,
@@ -94,10 +94,10 @@
         -1.6
       ],
       "min_temp": [
-        -7.7,
         -7.9,
-        -6.4,
-        -6.3,
+        -8.1,
+        -5.0,
+        -5.9,
         -5.8,
         -6.5,
         -7.6
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-02 13:06",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-02-02 16:44",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-02-02",
@@ -148,7 +148,7 @@
       ],
       "max_temp": [
         -3.2,
-        0.1,
+        -0.2,
         -1.4,
         -2.5,
         -4.2,
@@ -156,10 +156,10 @@
         -1.5
       ],
       "min_temp": [
-        -6.6,
-        -7.0,
-        -6.1,
-        -5.9,
+        -6.7,
+        -7.1,
+        -3.9,
+        -5.6,
         -5.0,
         -6.2,
         -6.9
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "2 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-02 13:06",
-    "weather": "☁️ Mulet",
+    "temperature": "-7°C",
+    "last_update": "2026-02-02 16:45",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-02",
@@ -201,18 +201,18 @@
         "2026-02-08"
       ],
       "max_temp": [
-        -6.2,
-        -4.3,
-        -4.3,
+        -6.3,
+        -4.1,
+        -4.0,
         -5.3,
         -6.2,
         -6.4,
         -3.5
       ],
       "min_temp": [
-        -9.9,
-        -9.8,
-        -7.5,
+        -8.3,
+        -8.8,
+        -6.2,
         -6.9,
         -7.8,
         -8.1,
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2026-02-02 13:07",
+    "temperature": "-6°C",
+    "last_update": "2026-02-02 16:45",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -266,19 +266,19 @@
         "2026-02-08"
       ],
       "max_temp": [
-        -4.6,
+        -4.5,
         -1.3,
-        -2.9,
+        -2.8,
         -3.8,
         -4.6,
         -5.2,
         -2.0
       ],
       "min_temp": [
-        -7.5,
-        -7.6,
         -7.4,
-        -7.3,
+        -7.5,
+        -4.7,
+        -6.8,
         -5.7,
         -6.3,
         -9.8
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-6°C",
-    "last_update": "2026-02-02 13:07",
+    "temperature": "-7°C",
+    "last_update": "2026-02-02 16:45",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -333,17 +333,17 @@
       "max_temp": [
         -5.6,
         -2.4,
-        -4.0,
+        -3.8,
         -4.2,
         -5.4,
         -5.7,
         -2.2
       ],
       "min_temp": [
+        -8.5,
         -8.6,
-        -8.8,
-        -7.6,
-        -7.3,
+        -5.8,
+        -6.9,
         -6.2,
         -6.8,
         -9.2
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2026-02-02 13:08",
+    "temperature": "-7°C",
+    "last_update": "2026-02-02 16:46",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -393,8 +393,8 @@
         "2026-02-08"
       ],
       "max_temp": [
-        -4.7,
-        -1.4,
+        -4.8,
+        -1.6,
         -3.0,
         -3.0,
         -4.8,
@@ -402,10 +402,10 @@
         -1.8
       ],
       "min_temp": [
-        -7.7,
-        -8.0,
-        -6.8,
-        -6.7,
+        -7.9,
+        -8.2,
+        -5.1,
+        -6.2,
         -5.2,
         -6.3,
         -7.7
