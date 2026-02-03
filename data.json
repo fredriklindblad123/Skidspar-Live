@@ -5,9 +5,9 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Troligen öppet",
-    "snow_depth": "1 cm",
-    "temperature": "-8°C",
-    "last_update": "2026-02-03 05:15",
+    "snow_depth": "Ingen snö",
+    "temperature": "-6°C",
+    "last_update": "2026-02-03 08:41",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -20,25 +20,25 @@
         "2026-02-09"
       ],
       "max_temp": [
+        -3.2,
         -3.5,
-        -3.5,
-        -3.6,
-        -3.7,
-        -4.2,
-        -6.7,
-        -5.5
+        -2.4,
+        -3.2,
+        -4.8,
+        -5.1,
+        -5.6
       ],
       "min_temp": [
         -10.0,
         -6.4,
-        -6.0,
-        -6.0,
-        -9.2,
-        -9.9,
-        -10.9
+        -6.5,
+        -6.3,
+        -8.6,
+        -9.1,
+        -10.1
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se gårdagens spårinfo.\n\n(1 dagar sedan): Lite förhandsinformation om kommande helg, 6-8 feb då den svenska elitserien på skidor kommer att arrangeras på Lassalyckan. Fre 6/2 intervallstart 10 km Lör 7/2 sprint Sön 8/2 masstart Kartor på tävlingsspår och spår tillgängliga för allmänheten bifogas i denna rapport",
+    "ai_summary": "(idag): Konstsnöspåret pistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se bifogad karta.\n\n(1 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se gårdagens spårinfo.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-02-02T05:48:09.000Z",
+        "date": "2026-02-03T06:17:27.000Z",
         "days_ago": 0,
-        "text": "Konstsnöspåret nypistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se gårdagens spårinfo."
+        "text": "Konstsnöspåret pistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se bifogad karta."
       },
       {
-        "date": "2026-02-01T14:38:05.000Z",
+        "date": "2026-02-02T05:48:09.000Z",
         "days_ago": 1,
-        "text": "Lite förhandsinformation om kommande helg, 6-8 feb då den svenska elitserien på skidor kommer att arrangeras på Lassalyckan. Fre 6/2 intervallstart 10 km Lör 7/2 sprint Sön 8/2 masstart Kartor på tävlingsspår och spår tillgängliga för allmänheten bifogas i denna rapport"
+        "text": "Konstsnöspåret nypistat för klassiskt och fristil. Spårets maximala längd ca 8.5 km Golfbanan ca 5 km K preparerades senast i fredags För info om kommande helg se gårdagens spårinfo."
       }
     ]
   },
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-9°C",
-    "last_update": "2026-02-03 05:16",
+    "temperature": "-6°C",
+    "last_update": "2026-02-03 08:41",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-02-09"
       ],
       "max_temp": [
-        -2.9,
-        -2.7,
+        -2.4,
         -2.5,
-        -2.5,
-        -2.8,
-        -4.8,
-        -4.8
+        -1.5,
+        -2.0,
+        -3.4,
+        -3.5,
+        -4.0
       ],
       "min_temp": [
         -8.9,
+        -5.6,
+        -5.5,
+        -5.2,
         -5.9,
-        -5.7,
-        -4.8,
-        -6.1,
-        -9.1,
-        -8.6
+        -8.6,
+        -9.6
       ]
     },
     "ai_summary": "(idag): Förhoppningsvis sprutar vi nu snö sista natten för säsongen och kompletterar för att kunna hålla öppet till vårdagjämningen om vädret tillåter. Spåren är nydragna med traktor och har en lite ovanlig dragning på ca 2 km om man kör överallt.\n\n(1 dagar sedan): 1,7 km klassisk och skejt. Spåret!är nu öppet igen efter söndagens skidskyttetävling. Välkomna!",
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-03 05:16",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-02-03 08:41",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-02-03",
@@ -147,22 +147,22 @@
         "2026-02-09"
       ],
       "max_temp": [
-        -1.7,
+        -1.5,
+        -1.3,
+        -0.4,
         -1.4,
-        -1.8,
-        -2.0,
-        -2.2,
-        -3.8,
-        -4.2
+        -2.6,
+        -3.0,
+        -3.8
       ],
       "min_temp": [
-        -7.5,
+        -7.6,
         -4.6,
-        -4.5,
-        -4.0,
-        -5.3,
-        -8.6,
-        -8.1
+        -4.8,
+        -4.4,
+        -5.0,
+        -8.2,
+        -9.4
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -186,10 +186,10 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "1 cm",
-    "temperature": "-8°C",
-    "last_update": "2026-02-03 05:16",
-    "weather": "🌤️ Mestadels klart",
+    "snow_depth": "Ingen snö",
+    "temperature": "-6°C",
+    "last_update": "2026-02-03 08:41",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-03",
@@ -202,21 +202,21 @@
       ],
       "max_temp": [
         -4.6,
-        -3.8,
-        -3.8,
-        -5.7,
-        -5.3,
-        -5.9,
-        -5.2
+        -3.9,
+        -3.2,
+        -6.1,
+        -5.1,
+        -5.4,
+        -5.7
       ],
       "min_temp": [
         -9.1,
-        -7.5,
-        -6.7,
-        -7.1,
-        -8.5,
+        -7.7,
+        -7.0,
+        -7.2,
         -8.2,
-        -10.1
+        -7.5,
+        -7.1
       ]
     },
     "ai_summary": "(idag): Nyspårat på konstsnön igår kväll. Naturspåren spåras om efter nästa snöfall. Välkomna!\n\n(idag): Fullt åkbart på milen, en del barr och lite tunt med snö på sina ställen, 3,5 i betyg Sjövägen och campingslingan finfina",
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-7°C",
-    "last_update": "2026-02-03 05:17",
+    "temperature": "-5°C",
+    "last_update": "2026-02-03 08:42",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -266,25 +266,25 @@
         "2026-02-09"
       ],
       "max_temp": [
+        -2.4,
         -2.5,
-        -2.7,
-        -2.9,
-        -2.5,
-        -3.1,
-        -5.8,
-        -4.7
+        -1.5,
+        -1.9,
+        -3.5,
+        -4.2,
+        -5.0
       ],
       "min_temp": [
         -7.8,
-        -5.3,
         -5.2,
-        -4.9,
-        -7.4,
-        -9.1,
-        -11.7
+        -5.6,
+        -5.4,
+        -6.9,
+        -8.9,
+        -9.2
       ]
     },
-    "ai_summary": "(1 dagar sedan): Fin räls att åka på bra märkning på slingorna bra stavfäste. Fint med lite skyltar med lokala namn\n\n(2 dagar sedan): Nypreparerat klassiska spår samt skate. Välkomna!",
+    "ai_summary": "(idag): Preparerat klassiskt./skate 22.00. Det närmar sej BoråsSkiMaraton 15Feb .Ett lopp på 4mil för den snabba och den som inte har så bråttom. Seedningslopp för vasaloppet för att starta något led längre fram eller för att testa sina gränser. Vi kommer köra banan åt motsatt håll, då vi anser att det blir bättre med fler åkare i spåret. Tävlingsbanan går att testa from Torsdag nästa vecka/Välkomna\n\n(1 dagar sedan): Fin räls att åka på bra märkning på slingorna bra stavfäste. Fint med lite skyltar med lokala namn",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -299,14 +299,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-02-03T06:10:03.000Z",
+        "days_ago": 0,
+        "text": "Preparerat klassiskt./skate 22.00. Det närmar sej BoråsSkiMaraton 15Feb .Ett lopp på 4mil för den snabba och den som inte har så bråttom. Seedningslopp för vasaloppet för att starta något led längre fram eller för att testa sina gränser. Vi kommer köra banan åt motsatt håll, då vi anser att det blir bättre med fler åkare i spåret. Tävlingsbanan går att testa from Torsdag nästa vecka/Välkomna"
+      },
+      {
         "date": "2026-02-01T11:33:51.000Z",
         "days_ago": 1,
         "text": "Fin räls att åka på bra märkning på slingorna bra stavfäste. Fint med lite skyltar med lokala namn"
-      },
-      {
-        "date": "2026-01-31T23:03:19.000Z",
-        "days_ago": 2,
-        "text": "Nypreparerat klassiska spår samt skate. Välkomna!"
       }
     ]
   },
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-8°C",
-    "last_update": "2026-02-03 05:17",
+    "temperature": "-6°C",
+    "last_update": "2026-02-03 08:42",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -3.4,
-        -3.7,
-        -3.7,
-        -3.2,
-        -3.7,
-        -5.9,
+        -3.6,
+        -2.7,
+        -2.4,
+        -4.0,
+        -4.4,
         -4.9
       ],
       "min_temp": [
         -8.9,
-        -6.3,
+        -6.2,
         -6.1,
-        -5.7,
-        -7.7,
-        -9.8,
-        -10.7
+        -6.1,
+        -7.3,
+        -9.4,
+        -9.7
       ]
     },
     "ai_summary": "(idag): Spåren och skateytan är i bra skick sedan gårdagens preparering så vi låter snön och pistmaskin vila ikväll. Aktuell spårdragning 3,6 km i bifogad bild. Krydda gärna rundan med att prova att åka ut från \"Högsta punkten\" till Sjöslingan där det är ihopskottat ett naturspår på ca 400 m. Något genomslag kan förekomma. Vi har också den nya tuffa \"Kraftbacken\" från Ängen upp mot Mötesplatsen. 4 km tot.\n\n(idag): Aktuell spårkarta",
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-8°C",
-    "last_update": "2026-02-03 05:17",
+    "temperature": "-6°C",
+    "last_update": "2026-02-03 08:42",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -393,25 +393,25 @@
         "2026-02-09"
       ],
       "max_temp": [
-        -3.0,
         -2.8,
-        -2.6,
-        -2.0,
-        -2.7,
-        -4.4,
-        -4.8
+        -2.8,
+        -1.7,
+        -1.5,
+        -2.9,
+        -3.6,
+        -4.0
       ],
       "min_temp": [
         -8.9,
-        -5.9,
-        -5.7,
-        -4.5,
-        -6.2,
-        -8.8,
-        -9.5
+        -5.8,
+        -5.6,
+        -4.9,
+        -6.0,
+        -8.5,
+        -9.4
       ]
     },
-    "ai_summary": "(idag): Pistat i natt, 3,1 km klassiskt och skate. Ut o njut, Välkomna!\n\n(1 dagar sedan): Gryma spår idag på morgonen och fm, tack Hindås SK! Räls, sol, några få minus och trevligt idag. Gick bra med burkvalla blått/vr45. Backarna sockrade inte sönder så mycket heller :) .",
+    "ai_summary": "(idag): Snöproduktion pågår på västra delen sen sent igår kväll, den delen är avstängd. Stadion och östra spåret är öppna för t.o.r åkning. Hela spåret beräknas öppna tidig eftermiddag. Se info här om öppning. Mer info: I kväll är en teknik-kurs för vuxna på en del av banan( ledningsgatan) ca kl 18-20. Den är då endast för kursen. Välkomna till Hindås skidcenter\n\n(idag): Pistat i natt, 3,1 km klassiskt och skate. Ut o njut, Välkomna!",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-02-03T06:25:11.000Z",
+        "days_ago": 0,
+        "text": "Snöproduktion pågår på västra delen sen sent igår kväll, den delen är avstängd. Stadion och östra spåret är öppna för t.o.r åkning. Hela spåret beräknas öppna tidig eftermiddag. Se info här om öppning. Mer info: I kväll är en teknik-kurs för vuxna på en del av banan( ledningsgatan) ca kl 18-20. Den är då endast för kursen. Välkomna till Hindås skidcenter"
+      },
+      {
         "date": "2026-02-02T08:47:31.000Z",
         "days_ago": 0,
         "text": "Pistat i natt, 3,1 km klassiskt och skate. Ut o njut, Välkomna!"
-      },
-      {
-        "date": "2026-02-01T12:02:37.000Z",
-        "days_ago": 1,
-        "text": "Gryma spår idag på morgonen och fm, tack Hindås SK! Räls, sol, några få minus och trevligt idag. Gick bra med burkvalla blått/vr45. Backarna sockrade inte sönder så mycket heller :) ."
       }
     ]
   }
