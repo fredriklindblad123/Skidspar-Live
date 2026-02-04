@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-04 02:22",
-    "weather": "⛅ Halvklart",
+    "temperature": "-7°C",
+    "last_update": "2026-02-04 05:10",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-02-04",
@@ -20,8 +20,8 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -3.7,
-        -2.8,
+        -4.0,
+        -2.7,
         -1.9,
         -2.2,
         -5.9,
@@ -29,9 +29,9 @@
         -6.9
       ],
       "min_temp": [
-        -6.6,
-        -5.8,
-        -4.0,
+        -7.0,
+        -6.1,
+        -3.4,
         -7.8,
         -8.8,
         -8.4,
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-6°C",
-    "last_update": "2026-02-04 02:23",
+    "last_update": "2026-02-04 05:10",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -85,8 +85,8 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -3.4,
-        -1.5,
+        -3.3,
+        -1.4,
         -0.7,
         -0.8,
         -3.8,
@@ -94,9 +94,9 @@
         -5.1
       ],
       "min_temp": [
-        -6.1,
-        -5.9,
-        -3.6,
+        -6.2,
+        -6.2,
+        -2.6,
         -5.2,
         -7.3,
         -8.0,
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-04 02:23",
+    "last_update": "2026-02-04 05:10",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -147,8 +147,8 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -2.1,
-        -0.5,
+        -1.8,
+        -0.2,
         -0.3,
         -0.4,
         -3.4,
@@ -156,9 +156,9 @@
         -4.3
       ],
       "min_temp": [
-        -4.9,
+        -4.7,
         -4.8,
-        -2.8,
+        -1.9,
         -4.5,
         -6.8,
         -7.4,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-02-04 02:23",
+    "temperature": "-6°C",
+    "last_update": "2026-02-04 05:10",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -201,8 +201,8 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -4.1,
-        -4.3,
+        -3.7,
+        -3.9,
         -2.5,
         -4.2,
         -6.3,
@@ -211,8 +211,8 @@
       ],
       "min_temp": [
         -7.8,
-        -5.4,
-        -6.3,
+        -5.3,
+        -5.1,
         -9.7,
         -8.8,
         -7.6,
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-5°C",
-    "last_update": "2026-02-04 02:23",
+    "temperature": "-6°C",
+    "last_update": "2026-02-04 05:10",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -266,8 +266,8 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -3.2,
-        -1.6,
+        -3.3,
+        -1.5,
         -1.2,
         -1.5,
         -4.6,
@@ -275,9 +275,9 @@
         -5.4
       ],
       "min_temp": [
-        -5.7,
-        -5.2,
-        -2.8,
+        -5.9,
+        -5.5,
+        -2.3,
         -6.4,
         -7.8,
         -7.3,
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-6°C",
-    "last_update": "2026-02-04 02:24",
+    "temperature": "-7°C",
+    "last_update": "2026-02-04 05:11",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -331,7 +331,7 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -4.3,
+        -4.4,
         -2.7,
         -1.4,
         -1.5,
@@ -340,9 +340,9 @@
         -5.8
       ],
       "min_temp": [
-        -6.8,
-        -6.3,
-        -4.0,
+        -6.9,
+        -6.6,
+        -3.4,
         -6.8,
         -8.2,
         -7.4,
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-6°C",
-    "last_update": "2026-02-04 02:24",
+    "last_update": "2026-02-04 05:11",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -393,8 +393,8 @@
         "2026-02-10"
       ],
       "max_temp": [
-        -3.7,
-        -1.7,
+        -3.6,
+        -1.6,
         -0.8,
         -0.9,
         -3.7,
@@ -403,8 +403,8 @@
       ],
       "min_temp": [
         -6.3,
-        -6.0,
-        -3.2,
+        -6.3,
+        -2.6,
         -5.2,
         -7.2,
         -7.2,
