@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-02-07 02:13",
-    "weather": "❄️ Snöfall",
+    "temperature": "-4°C",
+    "last_update": "2026-02-07 05:06",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-02-07",
@@ -20,17 +20,17 @@
         "2026-02-13"
       ],
       "max_temp": [
-        -2.2,
-        -2.2,
-        -5.8,
+        -2.0,
+        -1.8,
+        -4.1,
         -3.8,
         -4.7,
         -5.3,
         -8.1
       ],
       "min_temp": [
-        -5.3,
-        -9.4,
+        -5.4,
+        -9.1,
         -10.1,
         -9.6,
         -6.4,
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "8 cm",
+    "snow_depth": "9 cm",
     "temperature": "-4°C",
-    "last_update": "2026-02-07 02:13",
+    "last_update": "2026-02-07 05:06",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -85,9 +85,9 @@
         "2026-02-13"
       ],
       "max_temp": [
-        -0.4,
+        -0.7,
         -1.0,
-        -3.5,
+        -2.5,
         -3.5,
         -3.0,
         -3.7,
@@ -95,8 +95,8 @@
       ],
       "min_temp": [
         -4.7,
-        -7.0,
-        -8.0,
+        -7.2,
+        -9.7,
         -9.9,
         -6.0,
         -6.0,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-07 02:13",
-    "weather": "❄️ Snöfall",
+    "last_update": "2026-02-07 05:06",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-02-07",
@@ -148,8 +148,8 @@
       ],
       "max_temp": [
         0.4,
-        0.1,
-        -3.2,
+        0.3,
+        -1.9,
         -3.0,
         -2.8,
         -3.2,
@@ -157,8 +157,8 @@
       ],
       "min_temp": [
         -4.0,
-        -4.9,
-        -6.4,
+        -5.4,
+        -7.3,
         -8.8,
         -5.6,
         -5.6,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-07 02:13",
+    "temperature": "-5°C",
+    "last_update": "2026-02-07 05:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,18 +201,18 @@
         "2026-02-13"
       ],
       "max_temp": [
+        -2.8,
         -3.2,
-        -3.3,
-        -6.7,
+        -5.2,
         -5.9,
         -6.1,
         -5.0,
         -8.4
       ],
       "min_temp": [
-        -6.7,
-        -7.4,
-        -10.1,
+        -6.8,
+        -7.6,
+        -10.3,
         -8.2,
         -8.5,
         -8.9,
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-02-07 02:13",
+    "temperature": "-3°C",
+    "last_update": "2026-02-07 05:07",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -266,25 +266,25 @@
         "2026-02-13"
       ],
       "max_temp": [
-        -0.8,
-        -1.1,
-        -4.9,
+        -0.6,
+        -0.7,
+        -3.1,
         -3.0,
         -3.8,
         -4.6,
         -7.1
       ],
       "min_temp": [
-        -4.1,
-        -6.9,
-        -8.1,
+        -4.2,
+        -7.1,
+        -8.8,
         -7.8,
         -5.6,
         -6.9,
         -9.4
       ]
     },
-    "ai_summary": "(idag): Fint vinterväder, dragit spåren 2ggr idag senaste ca 14 . Den fina nysnö blåser i spåren och det blir självklart inte hårt men åkbart. Spårar i kväll efter snöfall /välkomna\n\n(idag): Prøvde skate i dag, ingen prepp, 10cm nysnø. Det var inte bra !",
+    "ai_summary": "(idag): Nypreparerat klassiska spår samt skate. Välkomna!\n\n(idag): Fint vinterväder, dragit spåren 2ggr idag senaste ca 14 . Den fina nysnö blåser i spåren och det blir självklart inte hårt men åkbart. Spårar i kväll efter snöfall /välkomna",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -299,14 +299,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-02-07T04:27:00.000Z",
+        "days_ago": 0,
+        "text": "Nypreparerat klassiska spår samt skate. Välkomna!"
+      },
+      {
         "date": "2026-02-06T15:07:20.000Z",
         "days_ago": 0,
         "text": "Fint vinterväder, dragit spåren 2ggr idag senaste ca 14 . Den fina nysnö blåser i spåren och det blir självklart inte hårt men åkbart. Spårar i kväll efter snöfall /välkomna"
-      },
-      {
-        "date": "2026-02-06T10:26:13.000Z",
-        "days_ago": 0,
-        "text": "Prøvde skate i dag, ingen prepp, 10cm nysnø. Det var inte bra !"
       }
     ]
   },
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "5 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-02-07 02:14",
+    "temperature": "-4°C",
+    "last_update": "2026-02-07 05:07",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -331,18 +331,18 @@
         "2026-02-13"
       ],
       "max_temp": [
+        -1.7,
         -1.8,
-        -2.1,
-        -4.8,
+        -3.7,
         -3.3,
         -4.2,
         -4.7,
         -7.3
       ],
       "min_temp": [
-        -5.2,
-        -8.0,
-        -9.1,
+        -5.4,
+        -8.4,
+        -9.9,
         -8.2,
         -5.4,
         -7.2,
@@ -378,9 +378,9 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Troligen öppet",
-    "snow_depth": "7 cm",
+    "snow_depth": "8 cm",
     "temperature": "-4°C",
-    "last_update": "2026-02-07 02:14",
+    "last_update": "2026-02-07 05:08",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -393,9 +393,9 @@
         "2026-02-13"
       ],
       "max_temp": [
-        -0.6,
-        -1.2,
-        -3.8,
+        -0.8,
+        -1.1,
+        -2.7,
         -2.8,
         -3.8,
         -3.8,
@@ -403,8 +403,8 @@
       ],
       "min_temp": [
         -4.8,
-        -7.1,
-        -8.3,
+        -7.4,
+        -9.7,
         -7.8,
         -5.2,
         -6.2,
