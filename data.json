@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-02-12 13:14",
+    "temperature": "-5°C",
+    "last_update": "2026-02-12 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,9 +20,9 @@
         "2026-02-18"
       ],
       "max_temp": [
-        -3.9,
         -4.0,
-        -4.7,
+        -4.5,
+        -5.0,
         -6.0,
         -4.7,
         -3.9,
@@ -30,9 +30,9 @@
       ],
       "min_temp": [
         -5.5,
-        -8.2,
-        -14.7,
-        -15.6,
+        -9.5,
+        -15.1,
+        -15.3,
         -7.4,
         -8.3,
         -8.2
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "9 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-02-12 13:15",
+    "temperature": "-4°C",
+    "last_update": "2026-02-12 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,19 +85,19 @@
         "2026-02-18"
       ],
       "max_temp": [
-        -2.7,
-        -3.8,
-        -3.6,
+        -3.0,
+        -4.3,
+        -4.1,
         -5.1,
         -3.0,
         -2.3,
         -1.1
       ],
       "min_temp": [
-        -4.9,
-        -8.5,
-        -14.0,
-        -16.6,
+        -5.1,
+        -9.9,
+        -13.0,
+        -15.5,
         -7.0,
         -7.3,
         -5.3
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-12 13:15",
+    "last_update": "2026-02-12 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -148,8 +148,8 @@
       ],
       "max_temp": [
         -2.3,
-        -2.4,
-        -2.3,
+        -3.0,
+        -2.8,
         -4.3,
         -2.7,
         -2.3,
@@ -157,9 +157,9 @@
       ],
       "min_temp": [
         -4.3,
-        -6.4,
-        -13.6,
-        -16.5,
+        -7.2,
+        -10.4,
+        -15.9,
         -6.3,
         -7.2,
         -4.9
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "6 cm",
-    "temperature": "-5°C",
-    "last_update": "2026-02-12 13:15",
+    "temperature": "-6°C",
+    "last_update": "2026-02-12 17:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -202,8 +202,8 @@
       ],
       "max_temp": [
         -5.1,
-        -5.2,
-        -5.3,
+        -5.0,
+        -5.9,
         -6.2,
         -4.6,
         -4.3,
@@ -211,15 +211,15 @@
       ],
       "min_temp": [
         -7.6,
-        -9.7,
-        -13.5,
+        -11.0,
+        -13.6,
         -17.6,
         -8.0,
         -8.2,
         -9.0
       ]
     },
-    "ai_summary": "(1 dagar sedan): -6, 8:30-11:00, vindstilla, grått mot slutet ett lätt snöfall Lite strävt mao perfekt Vasaloppsföre Körde nästan alla spår och …konstsnöspåren är makalöst bra. Milen lite dåligt i vänster spåret på raksträckan, lasserundan två ställen, majaslingan precis i början Körde även 6,5km - klart roligast och sedan bakvägen från majaslingan - ospårat - men vackert\n\n(1 dagar sedan): -4, vindstilla, såg nästan solen 15:30-16:20 Mycket bra spår",
+    "ai_summary": "(idag): -6, camping, och sjöslingan till korset Bra spår\n\n(idag): Fantastiska spår, men körde milen med min hund och trodde skatedel var kvar. Men det var det inte utan spårat. Funkade men lättare köra skate med hund så man kan bromsa hunden lite innan svängar och så.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-02-11T10:14:34.000Z",
-        "days_ago": 1,
-        "text": "-6, 8:30-11:00, vindstilla, grått mot slutet ett lätt snöfall Lite strävt mao perfekt Vasaloppsföre Körde nästan alla spår och …konstsnöspåren är makalöst bra. Milen lite dåligt i vänster spåret på raksträckan, lasserundan två ställen, majaslingan precis i början Körde även 6,5km - klart roligast och sedan bakvägen från majaslingan - ospårat - men vackert"
+        "date": "2026-02-12T16:30:32.000Z",
+        "days_ago": 0,
+        "text": "-6, camping, och sjöslingan till korset Bra spår"
       },
       {
-        "date": "2026-02-10T15:19:36.000Z",
-        "days_ago": 1,
-        "text": "-4, vindstilla, såg nästan solen 15:30-16:20 Mycket bra spår"
+        "date": "2026-02-12T14:12:30.000Z",
+        "days_ago": 0,
+        "text": "Fantastiska spår, men körde milen med min hund och trodde skatedel var kvar. Men det var det inte utan spårat. Funkade men lättare köra skate med hund så man kan bromsa hunden lite innan svängar och så."
       }
     ]
   },
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-02-12 13:16",
+    "temperature": "-4°C",
+    "last_update": "2026-02-12 17:03",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -266,18 +266,18 @@
         "2026-02-18"
       ],
       "max_temp": [
-        -2.6,
-        -3.0,
-        -3.5,
+        -2.8,
+        -3.6,
+        -3.7,
         -5.5,
         -3.8,
         -3.0,
         -1.9
       ],
       "min_temp": [
-        -4.2,
-        -7.3,
-        -13.7,
+        -4.3,
+        -7.9,
+        -11.8,
         -17.1,
         -8.4,
         -7.8,
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-02-12 13:16",
+    "temperature": "-5°C",
+    "last_update": "2026-02-12 17:04",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -331,18 +331,18 @@
         "2026-02-18"
       ],
       "max_temp": [
-        -3.7,
-        -4.1,
-        -4.7,
+        -3.9,
+        -4.8,
+        -4.9,
         -5.8,
         -3.9,
         -3.0,
         -2.1
       ],
       "min_temp": [
-        -5.3,
-        -8.4,
-        -14.3,
+        -5.5,
+        -9.3,
+        -12.7,
         -16.9,
         -8.7,
         -7.7,
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-02-12 13:17",
+    "temperature": "-4°C",
+    "last_update": "2026-02-12 17:04",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -393,17 +393,17 @@
         "2026-02-18"
       ],
       "max_temp": [
-        -2.5,
-        -3.6,
-        -3.5,
+        -2.9,
+        -4.1,
+        -4.1,
         -5.2,
         -3.2,
         -2.3,
         -1.2
       ],
       "min_temp": [
-        -4.7,
-        -8.2,
+        -5.0,
+        -9.8,
         -12.4,
         -16.5,
         -7.6,
