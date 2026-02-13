@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-13 16:52",
+    "temperature": "-7°C",
+    "last_update": "2026-02-13 20:41",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         -5.7,
-        -4.2,
-        -1.6,
-        -4.0,
-        -4.8,
+        -3.8,
         -1.9,
-        0.3
+        -3.8,
+        -4.8,
+        -1.7,
+        -3.3
       ],
       "min_temp": [
-        -10.4,
-        -14.5,
-        -14.6,
-        -8.6,
-        -10.2,
-        -10.1,
-        -6.8
+        -8.1,
+        -13.3,
+        -14.0,
+        -9.1,
+        -13.1,
+        -12.8,
+        -8.4
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret preparerat för klassiskt och fristil. Spårets längd drygt 8 km. Golfbanan ca 5 km preparerad med ginzugroomer och spårmas för klassiskt. Genomslag förekommer. Preparering genomfördes under gårdagen. Övriga natursnöspår lämpar sig endast för utflykter med ett sämre par skidor.\n\n(1 dagar sedan): Konstsnöspåret nypistat för K & F. Bifogad karta visar sträckningen. Natursnöspåren lämpar sig endast för utflykter med sämre skidor. Golfbanan endast tryckt med ginzugroomer. Klassiskt spår ej draget ännu.",
@@ -72,7 +72,7 @@
     "status": "Troligen öppet",
     "snow_depth": "9 cm",
     "temperature": "-7°C",
-    "last_update": "2026-02-13 16:52",
+    "last_update": "2026-02-13 20:41",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -86,24 +86,24 @@
       ],
       "max_temp": [
         -5.3,
-        -3.0,
+        -2.5,
         -0.5,
-        -2.6,
-        -3.2,
-        -0.1,
-        1.4
+        -2.8,
+        -4.2,
+        0.3,
+        -2.3
       ],
       "min_temp": [
-        -9.0,
-        -12.5,
-        -11.2,
-        -6.9,
         -8.5,
-        -8.1,
-        -5.3
+        -11.7,
+        -11.1,
+        -8.2,
+        -12.1,
+        -12.0,
+        -7.9
       ]
     },
-    "ai_summary": "(1 dagar sedan): Landehof har fått ihop det mycket bra iår, flowig 1.9 km slinga med mycket plats och fina spår/skatebredd\n\n(2 dagar sedan): Nyfräst med traktor tisdag kväll. Nu även med spår på den nedersta delen av skogsslingan",
+    "ai_summary": "(2 dagar sedan): Landehof har fått ihop det mycket bra iår, flowig 1.9 km slinga med mycket plats och fina spår/skatebredd\n\n(2 dagar sedan): Nyfräst med traktor tisdag kväll. Nu även med spår på den nedersta delen av skogsslingan",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-02-11T20:05:21.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Landehof har fått ihop det mycket bra iår, flowig 1.9 km slinga med mycket plats och fina spår/skatebredd"
       },
       {
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-13 16:53",
+    "last_update": "2026-02-13 20:42",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -148,21 +148,21 @@
       ],
       "max_temp": [
         -3.8,
-        -2.5,
-        0.5,
-        -2.5,
-        -3.0,
-        -0.1,
-        1.5
+        -1.9,
+        0.4,
+        -2.4,
+        -4.2,
+        0.3,
+        -2.0
       ],
       "min_temp": [
         -7.2,
-        -9.5,
-        -8.4,
-        -6.8,
+        -8.8,
         -7.8,
-        -6.8,
-        -4.8
+        -7.7,
+        -12.1,
+        -12.1,
+        -7.9
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -188,7 +188,7 @@
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
     "temperature": "-7°C",
-    "last_update": "2026-02-13 16:53",
+    "last_update": "2026-02-13 20:42",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -202,21 +202,21 @@
       ],
       "max_temp": [
         -6.7,
-        -6.0,
-        -2.5,
-        -3.8,
+        -5.7,
+        -2.7,
+        -3.7,
         -4.8,
-        -1.2,
-        -0.6
+        -2.2,
+        -2.8
       ],
       "min_temp": [
         -10.9,
-        -14.3,
         -12.7,
-        -8.8,
-        -10.8,
-        -10.8,
-        -7.2
+        -12.5,
+        -9.4,
+        -13.6,
+        -14.1,
+        -8.8
       ]
     },
     "ai_summary": "(idag): Det har gjorts underverk på milen. Djupa spår som det snöat bomull i och sen har det skottats, framförallt rakan innan Rövarkulan och därifrån har det sedan spårats nytt. Nästan inte ett genomslag tror jag. Iaf inte i högerspåret, vilket också går lite lättare än det vänstra. Kanonfint inför helgen på milen mao!\n\n(idag): Fjäraturen och Blängensmosse går det inte att göra nya bra spår om det inte kommer bra med mer natursnö, men det går utmärkt att åka ändå då det är hårt i marken. Stanna till och njut av medhavd massäck och ta några ordentligt djupa andetag så känns det bra. Välkomna!",
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-13 16:53",
-    "weather": "☁️ Mulet",
+    "temperature": "-7°C",
+    "last_update": "2026-02-13 20:43",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-13",
@@ -267,24 +267,24 @@
       ],
       "max_temp": [
         -5.5,
-        -3.5,
-        -0.3,
-        -3.2,
-        -4.2,
-        -1.1,
-        0.8
+        -2.8,
+        -0.5,
+        -3.4,
+        -4.0,
+        -1.2,
+        -2.7
       ],
       "min_temp": [
-        -8.4,
-        -11.8,
+        -7.6,
+        -11.1,
+        -11.3,
+        -8.6,
         -12.4,
-        -7.9,
-        -9.5,
-        -11.9,
-        -6.4
+        -12.7,
+        -8.6
       ]
     },
-    "ai_summary": "(idag): Vi fortsätter att spåra upp tävlingsbanan för att hitta så bra linjer och kurvtagningar som möjligt. Lite begränsad skatebädd nu, hoppas ni har överseende med det. Välkomna\n\n(idag): Är detta västsveriges bästa spår. Bättre än Ulricehamn och Billingen. Vet inte var det skulle vara bättre.",
+    "ai_summary": "(idag): Vi fortsätter att spåra upp tävlingsbanan för att hitta så bra linjer och kurvtagningar som möjligt. Lite begränsad skatebädd nu, hoppas ni har överseende med det. Välkomna\n\n(1 dagar sedan): Är detta västsveriges bästa spår. Bättre än Ulricehamn och Billingen. Vet inte var det skulle vara bättre.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -305,7 +305,7 @@
       },
       {
         "date": "2026-02-12T20:19:46.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Är detta västsveriges bästa spår. Bättre än Ulricehamn och Billingen. Vet inte var det skulle vara bättre."
       }
     ]
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-02-13 16:54",
-    "weather": "☁️ Mulet",
+    "temperature": "-8°C",
+    "last_update": "2026-02-13 20:43",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-13",
@@ -332,21 +332,21 @@
       ],
       "max_temp": [
         -6.4,
-        -4.5,
-        -1.3,
-        -3.3,
+        -3.8,
+        -1.6,
+        -3.6,
         -4.2,
-        -1.3,
-        0.6
+        -1.0,
+        -2.9
       ],
       "min_temp": [
-        -9.5,
-        -13.0,
-        -13.4,
-        -7.8,
-        -9.4,
-        -9.9,
-        -6.4
+        -8.5,
+        -12.2,
+        -12.6,
+        -8.7,
+        -12.0,
+        -11.9,
+        -8.6
       ]
     },
     "ai_summary": "(1 dagar sedan): Konstsnöspåret är nyspårat. Ca. 3,6km. Naturspår och sjöspår är öppna men genomslag kan förekomma. Spårpatrullen och Hestra IF hälsar er välkomna! Välkommen till härlig skidåkning.\n\n(2 dagar sedan): Konstsnöspåret är preparerat för skate och klassiskt, ca 3,6 km. Välkommna! // Spårpatrullen",
@@ -380,7 +380,7 @@
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
     "temperature": "-7°C",
-    "last_update": "2026-02-13 16:54",
+    "last_update": "2026-02-13 20:43",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -394,24 +394,24 @@
       ],
       "max_temp": [
         -5.3,
+        -2.5,
+        -0.7,
         -3.0,
-        -0.5,
-        -2.7,
-        -3.5,
-        -0.6,
-        1.2
+        -3.7,
+        -0.1,
+        -2.4
       ],
       "min_temp": [
-        -8.9,
+        -8.4,
+        -11.3,
+        -12.2,
+        -8.4,
         -12.1,
-        -12.5,
-        -7.2,
-        -8.6,
-        -8.5,
-        -5.8
+        -11.9,
+        -8.3
       ]
     },
-    "ai_summary": "(idag): SPORTLOV Spåret och skatebädden håller fint Vi sparar den inför fredagen 3,5 km klassiskt och skatespår Barnskidor finns att låna 2 grillplatser Pulkabacke Caféet är sportlovsöppet från kl 11 Spåravgift betalas via Swish och alltid innan man börjar åka. QR koder ( Swish nummer) på skyltar vid spåret, klubbstugan och Hindåsgården. Välkomna till ett vintrigt Hindås skidcenter\n\n(1 dagar sedan): SPORTLOV Spåret nypistat 3,5 km klassiskt och skatespår Barnskidor finns att låna 2 grillplatser Pulkabacke Caféet är sportlovsöppet från kl 11 Spåravgift betalas via Swish och alltid innan man börjar åka. QR koder ( Swish nummer) på skyltar vid spåret, klubbstugan och Hindåsgården. Välkomna till ett vintrigt Hindås skidcenter",
+    "ai_summary": "(idag): Fortfarande ganska fint. Det har blåst lite men 90% bra stavfäste o bra spår.\n\n(idag): SPORTLOV Spåret och skatebädden håller fint Vi sparar den inför fredagen 3,5 km klassiskt och skatespår Barnskidor finns att låna 2 grillplatser Pulkabacke Caféet är sportlovsöppet från kl 11 Spåravgift betalas via Swish och alltid innan man börjar åka. QR koder ( Swish nummer) på skyltar vid spåret, klubbstugan och Hindåsgården. Välkomna till ett vintrigt Hindås skidcenter",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-02-13T18:26:51.000Z",
+        "days_ago": 0,
+        "text": "Fortfarande ganska fint. Det har blåst lite men 90% bra stavfäste o bra spår."
+      },
+      {
         "date": "2026-02-12T21:07:47.000Z",
         "days_ago": 0,
         "text": "SPORTLOV Spåret och skatebädden håller fint Vi sparar den inför fredagen 3,5 km klassiskt och skatespår Barnskidor finns att låna 2 grillplatser Pulkabacke Caféet är sportlovsöppet från kl 11 Spåravgift betalas via Swish och alltid innan man börjar åka. QR koder ( Swish nummer) på skyltar vid spåret, klubbstugan och Hindåsgården. Välkomna till ett vintrigt Hindås skidcenter"
-      },
-      {
-        "date": "2026-02-11T22:25:08.000Z",
-        "days_ago": 1,
-        "text": "SPORTLOV Spåret nypistat 3,5 km klassiskt och skatespår Barnskidor finns att låna 2 grillplatser Pulkabacke Caféet är sportlovsöppet från kl 11 Spåravgift betalas via Swish och alltid innan man börjar åka. QR koder ( Swish nummer) på skyltar vid spåret, klubbstugan och Hindåsgården. Välkomna till ett vintrigt Hindås skidcenter"
       }
     ]
   }
