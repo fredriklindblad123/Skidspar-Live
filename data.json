@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-02-13 02:33",
+    "temperature": "-8°C",
+    "last_update": "2026-02-13 05:22",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,25 +20,25 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -4.8,
         -5.2,
-        -4.8,
+        -4.4,
+        -4.1,
         -4.1,
         -4.6,
         -2.5,
         0.8
       ],
       "min_temp": [
-        -10.9,
-        -15.2,
-        -14.7,
+        -10.7,
+        -14.2,
+        -14.0,
         -8.2,
         -10.6,
         -13.6,
         -5.2
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för K & F. Bifogad karta visar sträckningen. Natursnöspåren lämpar sig endast för utflykter med sämre skidor. Golfbanan endast tryckt med ginzugroomer. Klassiskt spår ej draget ännu.\n\n(1 dagar sedan): Idag gäller prepareringen (K & F) som gjordes inför gårdagen.",
+    "ai_summary": "(idag): Konstsnöspåret preparerat för klassiskt och fristil. Spårets längd drygt 8 km. Golfbanan ca 5 km preparerad med ginzugroomer och spårmas för klassiskt. Genomslag förekommer. Preparering genomfördes under gårdagen. Övriga natursnöspår lämpar sig endast för utflykter med ett sämre par skidor.\n\n(1 dagar sedan): Konstsnöspåret nypistat för K & F. Bifogad karta visar sträckningen. Natursnöspåren lämpar sig endast för utflykter med sämre skidor. Golfbanan endast tryckt med ginzugroomer. Klassiskt spår ej draget ännu.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -53,14 +53,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-02-12T04:29:24.000Z",
+        "date": "2026-02-13T04:25:57.000Z",
         "days_ago": 0,
-        "text": "Konstsnöspåret nypistat för K & F. Bifogad karta visar sträckningen. Natursnöspåren lämpar sig endast för utflykter med sämre skidor. Golfbanan endast tryckt med ginzugroomer. Klassiskt spår ej draget ännu."
+        "text": "Konstsnöspåret preparerat för klassiskt och fristil. Spårets längd drygt 8 km. Golfbanan ca 5 km preparerad med ginzugroomer och spårmas för klassiskt. Genomslag förekommer. Preparering genomfördes under gårdagen. Övriga natursnöspår lämpar sig endast för utflykter med ett sämre par skidor."
       },
       {
-        "date": "2026-02-11T08:14:09.000Z",
+        "date": "2026-02-12T04:29:24.000Z",
         "days_ago": 1,
-        "text": "Idag gäller prepareringen (K & F) som gjordes inför gårdagen."
+        "text": "Konstsnöspåret nypistat för K & F. Bifogad karta visar sträckningen. Natursnöspåren lämpar sig endast för utflykter med sämre skidor. Golfbanan endast tryckt med ginzugroomer. Klassiskt spår ej draget ännu."
       }
     ]
   },
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "9 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-02-13 02:33",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "-9°C",
+    "last_update": "2026-02-13 05:22",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-13",
@@ -85,18 +85,18 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -4.2,
-        -4.4,
-        -3.5,
+        -5.3,
+        -3.8,
+        -2.1,
         -2.5,
         -3.0,
         -0.2,
         1.6
       ],
       "min_temp": [
-        -9.9,
-        -12.8,
-        -13.4,
+        -10.2,
+        -12.7,
+        -12.4,
         -6.3,
         -11.3,
         -12.2,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-13 02:34",
-    "weather": "☀️ Klart",
+    "last_update": "2026-02-13 05:22",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-13",
@@ -147,18 +147,18 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -2.5,
-        -3.3,
-        -3.2,
+        -3.7,
+        -2.6,
+        -1.1,
         -2.2,
         -2.8,
         -0.2,
         1.8
       ],
       "min_temp": [
-        -7.0,
+        -7.6,
+        -9.6,
         -9.3,
-        -10.2,
         -5.8,
         -10.9,
         -10.3,
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "6 cm",
-    "temperature": "-10°C",
-    "last_update": "2026-02-13 02:34",
-    "weather": "⛅ Halvklart",
+    "temperature": "-11°C",
+    "last_update": "2026-02-13 05:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-02-13",
@@ -201,18 +201,18 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -6.6,
-        -6.8,
-        -4.9,
+        -6.7,
+        -5.8,
+        -4.3,
         -3.8,
         -4.8,
         -2.5,
         -0.4
       ],
       "min_temp": [
-        -11.3,
+        -11.8,
         -14.6,
-        -14.1,
+        -13.6,
         -8.8,
         -10.6,
         -15.4,
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-6°C",
-    "last_update": "2026-02-13 02:34",
+    "temperature": "-7°C",
+    "last_update": "2026-02-13 05:23",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -266,18 +266,18 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -4.0,
-        -4.5,
-        -4.0,
+        -4.2,
+        -3.1,
+        -2.8,
         -3.2,
         -4.1,
         -1.8,
         1.1
       ],
       "min_temp": [
-        -8.4,
-        -12.2,
-        -13.2,
+        -8.5,
+        -10.9,
+        -12.0,
         -7.5,
         -11.1,
         -13.1,
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-02-13 02:35",
+    "temperature": "-8°C",
+    "last_update": "2026-02-13 05:24",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -331,18 +331,18 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -4.9,
-        -5.4,
-        -4.6,
+        -5.3,
+        -4.2,
+        -3.4,
         -3.4,
         -4.0,
         -1.9,
         1.0
       ],
       "min_temp": [
-        -9.7,
-        -13.3,
-        -14.5,
+        -9.8,
+        -12.3,
+        -13.2,
         -7.6,
         -11.4,
         -12.6,
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
-    "temperature": "-7°C",
-    "last_update": "2026-02-13 02:35",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "-8°C",
+    "last_update": "2026-02-13 05:24",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-02-13",
@@ -393,18 +393,18 @@
         "2026-02-19"
       ],
       "max_temp": [
-        -4.0,
-        -4.3,
-        -3.8,
+        -5.0,
+        -3.5,
+        -2.4,
         -2.7,
         -3.3,
         -1.0,
         1.6
       ],
       "min_temp": [
-        -9.8,
-        -12.2,
-        -13.6,
+        -10.0,
+        -11.9,
+        -13.2,
         -6.8,
         -11.6,
         -12.2,
