@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-02-21 02:11",
+    "temperature": "-2°C",
+    "last_update": "2026-02-21 05:06",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,9 +20,9 @@
         "2026-02-27"
       ],
       "max_temp": [
-        1.1,
-        0.6,
-        1.5,
+        1.0,
+        0.7,
+        1.4,
         1.8,
         1.4,
         4.2,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         -3.5,
-        -7.4,
-        -1.9,
+        -6.8,
+        -1.4,
         -0.6,
         -0.9,
         1.5,
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "12 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-02-21 02:11",
+    "snow_depth": "13 cm",
+    "temperature": "0°C",
+    "last_update": "2026-02-21 05:06",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -85,25 +85,25 @@
         "2026-02-27"
       ],
       "max_temp": [
-        1.7,
-        -0.3,
-        2.5,
+        1.6,
+        0.3,
+        2.4,
         3.0,
         2.8,
         4.3,
         5.8
       ],
       "min_temp": [
-        -3.7,
-        -7.3,
-        -2.3,
+        -2.9,
+        -6.7,
+        -1.0,
         0.4,
         0.7,
         2.5,
         3.3
       ]
     },
-    "ai_summary": "(idag): Riktigt fina spår vid lunchtid\n\n(idag): Nypistat med traktor på torsdag kväll. Som vanligt ett eller två klassiska spår och skate på 1,9 km.",
+    "ai_summary": "(idag): Riktigt fina spår vid lunchtid\n\n(1 dagar sedan): Nypistat med traktor på torsdag kväll. Som vanligt ett eller två klassiska spår och skate på 1,9 km.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-02-20T05:06:04.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Nypistat med traktor på torsdag kväll. Som vanligt ett eller två klassiska spår och skate på 1,9 km."
       }
     ]
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-21 02:12",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-02-21 05:07",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-02-21",
@@ -147,8 +147,8 @@
         "2026-02-27"
       ],
       "max_temp": [
-        2.3,
-        1.2,
+        2.2,
+        1.5,
         2.1,
         3.2,
         3.0,
@@ -156,9 +156,9 @@
         6.2
       ],
       "min_temp": [
-        -2.6,
-        -4.3,
-        -0.3,
+        -1.5,
+        -3.9,
+        0.2,
         0.6,
         1.0,
         2.6,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "4 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-02-21 02:12",
+    "temperature": "-2°C",
+    "last_update": "2026-02-21 05:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -202,7 +202,7 @@
       ],
       "max_temp": [
         1.3,
-        1.1,
+        0.7,
         0.6,
         0.7,
         2.2,
@@ -211,8 +211,8 @@
       ],
       "min_temp": [
         -3.2,
-        -5.2,
-        -2.2,
+        -5.4,
+        -1.5,
         -1.1,
         -2.8,
         2.2,
@@ -251,9 +251,9 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Stängt",
-    "snow_depth": "5 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-02-21 02:12",
+    "snow_depth": "6 cm",
+    "temperature": "-1°C",
+    "last_update": "2026-02-21 05:07",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -266,8 +266,8 @@
         "2026-02-27"
       ],
       "max_temp": [
-        2.0,
-        0.5,
+        1.6,
+        1.0,
         1.9,
         3.0,
         1.9,
@@ -276,8 +276,8 @@
       ],
       "min_temp": [
         -2.5,
-        -6.3,
-        -0.9,
+        -5.8,
+        -0.5,
         -0.3,
         0.1,
         2.1,
@@ -316,9 +316,9 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "6 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-02-21 02:13",
+    "snow_depth": "7 cm",
+    "temperature": "-2°C",
+    "last_update": "2026-02-21 05:08",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -331,8 +331,8 @@
         "2026-02-27"
       ],
       "max_temp": [
-        1.0,
-        -0.5,
+        0.7,
+        -0.0,
         1.7,
         2.7,
         2.0,
@@ -342,7 +342,7 @@
       "min_temp": [
         -3.5,
         -6.7,
-        -2.5,
+        -1.5,
         -0.2,
         0.0,
         2.0,
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "11 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-02-21 02:13",
+    "temperature": "-1°C",
+    "last_update": "2026-02-21 05:08",
     "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
@@ -393,8 +393,8 @@
         "2026-02-27"
       ],
       "max_temp": [
-        1.8,
-        -0.4,
+        1.6,
+        0.2,
         2.4,
         3.3,
         2.7,
@@ -402,9 +402,9 @@
         5.2
       ],
       "min_temp": [
-        -3.0,
-        -7.0,
-        -2.5,
+        -2.7,
+        -6.6,
+        -1.0,
         0.2,
         0.6,
         2.3,
