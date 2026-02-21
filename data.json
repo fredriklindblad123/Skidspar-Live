@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "0°C",
-    "last_update": "2026-02-21 12:54",
+    "temperature": "1°C",
+    "last_update": "2026-02-21 16:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,9 +20,9 @@
         "2026-02-27"
       ],
       "max_temp": [
-        1.5,
+        1.8,
         1.0,
-        2.1,
+        2.2,
         2.2,
         1.8,
         4.8,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         -3.5,
-        -7.4,
-        -0.9,
+        -6.3,
+        -0.6,
         -0.4,
         -0.6,
         2.5,
@@ -70,9 +70,9 @@
     "lat": 57.708,
     "lon": 12.307,
     "status": "Troligen öppet",
-    "snow_depth": "14 cm",
-    "temperature": "1°C",
-    "last_update": "2026-02-21 12:54",
+    "snow_depth": "13 cm",
+    "temperature": "2°C",
+    "last_update": "2026-02-21 16:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,25 +85,25 @@
         "2026-02-27"
       ],
       "max_temp": [
-        2.3,
-        0.5,
-        2.3,
+        2.2,
+        0.2,
+        1.8,
         3.3,
         3.1,
         4.6,
         4.8
       ],
       "min_temp": [
-        -3.2,
-        -7.2,
-        -0.6,
+        -2.9,
+        -6.3,
+        -0.4,
         -0.2,
         0.1,
         3.1,
         3.1
       ]
     },
-    "ai_summary": "(idag): Riktigt fina spår vid lunchtid\n\n(1 dagar sedan): Nypistat med traktor på torsdag kväll. Som vanligt ett eller två klassiska spår och skate på 1,9 km.",
+    "ai_summary": "(1 dagar sedan): Riktigt fina spår vid lunchtid\n\n(1 dagar sedan): Nypistat med traktor på torsdag kväll. Som vanligt ett eller två klassiska spår och skate på 1,9 km.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-02-20T14:37:56.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Riktigt fina spår vid lunchtid"
       },
       {
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-02-21 12:55",
+    "last_update": "2026-02-21 16:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,8 +147,8 @@
         "2026-02-27"
       ],
       "max_temp": [
-        2.9,
-        1.5,
+        2.6,
+        1.3,
         3.1,
         3.1,
         3.0,
@@ -156,9 +156,9 @@
         5.1
       ],
       "min_temp": [
-        -2.0,
-        -4.4,
-        0.7,
+        -1.6,
+        -3.4,
+        1.1,
         -0.3,
         0.3,
         3.0,
@@ -186,9 +186,9 @@
     "lat": 58.4108,
     "lon": 13.8347,
     "status": "Troligen öppet",
-    "snow_depth": "5 cm",
+    "snow_depth": "4 cm",
     "temperature": "2°C",
-    "last_update": "2026-02-21 12:55",
+    "last_update": "2026-02-21 16:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,9 +201,9 @@
         "2026-02-27"
       ],
       "max_temp": [
-        2.0,
-        0.9,
-        1.7,
+        2.3,
+        1.3,
+        1.8,
         1.8,
         2.1,
         5.7,
@@ -211,15 +211,15 @@
       ],
       "min_temp": [
         -3.2,
-        -5.4,
-        -1.4,
+        -5.2,
+        -1.3,
         -1.0,
         -3.2,
         2.5,
         3.0
       ]
     },
-    "ai_summary": "(idag): Nu ser det ut som att det blir lite mildare framöver, och då spåras det om lite oftare. Konstsnöbädden får sig en omgång i kväll inför morgondagens skidåkning. Dubbla klassiska spår och en bred skattebädd. Naturspåren får vänta tills det kommer mer snö, så vi kan få lite bättre kvalitet även där. Välkomna.\n\n(2 dagar sedan): Hellnermilen till rövarkulan och därifrån 5:an till stadion bra spår. Kommit lite snö som täcker barr.",
+    "ai_summary": "(1 dagar sedan): Nu ser det ut som att det blir lite mildare framöver, och då spåras det om lite oftare. Konstsnöbädden får sig en omgång i kväll inför morgondagens skidåkning. Dubbla klassiska spår och en bred skattebädd. Naturspåren får vänta tills det kommer mer snö, så vi kan få lite bättre kvalitet även där. Välkomna.\n\n(2 dagar sedan): Hellnermilen till rövarkulan och därifrån 5:an till stadion bra spår. Kommit lite snö som täcker barr.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -235,7 +235,7 @@
     "ai_comments": [
       {
         "date": "2026-02-20T16:05:51.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Nu ser det ut som att det blir lite mildare framöver, och då spåras det om lite oftare. Konstsnöbädden får sig en omgång i kväll inför morgondagens skidåkning. Dubbla klassiska spår och en bred skattebädd. Naturspåren får vänta tills det kommer mer snö, så vi kan få lite bättre kvalitet även där. Välkomna."
       },
       {
@@ -251,9 +251,9 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Stängt",
-    "snow_depth": "6 cm",
-    "temperature": "1°C",
-    "last_update": "2026-02-21 12:55",
+    "snow_depth": "5 cm",
+    "temperature": "2°C",
+    "last_update": "2026-02-21 16:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -266,9 +266,9 @@
         "2026-02-27"
       ],
       "max_temp": [
+        2.4,
+        1.1,
         2.2,
-        1.2,
-        2.7,
         2.3,
         2.6,
         4.8,
@@ -276,8 +276,8 @@
       ],
       "min_temp": [
         -2.5,
-        -5.8,
-        0.2,
+        -4.5,
+        0.1,
         -0.9,
         0.0,
         3.3,
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "7 cm",
-    "temperature": "0°C",
-    "last_update": "2026-02-21 12:56",
+    "temperature": "1°C",
+    "last_update": "2026-02-21 16:34",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -331,9 +331,9 @@
         "2026-02-27"
       ],
       "max_temp": [
-        1.3,
+        1.6,
         0.1,
-        1.7,
+        1.3,
         2.3,
         2.7,
         4.3,
@@ -341,15 +341,15 @@
       ],
       "min_temp": [
         -3.5,
-        -6.5,
-        -0.9,
+        -5.2,
+        -1.0,
         -0.9,
         0.0,
         3.2,
         2.5
       ]
     },
-    "ai_summary": "(idag): Ängarna på Sjöslingan och Kyperedssjön är nyspårade för klassiskt och skate. Enstaka genomslag förekommer på ängarna men mestadels gräs. Dubbelspår draget på sjön. Även Kraftbacken är nypreparerad med ett klassiskt spår och bred skatebädd. Totalt med konstsnöspåret blir det dryg 7 km spår. Välkomna till Hestrastugan i Borås! ❄️😍👍\n\n(idag): Konstsnöspåret på 3,65 km, samt anslutning till Sjöslingan är nypreparerat nu på morgonen efter nattens snöfall. Naturligtvis blir det lite lösare men vi hoppas snön håller ihop ändå. Natursnöspåren och Kyperedssjön kommer prepareras under förmiddagen. Välkomna till en fin lördag på Hestrastugan i Borås! ❄️😍👍",
+    "ai_summary": "(idag): Rätt bra spår med tanke på mildväder börjar bli lite sladdriga\n\n(idag): Ängarna på Sjöslingan och Kyperedssjön är nyspårade för klassiskt och skate. Enstaka genomslag förekommer på ängarna men mestadels gräs. Dubbelspår draget på sjön. Även Kraftbacken är nypreparerad med ett klassiskt spår och bred skatebädd. Totalt med konstsnöspåret blir det dryg 7 km spår. Välkomna till Hestrastugan i Borås! ❄️😍👍",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -361,14 +361,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-02-21T15:00:30.000Z",
+        "days_ago": 0,
+        "text": "Rätt bra spår med tanke på mildväder börjar bli lite sladdriga"
+      },
+      {
         "date": "2026-02-21T09:57:14.000Z",
         "days_ago": 0,
         "text": "Ängarna på Sjöslingan och Kyperedssjön är nyspårade för klassiskt och skate. Enstaka genomslag förekommer på ängarna men mestadels gräs. Dubbelspår draget på sjön. Även Kraftbacken är nypreparerad med ett klassiskt spår och bred skatebädd. Totalt med konstsnöspåret blir det dryg 7 km spår. Välkomna till Hestrastugan i Borås! ❄️😍👍"
-      },
-      {
-        "date": "2026-02-21T07:06:52.000Z",
-        "days_ago": 0,
-        "text": "Konstsnöspåret på 3,65 km, samt anslutning till Sjöslingan är nypreparerat nu på morgonen efter nattens snöfall. Naturligtvis blir det lite lösare men vi hoppas snön håller ihop ändå. Natursnöspåren och Kyperedssjön kommer prepareras under förmiddagen. Välkomna till en fin lördag på Hestrastugan i Borås! ❄️😍👍"
       }
     ]
   },
@@ -378,9 +378,9 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Troligen öppet",
-    "snow_depth": "12 cm",
-    "temperature": "1°C",
-    "last_update": "2026-02-21 12:56",
+    "snow_depth": "11 cm",
+    "temperature": "2°C",
+    "last_update": "2026-02-21 16:35",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -393,25 +393,25 @@
         "2026-02-27"
       ],
       "max_temp": [
-        2.3,
-        0.5,
-        2.3,
+        2.4,
+        0.3,
+        1.8,
         3.0,
         2.9,
         4.2,
         4.1
       ],
       "min_temp": [
-        -3.0,
-        -6.8,
-        -0.6,
+        -2.7,
+        -5.9,
+        -0.4,
         0.3,
         0.1,
         3.2,
         2.8
       ]
     },
-    "ai_summary": "(idag): Mitt omdöme är 5 av 5 på allt, appen gör lite som den vill;). Fint skidföre helt enkelt. Bra stämning!\n\n(idag): Jättefint, lagom m folk, funkat hyfsat bra m lila valla.",
+    "ai_summary": "(idag): Det var spårat och fint , trots väder 🌧️ Visa delar av spåren lite isiga men det går ändå bra att åka:))\n\n(idag): Mitt omdöme är 5 av 5 på allt, appen gör lite som den vill;). Fint skidföre helt enkelt. Bra stämning!",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-02-21T13:39:56.000Z",
+        "days_ago": 0,
+        "text": "Det var spårat och fint , trots väder 🌧️ Visa delar av spåren lite isiga men det går ändå bra att åka:))"
+      },
+      {
         "date": "2026-02-21T12:09:33.000Z",
         "days_ago": 0,
         "text": "Mitt omdöme är 5 av 5 på allt, appen gör lite som den vill;). Fint skidföre helt enkelt. Bra stämning!"
-      },
-      {
-        "date": "2026-02-21T12:07:44.000Z",
-        "days_ago": 0,
-        "text": "Jättefint, lagom m folk, funkat hyfsat bra m lila valla."
       }
     ]
   }
