@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-03 02:28",
+    "temperature": "3°C",
+    "last_update": "2026-03-03 05:14",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,8 +20,8 @@
         "2026-03-09"
       ],
       "max_temp": [
-        6.9,
-        8.9,
+        6.8,
+        8.7,
         7.2,
         10.1,
         6.7,
@@ -29,16 +29,16 @@
         7.4
       ],
       "min_temp": [
-        1.0,
-        -2.2,
-        -2.1,
+        0.6,
+        -2.3,
+        -1.9,
         -0.6,
         0.6,
         -0.1,
         -0.8
       ]
     },
-    "ai_summary": "(idag): Konstsnöspåret nypistat för klassiskt och fristil.\n\n(3 dagar sedan): Konstsnöspåret pistas om idag på morgonen för K & F",
+    "ai_summary": "(1 dagar sedan): Konstsnöspåret nypistat för klassiskt och fristil.\n\n(3 dagar sedan): Konstsnöspåret pistas om idag på morgonen för K & F",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -54,7 +54,7 @@
     "ai_comments": [
       {
         "date": "2026-03-02T04:19:21.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Konstsnöspåret nypistat för klassiskt och fristil."
       },
       {
@@ -72,8 +72,8 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "4°C",
-    "last_update": "2026-03-03 02:28",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-03-03 05:14",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-03",
@@ -86,17 +86,17 @@
       ],
       "max_temp": [
         7.2,
-        8.4,
-        7.6,
+        8.2,
+        7.5,
         9.3,
         8.6,
         6.8,
         5.8
       ],
       "min_temp": [
-        1.8,
-        -0.5,
-        -2.2,
+        1.5,
+        -1.2,
+        -1.6,
         0.1,
         0.4,
         -0.8,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-03 02:28",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-03-03 05:15",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-03-03",
@@ -148,16 +148,16 @@
       ],
       "max_temp": [
         8.0,
-        8.5,
-        6.5,
+        8.4,
+        7.1,
         7.6,
         7.8,
         4.3,
         5.3
       ],
       "min_temp": [
-        4.1,
-        2.0,
+        4.2,
+        2.1,
         -0.3,
         0.4,
         0.2,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2026-03-03 02:28",
+    "temperature": "4°C",
+    "last_update": "2026-03-03 05:15",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,8 +201,8 @@
         "2026-03-09"
       ],
       "max_temp": [
-        7.0,
-        8.1,
+        6.8,
+        8.0,
         7.4,
         11.1,
         7.5,
@@ -210,9 +210,9 @@
         7.4
       ],
       "min_temp": [
-        1.3,
-        -0.0,
-        0.6,
+        1.1,
+        -0.4,
+        0.5,
         0.5,
         2.1,
         -2.5,
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-03 02:29",
+    "temperature": "3°C",
+    "last_update": "2026-03-03 05:15",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -266,18 +266,18 @@
         "2026-03-09"
       ],
       "max_temp": [
-        7.2,
-        9.2,
-        7.4,
+        7.7,
+        9.5,
+        7.5,
         9.8,
         7.8,
         7.1,
         6.5
       ],
       "min_temp": [
-        1.7,
-        -1.3,
-        -1.6,
+        1.4,
+        -1.5,
+        -1.1,
         -0.6,
         -0.5,
         -0.7,
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-03 02:29",
+    "temperature": "2°C",
+    "last_update": "2026-03-03 05:16",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -331,8 +331,8 @@
         "2026-03-09"
       ],
       "max_temp": [
-        6.3,
-        8.4,
+        6.7,
+        8.6,
         7.3,
         9.5,
         7.6,
@@ -340,9 +340,9 @@
         6.4
       ],
       "min_temp": [
-        1.2,
-        -0.8,
-        -2.5,
+        0.8,
+        -1.4,
+        -2.1,
         -0.6,
         0.6,
         -0.7,
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-03 02:29",
-    "weather": "⛅ Halvklart",
+    "temperature": "2°C",
+    "last_update": "2026-03-03 05:16",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-03",
@@ -393,18 +393,18 @@
         "2026-03-09"
       ],
       "max_temp": [
-        7.0,
-        8.5,
-        7.4,
+        7.1,
+        8.2,
+        7.5,
         8.9,
         8.6,
         6.3,
         5.8
       ],
       "min_temp": [
-        1.7,
-        -0.4,
-        -2.3,
+        1.2,
+        -0.9,
+        -1.2,
         -0.5,
         0.2,
         -0.8,
