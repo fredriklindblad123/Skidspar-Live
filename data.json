@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-03-05 08:49",
+    "temperature": "7°C",
+    "last_update": "2026-03-05 13:06",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2026-03-11"
       ],
       "max_temp": [
-        7.8,
-        10.3,
-        7.3,
-        11.4,
-        11.4,
-        10.4,
+        7.0,
+        10.0,
+        6.5,
+        11.3,
+        11.6,
+        4.3,
         5.2
       ],
       "min_temp": [
         -2.4,
         -1.8,
-        0.3,
-        -0.2,
-        -0.2,
-        -0.6,
-        0.9
+        0.9,
+        1.1,
+        1.0,
+        0.6,
+        1.8
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret förutom ”vägspåret” nypistat för K & F. Pistning genomfördes sent under onsdagskvällen\n\n(1 dagar sedan): Pistning inför imorgon onsdag kommer genomföras sent ikväll, tisdag. Bild på spårets snödjup bifogas",
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-03-05 08:49",
-    "weather": "⛅ Halvklart",
+    "temperature": "7°C",
+    "last_update": "2026-03-05 13:06",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-05",
@@ -85,22 +85,22 @@
         "2026-03-11"
       ],
       "max_temp": [
-        7.7,
-        9.9,
-        8.4,
-        12.2,
-        12.1,
-        10.2,
+        7.2,
+        10.1,
+        6.2,
+        9.2,
+        11.6,
+        4.8,
         5.3
       ],
       "min_temp": [
         -2.9,
-        -2.7,
-        -0.1,
-        0.8,
-        -0.3,
-        -0.3,
-        2.7
+        -1.8,
+        0.5,
+        1.5,
+        1.1,
+        1.0,
+        3.1
       ]
     },
     "ai_summary": "(1 dagar sedan): 1,9 km klassiskt + skate.\n\n(5 dagar sedan): Uppdatering fredag kväll. Vi avvaktar med spårpreparering pga mildväder/regn som ser ut att fortsätta även imorgon. Vi uppdaterar här när det är nyspårat igen.",
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-05 08:49",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-03-05 13:07",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-05",
@@ -147,22 +147,22 @@
         "2026-03-11"
       ],
       "max_temp": [
-        8.1,
-        10.0,
-        9.7,
-        11.4,
-        10.4,
-        8.3,
+        8.0,
+        9.9,
+        7.6,
+        8.8,
+        9.9,
+        4.2,
         5.5
       ],
       "min_temp": [
         0.5,
-        1.5,
-        1.6,
-        1.1,
-        0.2,
-        -0.4,
-        2.9
+        1.7,
+        3.5,
+        2.4,
+        1.7,
+        1.4,
+        3.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-05 08:49",
-    "weather": "⛅ Halvklart",
+    "temperature": "7°C",
+    "last_update": "2026-03-05 13:07",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-05",
@@ -202,21 +202,21 @@
       ],
       "max_temp": [
         6.7,
-        10.7,
-        5.9,
-        10.7,
+        10.9,
+        4.1,
         12.4,
-        11.1,
+        13.0,
+        5.2,
         6.6
       ],
       "min_temp": [
         0.3,
-        1.5,
-        1.0,
-        -0.2,
-        -1.2,
-        -0.4,
-        1.9
+        1.8,
+        0.6,
+        -0.9,
+        1.2,
+        1.7,
+        2.8
       ]
     },
     "ai_summary": "(1 dagar sedan): Nyspårat igår kväll inför dagens skidåkning, Hårda snabba spår nu på morgonen innan solen tinar upp snön Välkomna!\n\n(1 dagar sedan): +3 grader och det märks att vi är i Mars. Nda do liga är på Väg hem på campinslingan innan sradion i höget spåret är det lite gris. Volvobacken saknar stavfäste i högerkanten i bland men om man kör lite innåt inga problem",
@@ -252,8 +252,8 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-03-05 08:50",
+    "temperature": "7°C",
+    "last_update": "2026-03-05 13:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -266,22 +266,22 @@
         "2026-03-11"
       ],
       "max_temp": [
-        8.3,
-        10.8,
-        7.9,
-        11.9,
-        12.0,
-        10.1,
+        7.5,
+        11.0,
+        7.2,
+        11.2,
+        12.6,
+        4.0,
         5.7
       ],
       "min_temp": [
         -2.4,
-        -2.0,
-        1.0,
-        -0.5,
-        -1.5,
-        -1.9,
-        1.5
+        -1.7,
+        1.4,
+        0.9,
+        0.6,
+        0.6,
+        2.1
       ]
     },
     "ai_summary": "(idag): Nypistat, klassiskt och skate Välkomna till en fin morgontur i solskenet.\n\n(idag): Fina spår trots mildvädret stavfästet är bra mjuk skatebädd",
@@ -317,8 +317,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-03-05 08:50",
+    "temperature": "6°C",
+    "last_update": "2026-03-05 13:08",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -331,22 +331,22 @@
         "2026-03-11"
       ],
       "max_temp": [
-        7.3,
-        9.6,
-        6.8,
-        11.8,
-        11.8,
-        10.0,
+        6.6,
+        9.8,
+        6.0,
+        10.9,
+        12.1,
+        4.3,
         5.5
       ],
       "min_temp": [
         -2.6,
-        -2.6,
-        0.0,
-        0.0,
-        -0.9,
-        -0.5,
-        1.5
+        -2.2,
+        0.4,
+        0.9,
+        0.9,
+        0.5,
+        2.0
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret fortfarande 3,6 km nypistat och spårat.\n\n(1 dagar sedan): Konstsnöspåret är preparerat för klassiskt och skate❄️⛷️. Välkomna till Hestrastugan😃. Spårpatrullen 😊",
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-1°C",
-    "last_update": "2026-03-05 08:51",
-    "weather": "⛅ Halvklart",
+    "temperature": "7°C",
+    "last_update": "2026-03-05 13:08",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-05",
@@ -393,22 +393,22 @@
         "2026-03-11"
       ],
       "max_temp": [
-        7.8,
-        9.7,
-        8.0,
-        11.9,
-        11.9,
+        7.2,
+        9.9,
+        5.9,
         9.6,
+        11.3,
+        4.2,
         5.0
       ],
       "min_temp": [
         -3.6,
-        -4.2,
-        -0.5,
-        0.2,
-        -1.1,
-        -0.6,
-        2.1
+        -3.5,
+        0.3,
+        1.1,
+        0.8,
+        0.4,
+        2.6
       ]
     },
     "ai_summary": "(1 dagar sedan): Stort tack för fina spår! Åkte igår vid 16 tiden. Fortfarande tjock snöbädd. Lite barr i spåret inne i skogen men fasta och fina spår.\n\n(1 dagar sedan): Nypistat spår klassiskt och skatebädd 3,5 km Skatebädden blev tyvärr lite defekt på vissa avsnitt pga en skada på fräsaggregatet! Ungdomsträning onsdag kl 18,15-19,30 Välkomna till Hindås skidcenter",
