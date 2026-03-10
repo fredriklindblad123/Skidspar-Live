@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-10 08:49",
-    "weather": "☀️ Klart",
+    "temperature": "9°C",
+    "last_update": "2026-03-10 13:07",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-03-10",
@@ -20,22 +20,22 @@
         "2026-03-16"
       ],
       "max_temp": [
-        10.2,
+        9.6,
+        6.5,
+        8.0,
+        6.2,
+        6.3,
         6.6,
-        7.6,
-        6.4,
-        7.2,
-        4.4,
         7.3
       ],
       "min_temp": [
         -1.5,
-        1.7,
-        3.1,
+        1.6,
         3.0,
-        0.6,
-        -0.8,
-        -1.2
+        1.2,
+        0.2,
+        -0.1,
+        0.3
       ]
     },
     "ai_summary": "(1 dagar sedan): Konstsnöspåret nypistat för K & F. Preparering genomfördes under kvällen/natten till idag, måndag\n\n(3 dagar sedan): Pistning av konstsnöspåret för K & F inför imorgon lördag genomförs nu under fredagskvällen",
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-03-10 08:49",
+    "temperature": "9°C",
+    "last_update": "2026-03-10 13:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -85,25 +85,25 @@
         "2026-03-16"
       ],
       "max_temp": [
-        3.8,
+        8.7,
+        7.2,
+        7.9,
         6.8,
-        6.6,
-        6.6,
-        7.8,
-        5.7,
+        7.1,
+        4.7,
         5.3
       ],
       "min_temp": [
         -1.6,
-        2.5,
-        2.5,
-        3.3,
-        1.6,
-        0.6,
-        0.7
+        2.6,
+        2.9,
+        3.0,
+        1.8,
+        2.0,
+        1.5
       ]
     },
-    "ai_summary": "(idag): 1,9 km klassiskt + skate. Nypreparerat måndagkväll. Tisdagskväll är det ungdomstävling. Spåret är avstängt för preparering från tisdag kl 16 till tävlingen är avslutad. Välkomna!\n\n(idag): Tack för fina spår. Härlig skidåkning i hårda spår och solsken nu på morgonen.",
+    "ai_summary": "(idag): 1,9 km klassiskt + skate. Nypreparerat måndagkväll. Tisdagskväll är det ungdomstävling. Spåret är avstängt för preparering från tisdag kl 16 till tävlingen är avslutad. Välkomna!\n\n(1 dagar sedan): Tack för fina spår. Härlig skidåkning i hårda spår och solsken nu på morgonen.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-03-09T11:43:34.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Tack för fina spår. Härlig skidåkning i hårda spår och solsken nu på morgonen."
       }
     ]
@@ -134,7 +134,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-10 08:50",
+    "last_update": "2026-03-10 13:07",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -147,22 +147,22 @@
         "2026-03-16"
       ],
       "max_temp": [
-        4.3,
-        7.4,
-        7.0,
-        6.5,
-        7.1,
-        5.1,
+        7.6,
+        7.6,
+        8.2,
+        6.8,
+        6.8,
+        4.7,
         4.4
       ],
       "min_temp": [
         2.0,
-        4.4,
-        3.8,
-        3.7,
-        2.8,
-        1.6,
-        1.8
+        4.3,
+        3.9,
+        3.3,
+        2.2,
+        2.4,
+        2.0
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-03-10 08:50",
-    "weather": "☀️ Klart",
+    "temperature": "11°C",
+    "last_update": "2026-03-10 13:08",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-10",
@@ -201,25 +201,25 @@
         "2026-03-16"
       ],
       "max_temp": [
-        9.6,
-        6.7,
+        11.1,
+        6.8,
         8.2,
-        7.2,
-        8.4,
-        6.2,
+        8.2,
+        7.7,
+        7.7,
         8.8
       ],
       "min_temp": [
         0.7,
-        2.8,
-        3.7,
-        3.8,
-        1.9,
-        -0.2,
-        -0.8
+        2.6,
+        3.6,
+        2.7,
+        1.4,
+        0.9,
+        1.1
       ]
     },
-    "ai_summary": "(idag): Nyspårat igår kväll inför dagens skidåkning. Välkomna!\n\n(1 dagar sedan): Några plusgrader 10:30-13:00 Successivt mer och mer mosigt där solen kommit åt - så åk tidigt eller sent.",
+    "ai_summary": "(idag): Skidåkning när den är som bäst, femte årstiden i sol +11. ☀️❄️⛷️\n\n(1 dagar sedan): Nyspårat igår kväll inför dagens skidåkning. Välkomna!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -234,14 +234,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-03-09T09:11:39.000Z",
+        "date": "2026-03-10T12:30:49.000Z",
         "days_ago": 0,
-        "text": "Nyspårat igår kväll inför dagens skidåkning. Välkomna!"
+        "text": "Skidåkning när den är som bäst, femte årstiden i sol +11. ☀️❄️⛷️"
       },
       {
-        "date": "2026-03-08T12:10:59.000Z",
+        "date": "2026-03-09T09:11:39.000Z",
         "days_ago": 1,
-        "text": "Några plusgrader 10:30-13:00 Successivt mer och mer mosigt där solen kommit åt - så åk tidigt eller sent."
+        "text": "Nyspårat igår kväll inför dagens skidåkning. Välkomna!"
       }
     ]
   },
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-10 08:50",
-    "weather": "⛅ Halvklart",
+    "temperature": "10°C",
+    "last_update": "2026-03-10 13:08",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-10",
@@ -266,22 +266,22 @@
         "2026-03-16"
       ],
       "max_temp": [
-        7.6,
-        7.6,
-        7.8,
+        10.0,
+        7.5,
+        8.8,
+        6.6,
+        6.9,
         6.3,
-        7.3,
-        5.2,
         7.4
       ],
       "min_temp": [
         -1.2,
-        2.5,
-        3.4,
-        3.2,
-        0.5,
-        -0.6,
-        -1.1
+        2.7,
+        3.6,
+        2.3,
+        0.3,
+        0.2,
+        0.6
       ]
     },
     "ai_summary": "(idag): Nyspårat och fixat . Klassiskt/skate Boråsskimaraton banan med vissa justeringar då vi ej använder tunneln. Ser bra ut och skidsäsongen kan fortsätta. Välkomna\n\n(1 dagar sedan): Spåren preparerades ej igår kväll pga det milda vädret. Enligt prognosen skulle det inte frysa på under natten. Vi gör en insats ikväll och lägger på snö på något ställe och fixar till spåren.",
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-03-10 08:51",
-    "weather": "⛅ Halvklart",
+    "temperature": "9°C",
+    "last_update": "2026-03-10 13:09",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-10",
@@ -331,22 +331,22 @@
         "2026-03-16"
       ],
       "max_temp": [
+        9.2,
         6.6,
-        6.5,
+        7.8,
+        6.4,
         6.8,
-        6.1,
-        6.9,
-        5.0,
+        5.5,
         7.0
       ],
       "min_temp": [
         -1.7,
-        1.6,
-        2.3,
-        3.0,
+        1.8,
+        2.7,
+        2.4,
         0.5,
-        -0.5,
-        -0.9
+        0.4,
+        0.6
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret preparerade för klassiskt o skate⛷️❄️3,6 km. Välkomna till Hestrastugan😊. Spårpatrullen😃\n\n(2 dagar sedan): Konstsnöspåret, 3,6 km, nypreparerat för klassiskt och skate efter dagens fartfyllda klubbmästerskap. Varmt välkomna till Hestrastugan! /Spårpatrullen",
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "1°C",
-    "last_update": "2026-03-10 08:51",
+    "temperature": "9°C",
+    "last_update": "2026-03-10 13:09",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -393,22 +393,22 @@
         "2026-03-16"
       ],
       "max_temp": [
-        4.4,
-        6.9,
+        8.9,
+        7.1,
+        7.9,
+        6.6,
         6.8,
-        6.4,
-        7.6,
-        5.0,
+        4.8,
         5.6
       ],
       "min_temp": [
         -2.2,
-        2.1,
-        2.6,
-        3.2,
-        1.1,
-        0.2,
-        0.1
+        2.3,
+        2.8,
+        2.7,
+        1.6,
+        1.6,
+        1.0
       ]
     },
     "ai_summary": "(idag): Nypistat klassiskt spår och skatebädd 3,5 km Tidig förmiddag idag tisdag kommer bli krispiga spår och skate bädd Välkomna till Hindås skidcenter\n\n(idag): Skejtade efter lunch, det hade frusit ihop under natten och runt lunch var ganska lagom mjukt i bädden. Tack för grymt arbete. Hoppas den håller ett par veckor till!!! ✨",
