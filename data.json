@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-09 20:38",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "-1°C",
+    "last_update": "2026-03-10 02:20",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        12.7,
-        9.9,
-        6.5,
-        7.8,
-        5.3,
-        6.1,
-        4.4
+        10.1,
+        6.6,
+        8.0,
+        5.2,
+        6.7,
+        4.8,
+        6.6
       ],
       "min_temp": [
-        0.6,
-        -1.0,
-        2.0,
-        2.0,
-        1.2,
-        0.1,
-        -0.3
+        -1.2,
+        1.8,
+        3.2,
+        1.6,
+        -0.2,
+        1.3,
+        0.9
       ]
     },
     "ai_summary": "(idag): Konstsnöspåret nypistat för K & F. Preparering genomfördes under kvällen/natten till idag, måndag\n\n(3 dagar sedan): Pistning av konstsnöspåret för K & F inför imorgon lördag genomförs nu under fredagskvällen",
@@ -71,35 +71,35 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-03-09 20:38",
-    "weather": "⛅ Halvklart",
+    "temperature": "-1°C",
+    "last_update": "2026-03-10 02:21",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        12.3,
-        4.2,
-        6.9,
+        3.7,
+        7.0,
         7.8,
-        5.9,
-        7.2,
-        4.1
+        5.4,
+        6.8,
+        4.1,
+        6.4
       ],
       "min_temp": [
-        -0.3,
         -1.8,
-        2.8,
+        2.6,
+        2.7,
+        2.3,
+        1.0,
         2.0,
-        1.9,
-        0.8,
         1.0
       ]
     },
@@ -134,34 +134,34 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-09 20:38",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-03-10 02:21",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        11.0,
-        4.3,
-        7.4,
-        7.3,
+        4.2,
+        7.7,
+        7.2,
+        5.9,
         6.4,
-        6.8,
-        4.3
+        4.2,
+        6.1
       ],
       "min_temp": [
+        1.5,
+        4.2,
         3.7,
-        1.6,
-        4.5,
-        2.0,
-        2.4,
-        1.4,
+        3.0,
+        1.9,
+        2.1,
         1.7
       ]
     },
@@ -187,36 +187,36 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-09 20:38",
-    "weather": "☁️ Mulet",
+    "temperature": "1°C",
+    "last_update": "2026-03-10 02:21",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        10.9,
-        10.3,
-        6.4,
+        9.3,
+        7.0,
         8.8,
-        6.6,
-        7.1,
-        6.4
+        6.4,
+        7.7,
+        5.1,
+        7.0
       ],
       "min_temp": [
-        3.7,
-        1.8,
-        2.9,
-        3.1,
-        1.9,
-        1.2,
-        0.1
+        0.6,
+        2.8,
+        4.0,
+        2.4,
+        0.2,
+        2.0,
+        1.6
       ]
     },
     "ai_summary": "(idag): Nyspårat igår kväll inför dagens skidåkning. Välkomna!\n\n(1 dagar sedan): Några plusgrader 10:30-13:00 Successivt mer och mer mosigt där solen kommit åt - så åk tidigt eller sent.",
@@ -252,39 +252,39 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-09 20:39",
-    "weather": "⛅ Halvklart",
+    "temperature": "-1°C",
+    "last_update": "2026-03-10 02:21",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        13.4,
-        8.3,
-        7.3,
-        7.7,
-        5.3,
-        6.3,
-        4.2
+        7.8,
+        7.5,
+        7.8,
+        5.4,
+        6.8,
+        5.1,
+        6.9
       ],
       "min_temp": [
-        0.7,
-        -1.1,
-        2.9,
-        2.2,
-        1.5,
-        0.2,
-        -0.2
+        -1.6,
+        2.7,
+        3.6,
+        1.9,
+        -0.1,
+        1.7,
+        0.9
       ]
     },
-    "ai_summary": "(idag): Spåren preparerades ej igår kväll pga det milda vädret. Enligt prognosen skulle det inte frysa på under natten. Vi gör en insats ikväll och lägger på snö på något ställe och fixar till spåren.\n\n(1 dagar sedan): Överlag bra spår åkte med stora trugor för att skona bädden bra stavfäste.",
+    "ai_summary": "(idag): Nyspårat och fixat . Klassiskt/skate Boråsskimaraton banan med vissa justeringar då vi ej använder tunneln. Ser bra ut och skidsäsongen kan fortsätta. Välkomna\n\n(idag): Spåren preparerades ej igår kväll pga det milda vädret. Enligt prognosen skulle det inte frysa på under natten. Vi gör en insats ikväll och lägger på snö på något ställe och fixar till spåren.",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -299,14 +299,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-03-09T21:13:37.000Z",
+        "days_ago": 0,
+        "text": "Nyspårat och fixat . Klassiskt/skate Boråsskimaraton banan med vissa justeringar då vi ej använder tunneln. Ser bra ut och skidsäsongen kan fortsätta. Välkomna"
+      },
+      {
         "date": "2026-03-09T06:40:13.000Z",
         "days_ago": 0,
         "text": "Spåren preparerades ej igår kväll pga det milda vädret. Enligt prognosen skulle det inte frysa på under natten. Vi gör en insats ikväll och lägger på snö på något ställe och fixar till spåren."
-      },
-      {
-        "date": "2026-03-08T09:32:23.000Z",
-        "days_ago": 1,
-        "text": "Överlag bra spår åkte med stora trugor för att skona bädden bra stavfäste."
       }
     ]
   },
@@ -317,39 +317,39 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-09 20:39",
-    "weather": "⛅ Halvklart",
+    "temperature": "-2°C",
+    "last_update": "2026-03-10 02:22",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        12.4,
-        7.3,
-        6.2,
+        6.7,
+        6.4,
         7.5,
         5.0,
-        6.1,
-        4.0
+        6.3,
+        4.4,
+        6.4
       ],
       "min_temp": [
-        0.0,
         -2.2,
-        1.8,
-        2.0,
-        1.1,
-        0.2,
-        -0.2
+        1.7,
+        2.5,
+        1.6,
+        -0.2,
+        1.5,
+        0.6
       ]
     },
-    "ai_summary": "(1 dagar sedan): Konstsnöspåret, 3,6 km, nypreparerat för klassiskt och skate efter dagens fartfyllda klubbmästerskap. Varmt välkomna till Hestrastugan! /Spårpatrullen\n\n(2 dagar sedan): Skidspåret är preparerat för både skate och klassiskt. Lördag 7/3 arrangerar vi Klubbmästerskap på Hestra. Mellan kl. 09.00–12.00 är banan justerad på grund av tävlingen. Se bifogad bild där vi markerat med vitt vilka delar som är öppna för allmänheten. Tack för visad hänsyn och välkomna ut i spåret! // Spårpatrullen",
+    "ai_summary": "(idag): Konstsnöspåret preparerade för klassiskt o skate⛷️❄️3,6 km. Välkomna till Hestrastugan😊. Spårpatrullen😃\n\n(2 dagar sedan): Konstsnöspåret, 3,6 km, nypreparerat för klassiskt och skate efter dagens fartfyllda klubbmästerskap. Varmt välkomna till Hestrastugan! /Spårpatrullen",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -361,14 +361,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-03-07T23:13:19.000Z",
-        "days_ago": 1,
-        "text": "Konstsnöspåret, 3,6 km, nypreparerat för klassiskt och skate efter dagens fartfyllda klubbmästerskap. Varmt välkomna till Hestrastugan! /Spårpatrullen"
+        "date": "2026-03-09T22:44:43.000Z",
+        "days_ago": 0,
+        "text": "Konstsnöspåret preparerade för klassiskt o skate⛷️❄️3,6 km. Välkomna till Hestrastugan😊. Spårpatrullen😃"
       },
       {
-        "date": "2026-03-06T23:12:14.000Z",
+        "date": "2026-03-07T23:13:19.000Z",
         "days_ago": 2,
-        "text": "Skidspåret är preparerat för både skate och klassiskt. Lördag 7/3 arrangerar vi Klubbmästerskap på Hestra. Mellan kl. 09.00–12.00 är banan justerad på grund av tävlingen. Se bifogad bild där vi markerat med vitt vilka delar som är öppna för allmänheten. Tack för visad hänsyn och välkomna ut i spåret! // Spårpatrullen"
+        "text": "Konstsnöspåret, 3,6 km, nypreparerat för klassiskt och skate efter dagens fartfyllda klubbmästerskap. Varmt välkomna till Hestrastugan! /Spårpatrullen"
       }
     ]
   },
@@ -379,39 +379,39 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "1°C",
-    "last_update": "2026-03-09 20:39",
-    "weather": "⛅ Halvklart",
+    "temperature": "-2°C",
+    "last_update": "2026-03-10 02:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ],
       "max_temp": [
-        12.0,
-        4.6,
-        6.8,
-        7.6,
-        5.4,
-        6.8,
-        3.8
+        4.3,
+        6.9,
+        7.4,
+        5.1,
+        6.5,
+        4.0,
+        6.3
       ],
       "min_temp": [
-        0.0,
-        -2.9,
+        -2.3,
+        2.1,
+        2.7,
         2.0,
+        0.4,
         2.0,
-        1.5,
-        0.6,
-        0.6
+        0.7
       ]
     },
-    "ai_summary": "(idag): Skejtade efter lunch, det hade frusit ihop under natten och runt lunch var ganska lagom mjukt i bädden. Tack för grymt arbete. Hoppas den håller ett par veckor till!!! ✨\n\n(1 dagar sedan): Nypistat 3,5 km klassiskt och skate Välkomna!",
+    "ai_summary": "(idag): Nypistat klassiskt spår och skatebädd 3,5 km Tidig förmiddag idag tisdag kommer bli krispiga spår och skate bädd Välkomna till Hindås skidcenter\n\n(idag): Skejtade efter lunch, det hade frusit ihop under natten och runt lunch var ganska lagom mjukt i bädden. Tack för grymt arbete. Hoppas den håller ett par veckor till!!! ✨",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -423,14 +423,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-03-09T23:04:32.000Z",
+        "days_ago": 0,
+        "text": "Nypistat klassiskt spår och skatebädd 3,5 km Tidig förmiddag idag tisdag kommer bli krispiga spår och skate bädd Välkomna till Hindås skidcenter"
+      },
+      {
         "date": "2026-03-09T13:17:47.000Z",
         "days_ago": 0,
         "text": "Skejtade efter lunch, det hade frusit ihop under natten och runt lunch var ganska lagom mjukt i bädden. Tack för grymt arbete. Hoppas den håller ett par veckor till!!! ✨"
-      },
-      {
-        "date": "2026-03-08T06:02:10.000Z",
-        "days_ago": 1,
-        "text": "Nypistat 3,5 km klassiskt och skate Välkomna!"
       }
     ]
   }
