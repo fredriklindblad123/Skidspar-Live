@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-03-16 13:19",
+    "temperature": "4°C",
+    "last_update": "2026-03-16 17:04",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -20,9 +20,9 @@
         "2026-03-22"
       ],
       "max_temp": [
-        7.6,
-        7.7,
-        10.6,
+        7.1,
+        8.1,
+        10.1,
         8.5,
         11.7,
         10.1,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         1.6,
-        1.0,
-        2.3,
+        1.1,
+        0.9,
         0.5,
         -0.3,
         0.1,
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-16 13:19",
+    "temperature": "3°C",
+    "last_update": "2026-03-16 17:04",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -86,8 +86,8 @@
       ],
       "max_temp": [
         5.0,
-        7.9,
-        8.0,
+        8.1,
+        8.9,
         8.6,
         12.5,
         9.6,
@@ -95,7 +95,7 @@
       ],
       "min_temp": [
         1.3,
-        0.9,
+        1.0,
         2.5,
         1.5,
         0.2,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-16 13:20",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-03-16 17:04",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-16",
@@ -148,17 +148,17 @@
       ],
       "max_temp": [
         5.6,
-        7.7,
-        8.5,
+        7.9,
+        8.9,
         7.4,
         10.5,
         8.4,
         8.0
       ],
       "min_temp": [
-        3.0,
-        1.4,
-        4.4,
+        3.4,
+        2.0,
+        4.6,
         1.5,
         0.2,
         0.8,
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-03-16 13:20",
+    "temperature": "6°C",
+    "last_update": "2026-03-16 17:05",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -201,9 +201,9 @@
         "2026-03-22"
       ],
       "max_temp": [
-        7.5,
-        8.1,
-        10.1,
+        7.6,
+        8.6,
+        10.2,
         10.0,
         10.9,
         10.9,
@@ -212,7 +212,7 @@
       "min_temp": [
         0.0,
         0.8,
-        3.0,
+        2.2,
         2.0,
         -0.9,
         0.9,
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-03-16 13:20",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-03-16 17:05",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-03-16",
@@ -266,9 +266,9 @@
         "2026-03-22"
       ],
       "max_temp": [
-        7.5,
-        8.6,
-        10.3,
+        7.7,
+        9.1,
+        10.6,
         8.6,
         12.1,
         9.9,
@@ -276,8 +276,8 @@
       ],
       "min_temp": [
         2.1,
-        1.8,
-        2.9,
+        1.9,
+        2.3,
         2.0,
         0.2,
         -0.3,
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2026-03-16 13:20",
-    "weather": "☁️ Mulet",
+    "temperature": "4°C",
+    "last_update": "2026-03-16 17:05",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-03-16",
@@ -331,9 +331,9 @@
         "2026-03-22"
       ],
       "max_temp": [
-        6.4,
-        7.5,
-        9.2,
+        6.5,
+        8.0,
+        9.7,
         8.5,
         12.2,
         9.6,
@@ -342,7 +342,7 @@
       "min_temp": [
         1.1,
         0.8,
-        1.7,
+        1.1,
         2.2,
         0.3,
         -0.4,
@@ -379,8 +379,8 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-03-16 13:21",
+    "temperature": "3°C",
+    "last_update": "2026-03-16 17:06",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -394,8 +394,8 @@
       ],
       "max_temp": [
         5.4,
-        7.9,
-        8.7,
+        8.3,
+        9.7,
         8.5,
         12.4,
         9.6,
@@ -403,7 +403,7 @@
       ],
       "min_temp": [
         1.3,
-        0.9,
+        1.0,
         2.2,
         1.4,
         0.1,
