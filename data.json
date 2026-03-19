@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-03-19 13:11",
-    "weather": "⛅ Halvklart",
+    "temperature": "9°C",
+    "last_update": "2026-03-19 17:00",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-03-19",
@@ -20,19 +20,19 @@
         "2026-03-25"
       ],
       "max_temp": [
-        11.1,
-        11.9,
-        8.4,
+        10.9,
+        12.3,
+        8.2,
         7.6,
         10.6,
         8.4,
         7.4
       ],
       "min_temp": [
-        1.4,
-        0.0,
-        0.0,
-        0.1,
+        1.9,
+        0.5,
+        1.1,
+        0.2,
         0.6,
         0.3,
         -0.9
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-03-19 13:11",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "8°C",
+    "last_update": "2026-03-19 17:00",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-03-19",
@@ -85,25 +85,25 @@
         "2026-03-25"
       ],
       "max_temp": [
-        10.8,
-        12.3,
-        5.5,
+        10.5,
+        12.1,
+        6.5,
         5.1,
         10.4,
         7.8,
         8.1
       ],
       "min_temp": [
-        0.3,
-        -0.5,
-        0.6,
-        1.1,
+        0.4,
+        -0.3,
+        1.5,
+        1.4,
         0.9,
         1.0,
         -0.5
       ]
     },
-    "ai_summary": "(idag): Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön\n\n(3 dagar sedan): Pistat skatebädden 1,9km. Vi har skottat av barr och smuts på nya slingans start till botten på cirkusslingan. Inga klassiska spår dragna.",
+    "ai_summary": "(1 dagar sedan): Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön\n\n(3 dagar sedan): Pistat skatebädden 1,9km. Vi har skottat av barr och smuts på nya slingans start till botten på cirkusslingan. Inga klassiska spår dragna.",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -116,7 +116,7 @@
     "ai_comments": [
       {
         "date": "2026-03-18T16:54:09.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön"
       },
       {
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-19 13:12",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-03-19 17:01",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-03-19",
@@ -147,19 +147,19 @@
         "2026-03-25"
       ],
       "max_temp": [
-        10.0,
-        9.7,
-        5.1,
+        9.5,
+        9.6,
+        5.8,
         4.7,
         8.6,
         7.2,
         7.3
       ],
       "min_temp": [
-        3.4,
-        1.8,
-        2.0,
-        1.5,
+        3.6,
+        2.1,
+        2.9,
+        1.7,
         1.1,
         1.4,
         0.9
@@ -187,8 +187,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-03-19 13:12",
+    "temperature": "7°C",
+    "last_update": "2026-03-19 17:01",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -201,19 +201,19 @@
         "2026-03-25"
       ],
       "max_temp": [
-        11.0,
-        11.7,
-        8.7,
+        9.7,
+        12.0,
+        8.8,
         8.9,
         10.6,
         9.1,
         7.8
       ],
       "min_temp": [
-        3.4,
-        1.7,
-        1.5,
-        0.6,
+        3.8,
+        1.9,
+        2.1,
+        0.8,
         1.5,
         1.2,
         -1.0
@@ -253,8 +253,8 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "10°C",
-    "last_update": "2026-03-19 13:12",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-03-19 17:01",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-03-19",
@@ -266,19 +266,19 @@
         "2026-03-25"
       ],
       "max_temp": [
-        11.8,
-        12.8,
-        7.9,
+        11.3,
+        13.1,
+        7.8,
         6.4,
         11.2,
         8.6,
         8.4
       ],
       "min_temp": [
-        3.4,
-        2.0,
+        3.6,
+        2.4,
+        1.9,
         0.9,
-        0.6,
         -0.7,
         -0.8,
         -1.2
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-03-19 13:12",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "8°C",
+    "last_update": "2026-03-19 17:02",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-03-19",
@@ -331,19 +331,19 @@
         "2026-03-25"
       ],
       "max_temp": [
-        11.2,
+        10.4,
         12.2,
-        7.1,
+        6.7,
         5.6,
         10.8,
         8.0,
         8.1
       ],
       "min_temp": [
-        2.5,
-        1.1,
-        0.1,
-        0.2,
+        2.4,
+        1.4,
+        0.9,
+        0.5,
         -0.2,
         -0.1,
         -0.4
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-03-19 13:13",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "8°C",
+    "last_update": "2026-03-19 17:02",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-03-19",
@@ -393,19 +393,19 @@
         "2026-03-25"
       ],
       "max_temp": [
-        11.3,
-        12.8,
-        6.5,
+        10.4,
+        12.6,
+        6.9,
         4.6,
         10.7,
         7.8,
         8.2
       ],
       "min_temp": [
-        1.8,
-        0.1,
-        0.7,
-        0.8,
+        1.9,
+        0.2,
+        1.5,
+        1.2,
         -0.2,
         0.2,
         -0.9
