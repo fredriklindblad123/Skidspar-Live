@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-03-27 13:13",
-    "weather": "☀️ Klart",
+    "temperature": "7°C",
+    "last_update": "2026-03-27 16:58",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -20,9 +20,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        9.3,
+        9.7,
         6.5,
-        5.5,
+        6.5,
         6.4,
         6.8,
         10.9,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         -1.4,
-        1.3,
-        0.7,
+        1.7,
+        1.2,
         -0.1,
         -0.6,
         -1.2,
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-03-27 13:13",
-    "weather": "☀️ Klart",
+    "temperature": "6°C",
+    "last_update": "2026-03-27 16:58",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -85,9 +85,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        8.2,
-        6.6,
-        6.1,
+        8.4,
+        6.7,
+        6.8,
         7.2,
         8.4,
         9.9,
@@ -95,15 +95,15 @@
       ],
       "min_temp": [
         -3.2,
-        1.5,
-        1.6,
+        1.8,
+        1.8,
         1.1,
         1.1,
         -0.1,
         1.6
       ]
     },
-    "ai_summary": "(6 dagar sedan): Vi har jämnat till skatebädden inför helgen. Lördag är troligtvis sista chansen att åka på ett sammanhängande spår på ca 800 m.\n\n(8 dagar sedan): Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön",
+    "ai_summary": "(6 dagar sedan): Vi har jämnat till skatebädden inför helgen. Lördag är troligtvis sista chansen att åka på ett sammanhängande spår på ca 800 m.\n\n(9 dagar sedan): Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön",
     "official_url": "https://oklandehof.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/landvetter",
     "webcam_url": null,
@@ -121,7 +121,7 @@
       },
       {
         "date": "2026-03-18T16:54:09.000Z",
-        "days_ago": 8,
+        "days_ago": 9,
         "text": "Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön"
       }
     ]
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-27 13:13",
-    "weather": "☀️ Klart",
+    "last_update": "2026-03-27 16:58",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -147,9 +147,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        8.7,
-        7.4,
-        7.7,
+        8.8,
+        8.0,
+        8.2,
         7.2,
         8.9,
         8.7,
@@ -157,9 +157,9 @@
       ],
       "min_temp": [
         0.4,
-        4.7,
-        3.6,
-        2.1,
+        4.6,
+        3.7,
+        2.3,
         1.8,
         -0.2,
         1.5
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "11°C",
-    "last_update": "2026-03-27 13:13",
-    "weather": "☀️ Klart",
+    "temperature": "7°C",
+    "last_update": "2026-03-27 16:59",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -201,9 +201,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        10.9,
-        7.7,
-        7.0,
+        11.2,
+        7.9,
+        7.6,
         6.9,
         6.6,
         10.6,
@@ -211,8 +211,8 @@
       ],
       "min_temp": [
         0.8,
-        2.2,
-        1.8,
+        2.3,
+        2.0,
         0.6,
         -0.1,
         -0.7,
@@ -252,9 +252,9 @@
     "lon": 12.9401,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-03-27 13:14",
-    "weather": "☀️ Klart",
+    "temperature": "7°C",
+    "last_update": "2026-03-27 16:59",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -266,9 +266,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        9.1,
-        6.8,
-        5.9,
+        9.2,
+        7.4,
+        7.0,
         6.5,
         7.8,
         10.6,
@@ -276,8 +276,8 @@
       ],
       "min_temp": [
         -1.3,
-        2.1,
-        1.7,
+        2.6,
+        2.0,
         0.6,
         0.3,
         -1.2,
@@ -317,9 +317,9 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-03-27 13:14",
-    "weather": "☀️ Klart",
+    "temperature": "6°C",
+    "last_update": "2026-03-27 16:59",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -331,9 +331,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        8.3,
+        8.5,
+        6.5,
         6.0,
-        4.9,
         6.6,
         7.2,
         10.1,
@@ -341,15 +341,15 @@
       ],
       "min_temp": [
         -1.9,
+        1.5,
         1.1,
-        0.6,
         0.4,
         0.4,
         -1.2,
         2.3
       ]
     },
-    "ai_summary": "(idag): Spåren drogs om kl 8:30 i morse. Fortfarande 3,6 km. Ett mindre genomslag finns i övre Sprintbacken men kommer fyllas upp ikväll. I helgen blir det lite varmare men vi har fortfarande gott om snö. Välkomna till Hestrastugan!\n\n(idag): Vi har under förmiddagen rättat till konstsnöspåret med städning och lagat med mer snö på några ställen som blivit tunt efter regnet, så nu är hela slingan 3,6km åter åkbart, men just nu så är det bara preparerat för skate⛷️❄️ men kommer att kompletteras med klassiska spår till kvällen. Välkomna Spårpatrullen❄️😄",
+    "ai_summary": "(idag): Spåren drogs om kl 8:30 i morse. Fortfarande 3,6 km. Ett mindre genomslag finns i övre Sprintbacken men kommer fyllas upp ikväll. I helgen blir det lite varmare men vi har fortfarande gott om snö. Välkomna till Hestrastugan!\n\n(1 dagar sedan): Vi har under förmiddagen rättat till konstsnöspåret med städning och lagat med mer snö på några ställen som blivit tunt efter regnet, så nu är hela slingan 3,6km åter åkbart, men just nu så är det bara preparerat för skate⛷️❄️ men kommer att kompletteras med klassiska spår till kvällen. Välkomna Spårpatrullen❄️😄",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -367,7 +367,7 @@
       },
       {
         "date": "2026-03-26T15:19:09.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Vi har under förmiddagen rättat till konstsnöspåret med städning och lagat med mer snö på några ställen som blivit tunt efter regnet, så nu är hela slingan 3,6km åter åkbart, men just nu så är det bara preparerat för skate⛷️❄️ men kommer att kompletteras med klassiska spår till kvällen. Välkomna Spårpatrullen❄️😄"
       }
     ]
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-03-27 13:15",
-    "weather": "☀️ Klart",
+    "temperature": "6°C",
+    "last_update": "2026-03-27 17:00",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-27",
@@ -393,9 +393,9 @@
         "2026-04-02"
       ],
       "max_temp": [
-        8.1,
-        6.3,
-        5.9,
+        8.6,
+        6.7,
+        6.8,
         7.2,
         8.2,
         10.9,
@@ -403,8 +403,8 @@
       ],
       "min_temp": [
         -2.3,
-        1.3,
-        1.3,
+        1.6,
+        1.5,
         0.8,
         1.0,
         -0.5,
