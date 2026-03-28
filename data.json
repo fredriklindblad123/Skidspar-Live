@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-27 20:41",
-    "weather": "☁️ Mulet",
+    "temperature": "2°C",
+    "last_update": "2026-03-28 02:29",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        9.7,
-        6.2,
+        4.4,
         6.7,
-        5.1,
-        8.9,
-        10.3,
-        5.3
+        6.3,
+        8.8,
+        11.4,
+        4.6,
+        6.5
       ],
       "min_temp": [
-        -1.4,
-        1.4,
-        0.9,
+        1.2,
+        0.7,
+        0.2,
+        -0.1,
         -0.3,
-        -0.4,
-        -0.2,
-        -1.1
+        -1.1,
+        -1.9
       ]
     },
     "ai_summary": "(1 dagar sedan): Delar av konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon\n\n(7 dagar sedan): Ändring beträffande nästa preparering. Spåret ej inpiskat till idag fredag. Nästa preparering kommer ske sent ikväll fredag",
@@ -72,35 +72,35 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "3°C",
-    "last_update": "2026-03-27 20:41",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-03-28 02:29",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        8.4,
         7.1,
-        6.7,
-        7.2,
-        10.6,
-        9.8,
-        8.9
+        6.9,
+        6.8,
+        10.8,
+        10.8,
+        5.8,
+        7.8
       ],
       "min_temp": [
-        -3.2,
-        0.7,
         0.9,
-        1.6,
-        0.6,
-        -0.2,
-        0.4
+        0.5,
+        1.8,
+        1.5,
+        0.8,
+        0.4,
+        -0.2
       ]
     },
     "ai_summary": "(7 dagar sedan): Vi har jämnat till skatebädden inför helgen. Lördag är troligtvis sista chansen att åka på ett sammanhängande spår på ca 800 m.\n\n(9 dagar sedan): Pistat skatebädd 1,8 km, inga klassiska spår, mycket barr mm i snön",
@@ -134,35 +134,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-27 20:42",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-03-28 02:30",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        8.8,
-        8.0,
-        7.9,
-        7.0,
-        9.3,
-        8.3,
-        9.1
+        7.7,
+        7.8,
+        6.8,
+        9.0,
+        9.1,
+        6.1,
+        7.0
       ],
       "min_temp": [
-        0.4,
-        4.3,
         3.5,
-        3.0,
-        1.4,
+        3.4,
+        3.3,
+        1.2,
         0.4,
-        1.1
+        1.1,
+        -0.1
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -187,36 +187,36 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-27 20:42",
-    "weather": "☁️ Mulet",
+    "temperature": "2°C",
+    "last_update": "2026-03-28 02:30",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        11.2,
-        7.9,
-        7.6,
-        6.8,
-        7.6,
-        11.7,
-        6.0
+        6.9,
+        7.1,
+        7.8,
+        8.1,
+        11.9,
+        6.5,
+        7.5
       ],
       "min_temp": [
-        0.8,
-        1.9,
-        1.4,
+        1.5,
+        0.4,
+        0.6,
+        -0.1,
+        -1.6,
         0.3,
-        -0.6,
-        -0.3,
-        0.3
+        -1.2
       ]
     },
     "ai_summary": "(idag): Nyspårat, mycket fina spår med några tydliga genomslag, hoppas att spåret klarar sig över påsk.\n\n(3 dagar sedan): Plus, och barr, löv osv - entusiast spår mao. Ett genomslag på toppslingan - men annars bra",
@@ -253,35 +253,35 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "3°C",
-    "last_update": "2026-03-27 20:42",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-03-28 02:30",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        9.2,
-        7.1,
-        6.9,
-        5.9,
-        10.0,
-        10.1,
-        5.9
+        6.4,
+        7.0,
+        6.8,
+        9.6,
+        11.4,
+        4.8,
+        7.1
       ],
       "min_temp": [
-        -1.3,
         2.0,
-        1.6,
-        0.1,
-        -0.7,
+        1.1,
+        1.0,
+        -0.3,
         -1.2,
-        -0.9
+        -0.9,
+        -1.6
       ]
     },
     "ai_summary": "(idag): Fin morgon i hårda spår och fin skatebädd. Några genomslag men inget som påverkade nämnvärt.\n\n(1 dagar sedan): Vi hat gjort en sista insats med snön, spåren. Hela banan förutom skidskyttet går att åka. Det är inte rekommenderat att åka med finskidorna. Vi tackar för sesången och ser fram emot nästa sesång och även sommarens projekt med ny rullskidbana och även utökat rör, elsystem för konstsnöanläggningen. /spårteamet BSK",
@@ -318,38 +318,38 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "2°C",
-    "last_update": "2026-03-27 20:42",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-03-28 02:30",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        8.5,
-        6.2,
-        6.0,
+        5.5,
+        6.1,
         6.2,
         9.4,
-        9.9,
-        6.2
+        11.1,
+        4.8,
+        6.9
       ],
       "min_temp": [
-        -1.9,
-        1.2,
-        0.6,
+        0.9,
+        0.2,
+        0.9,
         0.1,
         -0.4,
-        -0.7,
-        -0.2
+        -0.2,
+        -0.4
       ]
     },
-    "ai_summary": "(idag): Spåren drogs om kl 8:30 i morse. Fortfarande 3,6 km. Ett mindre genomslag finns i övre Sprintbacken men kommer fyllas upp ikväll. I helgen blir det lite varmare men vi har fortfarande gott om snö. Välkomna till Hestrastugan!\n\n(1 dagar sedan): Vi har under förmiddagen rättat till konstsnöspåret med städning och lagat med mer snö på några ställen som blivit tunt efter regnet, så nu är hela slingan 3,6km åter åkbart, men just nu så är det bara preparerat för skate⛷️❄️ men kommer att kompletteras med klassiska spår till kvällen. Välkomna Spårpatrullen❄️😄",
+    "ai_summary": "(idag): Konstsnöspåret nypistad har också fyllt på snö där det varit lite tunt på bädden, så nu finns det skidåkning för klassiskt eller skate❄️⛷️ fortfarande 3,6 km långt spår. Så varmt välkomna till Hestrastugan. Spårpatrullen😄\n\n(idag): Spåren drogs om kl 8:30 i morse. Fortfarande 3,6 km. Ett mindre genomslag finns i övre Sprintbacken men kommer fyllas upp ikväll. I helgen blir det lite varmare men vi har fortfarande gott om snö. Välkomna till Hestrastugan!",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -361,14 +361,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
+        "date": "2026-03-27T22:13:18.000Z",
+        "days_ago": 0,
+        "text": "Konstsnöspåret nypistad har också fyllt på snö där det varit lite tunt på bädden, så nu finns det skidåkning för klassiskt eller skate❄️⛷️ fortfarande 3,6 km långt spår. Så varmt välkomna till Hestrastugan. Spårpatrullen😄"
+      },
+      {
         "date": "2026-03-27T08:56:44.000Z",
         "days_ago": 0,
         "text": "Spåren drogs om kl 8:30 i morse. Fortfarande 3,6 km. Ett mindre genomslag finns i övre Sprintbacken men kommer fyllas upp ikväll. I helgen blir det lite varmare men vi har fortfarande gott om snö. Välkomna till Hestrastugan!"
-      },
-      {
-        "date": "2026-03-26T15:19:09.000Z",
-        "days_ago": 1,
-        "text": "Vi har under förmiddagen rättat till konstsnöspåret med städning och lagat med mer snö på några ställen som blivit tunt efter regnet, så nu är hela slingan 3,6km åter åkbart, men just nu så är det bara preparerat för skate⛷️❄️ men kommer att kompletteras med klassiska spår till kvällen. Välkomna Spårpatrullen❄️😄"
       }
     ]
   },
@@ -380,35 +380,35 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "2°C",
-    "last_update": "2026-03-27 20:43",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-03-28 02:31",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
-        "2026-03-27",
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ],
       "max_temp": [
-        8.6,
-        7.0,
-        6.6,
+        7.1,
+        6.7,
         6.3,
-        10.8,
-        9.8,
-        7.9
+        10.6,
+        11.0,
+        5.4,
+        7.5
       ],
       "min_temp": [
-        -2.3,
-        1.1,
         1.0,
-        1.2,
-        1.1,
-        -0.1,
-        0.5
+        0.2,
+        1.6,
+        0.7,
+        0.6,
+        0.5,
+        -0.3
       ]
     },
     "ai_summary": "(3 dagar sedan): Det har varit en fantastisk säsong med möjlighet att göra fina spår! Vi vill tacka alla skidåkare, gammal som ung som varit här och åkt skidor, pulka, grillat och kanske ätit en våffla i caféet! Vi ser redan framåt mot nästa säsong! Välkomna tillbaka då! Vi kommer att använda snöbädden som är kvar till att köra en utbildning, övning med pistmaskinen. Man får även åka skidor om det är möjligt\n\n(6 dagar sedan): Fina klassiska spår idag. Tack för att ni gör det möjligt att fortfarande åka!",
