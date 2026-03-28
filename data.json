@@ -7,7 +7,7 @@
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "2°C",
-    "last_update": "2026-03-28 02:29",
+    "last_update": "2026-03-28 05:21",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -20,7 +20,7 @@
         "2026-04-03"
       ],
       "max_temp": [
-        4.4,
+        5.2,
         6.7,
         6.3,
         8.8,
@@ -29,8 +29,8 @@
         6.5
       ],
       "min_temp": [
-        1.2,
-        0.7,
+        1.4,
+        1.1,
         0.2,
         -0.1,
         -0.3,
@@ -38,7 +38,7 @@
         -1.9
       ]
     },
-    "ai_summary": "(1 dagar sedan): Delar av konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon\n\n(7 dagar sedan): Ändring beträffande nästa preparering. Spåret ej inpiskat till idag fredag. Nästa preparering kommer ske sent ikväll fredag",
+    "ai_summary": "(2 dagar sedan): Delar av konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon\n\n(7 dagar sedan): Ändring beträffande nästa preparering. Spåret ej inpiskat till idag fredag. Nästa preparering kommer ske sent ikväll fredag",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -54,7 +54,7 @@
     "ai_comments": [
       {
         "date": "2026-03-26T04:57:28.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Delar av konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon"
       },
       {
@@ -71,9 +71,9 @@
     "lon": 12.307,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-28 02:29",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "4°C",
+    "last_update": "2026-03-28 05:21",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2026-03-28",
@@ -85,18 +85,18 @@
         "2026-04-03"
       ],
       "max_temp": [
-        7.1,
-        6.9,
-        6.8,
+        7.5,
+        6.7,
+        6.7,
         10.8,
         10.8,
         5.8,
         7.8
       ],
       "min_temp": [
-        0.9,
-        0.5,
-        1.8,
+        0.8,
+        0.7,
+        2.2,
         1.5,
         0.8,
         0.4,
@@ -134,8 +134,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-03-28 02:30",
-    "weather": "🌧️ Lätt regn",
+    "last_update": "2026-03-28 05:22",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-03-28",
@@ -147,17 +147,17 @@
         "2026-04-03"
       ],
       "max_temp": [
-        7.7,
-        7.8,
-        6.8,
+        8.3,
+        7.5,
+        7.0,
         9.0,
         9.1,
         6.1,
         7.0
       ],
       "min_temp": [
-        3.5,
-        3.4,
+        3.6,
+        3.3,
         3.3,
         1.2,
         0.4,
@@ -187,9 +187,9 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-03-28 02:30",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "3°C",
+    "last_update": "2026-03-28 05:22",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-03-28",
@@ -201,8 +201,8 @@
         "2026-04-03"
       ],
       "max_temp": [
-        6.9,
         7.1,
+        7.6,
         7.8,
         8.1,
         11.9,
@@ -211,7 +211,7 @@
       ],
       "min_temp": [
         1.5,
-        0.4,
+        1.0,
         0.6,
         -0.1,
         -1.6,
@@ -251,10 +251,10 @@
     "lat": 57.721,
     "lon": 12.9401,
     "status": "Troligen öppet",
-    "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-03-28 02:30",
-    "weather": "🌧️ Duggregn",
+    "snow_depth": "1 cm",
+    "temperature": "2°C",
+    "last_update": "2026-03-28 05:22",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-03-28",
@@ -266,17 +266,17 @@
         "2026-04-03"
       ],
       "max_temp": [
-        6.4,
+        7.1,
         7.0,
-        6.8,
+        6.7,
         9.6,
         11.4,
         4.8,
         7.1
       ],
       "min_temp": [
-        2.0,
-        1.1,
+        2.3,
+        1.8,
         1.0,
         -0.3,
         -1.2,
@@ -316,10 +316,10 @@
     "lat": 57.737,
     "lon": 12.915,
     "status": "Troligen öppet",
-    "snow_depth": "Ingen snö",
+    "snow_depth": "1 cm",
     "temperature": "2°C",
-    "last_update": "2026-03-28 02:30",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-03-28 05:23",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-03-28",
@@ -331,17 +331,17 @@
         "2026-04-03"
       ],
       "max_temp": [
-        5.5,
-        6.1,
         6.2,
+        6.1,
+        6.0,
         9.4,
         11.1,
         4.8,
         6.9
       ],
       "min_temp": [
+        1.1,
         0.9,
-        0.2,
         0.9,
         0.1,
         -0.4,
@@ -379,9 +379,9 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-03-28 02:31",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "3°C",
+    "last_update": "2026-03-28 05:23",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2026-03-28",
@@ -393,8 +393,8 @@
         "2026-04-03"
       ],
       "max_temp": [
-        7.1,
-        6.7,
+        7.4,
+        6.5,
         6.3,
         10.6,
         11.0,
@@ -402,9 +402,9 @@
         7.5
       ],
       "min_temp": [
-        1.0,
-        0.2,
-        1.6,
+        0.9,
+        0.8,
+        1.9,
         0.7,
         0.6,
         0.5,
