@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-08 05:48",
+    "temperature": "7°C",
+    "last_update": "2026-04-08 09:05",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -20,22 +20,22 @@
         "2026-04-14"
       ],
       "max_temp": [
-        11.5,
+        11.3,
+        11.0,
+        9.1,
+        10.8,
+        12.6,
         10.9,
-        8.5,
-        9.2,
-        11.2,
-        10.6,
-        12.6
+        9.1
       ],
       "min_temp": [
-        -1.7,
+        -1.8,
         -0.2,
-        -1.3,
-        -1.7,
-        -0.6,
-        2.5,
-        3.8
+        -1.2,
+        -2.4,
+        -0.8,
+        2.0,
+        4.4
       ]
     },
     "ai_summary": "(10 dagar sedan): Vi tackar alla besökare för denna säsong. Välkomna åter nästa säsong. Det tar uppskattningsvis en månad till innan det är möjligt att plocka fram rullskidorna för åkning på multibanan.\n\n(13 dagar sedan): Delar av konstsnöspåret nypistat för klassiskt och fristil idag tidig morgon",
@@ -71,8 +71,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2026-04-08 05:48",
+    "temperature": "7°C",
+    "last_update": "2026-04-08 09:05",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -85,22 +85,22 @@
         "2026-04-14"
       ],
       "max_temp": [
+        13.1,
+        12.1,
+        9.7,
+        10.8,
         13.0,
-        11.9,
-        9.8,
-        11.5,
-        12.3,
-        10.3,
-        12.4
+        11.8,
+        10.1
       ],
       "min_temp": [
-        -2.7,
-        0.3,
-        -1.5,
+        -2.8,
+        -0.0,
+        -0.9,
         -0.4,
-        0.9,
-        4.2,
-        5.4
+        0.8,
+        4.3,
+        6.0
       ]
     },
     "ai_summary": "(10 dagar sedan): Landehof tackar alla för en fantastisk vinter med rekordmånga skidåkare i skidspåren och Vinterstugan! Vi ser fram emot att ses igen nästa vinter!",
@@ -129,7 +129,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-08 05:48",
+    "last_update": "2026-04-08 09:05",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -142,22 +142,22 @@
         "2026-04-14"
       ],
       "max_temp": [
-        14.0,
-        11.2,
-        10.2,
+        13.7,
+        10.9,
+        10.8,
+        10.9,
+        12.2,
         11.6,
-        11.9,
-        10.2,
-        12.2
+        10.1
       ],
       "min_temp": [
         0.6,
-        3.4,
-        0.6,
-        -0.4,
-        1.5,
+        2.7,
+        1.1,
+        -0.6,
+        1.1,
         4.5,
-        5.7
+        6.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -182,8 +182,8 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-04-08 05:48",
+    "temperature": "6°C",
+    "last_update": "2026-04-08 09:06",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -196,25 +196,25 @@
         "2026-04-14"
       ],
       "max_temp": [
-        10.8,
+        10.6,
         9.2,
-        9.6,
         8.9,
-        10.3,
-        10.3,
-        13.6
+        9.0,
+        12.1,
+        11.2,
+        10.8
       ],
       "min_temp": [
         0.3,
-        -0.1,
-        -2.1,
-        -2.9,
-        -1.2,
-        2.0,
-        3.2
+        -0.2,
+        -2.2,
+        -2.2,
+        -1.1,
+        1.4,
+        4.1
       ]
     },
-    "ai_summary": "(3 dagar sedan): Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen.\n\n(4 dagar sedan): Nyspårat idag på morgonen efter nattens regnskur. Välkomna!",
+    "ai_summary": "(4 dagar sedan): Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen.\n\n(4 dagar sedan): Nyspårat idag på morgonen efter nattens regnskur. Välkomna!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -230,7 +230,7 @@
     "ai_comments": [
       {
         "date": "2026-04-04T09:02:34.000Z",
-        "days_ago": 3,
+        "days_ago": 4,
         "text": "Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen."
       },
       {
@@ -247,8 +247,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-08 05:49",
+    "temperature": "8°C",
+    "last_update": "2026-04-08 09:06",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -261,25 +261,25 @@
         "2026-04-14"
       ],
       "max_temp": [
-        13.0,
+        13.1,
+        12.1,
+        9.8,
+        11.1,
+        12.6,
         11.7,
-        9.2,
-        10.0,
-        11.8,
-        10.2,
-        12.2
+        9.6
       ],
       "min_temp": [
-        -1.2,
+        -1.3,
         0.9,
-        -0.9,
-        -1.4,
-        -0.5,
+        -0.3,
+        -1.9,
+        -0.4,
         2.8,
-        4.0
+        5.0
       ]
     },
-    "ai_summary": "(11 dagar sedan): Fin morgon i hårda spår och fin skatebädd. Några genomslag men inget som påverkade nämnvärt.\n\n(12 dagar sedan): Vi hat gjort en sista insats med snön, spåren. Hela banan förutom skidskyttet går att åka. Det är inte rekommenderat att åka med finskidorna. Vi tackar för sesången och ser fram emot nästa sesång och även sommarens projekt med ny rullskidbana och även utökat rör, elsystem för konstsnöanläggningen. /spårteamet BSK",
+    "ai_summary": "(12 dagar sedan): Fin morgon i hårda spår och fin skatebädd. Några genomslag men inget som påverkade nämnvärt.\n\n(12 dagar sedan): Vi hat gjort en sista insats med snön, spåren. Hela banan förutom skidskyttet går att åka. Det är inte rekommenderat att åka med finskidorna. Vi tackar för sesången och ser fram emot nästa sesång och även sommarens projekt med ny rullskidbana och även utökat rör, elsystem för konstsnöanläggningen. /spårteamet BSK",
     "official_url": "https://www.boras.se/upplevaochgora/friluftslivochnatur/skidspar.4.3aeb29ca158525e982c82ed8.html",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/boras-skidstadion",
     "webcam_url": null,
@@ -295,7 +295,7 @@
     "ai_comments": [
       {
         "date": "2026-03-27T08:08:53.000Z",
-        "days_ago": 11,
+        "days_ago": 12,
         "text": "Fin morgon i hårda spår och fin skatebädd. Några genomslag men inget som påverkade nämnvärt."
       },
       {
@@ -312,8 +312,8 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-08 05:49",
+    "temperature": "7°C",
+    "last_update": "2026-04-08 09:06",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -327,24 +327,24 @@
       ],
       "max_temp": [
         11.9,
-        10.7,
-        8.9,
-        10.0,
-        11.6,
-        9.8,
-        11.8
+        11.0,
+        9.0,
+        10.5,
+        12.2,
+        11.3,
+        9.4
       ],
       "min_temp": [
-        -1.3,
+        -1.4,
         -0.2,
-        -1.7,
-        -0.9,
+        -1.4,
+        -1.0,
         -0.3,
-        2.8,
-        4.1
+        3.0,
+        4.9
       ]
     },
-    "ai_summary": "(idag): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️\n\n(4 dagar sedan): Nu på våren drar vi spår när förhållanden ser ut att vara bra. Efter nattens regn så planerar vi att dra nya spår om behov finns under påskafton förmiddag. Solen ska titta fram vid lunch och kan ge fin vårskidåkning. Välkomna! Spårpatrullen.",
+    "ai_summary": "(1 dagar sedan): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️\n\n(4 dagar sedan): Nu på våren drar vi spår när förhållanden ser ut att vara bra. Efter nattens regn så planerar vi att dra nya spår om behov finns under påskafton förmiddag. Solen ska titta fram vid lunch och kan ge fin vårskidåkning. Välkomna! Spårpatrullen.",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -357,7 +357,7 @@
     "ai_comments": [
       {
         "date": "2026-04-07T07:57:28.000Z",
-        "days_ago": 0,
+        "days_ago": 1,
         "text": "Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️"
       },
       {
@@ -374,8 +374,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-08 05:49",
+    "temperature": "8°C",
+    "last_update": "2026-04-08 09:07",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -389,24 +389,24 @@
       ],
       "max_temp": [
         12.9,
-        11.7,
-        9.3,
-        11.0,
-        12.1,
-        10.0,
-        12.2
+        12.0,
+        9.5,
+        10.3,
+        12.8,
+        11.6,
+        9.9
       ],
       "min_temp": [
         -2.2,
-        0.0,
-        -1.5,
-        -0.9,
+        -0.3,
+        -1.0,
+        -1.1,
         0.3,
-        3.7,
-        4.9
+        4.0,
+        5.8
       ]
     },
-    "ai_summary": "(14 dagar sedan): Det har varit en fantastisk säsong med möjlighet att göra fina spår! Vi vill tacka alla skidåkare, gammal som ung som varit här och åkt skidor, pulka, grillat och kanske ätit en våffla i caféet! Vi ser redan framåt mot nästa säsong! Välkomna tillbaka då! Vi kommer att använda snöbädden som är kvar till att köra en utbildning, övning med pistmaskinen. Man får även åka skidor om det är möjligt",
+    "ai_summary": "Inga detaljerade rapporter hittades.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -416,12 +416,6 @@
     ],
     "phone": "-",
     "total_track_length_km": 0,
-    "ai_comments": [
-      {
-        "date": "2026-03-24T08:03:13.000Z",
-        "days_ago": 14,
-        "text": "Det har varit en fantastisk säsong med möjlighet att göra fina spår! Vi vill tacka alla skidåkare, gammal som ung som varit här och åkt skidor, pulka, grillat och kanske ätit en våffla i caféet! Vi ser redan framåt mot nästa säsong! Välkomna tillbaka då! Vi kommer att använda snöbädden som är kvar till att köra en utbildning, övning med pistmaskinen. Man får även åka skidor om det är möjligt"
-      }
-    ]
+    "ai_comments": []
   }
 ]
