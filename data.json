@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2026-04-14 20:57",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "5°C",
+    "last_update": "2026-04-15 02:46",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
-        12.1,
-        8.1,
-        12.6,
-        16.1,
-        15.1,
-        14.3,
+        7.0,
+        12.7,
+        15.9,
+        14.6,
+        9.7,
+        9.8,
         11.9
       ],
       "min_temp": [
-        4.4,
         4.2,
-        3.7,
-        2.8,
-        3.4,
-        6.1,
-        1.8
+        3.0,
+        2.9,
+        3.3,
+        3.9,
+        -0.5,
+        1.1
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -61,35 +61,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2026-04-14 20:57",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2026-04-15 02:46",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
-        11.1,
-        8.8,
-        13.1,
-        16.3,
-        13.0,
         8.6,
-        14.6
+        13.3,
+        16.3,
+        15.3,
+        8.8,
+        12.1,
+        13.6
       ],
       "min_temp": [
-        5.4,
-        4.5,
-        1.6,
-        4.1,
-        4.3,
-        6.1,
-        5.1
+        4.9,
+        3.0,
+        1.7,
+        4.7,
+        5.9,
+        2.1,
+        3.8
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -112,35 +112,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-14 20:58",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2026-04-15 02:47",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
-        11.5,
-        9.5,
-        12.7,
+        9.8,
+        13.0,
+        14.2,
         13.9,
-        11.8,
-        8.4,
-        14.7
+        8.3,
+        12.4,
+        13.6
       ],
       "min_temp": [
         6.4,
-        6.0,
-        3.7,
-        4.9,
-        4.5,
-        6.7,
-        5.4
+        4.8,
+        5.3,
+        4.8,
+        6.2,
+        2.8,
+        3.8
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,36 +165,36 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-04-14 20:58",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-04-15 02:47",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
-        12.2,
-        7.2,
-        12.9,
-        15.3,
-        15.0,
-        13.8,
-        10.9
+        7.0,
+        12.7,
+        15.4,
+        15.4,
+        11.8,
+        10.5,
+        12.8
       ],
       "min_temp": [
-        3.6,
         4.8,
         4.1,
-        1.6,
-        2.9,
-        6.0,
-        1.5
+        3.3,
+        2.2,
+        3.9,
+        0.0,
+        0.2
       ]
     },
     "ai_summary": "(10 dagar sedan): Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen.\n\n(11 dagar sedan): Nyspårat idag på morgonen efter nattens regnskur. Välkomna!",
@@ -231,35 +231,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2026-04-14 20:58",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-04-15 02:47",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
-        12.6,
-        8.8,
-        13.6,
-        16.5,
-        15.4,
-        12.1,
-        13.2
+        8.4,
+        13.9,
+        16.3,
+        15.0,
+        7.2,
+        10.6,
+        12.9
       ],
       "min_temp": [
-        6.1,
-        5.3,
-        4.1,
-        2.2,
-        2.0,
-        6.6,
-        3.0
+        5.4,
+        3.7,
+        4.4,
+        3.1,
+        4.8,
+        0.3,
+        2.4
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -285,38 +285,38 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "5°C",
-    "last_update": "2026-04-14 20:58",
-    "weather": "🌧️ Kraftigt duggregn",
+    "last_update": "2026-04-15 02:47",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
-        11.6,
-        7.9,
-        12.8,
+        7.5,
+        13.0,
         16.0,
-        14.7,
-        11.1,
-        13.1
+        14.5,
+        7.9,
+        10.6,
+        12.6
       ],
       "min_temp": [
+        4.5,
+        2.7,
+        3.2,
+        3.7,
         5.0,
-        4.3,
-        3.3,
-        2.9,
-        3.0,
-        6.2,
-        3.3
+        0.2,
+        2.4
       ]
     },
-    "ai_summary": "(7 dagar sedan): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️\n\n(10 dagar sedan): Nu på våren drar vi spår när förhållanden ser ut att vara bra. Efter nattens regn så planerar vi att dra nya spår om behov finns under påskafton förmiddag. Solen ska titta fram vid lunch och kan ge fin vårskidåkning. Välkomna! Spårpatrullen.",
+    "ai_summary": "(7 dagar sedan): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️\n\n(11 dagar sedan): Nu på våren drar vi spår när förhållanden ser ut att vara bra. Efter nattens regn så planerar vi att dra nya spår om behov finns under påskafton förmiddag. Solen ska titta fram vid lunch och kan ge fin vårskidåkning. Välkomna! Spårpatrullen.",
     "official_url": "https://hestraif.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/boras/hestrastugan",
     "webcam_url": null,
@@ -334,7 +334,7 @@
       },
       {
         "date": "2026-04-03T22:26:13.000Z",
-        "days_ago": 10,
+        "days_ago": 11,
         "text": "Nu på våren drar vi spår när förhållanden ser ut att vara bra. Efter nattens regn så planerar vi att dra nya spår om behov finns under påskafton förmiddag. Solen ska titta fram vid lunch och kan ge fin vårskidåkning. Välkomna! Spårpatrullen."
       }
     ]
@@ -346,36 +346,36 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2026-04-14 20:59",
-    "weather": "🌧️ Duggregn",
+    "temperature": "5°C",
+    "last_update": "2026-04-15 02:48",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
-        "2026-04-14",
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-21"
       ],
       "max_temp": [
+        8.4,
+        13.5,
+        16.4,
+        15.1,
+        8.6,
         11.9,
-        8.7,
-        13.2,
-        16.5,
-        13.4,
-        8.8,
-        14.2
+        13.6
       ],
       "min_temp": [
-        5.4,
-        4.5,
-        2.5,
-        3.7,
-        3.7,
-        5.6,
-        4.6
+        5.0,
+        3.0,
+        2.3,
+        4.4,
+        5.7,
+        1.7,
+        3.3
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
