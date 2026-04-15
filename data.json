@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-04-15 17:07",
-    "weather": "⛅ Halvklart",
+    "temperature": "5°C",
+    "last_update": "2026-04-15 20:53",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         7.7,
-        12.3,
+        13.1,
+        14.7,
         14.6,
-        13.9,
-        9.8,
-        10.9,
-        11.6
+        8.1,
+        10.4,
+        12.1
       ],
       "min_temp": [
-        2.9,
-        3.2,
-        2.0,
-        4.6,
-        5.2,
-        1.0,
-        -0.9
+        4.5,
+        3.5,
+        2.2,
+        3.8,
+        4.3,
+        0.8,
+        -1.4
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-04-15 17:07",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-04-15 20:54",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -75,21 +75,21 @@
       ],
       "max_temp": [
         9.8,
-        12.8,
-        15.0,
-        14.4,
-        9.8,
-        12.9,
-        13.1
+        13.4,
+        15.3,
+        14.6,
+        11.1,
+        12.6,
+        13.8
       ],
       "min_temp": [
-        4.0,
-        1.2,
-        2.4,
-        5.6,
-        6.2,
-        3.8,
-        1.5
+        4.7,
+        2.5,
+        2.5,
+        5.3,
+        6.1,
+        3.6,
+        0.5
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-15 17:08",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-04-15 20:54",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -126,21 +126,21 @@
       ],
       "max_temp": [
         10.4,
-        12.8,
+        13.5,
         14.7,
-        13.3,
-        8.6,
-        13.2,
-        13.2
+        13.4,
+        10.1,
+        12.7,
+        12.9
       ],
       "min_temp": [
         6.2,
-        3.7,
-        5.6,
-        5.7,
-        6.3,
-        4.4,
-        2.5
+        4.0,
+        6.0,
+        6.6,
+        6.1,
+        4.3,
+        1.6
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-04-15 17:08",
-    "weather": "☁️ Mulet",
+    "temperature": "3°C",
+    "last_update": "2026-04-15 20:54",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -180,21 +180,21 @@
       ],
       "max_temp": [
         7.0,
-        12.4,
-        14.7,
+        13.1,
         14.6,
-        8.1,
-        10.6,
-        12.2
+        14.7,
+        8.6,
+        9.9,
+        12.6
       ],
       "min_temp": [
-        4.5,
-        3.0,
-        2.8,
-        2.4,
-        4.8,
-        0.1,
-        0.6
+        3.2,
+        1.5,
+        2.7,
+        2.6,
+        4.0,
+        -0.3,
+        -0.8
       ]
     },
     "ai_summary": "(11 dagar sedan): Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen.\n\n(12 dagar sedan): Nyspårat idag på morgonen efter nattens regnskur. Välkomna!",
@@ -230,9 +230,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-04-15 17:08",
-    "weather": "☁️ Mulet",
+    "temperature": "6°C",
+    "last_update": "2026-04-15 20:54",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -245,21 +245,21 @@
       ],
       "max_temp": [
         9.6,
-        13.5,
-        15.8,
-        14.4,
-        9.6,
-        11.9,
-        12.3
+        14.3,
+        15.9,
+        15.5,
+        9.9,
+        11.7,
+        13.1
       ],
       "min_temp": [
-        4.8,
-        3.8,
+        5.7,
         4.5,
-        3.8,
-        5.9,
-        2.0,
-        0.7
+        3.6,
+        3.4,
+        5.3,
+        3.0,
+        -1.1
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -284,9 +284,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-04-15 17:09",
-    "weather": "☁️ Mulet",
+    "temperature": "6°C",
+    "last_update": "2026-04-15 20:55",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -299,21 +299,21 @@
       ],
       "max_temp": [
         8.5,
-        12.5,
-        14.8,
-        14.1,
-        9.4,
-        11.9,
-        12.2
+        13.4,
+        15.0,
+        15.2,
+        9.9,
+        11.4,
+        13.1
       ],
       "min_temp": [
-        3.4,
-        2.8,
-        3.2,
-        5.0,
-        6.0,
-        1.9,
-        0.9
+        4.8,
+        3.7,
+        2.7,
+        4.5,
+        5.2,
+        2.6,
+        -1.0
       ]
     },
     "ai_summary": "(8 dagar sedan): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️\n\n(11 dagar sedan): Nu på våren drar vi spår när förhållanden ser ut att vara bra. Efter nattens regn så planerar vi att dra nya spår om behov finns under påskafton förmiddag. Solen ska titta fram vid lunch och kan ge fin vårskidåkning. Välkomna! Spårpatrullen.",
@@ -346,9 +346,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-04-15 17:09",
-    "weather": "☁️ Mulet",
+    "temperature": "6°C",
+    "last_update": "2026-04-15 20:55",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-15",
@@ -361,21 +361,21 @@
       ],
       "max_temp": [
         9.9,
-        13.1,
-        15.2,
-        13.9,
-        9.3,
-        12.9,
-        13.1
+        13.6,
+        15.3,
+        14.3,
+        10.8,
+        12.4,
+        13.6
       ],
       "min_temp": [
-        4.5,
-        2.0,
+        5.2,
         3.2,
-        5.3,
-        6.0,
+        2.9,
+        4.9,
+        5.9,
         3.3,
-        1.6
+        -0.3
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
