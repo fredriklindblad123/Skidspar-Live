@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-04-17 02:49",
-    "weather": "⛅ Halvklart",
+    "temperature": "4°C",
+    "last_update": "2026-04-17 06:04",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-17",
@@ -20,8 +20,8 @@
         "2026-04-23"
       ],
       "max_temp": [
-        16.1,
-        12.3,
+        15.7,
+        13.4,
         9.9,
         10.1,
         13.7,
@@ -29,7 +29,7 @@
         11.6
       ],
       "min_temp": [
-        1.3,
+        1.2,
         3.8,
         2.0,
         -0.9,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-17 02:49",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "1°C",
+    "last_update": "2026-04-17 06:05",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-17",
@@ -74,17 +74,17 @@
         "2026-04-23"
       ],
       "max_temp": [
-        16.2,
-        11.0,
-        8.4,
+        15.9,
+        12.0,
+        7.9,
         11.9,
         15.0,
         14.1,
         13.4
       ],
       "min_temp": [
-        -0.9,
-        4.4,
+        -1.1,
+        3.9,
         4.9,
         0.3,
         1.2,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-17 02:49",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-04-17 06:05",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-17",
@@ -125,9 +125,9 @@
         "2026-04-23"
       ],
       "max_temp": [
-        16.1,
-        12.1,
-        9.1,
+        16.0,
+        13.4,
+        9.6,
         12.3,
         15.4,
         14.9,
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-04-17 02:50",
+    "temperature": "6°C",
+    "last_update": "2026-04-17 06:05",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -180,7 +180,7 @@
       ],
       "max_temp": [
         14.9,
-        12.8,
+        13.4,
         9.8,
         11.1,
         13.9,
@@ -188,8 +188,8 @@
         11.0
       ],
       "min_temp": [
-        2.7,
-        4.7,
+        2.6,
+        5.0,
         1.5,
         -0.9,
         1.1,
@@ -230,9 +230,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-04-17 02:50",
-    "weather": "⛅ Halvklart",
+    "temperature": "3°C",
+    "last_update": "2026-04-17 06:06",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-17",
@@ -244,17 +244,17 @@
         "2026-04-23"
       ],
       "max_temp": [
-        16.6,
-        12.6,
-        8.9,
+        16.5,
+        14.0,
+        9.4,
         11.0,
         14.4,
         13.6,
         12.8
       ],
       "min_temp": [
-        1.0,
-        5.6,
+        0.4,
+        5.0,
         3.8,
         -0.3,
         1.7,
@@ -284,9 +284,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "2°C",
-    "last_update": "2026-04-17 02:50",
-    "weather": "⛅ Halvklart",
+    "temperature": "3°C",
+    "last_update": "2026-04-17 06:06",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-17",
@@ -298,17 +298,17 @@
         "2026-04-23"
       ],
       "max_temp": [
-        15.6,
-        11.4,
-        7.7,
+        15.5,
+        12.8,
+        8.1,
         10.9,
         14.1,
         13.1,
         12.6
       ],
       "min_temp": [
-        1.1,
-        4.6,
+        0.3,
+        4.0,
         3.8,
         -0.6,
         0.8,
@@ -346,8 +346,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-17 02:51",
+    "temperature": "2°C",
+    "last_update": "2026-04-17 06:06",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -360,17 +360,17 @@
         "2026-04-23"
       ],
       "max_temp": [
-        16.1,
-        11.0,
-        8.4,
+        15.9,
+        12.1,
+        7.8,
         11.9,
         14.8,
         14.1,
         13.0
       ],
       "min_temp": [
-        0.1,
-        3.8,
+        -0.2,
+        3.3,
         4.6,
         0.2,
         2.6,
