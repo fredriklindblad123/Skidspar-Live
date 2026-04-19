@@ -7,8 +7,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2026-04-19 08:57",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2026-04-19 13:07",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-04-19",
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         8.3,
-        11.7,
+        12.2,
+        15.1,
         14.9,
-        14.7,
-        11.9,
-        14.4,
+        11.8,
+        12.4,
         8.1
       ],
       "min_temp": [
-        4.2,
-        1.0,
-        -0.2,
-        2.3,
-        3.2,
-        3.8,
-        1.5
+        4.5,
+        0.8,
+        -0.3,
+        2.0,
+        2.8,
+        2.7,
+        2.5
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -61,8 +61,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2026-04-19 08:57",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-04-19 13:07",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-04-19",
@@ -74,22 +74,22 @@
         "2026-04-25"
       ],
       "max_temp": [
-        9.7,
-        12.8,
-        15.3,
-        16.2,
-        14.2,
-        13.3,
+        8.7,
+        12.4,
+        14.7,
+        16.1,
+        13.9,
+        15.6,
         8.2
       ],
       "min_temp": [
-        6.2,
-        1.2,
-        -0.6,
-        3.5,
+        5.7,
+        1.0,
+        -0.8,
+        3.6,
         4.8,
-        4.4,
-        3.0
+        3.8,
+        3.8
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-19 08:58",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-04-19 13:08",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-04-19",
@@ -125,22 +125,22 @@
         "2026-04-25"
       ],
       "max_temp": [
-        10.1,
-        14.4,
-        17.4,
-        14.6,
-        13.4,
-        11.0,
+        10.5,
+        14.3,
+        17.1,
+        14.1,
+        12.8,
+        13.3,
         7.2
       ],
       "min_temp": [
-        7.8,
+        7.7,
         2.7,
-        3.2,
-        4.4,
-        5.2,
-        4.9,
-        3.8
+        3.4,
+        4.1,
+        5.1,
+        4.6,
+        4.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-04-19 08:58",
+    "temperature": "8°C",
+    "last_update": "2026-04-19 13:08",
     "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
@@ -180,24 +180,24 @@
       ],
       "max_temp": [
         10.3,
-        12.4,
-        14.7,
-        14.9,
-        11.6,
-        13.2,
+        13.1,
+        15.1,
+        15.2,
+        12.1,
+        12.2,
         7.7
       ],
       "min_temp": [
+        3.3,
+        0.4,
         2.7,
-        -0.0,
-        2.5,
-        3.5,
-        4.7,
         3.2,
-        2.7
+        4.2,
+        3.2,
+        1.9
       ]
     },
-    "ai_summary": "(14 dagar sedan): Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen.",
+    "ai_summary": "Inga detaljerade rapporter hittades.",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -210,13 +210,7 @@
     ],
     "phone": "0500-49 80 00",
     "total_track_length_km": 0,
-    "ai_comments": [
-      {
-        "date": "2026-04-04T09:02:34.000Z",
-        "days_ago": 14,
-        "text": "Sista spårningen för denna säsong är nu avslutad. Perfekt med lite nysnö, men det blev också blött och många dåliga partier. Sjövägen går fortfarande att ta några åk på. På återseende hälsar vi från spårpatrullen."
-      }
-    ]
+    "ai_comments": []
   },
   {
     "name": "Borås Skidstadion",
@@ -225,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-04-19 08:58",
-    "weather": "☁️ Mulet",
+    "temperature": "9°C",
+    "last_update": "2026-04-19 13:08",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-04-19",
@@ -239,22 +233,22 @@
         "2026-04-25"
       ],
       "max_temp": [
-        9.0,
-        12.6,
-        15.5,
+        9.1,
+        13.1,
+        16.0,
         15.9,
+        13.1,
         13.6,
-        14.9,
         8.8
       ],
       "min_temp": [
-        5.6,
-        1.8,
-        2.0,
-        3.8,
-        5.0,
-        3.8,
-        2.4
+        6.3,
+        1.6,
+        2.2,
+        3.7,
+        4.2,
+        2.8,
+        2.5
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -279,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-04-19 08:58",
-    "weather": "☁️ Mulet",
+    "temperature": "8°C",
+    "last_update": "2026-04-19 13:08",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-04-19",
@@ -293,22 +287,22 @@
         "2026-04-25"
       ],
       "max_temp": [
-        8.0,
-        11.5,
-        14.6,
-        15.9,
-        13.4,
-        14.6,
+        7.9,
+        12.1,
+        15.0,
+        15.6,
+        13.1,
+        13.9,
         8.5
       ],
       "min_temp": [
-        4.4,
-        0.5,
+        5.2,
+        0.2,
         0.8,
-        3.8,
-        4.8,
-        4.0,
-        2.2
+        3.7,
+        4.3,
+        3.2,
+        2.5
       ]
     },
     "ai_summary": "(12 dagar sedan): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️",
@@ -337,7 +331,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "8°C",
-    "last_update": "2026-04-19 08:59",
+    "last_update": "2026-04-19 13:09",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -350,22 +344,22 @@
         "2026-04-25"
       ],
       "max_temp": [
-        9.4,
-        12.6,
-        15.5,
-        16.1,
-        14.1,
-        13.9,
+        8.3,
+        12.3,
+        15.0,
+        15.9,
+        13.7,
+        15.2,
         8.3
       ],
       "min_temp": [
         6.0,
-        1.2,
-        0.3,
-        4.3,
-        4.9,
-        4.7,
-        2.8
+        0.9,
+        0.0,
+        4.8,
+        4.8,
+        3.7,
+        3.2
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
