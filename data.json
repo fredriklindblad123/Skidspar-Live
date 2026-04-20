@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-04-20 10:00",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "12°C",
+    "last_update": "2026-04-20 13:48",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-20",
@@ -20,22 +20,22 @@
         "2026-04-26"
       ],
       "max_temp": [
-        11.7,
-        14.8,
-        15.7,
-        13.2,
-        11.2,
-        8.6,
+        12.1,
+        15.4,
+        16.3,
+        12.7,
+        11.6,
+        10.1,
         7.2
       ],
       "min_temp": [
         -0.2,
-        -0.6,
-        1.1,
-        2.5,
+        -0.5,
+        1.0,
         2.8,
-        0.5,
-        0.7
+        3.7,
+        2.0,
+        0.2
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-20 10:00",
-    "weather": "☁️ Mulet",
+    "temperature": "13°C",
+    "last_update": "2026-04-20 13:48",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-20",
@@ -74,22 +74,22 @@
         "2026-04-26"
       ],
       "max_temp": [
-        12.3,
-        14.9,
-        15.6,
-        14.1,
+        13.2,
+        15.4,
+        16.3,
+        14.6,
         14.0,
-        10.6,
+        11.4,
         9.1
       ],
       "min_temp": [
         -0.5,
-        -1.4,
-        0.5,
-        4.3,
-        4.2,
-        2.5,
-        2.3
+        -1.2,
+        0.8,
+        4.8,
+        5.0,
+        3.5,
+        3.8
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-20 10:01",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-04-20 13:48",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-20",
@@ -126,21 +126,21 @@
       ],
       "max_temp": [
         13.9,
+        15.7,
         16.2,
-        15.9,
-        12.4,
-        13.1,
-        11.1,
+        12.6,
+        13.5,
+        12.1,
         9.6
       ],
       "min_temp": [
         1.3,
-        2.9,
-        4.8,
+        2.8,
+        4.7,
         5.1,
-        4.6,
-        3.8,
-        2.0
+        5.3,
+        4.7,
+        3.8
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-20 10:01",
+    "temperature": "12°C",
+    "last_update": "2026-04-20 13:48",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -179,22 +179,22 @@
         "2026-04-26"
       ],
       "max_temp": [
-        12.3,
-        14.9,
-        15.3,
-        12.6,
-        11.8,
-        8.2,
+        12.5,
+        15.0,
+        15.4,
+        11.6,
+        12.1,
+        9.5,
         6.9
       ],
       "min_temp": [
         -0.6,
-        1.8,
-        4.3,
+        1.7,
         4.0,
-        4.3,
-        2.0,
-        1.5
+        4.1,
+        4.2,
+        2.7,
+        0.9
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-20 10:01",
-    "weather": "☁️ Mulet",
+    "temperature": "13°C",
+    "last_update": "2026-04-20 13:49",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-20",
@@ -233,22 +233,22 @@
         "2026-04-26"
       ],
       "max_temp": [
+        12.8,
+        16.1,
+        17.5,
+        14.4,
         12.6,
-        15.8,
-        17.0,
-        15.7,
-        12.4,
-        9.9,
+        11.2,
         8.2
       ],
       "min_temp": [
         0.1,
-        1.7,
+        1.5,
         4.4,
-        3.7,
-        3.9,
-        0.8,
-        1.4
+        4.1,
+        4.8,
+        2.2,
+        2.2
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-04-20 10:02",
-    "weather": "☁️ Mulet",
+    "temperature": "12°C",
+    "last_update": "2026-04-20 13:49",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-20",
@@ -287,22 +287,22 @@
         "2026-04-26"
       ],
       "max_temp": [
-        11.5,
-        14.7,
-        15.9,
-        14.6,
-        12.1,
-        9.6,
+        11.7,
+        15.1,
+        16.3,
+        14.9,
+        12.2,
+        11.1,
         7.9
       ],
       "min_temp": [
         -1.0,
-        0.5,
-        3.6,
-        3.8,
-        3.8,
-        1.2,
-        0.9
+        0.3,
+        3.7,
+        4.1,
+        4.7,
+        2.8,
+        2.2
       ]
     },
     "ai_summary": "(13 dagar sedan): Efter stormen Dave är det nu dags att kasta in handduken och tacka alla skidåkare för den här säsongen. 🥰❤️❤️❤️ Vi har fortfarande så gott om snö att det säkert räckt även kommande vecka, men flera vindfällda träd ligger över spåret och det skulle ta flera dagar att städa upp efter stormen. Tack alla för en fantastisk säsong med nytt besöksrekord, och hoppas ni vill komma tillbaka nästa vinter!❤️",
@@ -330,9 +330,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-04-20 10:02",
-    "weather": "☁️ Mulet",
+    "temperature": "13°C",
+    "last_update": "2026-04-20 13:50",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-04-20",
@@ -344,22 +344,22 @@
         "2026-04-26"
       ],
       "max_temp": [
-        12.1,
-        14.8,
-        15.7,
-        14.2,
-        13.4,
-        10.4,
+        13.0,
+        15.5,
+        16.5,
+        14.9,
+        13.6,
+        11.6,
         8.6
       ],
       "min_temp": [
         -0.4,
-        -0.4,
-        2.1,
-        4.2,
-        4.3,
+        -0.3,
         2.5,
-        2.2
+        4.7,
+        4.8,
+        3.6,
+        3.5
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
