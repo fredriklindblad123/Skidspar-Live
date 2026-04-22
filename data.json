@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-04-22 02:49",
+    "temperature": "6°C",
+    "last_update": "2026-04-22 06:01",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -20,8 +20,8 @@
         "2026-04-28"
       ],
       "max_temp": [
-        16.8,
-        15.8,
+        16.9,
+        16.1,
         13.9,
         9.4,
         8.6,
@@ -29,9 +29,9 @@
         7.9
       ],
       "min_temp": [
-        2.5,
-        3.6,
-        5.1,
+        2.8,
+        3.7,
+        4.5,
         3.3,
         0.3,
         -0.9,
@@ -60,8 +60,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "0°C",
-    "last_update": "2026-04-22 02:49",
+    "temperature": "3°C",
+    "last_update": "2026-04-22 06:01",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -74,18 +74,18 @@
         "2026-04-28"
       ],
       "max_temp": [
-        17.0,
+        16.6,
         16.0,
-        15.4,
+        15.5,
         11.1,
         9.5,
         11.0,
         11.4
       ],
       "min_temp": [
-        -0.2,
-        1.9,
-        2.7,
+        -0.6,
+        3.0,
+        2.6,
         5.1,
         1.5,
         0.2,
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-22 02:50",
+    "last_update": "2026-04-22 06:01",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -125,18 +125,18 @@
         "2026-04-28"
       ],
       "max_temp": [
-        17.1,
-        15.9,
-        13.8,
+        16.5,
+        15.6,
+        15.4,
         10.6,
         7.8,
         9.2,
         9.9
       ],
       "min_temp": [
-        4.6,
-        6.9,
-        6.0,
+        5.0,
+        6.6,
+        5.9,
         5.2,
         1.6,
         0.7,
@@ -166,7 +166,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "6°C",
-    "last_update": "2026-04-22 02:50",
+    "last_update": "2026-04-22 06:01",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -180,7 +180,7 @@
       ],
       "max_temp": [
         15.8,
-        14.9,
+        15.1,
         12.5,
         9.3,
         8.8,
@@ -188,9 +188,9 @@
         7.2
       ],
       "min_temp": [
-        5.1,
+        4.7,
+        5.2,
         5.4,
-        5.8,
         4.3,
         1.2,
         0.4,
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-04-22 02:50",
+    "temperature": "5°C",
+    "last_update": "2026-04-22 06:02",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -233,8 +233,8 @@
         "2026-04-28"
       ],
       "max_temp": [
-        17.8,
-        17.1,
+        17.9,
+        17.4,
         15.4,
         10.4,
         9.2,
@@ -242,9 +242,9 @@
         9.2
       ],
       "min_temp": [
-        2.9,
-        5.3,
-        5.4,
+        3.1,
+        4.2,
+        5.1,
         4.3,
         1.0,
         0.2,
@@ -274,7 +274,7 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "4°C",
-    "last_update": "2026-04-22 02:50",
+    "last_update": "2026-04-22 06:02",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -288,7 +288,7 @@
       ],
       "max_temp": [
         16.7,
-        16.0,
+        16.3,
         14.8,
         10.1,
         9.1,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         2.8,
-        4.4,
-        5.3,
+        3.6,
+        4.6,
         4.1,
         0.7,
         0.2,
@@ -330,8 +330,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "3°C",
-    "last_update": "2026-04-22 02:51",
+    "temperature": "5°C",
+    "last_update": "2026-04-22 06:02",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -344,18 +344,18 @@
         "2026-04-28"
       ],
       "max_temp": [
-        16.9,
+        16.7,
         16.2,
-        15.4,
+        15.5,
         10.8,
         9.6,
         10.5,
         10.9
       ],
       "min_temp": [
-        2.4,
-        3.8,
-        3.6,
+        1.6,
+        3.9,
+        3.9,
         4.7,
         1.5,
         0.8,
