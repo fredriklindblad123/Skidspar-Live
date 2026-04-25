@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-25 08:56",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-04-25 13:10",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-04-25",
@@ -20,21 +20,21 @@
         "2026-05-01"
       ],
       "max_temp": [
+        10.6,
+        10.4,
+        11.3,
+        10.4,
         10.8,
-        11.2,
-        11.5,
-        8.8,
-        14.8,
-        17.0,
+        17.5,
         17.8
       ],
       "min_temp": [
-        5.1,
-        0.5,
-        0.0,
-        -0.6,
+        3.9,
         0.4,
-        4.0,
+        -0.3,
+        -0.2,
+        1.2,
+        2.7,
         4.8
       ]
     },
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-25 08:57",
-    "weather": "⛅ Halvklart",
+    "temperature": "12°C",
+    "last_update": "2026-04-25 13:10",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-04-25",
@@ -74,22 +74,22 @@
         "2026-05-01"
       ],
       "max_temp": [
-        12.4,
-        11.5,
-        12.8,
-        11.5,
-        14.1,
-        14.5,
+        12.6,
+        10.7,
+        12.7,
+        13.5,
+        13.8,
+        16.1,
         17.8
       ],
       "min_temp": [
-        4.1,
-        -0.3,
+        3.9,
+        0.5,
         -0.5,
-        2.4,
         1.9,
-        5.2,
-        6.1
+        2.8,
+        4.4,
+        4.9
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-25 08:57",
+    "last_update": "2026-04-25 13:11",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -125,22 +125,22 @@
         "2026-05-01"
       ],
       "max_temp": [
-        13.7,
-        11.6,
-        14.3,
-        10.8,
-        12.5,
-        13.2,
+        13.1,
+        11.2,
+        14.0,
+        12.0,
+        14.6,
+        14.5,
         16.2
       ],
       "min_temp": [
         7.1,
-        2.9,
         3.2,
-        2.6,
-        1.8,
-        5.8,
-        6.8
+        3.2,
+        2.2,
+        3.8,
+        5.2,
+        5.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -166,8 +166,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "11°C",
-    "last_update": "2026-04-25 08:57",
-    "weather": "☀️ Klart",
+    "last_update": "2026-04-25 13:11",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-04-25",
@@ -179,22 +179,22 @@
         "2026-05-01"
       ],
       "max_temp": [
-        11.3,
-        10.1,
+        11.7,
+        10.8,
+        10.8,
         9.9,
-        8.4,
-        14.6,
-        18.0,
+        11.2,
+        17.9,
         18.6
       ],
       "min_temp": [
-        4.6,
-        1.5,
+        4.9,
         1.9,
-        0.4,
-        2.8,
-        5.1,
-        6.2
+        1.8,
+        0.9,
+        4.5,
+        3.0,
+        4.9
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-25 08:57",
-    "weather": "☁️ Mulet",
+    "temperature": "6°C",
+    "last_update": "2026-04-25 13:11",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2026-04-25",
@@ -234,21 +234,21 @@
       ],
       "max_temp": [
         12.0,
-        12.0,
+        11.4,
         12.8,
-        10.0,
-        15.4,
-        15.2,
+        11.9,
+        12.1,
+        16.9,
         17.9
       ],
       "min_temp": [
-        5.8,
+        5.3,
+        1.8,
+        2.0,
+        1.8,
         1.6,
-        1.2,
-        0.6,
-        0.6,
-        4.0,
-        4.9
+        2.7,
+        3.9
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-04-25 08:58",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-04-25 13:11",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2026-04-25",
@@ -287,22 +287,22 @@
         "2026-05-01"
       ],
       "max_temp": [
-        11.0,
-        11.1,
-        11.8,
-        9.8,
-        14.9,
-        15.7,
+        10.9,
+        10.4,
+        11.7,
+        11.7,
+        12.4,
+        17.0,
         17.7
       ],
       "min_temp": [
-        4.5,
-        0.4,
-        1.3,
-        0.7,
-        1.9,
-        4.1,
-        4.9
+        4.0,
+        0.6,
+        1.2,
+        1.8,
+        2.1,
+        2.9,
+        4.2
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -325,8 +325,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "10°C",
-    "last_update": "2026-04-25 08:58",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-04-25 13:12",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-04-25",
@@ -338,22 +338,22 @@
         "2026-05-01"
       ],
       "max_temp": [
-        12.2,
-        11.3,
         12.5,
-        11.2,
-        14.8,
-        14.9,
+        10.9,
+        12.7,
+        13.1,
+        13.6,
+        16.3,
         17.6
       ],
       "min_temp": [
-        3.9,
-        -0.5,
-        0.3,
-        1.9,
-        1.5,
-        4.9,
-        5.7
+        4.1,
+        0.2,
+        0.4,
+        2.7,
+        2.5,
+        3.5,
+        4.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
