@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "22°C",
-    "last_update": "2026-04-30 14:02",
-    "weather": "☀️ Klart",
+    "temperature": "20°C",
+    "last_update": "2026-04-30 17:23",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-30",
@@ -20,9 +20,9 @@
         "2026-05-06"
       ],
       "max_temp": [
-        21.8,
-        21.1,
-        22.0,
+        22.3,
+        21.0,
+        21.9,
         14.2,
         9.1,
         7.6,
@@ -31,7 +31,7 @@
       "min_temp": [
         3.6,
         5.8,
-        7.8,
+        8.2,
         8.4,
         4.1,
         1.5,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "18°C",
-    "last_update": "2026-04-30 14:03",
-    "weather": "☀️ Klart",
+    "temperature": "14°C",
+    "last_update": "2026-04-30 17:23",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-04-30",
@@ -75,17 +75,17 @@
       ],
       "max_temp": [
         17.7,
-        18.3,
-        20.2,
-        12.6,
+        18.2,
+        20.3,
+        12.7,
         10.2,
         7.9,
         8.8
       ],
       "min_temp": [
         2.6,
-        4.4,
-        7.0,
+        4.6,
+        7.3,
         8.2,
         5.6,
         3.5,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-04-30 14:03",
-    "weather": "☀️ Klart",
+    "last_update": "2026-04-30 17:24",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-30",
@@ -125,18 +125,18 @@
         "2026-05-06"
       ],
       "max_temp": [
-        14.0,
-        18.6,
-        19.8,
-        11.4,
+        14.3,
+        18.4,
+        19.7,
+        13.2,
         10.0,
         7.7,
         8.4
       ],
       "min_temp": [
         6.9,
-        6.8,
-        9.8,
+        7.3,
+        10.2,
         8.3,
         6.1,
         4.3,
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "21°C",
-    "last_update": "2026-04-30 14:03",
+    "temperature": "20°C",
+    "last_update": "2026-04-30 17:24",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -179,9 +179,9 @@
         "2026-05-06"
       ],
       "max_temp": [
+        21.4,
         21.0,
-        21.3,
-        22.0,
+        21.9,
         16.9,
         11.2,
         8.5,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         6.5,
-        9.0,
-        10.4,
+        9.2,
+        10.7,
         9.8,
         5.7,
         1.4,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "22°C",
-    "last_update": "2026-04-30 14:03",
-    "weather": "☀️ Klart",
+    "temperature": "19°C",
+    "last_update": "2026-04-30 17:24",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-30",
@@ -233,18 +233,18 @@
         "2026-05-06"
       ],
       "max_temp": [
-        22.4,
-        20.6,
+        22.6,
+        20.8,
         22.3,
-        13.6,
+        14.3,
         9.4,
         7.9,
         9.1
       ],
       "min_temp": [
         3.1,
-        5.3,
-        6.7,
+        5.9,
+        7.5,
         8.6,
         4.3,
         1.7,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "22°C",
-    "last_update": "2026-04-30 14:04",
-    "weather": "☀️ Klart",
+    "temperature": "18°C",
+    "last_update": "2026-04-30 17:24",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-30",
@@ -287,8 +287,8 @@
         "2026-05-06"
       ],
       "max_temp": [
-        21.6,
-        19.7,
+        21.9,
+        19.8,
         21.3,
         13.1,
         9.4,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         3.0,
-        4.8,
-        6.0,
+        5.0,
+        6.8,
         8.4,
         4.3,
         1.8,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "19°C",
-    "last_update": "2026-04-30 14:04",
-    "weather": "☀️ Klart",
+    "temperature": "15°C",
+    "last_update": "2026-04-30 17:25",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-04-30",
@@ -339,17 +339,17 @@
       ],
       "max_temp": [
         19.2,
-        18.6,
-        21.1,
-        12.6,
+        18.4,
+        21.0,
+        12.9,
         10.0,
         7.9,
         9.0
       ],
       "min_temp": [
         2.0,
-        4.5,
-        5.4,
+        4.4,
+        6.2,
         8.4,
         5.3,
         3.2,
