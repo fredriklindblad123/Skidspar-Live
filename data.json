@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-05-14 03:39",
-    "weather": "🌧️ Duggregn",
+    "temperature": "6°C",
+    "last_update": "2026-05-14 06:47",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -20,9 +20,9 @@
         "2026-05-20"
       ],
       "max_temp": [
-        11.5,
-        13.8,
-        13.9,
+        11.2,
+        13.2,
+        11.4,
         12.1,
         13.9,
         16.7,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         3.1,
-        5.2,
-        5.9,
+        4.9,
+        5.0,
         4.5,
         2.2,
         4.9,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2026-05-14 03:39",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "6°C",
+    "last_update": "2026-05-14 06:47",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -74,9 +74,9 @@
         "2026-05-20"
       ],
       "max_temp": [
-        9.8,
-        14.0,
-        12.5,
+        9.5,
+        13.8,
+        11.1,
         12.6,
         14.4,
         17.9,
@@ -84,8 +84,8 @@
       ],
       "min_temp": [
         4.5,
-        6.0,
-        5.3,
+        5.5,
+        4.7,
         5.6,
         3.3,
         5.9,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-05-14 03:39",
-    "weather": "🌧️ Regn",
+    "last_update": "2026-05-14 06:48",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -125,18 +125,18 @@
         "2026-05-20"
       ],
       "max_temp": [
-        10.6,
-        15.3,
-        12.2,
+        10.5,
+        15.0,
+        12.5,
         12.4,
         13.1,
         17.5,
         16.5
       ],
       "min_temp": [
-        6.2,
-        7.9,
-        7.7,
+        6.1,
+        7.6,
+        7.4,
         6.8,
         4.2,
         5.8,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "1°C",
-    "last_update": "2026-05-14 03:39",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "4°C",
+    "last_update": "2026-05-14 06:48",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -179,18 +179,18 @@
         "2026-05-20"
       ],
       "max_temp": [
-        11.8,
-        13.2,
-        15.4,
+        11.3,
+        13.4,
+        14.3,
         13.2,
         14.3,
         16.9,
         19.2
       ],
       "min_temp": [
-        1.4,
-        2.8,
-        6.7,
+        1.8,
+        2.2,
+        6.0,
         4.8,
         2.9,
         5.6,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2026-05-14 03:40",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "6°C",
+    "last_update": "2026-05-14 06:48",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -233,9 +233,9 @@
         "2026-05-20"
       ],
       "max_temp": [
-        11.7,
-        13.9,
-        13.2,
+        11.0,
+        14.4,
+        11.5,
         12.4,
         14.6,
         18.5,
@@ -243,8 +243,8 @@
       ],
       "min_temp": [
         4.3,
-        5.4,
-        6.0,
+        5.1,
+        5.8,
         4.9,
         2.2,
         5.2,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "4°C",
-    "last_update": "2026-05-14 03:40",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "5°C",
+    "last_update": "2026-05-14 06:48",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -287,9 +287,9 @@
         "2026-05-20"
       ],
       "max_temp": [
-        10.5,
-        12.8,
-        12.8,
+        9.8,
+        13.3,
+        10.2,
         12.1,
         14.8,
         18.3,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         3.2,
+        4.2,
         4.4,
-        4.9,
         4.8,
         2.2,
         5.5,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "5°C",
-    "last_update": "2026-05-14 03:41",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "6°C",
+    "last_update": "2026-05-14 06:49",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-05-14",
@@ -338,22 +338,22 @@
         "2026-05-20"
       ],
       "max_temp": [
-        10.4,
-        13.5,
-        12.4,
-        12.6,
-        14.9,
-        18.5,
-        18.8
+        9.5,
+        13.4,
+        10.6,
+        11.9,
+        14.8,
+        17.6,
+        15.4
       ],
       "min_temp": [
         4.4,
-        5.9,
-        5.5,
         5.4,
-        2.8,
+        4.7,
         5.5,
-        6.8
+        3.5,
+        5.1,
+        7.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
