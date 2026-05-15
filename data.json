@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-05-15 06:57",
-    "weather": "☁️ Mulet",
+    "temperature": "13°C",
+    "last_update": "2026-05-15 10:26",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-05-15",
@@ -20,9 +20,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        12.2,
-        11.0,
-        11.8,
+        13.3,
+        11.1,
+        12.5,
         14.6,
         17.5,
         18.0,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-05-15 06:57",
-    "weather": "⛅ Halvklart",
+    "temperature": "12°C",
+    "last_update": "2026-05-15 10:26",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-15",
@@ -74,9 +74,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        13.0,
-        10.2,
-        12.1,
+        13.7,
+        10.1,
+        12.8,
         15.9,
         18.0,
         17.0,
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-05-15 06:57",
+    "last_update": "2026-05-15 10:27",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -125,9 +125,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        15.3,
-        12.0,
-        13.6,
+        15.8,
+        12.4,
+        14.1,
         15.9,
         16.1,
         16.7,
@@ -135,7 +135,7 @@
       ],
       "min_temp": [
         6.3,
-        7.2,
+        7.6,
         6.9,
         5.1,
         6.9,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-05-15 06:57",
-    "weather": "☀️ Klart",
+    "temperature": "12°C",
+    "last_update": "2026-05-15 10:27",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-15",
@@ -179,9 +179,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        12.7,
-        13.3,
-        12.6,
+        12.5,
+        12.5,
+        12.5,
         14.8,
         16.9,
         18.4,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         1.8,
-        6.1,
-        6.4,
+        6.6,
+        6.0,
         2.2,
         5.1,
         7.1,
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-05-15 06:58",
+    "temperature": "11°C",
+    "last_update": "2026-05-15 10:27",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -233,9 +233,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        13.4,
-        11.7,
-        12.7,
+        13.2,
+        10.8,
+        12.9,
         15.4,
         18.0,
         17.3,
@@ -273,8 +273,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-05-15 06:58",
+    "temperature": "10°C",
+    "last_update": "2026-05-15 10:27",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -287,9 +287,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        12.1,
-        10.4,
-        11.8,
+        12.7,
+        9.5,
+        11.9,
         14.6,
         17.8,
         16.7,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-05-15 06:59",
-    "weather": "⛅ Halvklart",
+    "temperature": "12°C",
+    "last_update": "2026-05-15 10:28",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-15",
@@ -338,9 +338,9 @@
         "2026-05-21"
       ],
       "max_temp": [
-        12.7,
-        10.5,
-        12.4,
+        13.8,
+        10.0,
+        13.0,
         15.5,
         18.6,
         16.8,
@@ -348,7 +348,7 @@
       ],
       "min_temp": [
         4.9,
-        3.9,
+        4.1,
         5.8,
         3.3,
         5.0,
