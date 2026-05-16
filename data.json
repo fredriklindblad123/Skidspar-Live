@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-05-16 06:23",
-    "weather": "☀️ Klart",
+    "temperature": "12°C",
+    "last_update": "2026-05-16 09:42",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -20,9 +20,9 @@
         "2026-05-22"
       ],
       "max_temp": [
-        11.0,
-        11.2,
-        15.0,
+        11.4,
+        11.7,
+        14.9,
         15.9,
         17.5,
         16.7,
@@ -30,7 +30,7 @@
       ],
       "min_temp": [
         4.5,
-        5.8,
+        6.4,
         5.2,
         6.4,
         5.9,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-05-16 06:23",
-    "weather": "⛅ Halvklart",
+    "temperature": "8°C",
+    "last_update": "2026-05-16 09:42",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -74,9 +74,9 @@
         "2026-05-22"
       ],
       "max_temp": [
-        10.0,
-        12.9,
-        16.1,
+        10.1,
+        12.5,
+        15.4,
         17.1,
         17.5,
         15.7,
@@ -84,8 +84,8 @@
       ],
       "min_temp": [
         2.1,
-        6.4,
-        5.0,
+        6.8,
+        5.7,
         5.8,
         7.3,
         9.9,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-05-16 06:23",
-    "weather": "🌧️ Kraftigt duggregn",
+    "last_update": "2026-05-16 09:43",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -125,9 +125,9 @@
         "2026-05-22"
       ],
       "max_temp": [
-        11.5,
-        14.0,
-        17.4,
+        11.6,
+        13.5,
+        17.0,
         16.8,
         16.5,
         15.6,
@@ -135,8 +135,8 @@
       ],
       "min_temp": [
         6.9,
-        9.1,
-        9.1,
+        9.2,
+        8.9,
         6.6,
         7.6,
         10.6,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-05-16 06:24",
-    "weather": "⛅ Halvklart",
+    "temperature": "12°C",
+    "last_update": "2026-05-16 09:43",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -179,8 +179,8 @@
         "2026-05-22"
       ],
       "max_temp": [
-        13.3,
-        12.9,
+        12.7,
+        13.1,
         15.0,
         16.5,
         18.1,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         6.8,
-        6.6,
-        5.4,
+        6.3,
+        5.7,
         6.8,
         7.2,
         9.4,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-05-16 06:24",
-    "weather": "☀️ Klart",
+    "temperature": "10°C",
+    "last_update": "2026-05-16 09:43",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -233,9 +233,9 @@
         "2026-05-22"
       ],
       "max_temp": [
-        10.4,
-        12.0,
-        15.9,
+        11.3,
+        12.1,
+        15.8,
         16.9,
         18.0,
         16.5,
@@ -243,8 +243,8 @@
       ],
       "min_temp": [
         4.0,
-        7.2,
-        6.0,
+        7.3,
+        6.6,
         5.7,
         5.2,
         8.8,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-05-16 06:24",
-    "weather": "☀️ Klart",
+    "temperature": "9°C",
+    "last_update": "2026-05-16 09:43",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -287,9 +287,9 @@
         "2026-05-22"
       ],
       "max_temp": [
-        9.5,
+        10.0,
         11.0,
-        15.5,
+        14.7,
         16.5,
         18.0,
         16.3,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         3.2,
-        6.2,
-        5.0,
+        6.3,
+        5.6,
         5.2,
         6.0,
         8.9,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-05-16 06:25",
-    "weather": "⛅ Halvklart",
+    "temperature": "8°C",
+    "last_update": "2026-05-16 09:44",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2026-05-16",
@@ -338,9 +338,9 @@
         "2026-05-22"
       ],
       "max_temp": [
-        9.6,
-        12.6,
-        16.1,
+        10.5,
+        12.4,
+        15.4,
         17.6,
         17.8,
         15.8,
@@ -348,8 +348,8 @@
       ],
       "min_temp": [
         2.4,
-        6.5,
-        5.2,
+        6.9,
+        6.0,
         4.7,
         6.4,
         9.4,
