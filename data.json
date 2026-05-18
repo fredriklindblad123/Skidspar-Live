@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "15°C",
-    "last_update": "2026-05-18 18:01",
-    "weather": "⛅ Halvklart",
+    "temperature": "12°C",
+    "last_update": "2026-05-18 21:14",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         17.3,
-        16.7,
-        19.0,
-        13.9,
-        17.4,
-        21.0,
-        22.4
+        17.2,
+        19.8,
+        15.0,
+        17.3,
+        19.7,
+        20.8
       ],
       "min_temp": [
         6.4,
-        7.2,
-        6.9,
-        9.7,
+        7.7,
+        7.3,
+        8.9,
+        6.8,
         8.6,
-        9.7,
-        10.9
+        8.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Lassalyckans skidstadion.",
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "14°C",
-    "last_update": "2026-05-18 18:02",
-    "weather": "☁️ Mulet",
+    "temperature": "8°C",
+    "last_update": "2026-05-18 21:14",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -75,21 +75,21 @@
       ],
       "max_temp": [
         16.8,
-        17.2,
-        17.3,
-        14.8,
-        16.3,
+        17.8,
+        17.7,
+        14.4,
+        16.0,
         19.4,
-        21.5
+        20.5
       ],
       "min_temp": [
         8.1,
-        5.8,
+        5.4,
         6.4,
-        10.1,
-        8.6,
+        9.5,
+        8.4,
         9.9,
-        10.4
+        9.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-05-18 18:02",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-05-18 21:14",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -126,21 +126,21 @@
       ],
       "max_temp": [
         18.7,
-        18.9,
-        18.5,
-        14.4,
-        16.1,
-        18.7,
-        20.2
+        19.3,
+        19.0,
+        14.1,
+        15.9,
+        18.8,
+        19.2
       ],
       "min_temp": [
         10.3,
-        9.1,
+        8.8,
+        10.8,
         10.5,
-        10.4,
-        9.1,
-        10.7,
-        10.8
+        9.3,
+        10.8,
+        10.1
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "15°C",
-    "last_update": "2026-05-18 18:02",
-    "weather": "☀️ Klart",
+    "temperature": "10°C",
+    "last_update": "2026-05-18 21:14",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -180,21 +180,21 @@
       ],
       "max_temp": [
         17.5,
-        17.6,
-        19.8,
-        15.1,
-        18.8,
-        20.9,
-        22.6
+        17.7,
+        20.3,
+        15.6,
+        17.8,
+        19.9,
+        20.0
       ],
       "min_temp": [
         5.2,
-        7.0,
-        8.6,
+        7.1,
+        9.1,
         9.9,
-        9.2,
-        10.1,
-        11.8
+        8.2,
+        10.3,
+        9.7
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Billingen Skövde.",
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "16°C",
-    "last_update": "2026-05-18 18:03",
-    "weather": "⛅ Halvklart",
+    "temperature": "12°C",
+    "last_update": "2026-05-18 21:15",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -234,21 +234,21 @@
       ],
       "max_temp": [
         18.6,
-        18.4,
-        19.7,
-        14.9,
-        17.4,
-        21.0,
-        23.0
+        18.9,
+        20.2,
+        15.4,
+        17.3,
+        19.9,
+        22.6
       ],
       "min_temp": [
         8.1,
-        8.6,
-        7.7,
-        10.0,
-        8.4,
-        9.7,
-        10.8
+        8.9,
+        8.1,
+        8.9,
+        7.1,
+        8.3,
+        8.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Borås skidstadion.",
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "15°C",
-    "last_update": "2026-05-18 18:03",
-    "weather": "⛅ Halvklart",
+    "temperature": "11°C",
+    "last_update": "2026-05-18 21:15",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -288,21 +288,21 @@
       ],
       "max_temp": [
         17.7,
-        17.4,
-        18.7,
-        14.4,
-        17.0,
-        20.5,
-        22.2
+        18.0,
+        18.9,
+        14.9,
+        16.9,
+        20.1,
+        22.5
       ],
       "min_temp": [
         7.1,
-        6.9,
-        6.5,
-        9.9,
-        8.3,
-        9.6,
-        10.4
+        7.6,
+        7.0,
+        8.6,
+        7.1,
+        8.6,
+        8.8
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hestrastugan.",
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "14°C",
-    "last_update": "2026-05-18 18:03",
-    "weather": "☁️ Mulet",
+    "temperature": "9°C",
+    "last_update": "2026-05-18 21:16",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-05-18",
@@ -339,21 +339,21 @@
       ],
       "max_temp": [
         16.9,
-        17.1,
-        17.6,
-        15.1,
-        17.0,
-        19.5,
-        22.0
+        17.9,
+        18.1,
+        14.9,
+        16.3,
+        19.9,
+        21.4
       ],
       "min_temp": [
         7.6,
-        6.4,
-        6.0,
-        10.0,
-        8.2,
-        9.7,
-        10.4
+        6.2,
+        6.3,
+        9.1,
+        8.0,
+        9.4,
+        9.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
