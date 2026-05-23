@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "21°C",
-    "last_update": "2026-05-23 13:40",
+    "temperature": "20°C",
+    "last_update": "2026-05-23 17:02",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,8 +21,8 @@
       ],
       "max_temp": [
         21.9,
-        20.7,
-        20.8,
+        21.4,
+        21.5,
         16.6,
         15.3,
         14.6,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         11.2,
-        8.8,
-        10.0,
+        9.2,
+        10.8,
         10.8,
         8.1,
         6.9,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-05-23 13:40",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "18°C",
+    "last_update": "2026-05-23 17:02",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-23",
@@ -75,7 +75,7 @@
       ],
       "max_temp": [
         21.1,
-        19.1,
+        19.3,
         19.9,
         16.2,
         16.4,
@@ -85,7 +85,7 @@
       "min_temp": [
         10.0,
         9.0,
-        10.1,
+        10.2,
         11.6,
         9.5,
         8.6,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-05-23 13:41",
-    "weather": "🌧️ Lätt regn",
+    "last_update": "2026-05-23 17:03",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-05-23",
@@ -125,9 +125,9 @@
         "2026-05-29"
       ],
       "max_temp": [
-        20.1,
-        19.8,
         20.6,
+        20.4,
+        21.2,
         15.5,
         15.8,
         15.4,
@@ -135,8 +135,8 @@
       ],
       "min_temp": [
         13.1,
-        11.2,
-        12.0,
+        11.6,
+        12.1,
         11.9,
         10.5,
         8.9,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "20°C",
-    "last_update": "2026-05-23 13:41",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "19°C",
+    "last_update": "2026-05-23 17:03",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-23",
@@ -180,8 +180,8 @@
       ],
       "max_temp": [
         21.6,
-        20.4,
-        20.2,
+        21.3,
+        21.3,
         17.7,
         15.4,
         15.3,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         12.4,
-        9.6,
-        10.4,
+        9.9,
+        10.6,
         12.0,
         10.1,
         8.2,
@@ -220,8 +220,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "20°C",
-    "last_update": "2026-05-23 13:41",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2026-05-23 17:03",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-23",
@@ -234,8 +234,8 @@
       ],
       "max_temp": [
         21.9,
-        20.9,
-        21.4,
+        21.6,
+        22.0,
         17.0,
         16.5,
         16.1,
@@ -243,8 +243,8 @@
       ],
       "min_temp": [
         11.8,
-        10.4,
-        11.2,
+        10.6,
+        11.7,
         10.8,
         8.5,
         7.4,
@@ -274,8 +274,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "19°C",
-    "last_update": "2026-05-23 13:41",
-    "weather": "🌧️ Duggregn",
+    "last_update": "2026-05-23 17:03",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-05-23",
@@ -288,8 +288,8 @@
       ],
       "max_temp": [
         20.5,
-        19.7,
-        20.1,
+        20.4,
+        20.7,
         16.6,
         16.2,
         16.5,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         11.0,
-        9.2,
-        9.8,
+        9.3,
+        10.5,
         10.8,
         8.4,
         6.9,
@@ -325,8 +325,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "18°C",
-    "last_update": "2026-05-23 13:42",
-    "weather": "🌧️ Lätt regn",
+    "last_update": "2026-05-23 17:04",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-05-23",
@@ -339,8 +339,8 @@
       ],
       "max_temp": [
         21.6,
-        19.1,
-        19.9,
+        19.4,
+        20.1,
         16.5,
         16.6,
         16.6,
@@ -348,7 +348,7 @@
       ],
       "min_temp": [
         9.4,
-        9.1,
+        9.2,
         10.2,
         11.2,
         9.2,
