@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "20°C",
-    "last_update": "2026-05-31 13:49",
-    "weather": "☁️ Mulet",
+    "temperature": "18°C",
+    "last_update": "2026-05-31 17:08",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-05-31",
@@ -20,8 +20,8 @@
         "2026-06-06"
       ],
       "max_temp": [
-        19.9,
-        17.1,
+        20.4,
+        16.7,
         19.2,
         23.1,
         21.6,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         10.7,
-        12.5,
-        11.0,
+        12.0,
+        11.3,
         11.9,
         13.4,
         12.4,
@@ -60,8 +60,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "21°C",
-    "last_update": "2026-05-31 13:49",
+    "temperature": "17°C",
+    "last_update": "2026-05-31 17:08",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -75,8 +75,8 @@
       ],
       "max_temp": [
         22.5,
-        17.4,
-        19.7,
+        17.2,
+        19.0,
         23.7,
         20.2,
         17.9,
@@ -84,8 +84,8 @@
       ],
       "min_temp": [
         11.2,
-        12.5,
-        11.0,
+        12.2,
+        11.5,
         13.1,
         13.0,
         12.1,
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-05-31 13:49",
+    "last_update": "2026-05-31 17:09",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -126,8 +126,8 @@
       ],
       "max_temp": [
         19.7,
-        17.9,
-        20.5,
+        18.3,
+        20.2,
         25.2,
         20.1,
         17.5,
@@ -135,8 +135,8 @@
       ],
       "min_temp": [
         13.2,
-        13.7,
-        13.1,
+        13.6,
+        13.5,
         13.8,
         13.0,
         12.8,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "22°C",
-    "last_update": "2026-05-31 13:49",
-    "weather": "☁️ Mulet",
+    "temperature": "21°C",
+    "last_update": "2026-05-31 17:09",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-31",
@@ -180,8 +180,8 @@
       ],
       "max_temp": [
         23.0,
-        17.1,
-        19.3,
+        17.4,
+        19.9,
         23.8,
         21.4,
         20.0,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         11.0,
-        13.0,
-        11.6,
+        12.8,
+        11.9,
         12.6,
         13.9,
         12.9,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "22°C",
-    "last_update": "2026-05-31 13:50",
-    "weather": "☁️ Mulet",
+    "temperature": "20°C",
+    "last_update": "2026-05-31 17:09",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-31",
@@ -234,8 +234,8 @@
       ],
       "max_temp": [
         21.8,
-        17.8,
-        20.3,
+        17.5,
+        20.1,
         22.8,
         20.9,
         18.5,
@@ -243,8 +243,8 @@
       ],
       "min_temp": [
         12.2,
-        13.4,
-        11.5,
+        13.1,
+        12.0,
         11.3,
         13.1,
         12.1,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "21°C",
-    "last_update": "2026-05-31 13:50",
-    "weather": "☁️ Mulet",
+    "temperature": "19°C",
+    "last_update": "2026-05-31 17:10",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-05-31",
@@ -287,9 +287,9 @@
         "2026-06-06"
       ],
       "max_temp": [
-        21.0,
-        16.7,
-        19.2,
+        20.9,
+        16.5,
+        18.9,
         22.7,
         20.1,
         18.1,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         10.8,
-        12.2,
-        10.4,
+        11.7,
+        10.8,
         11.6,
         12.9,
         11.9,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "20°C",
-    "last_update": "2026-05-31 13:50",
-    "weather": "☁️ Mulet",
+    "temperature": "17°C",
+    "last_update": "2026-05-31 17:10",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-05-31",
@@ -339,8 +339,8 @@
       ],
       "max_temp": [
         22.1,
-        17.0,
-        19.3,
+        16.8,
+        19.2,
         23.3,
         19.9,
         17.9,
@@ -348,8 +348,8 @@
       ],
       "min_temp": [
         11.8,
-        12.5,
-        10.8,
+        12.2,
+        11.2,
         12.4,
         12.8,
         11.9,
