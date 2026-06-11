@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "18°C",
-    "last_update": "2026-06-11 12:11",
+    "temperature": "15°C",
+    "last_update": "2026-06-11 18:47",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "18°C",
-    "last_update": "2026-06-11 12:11",
-    "weather": "⛅ Halvklart",
+    "temperature": "14°C",
+    "last_update": "2026-06-11 18:47",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-06-11",
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-06-11 12:11",
+    "last_update": "2026-06-11 18:48",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-06-11 12:12",
-    "weather": "☁️ Mulet",
+    "temperature": "15°C",
+    "last_update": "2026-06-11 18:48",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-06-11",
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "18°C",
-    "last_update": "2026-06-11 12:12",
-    "weather": "⛅ Halvklart",
+    "temperature": "16°C",
+    "last_update": "2026-06-11 18:48",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-06-11",
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-06-11 12:12",
-    "weather": "⛅ Halvklart",
+    "temperature": "15°C",
+    "last_update": "2026-06-11 18:49",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-06-11",
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-06-11 12:12",
-    "weather": "⛅ Halvklart",
+    "temperature": "14°C",
+    "last_update": "2026-06-11 18:49",
+    "weather": "☀️ Klart",
     "forecast": {
       "dates": [
         "2026-06-11",
