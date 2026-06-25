@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "28°C",
-    "last_update": "2026-06-25 14:38",
-    "weather": "☀️ Klart",
+    "temperature": "25°C",
+    "last_update": "2026-06-25 18:14",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-06-25",
@@ -20,9 +20,9 @@
         "2026-07-01"
       ],
       "max_temp": [
-        27.8,
+        28.1,
         30.0,
-        33.8,
+        33.5,
         30.2,
         21.4,
         21.2,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         15.8,
-        15.1,
-        19.6,
+        14.9,
+        19.1,
         18.7,
         14.0,
         12.0,
@@ -60,8 +60,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-06-25 14:38",
+    "temperature": "22°C",
+    "last_update": "2026-06-25 18:14",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -75,8 +75,8 @@
       ],
       "max_temp": [
         26.1,
-        27.9,
-        32.0,
+        27.6,
+        31.8,
         28.3,
         21.1,
         19.7,
@@ -84,7 +84,7 @@
       ],
       "min_temp": [
         14.7,
-        13.3,
+        13.2,
         18.0,
         18.4,
         15.1,
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-06-25 14:39",
+    "last_update": "2026-06-25 18:15",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -126,8 +126,8 @@
       ],
       "max_temp": [
         24.4,
-        28.5,
-        31.3,
+        27.9,
+        30.9,
         27.5,
         21.9,
         18.9,
@@ -135,8 +135,8 @@
       ],
       "min_temp": [
         17.0,
-        17.0,
-        20.7,
+        16.7,
+        20.3,
         19.4,
         15.6,
         14.7,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "25°C",
-    "last_update": "2026-06-25 14:39",
-    "weather": "☀️ Klart",
+    "temperature": "24°C",
+    "last_update": "2026-06-25 18:15",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-06-25",
@@ -179,9 +179,9 @@
         "2026-07-01"
       ],
       "max_temp": [
-        25.3,
-        29.6,
-        32.6,
+        26.0,
+        29.7,
+        31.7,
         31.4,
         23.2,
         22.3,
@@ -190,7 +190,7 @@
       "min_temp": [
         16.6,
         16.7,
-        20.6,
+        20.8,
         20.1,
         15.7,
         13.5,
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "28°C",
-    "last_update": "2026-06-25 14:39",
+    "temperature": "25°C",
+    "last_update": "2026-06-25 18:15",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -233,8 +233,8 @@
         "2026-07-01"
       ],
       "max_temp": [
-        28.0,
-        30.0,
+        28.1,
+        29.9,
         33.9,
         29.9,
         21.4,
@@ -243,8 +243,8 @@
       ],
       "min_temp": [
         15.4,
-        15.4,
-        18.4,
+        15.6,
+        18.3,
         18.0,
         14.1,
         12.2,
@@ -273,8 +273,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "27°C",
-    "last_update": "2026-06-25 14:39",
+    "temperature": "24°C",
+    "last_update": "2026-06-25 18:15",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -289,7 +289,7 @@
       "max_temp": [
         27.3,
         28.9,
-        33.0,
+        33.1,
         29.2,
         21.0,
         20.4,
@@ -298,7 +298,7 @@
       "min_temp": [
         14.7,
         15.0,
-        17.4,
+        17.3,
         18.0,
         14.0,
         12.2,
@@ -324,8 +324,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-06-25 14:40",
+    "temperature": "23°C",
+    "last_update": "2026-06-25 18:16",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -339,8 +339,8 @@
       ],
       "max_temp": [
         26.5,
-        28.1,
-        32.6,
+        28.3,
+        32.5,
         28.7,
         21.1,
         19.8,
@@ -348,8 +348,8 @@
       ],
       "min_temp": [
         14.4,
-        13.6,
-        16.7,
+        13.7,
+        16.5,
         18.2,
         14.7,
         13.2,
