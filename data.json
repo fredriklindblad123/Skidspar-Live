@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-07-03 03:30",
-    "weather": "🌧️ Regn",
+    "temperature": "14°C",
+    "last_update": "2026-07-03 07:22",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -20,17 +20,17 @@
         "2026-07-09"
       ],
       "max_temp": [
-        18.0,
-        21.2,
-        19.2,
+        17.6,
+        21.3,
+        20.1,
         17.9,
         15.3,
         17.7,
         21.5
       ],
       "min_temp": [
-        13.3,
-        11.5,
+        13.4,
+        10.8,
         12.5,
         10.2,
         8.7,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "14°C",
-    "last_update": "2026-07-03 03:34",
-    "weather": "🌧️ Kraftigt duggregn",
+    "temperature": "16°C",
+    "last_update": "2026-07-03 07:22",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -74,16 +74,16 @@
         "2026-07-09"
       ],
       "max_temp": [
-        20.4,
-        20.8,
-        19.1,
+        19.5,
+        21.1,
+        20.3,
         17.7,
         15.9,
         20.2,
         21.6
       ],
       "min_temp": [
-        13.7,
+        13.9,
         11.9,
         13.9,
         12.9,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-07-03 03:34",
-    "weather": "🌧️ Lätt duggregn",
+    "last_update": "2026-07-03 07:22",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -125,9 +125,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        21.4,
-        21.8,
-        19.4,
+        21.3,
+        22.3,
+        21.7,
         17.0,
         15.6,
         19.3,
@@ -135,7 +135,7 @@
       ],
       "min_temp": [
         15.2,
-        16.4,
+        15.8,
         15.0,
         13.8,
         11.7,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "14°C",
-    "last_update": "2026-07-03 03:35",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "15°C",
+    "last_update": "2026-07-03 07:23",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -179,9 +179,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        17.0,
-        21.1,
-        20.6,
+        16.5,
+        21.3,
+        20.2,
         18.7,
         16.7,
         19.5,
@@ -189,7 +189,7 @@
       ],
       "min_temp": [
         13.8,
-        12.4,
+        12.5,
         12.9,
         10.6,
         10.3,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "14°C",
-    "last_update": "2026-07-03 03:35",
-    "weather": "🌧️ Duggregn",
+    "temperature": "15°C",
+    "last_update": "2026-07-03 07:23",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -233,9 +233,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        19.7,
-        22.2,
-        19.7,
+        19.4,
+        22.4,
+        21.1,
         18.2,
         15.7,
         19.3,
@@ -243,7 +243,7 @@
       ],
       "min_temp": [
         13.9,
-        12.6,
+        12.0,
         12.3,
         10.5,
         9.5,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-07-03 03:35",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "14°C",
+    "last_update": "2026-07-03 07:23",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -287,9 +287,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        18.7,
-        21.0,
-        19.6,
+        18.5,
+        21.3,
+        19.9,
         17.9,
         15.4,
         19.2,
@@ -297,7 +297,7 @@
       ],
       "min_temp": [
         13.0,
-        12.0,
+        11.6,
         12.3,
         10.9,
         9.5,
@@ -323,11 +323,39 @@
     "lat": 57.7036,
     "lon": 12.446,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2026-07-03 03:36",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "16°C",
+    "last_update": "2026-07-03 07:23",
+    "weather": "☁️ Mulet",
+    "forecast": {
+      "dates": [
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "max_temp": [
+        19.6,
+        21.3,
+        20.5,
+        17.8,
+        15.9,
+        20.4,
+        21.4
+      ],
+      "min_temp": [
+        13.7,
+        11.9,
+        13.3,
+        12.5,
+        10.4,
+        10.0,
+        11.9
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
