@@ -5,11 +5,39 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Stängt",
-    "snow_depth": "Okänt",
-    "temperature": "Okänt",
-    "last_update": "2026-07-03 14:10",
-    "weather": "❓ Okänt",
-    "forecast": null,
+    "snow_depth": "Ingen snö",
+    "temperature": "17°C",
+    "last_update": "2026-07-03 17:28",
+    "weather": "🌧️ Lätt regn",
+    "forecast": {
+      "dates": [
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "max_temp": [
+        18.3,
+        21.9,
+        19.6,
+        16.9,
+        13.9,
+        18.5,
+        22.7
+      ],
+      "min_temp": [
+        13.4,
+        11.3,
+        13.0,
+        10.5,
+        9.3,
+        8.8,
+        9.6
+      ]
+    },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Lassalyckans skidstadion.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
@@ -32,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "20°C",
-    "last_update": "2026-07-03 14:21",
-    "weather": "☁️ Mulet",
+    "temperature": "21°C",
+    "last_update": "2026-07-03 17:28",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -47,8 +75,8 @@
       ],
       "max_temp": [
         20.7,
-        21.4,
-        20.6,
+        21.8,
+        20.9,
         16.5,
         16.1,
         19.5,
@@ -56,7 +84,7 @@
       ],
       "min_temp": [
         13.9,
-        12.9,
+        12.3,
         14.2,
         12.3,
         11.8,
@@ -84,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-07-03 14:30",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-07-03 17:28",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -97,18 +125,18 @@
         "2026-07-09"
       ],
       "max_temp": [
-        21.6,
         22.0,
-        21.6,
-        16.1,
+        22.2,
+        21.9,
+        16.6,
         16.0,
         19.0,
         21.6
       ],
       "min_temp": [
         15.2,
-        16.6,
-        15.9,
+        15.8,
+        16.0,
         13.1,
         12.7,
         11.8,
@@ -137,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-07-03 14:30",
+    "temperature": "16°C",
+    "last_update": "2026-07-03 17:28",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -151,9 +179,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        18.0,
-        21.9,
-        19.3,
+        18.7,
+        22.3,
+        19.4,
         17.5,
         13.5,
         18.5,
@@ -161,9 +189,9 @@
       ],
       "min_temp": [
         13.8,
-        12.5,
-        13.0,
-        9.9,
+        12.8,
+        13.1,
+        10.1,
         9.4,
         9.3,
         10.8
@@ -192,8 +220,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "20°C",
-    "last_update": "2026-07-03 14:31",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-07-03 17:28",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -205,9 +233,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        20.7,
-        23.2,
-        21.2,
+        19.8,
+        23.0,
+        21.3,
         17.3,
         15.9,
         19.8,
@@ -215,8 +243,8 @@
       ],
       "min_temp": [
         13.9,
-        12.3,
-        13.9,
+        12.8,
+        14.6,
         11.1,
         9.9,
         9.8,
@@ -246,8 +274,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "19°C",
-    "last_update": "2026-07-03 14:31",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-07-03 17:29",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -259,8 +287,8 @@
         "2026-07-09"
       ],
       "max_temp": [
-        19.9,
-        22.1,
+        18.8,
+        21.9,
         20.1,
         16.8,
         15.6,
@@ -269,8 +297,8 @@
       ],
       "min_temp": [
         13.0,
-        12.5,
-        13.1,
+        12.4,
+        13.3,
         10.9,
         9.9,
         9.6,
@@ -296,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "19°C",
-    "last_update": "2026-07-03 14:32",
-    "weather": "☁️ Mulet",
+    "temperature": "20°C",
+    "last_update": "2026-07-03 17:29",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-07-03",
@@ -310,9 +338,9 @@
         "2026-07-09"
       ],
       "max_temp": [
-        19.5,
-        21.2,
-        20.2,
+        19.6,
+        21.4,
+        20.4,
         16.8,
         16.1,
         19.5,
@@ -320,8 +348,8 @@
       ],
       "min_temp": [
         13.7,
-        12.5,
-        13.8,
+        12.0,
+        14.0,
         11.8,
         11.3,
         11.0,
