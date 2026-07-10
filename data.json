@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "24°C",
-    "last_update": "2026-07-10 14:31",
+    "temperature": "23°C",
+    "last_update": "2026-07-10 17:48",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "28°C",
-    "last_update": "2026-07-10 14:31",
-    "weather": "☁️ Mulet",
+    "temperature": "26°C",
+    "last_update": "2026-07-10 17:48",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-10",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-07-10 14:32",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-07-10 17:48",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-07-10",
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "24°C",
-    "last_update": "2026-07-10 14:32",
+    "temperature": "23°C",
+    "last_update": "2026-07-10 17:49",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-10 14:33",
+    "temperature": "25°C",
+    "last_update": "2026-07-10 17:49",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -273,8 +273,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-10 14:33",
+    "temperature": "24°C",
+    "last_update": "2026-07-10 17:50",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -324,8 +324,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "27°C",
-    "last_update": "2026-07-10 14:33",
+    "temperature": "26°C",
+    "last_update": "2026-07-10 17:50",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
