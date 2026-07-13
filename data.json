@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-13 14:39",
+    "temperature": "24°C",
+    "last_update": "2026-07-13 17:56",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -21,8 +21,8 @@
       ],
       "max_temp": [
         26.2,
-        27.8,
-        31.3,
+        27.5,
+        31.1,
         29.5,
         26.8,
         18.3,
@@ -30,7 +30,7 @@
       ],
       "min_temp": [
         14.9,
-        12.8,
+        12.7,
         15.0,
         17.2,
         16.0,
@@ -60,8 +60,8 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-13 14:39",
+    "temperature": "25°C",
+    "last_update": "2026-07-13 17:56",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -74,9 +74,9 @@
         "2026-07-19"
       ],
       "max_temp": [
-        26.4,
-        28.0,
-        31.3,
+        26.5,
+        29.0,
+        31.9,
         29.0,
         26.5,
         18.8,
@@ -85,7 +85,7 @@
       "min_temp": [
         14.5,
         11.9,
-        13.7,
+        13.8,
         17.7,
         16.2,
         15.4,
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-07-13 14:39",
+    "last_update": "2026-07-13 17:56",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -126,8 +126,8 @@
       ],
       "max_temp": [
         27.0,
-        29.1,
-        30.3,
+        29.5,
+        30.0,
         27.3,
         25.2,
         19.7,
@@ -135,8 +135,8 @@
       ],
       "min_temp": [
         17.3,
-        16.1,
-        17.2,
+        16.3,
+        17.7,
         17.9,
         17.2,
         15.6,
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "25°C",
-    "last_update": "2026-07-13 14:39",
+    "temperature": "23°C",
+    "last_update": "2026-07-13 17:56",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -180,8 +180,8 @@
       ],
       "max_temp": [
         24.8,
-        27.2,
-        30.9,
+        27.3,
+        30.5,
         32.1,
         29.2,
         20.7,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         14.9,
-        14.8,
-        16.8,
+        15.1,
+        16.7,
         19.0,
         18.7,
         14.6,
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "27°C",
-    "last_update": "2026-07-13 14:40",
+    "temperature": "25°C",
+    "last_update": "2026-07-13 17:57",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -233,9 +233,9 @@
         "2026-07-19"
       ],
       "max_temp": [
-        26.8,
-        28.7,
-        32.1,
+        27.0,
+        29.0,
+        32.2,
         30.5,
         27.4,
         18.7,
@@ -243,7 +243,7 @@
       ],
       "min_temp": [
         16.5,
-        15.2,
+        14.9,
         16.5,
         16.1,
         15.4,
@@ -273,8 +273,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-13 14:40",
+    "temperature": "24°C",
+    "last_update": "2026-07-13 17:58",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -288,7 +288,7 @@
       ],
       "max_temp": [
         26.2,
-        27.8,
+        28.1,
         31.5,
         29.9,
         26.5,
@@ -297,8 +297,8 @@
       ],
       "min_temp": [
         15.3,
-        14.0,
-        15.4,
+        13.8,
+        15.3,
         16.8,
         15.2,
         14.5,
@@ -324,8 +324,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-13 14:41",
+    "temperature": "25°C",
+    "last_update": "2026-07-13 17:58",
     "weather": "☀️ Klart",
     "forecast": {
       "dates": [
@@ -339,8 +339,8 @@
       ],
       "max_temp": [
         26.2,
-        27.9,
-        31.5,
+        28.7,
+        32.1,
         29.1,
         26.6,
         18.3,
@@ -348,8 +348,8 @@
       ],
       "min_temp": [
         15.3,
-        13.2,
-        14.6,
+        13.5,
+        14.7,
         17.0,
         15.7,
         15.2,
