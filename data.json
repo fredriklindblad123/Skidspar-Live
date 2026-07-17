@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "24°C",
-    "last_update": "2026-07-17 17:14",
-    "weather": "🌧️ Kraftigt regn",
+    "temperature": "20°C",
+    "last_update": "2026-07-17 20:57",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-07-17",
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         29.2,
-        20.6,
-        16.1,
-        18.3,
-        20.4,
-        15.2,
-        18.5
+        20.5,
+        15.5,
+        18.1,
+        20.3,
+        18.5,
+        20.6
       ],
       "min_temp": [
         16.4,
-        16.2,
+        15.6,
         11.9,
-        8.7,
-        8.3,
-        11.5,
-        10.7
+        9.3,
+        8.8,
+        11.7,
+        10.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Lassalyckans skidstadion.",
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "27°C",
-    "last_update": "2026-07-17 17:14",
-    "weather": "☁️ Mulet",
+    "temperature": "22°C",
+    "last_update": "2026-07-17 20:58",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-17",
@@ -75,21 +75,21 @@
       ],
       "max_temp": [
         28.9,
-        22.8,
+        21.8,
         15.6,
-        19.3,
-        21.1,
-        17.5,
-        19.8
+        19.1,
+        21.0,
+        17.3,
+        21.3
       ],
       "min_temp": [
         13.8,
-        15.8,
-        12.0,
-        11.4,
-        10.7,
-        13.8,
-        12.8
+        16.3,
+        12.3,
+        10.6,
+        10.8,
+        13.2,
+        12.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-07-17 17:14",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-07-17 20:58",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-07-17",
@@ -126,21 +126,21 @@
       ],
       "max_temp": [
         28.4,
-        23.6,
-        16.8,
+        23.3,
+        17.2,
         19.7,
-        20.4,
-        18.1,
-        19.2
+        20.0,
+        17.4,
+        19.9
       ],
       "min_temp": [
         18.8,
-        17.4,
-        13.5,
-        12.2,
-        10.4,
-        14.3,
-        12.5
+        18.2,
+        13.8,
+        11.5,
+        11.0,
+        14.1,
+        12.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "27°C",
-    "last_update": "2026-07-17 17:15",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "22°C",
+    "last_update": "2026-07-17 20:58",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-07-17",
@@ -180,21 +180,21 @@
       ],
       "max_temp": [
         30.3,
-        20.3,
-        13.5,
-        18.8,
         21.5,
-        20.1,
-        18.9
+        13.2,
+        18.7,
+        20.8,
+        19.5,
+        20.4
       ],
       "min_temp": [
         20.0,
-        13.7,
+        13.5,
         11.1,
-        9.8,
+        10.4,
         10.1,
-        11.3,
-        12.2
+        11.7,
+        12.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Billingen Skövde.",
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "26°C",
-    "last_update": "2026-07-17 17:15",
+    "temperature": "20°C",
+    "last_update": "2026-07-17 20:59",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -234,18 +234,18 @@
       ],
       "max_temp": [
         29.3,
-        21.2,
-        16.7,
-        19.2,
-        21.8,
-        15.2,
-        19.4
+        21.6,
+        16.1,
+        19.6,
+        21.6,
+        18.6,
+        21.9
       ],
       "min_temp": [
         16.8,
-        17.2,
-        12.6,
-        9.3,
+        16.2,
+        12.1,
+        9.4,
         9.7,
         12.1,
         11.3
@@ -273,8 +273,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "24°C",
-    "last_update": "2026-07-17 17:15",
+    "temperature": "19°C",
+    "last_update": "2026-07-17 20:59",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -288,21 +288,21 @@
       ],
       "max_temp": [
         29.0,
-        19.8,
-        15.3,
-        18.4,
-        21.7,
-        15.6,
-        18.8
+        20.3,
+        15.0,
+        18.6,
+        21.1,
+        18.3,
+        21.2
       ],
       "min_temp": [
         15.8,
-        16.0,
-        11.4,
-        9.2,
-        9.6,
-        12.2,
-        11.8
+        15.0,
+        11.1,
+        9.1,
+        10.0,
+        11.7,
+        11.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hestrastugan.",
@@ -324,8 +324,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "27°C",
-    "last_update": "2026-07-17 17:15",
+    "temperature": "22°C",
+    "last_update": "2026-07-17 21:00",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -339,21 +339,21 @@
       ],
       "max_temp": [
         28.6,
-        22.3,
+        21.3,
         15.8,
         19.2,
-        21.5,
-        17.3,
-        19.4
+        21.3,
+        16.2,
+        21.6
       ],
       "min_temp": [
         14.5,
         16.2,
-        12.2,
+        12.3,
+        10.0,
         10.5,
-        10.6,
-        13.3,
-        12.4
+        12.8,
+        12.3
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
