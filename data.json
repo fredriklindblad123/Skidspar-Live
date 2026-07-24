@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-07-24 02:50",
+    "temperature": "16°C",
+    "last_update": "2026-07-24 06:27",
     "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
@@ -20,16 +20,16 @@
         "2026-07-30"
       ],
       "max_temp": [
-        22.0,
-        17.2,
-        17.7,
+        21.7,
+        16.4,
+        17.6,
         18.9,
         17.9,
         22.8,
         25.8
       ],
       "min_temp": [
-        12.4,
+        12.2,
         14.2,
         12.3,
         10.1,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-07-24 02:50",
-    "weather": "☀️ Klart",
+    "temperature": "17°C",
+    "last_update": "2026-07-24 06:27",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-24",
@@ -74,8 +74,8 @@
         "2026-07-30"
       ],
       "max_temp": [
-        20.8,
-        17.4,
+        20.7,
+        17.3,
         17.4,
         18.0,
         18.1,
@@ -83,7 +83,7 @@
         24.0
       ],
       "min_temp": [
-        12.6,
+        12.9,
         14.7,
         12.4,
         12.0,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-07-24 02:50",
-    "weather": "☀️ Klart",
+    "last_update": "2026-07-24 06:27",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
         "2026-07-24",
@@ -125,17 +125,17 @@
         "2026-07-30"
       ],
       "max_temp": [
-        21.4,
-        19.5,
-        17.7,
+        21.3,
+        19.1,
+        17.9,
         17.7,
         18.1,
         22.1,
         22.8
       ],
       "min_temp": [
-        16.8,
-        16.3,
+        16.5,
+        16.4,
         14.2,
         13.7,
         13.9,
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "14°C",
-    "last_update": "2026-07-24 02:50",
+    "temperature": "17°C",
+    "last_update": "2026-07-24 06:27",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -179,8 +179,8 @@
         "2026-07-30"
       ],
       "max_temp": [
-        23.1,
-        16.9,
+        22.9,
+        16.3,
         18.3,
         19.6,
         19.8,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         14.3,
-        14.2,
-        13.2,
+        14.4,
+        13.1,
         11.2,
         12.0,
         12.5,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-07-24 02:51",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "17°C",
+    "last_update": "2026-07-24 06:28",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-24",
@@ -233,9 +233,9 @@
         "2026-07-30"
       ],
       "max_temp": [
-        22.5,
-        17.8,
-        18.1,
+        22.4,
+        17.0,
+        17.7,
         19.1,
         18.0,
         23.4,
@@ -243,7 +243,7 @@
       ],
       "min_temp": [
         13.1,
-        14.9,
+        15.1,
         12.1,
         10.2,
         11.4,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-07-24 02:51",
-    "weather": "🌤️ Mestadels klart",
+    "temperature": "16°C",
+    "last_update": "2026-07-24 06:29",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-24",
@@ -288,16 +288,16 @@
       ],
       "max_temp": [
         21.5,
-        16.7,
-        17.6,
+        16.0,
+        17.2,
         18.3,
         17.8,
         22.6,
         25.4
       ],
       "min_temp": [
-        12.2,
-        13.8,
+        12.1,
+        14.0,
         11.9,
         10.6,
         11.5,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-07-24 02:51",
-    "weather": "☀️ Klart",
+    "temperature": "17°C",
+    "last_update": "2026-07-24 06:29",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-07-24",
@@ -338,17 +338,17 @@
         "2026-07-30"
       ],
       "max_temp": [
-        21.1,
-        17.5,
-        17.5,
+        21.2,
+        17.2,
+        17.4,
         18.2,
         18.2,
         22.5,
         24.9
       ],
       "min_temp": [
-        12.2,
-        14.6,
+        12.5,
+        15.1,
         12.4,
         11.4,
         12.6,
