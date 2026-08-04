@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-08-04 02:43",
-    "weather": "☀️ Klart",
+    "temperature": "14°C",
+    "last_update": "2026-08-04 06:28",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -20,17 +20,17 @@
         "2026-08-10"
       ],
       "max_temp": [
-        23.9,
-        25.0,
-        19.8,
+        23.5,
+        24.4,
+        19.5,
         17.4,
         19.5,
         22.2,
         19.6
       ],
       "min_temp": [
-        8.8,
-        16.8,
+        8.5,
+        17.0,
         13.3,
         12.4,
         10.1,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-08-04 02:43",
-    "weather": "☀️ Klart",
+    "temperature": "13°C",
+    "last_update": "2026-08-04 06:29",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -74,18 +74,18 @@
         "2026-08-10"
       ],
       "max_temp": [
-        23.6,
-        25.0,
-        19.3,
+        23.4,
+        24.6,
+        19.2,
         17.5,
         18.7,
         21.6,
         17.8
       ],
       "min_temp": [
-        7.2,
-        17.1,
-        14.2,
+        7.0,
+        17.3,
+        14.7,
         13.0,
         12.1,
         11.6,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-08-04 02:44",
-    "weather": "☀️ Klart",
+    "last_update": "2026-08-04 06:29",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -125,17 +125,17 @@
         "2026-08-10"
       ],
       "max_temp": [
-        25.2,
-        26.1,
-        19.6,
+        25.3,
+        25.4,
+        20.1,
         17.3,
         18.3,
         21.5,
         18.6
       ],
       "min_temp": [
-        12.0,
-        19.2,
+        11.9,
+        18.8,
         15.5,
         14.1,
         13.3,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-08-04 02:44",
-    "weather": "☀️ Klart",
+    "temperature": "15°C",
+    "last_update": "2026-08-04 06:29",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -179,17 +179,17 @@
         "2026-08-10"
       ],
       "max_temp": [
-        24.8,
-        25.3,
-        20.0,
+        24.3,
+        23.4,
+        19.7,
         18.9,
         19.7,
         22.8,
         19.3
       ],
       "min_temp": [
-        11.6,
-        16.9,
+        11.2,
+        16.8,
         14.4,
         13.2,
         10.5,
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "10°C",
-    "last_update": "2026-08-04 02:44",
-    "weather": "☀️ Klart",
+    "temperature": "14°C",
+    "last_update": "2026-08-04 06:30",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -233,17 +233,17 @@
         "2026-08-10"
       ],
       "max_temp": [
-        24.6,
-        25.6,
-        20.1,
+        24.3,
+        25.2,
+        19.4,
         17.7,
         19.8,
         22.8,
         20.4
       ],
       "min_temp": [
-        9.7,
-        17.4,
+        9.5,
+        17.2,
         13.6,
         12.5,
         10.0,
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "9°C",
-    "last_update": "2026-08-04 02:44",
-    "weather": "☀️ Klart",
+    "temperature": "14°C",
+    "last_update": "2026-08-04 06:30",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -287,17 +287,17 @@
         "2026-08-10"
       ],
       "max_temp": [
-        23.3,
-        24.7,
-        18.9,
+        23.4,
+        24.3,
+        18.4,
         17.4,
         19.1,
         22.0,
         20.5
       ],
       "min_temp": [
-        9.0,
-        16.3,
+        8.4,
+        16.2,
         13.4,
         12.0,
         10.4,
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "8°C",
-    "last_update": "2026-08-04 02:45",
-    "weather": "☀️ Klart",
+    "temperature": "14°C",
+    "last_update": "2026-08-04 06:30",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-08-04",
@@ -338,8 +338,8 @@
         "2026-08-10"
       ],
       "max_temp": [
-        23.8,
-        24.9,
+        23.6,
+        24.8,
         19.3,
         17.4,
         19.1,
@@ -347,9 +347,9 @@
         18.3
       ],
       "min_temp": [
-        8.4,
-        17.0,
-        14.3,
+        8.3,
+        16.9,
+        14.6,
         12.7,
         11.4,
         10.6,
