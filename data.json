@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "18°C",
-    "last_update": "2026-08-17 12:47",
-    "weather": "☁️ Mulet",
+    "temperature": "15°C",
+    "last_update": "2026-08-17 16:29",
+    "weather": "🌧️ Kraftigt regn",
     "forecast": {
       "dates": [
         "2026-08-17",
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "22°C",
-    "last_update": "2026-08-17 12:47",
-    "weather": "☁️ Mulet",
+    "temperature": "18°C",
+    "last_update": "2026-08-17 16:29",
+    "weather": "🌧️ Regn",
     "forecast": {
       "dates": [
         "2026-08-17",
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-08-17 12:47",
+    "last_update": "2026-08-17 16:29",
     "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-08-17 12:48",
-    "weather": "🌧️ Regn",
+    "temperature": "15°C",
+    "last_update": "2026-08-17 16:29",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
         "2026-08-17",
@@ -219,8 +219,8 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "19°C",
-    "last_update": "2026-08-17 12:48",
+    "temperature": "17°C",
+    "last_update": "2026-08-17 16:30",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -273,8 +273,8 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "18°C",
-    "last_update": "2026-08-17 12:49",
+    "temperature": "16°C",
+    "last_update": "2026-08-17 16:30",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -324,8 +324,8 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "20°C",
-    "last_update": "2026-08-17 12:49",
+    "temperature": "17°C",
+    "last_update": "2026-08-17 16:31",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
