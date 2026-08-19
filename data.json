@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-08-19 12:50",
-    "weather": "🌧️ Kraftigt duggregn",
+    "temperature": "14°C",
+    "last_update": "2026-08-19 16:33",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -21,8 +21,8 @@
       ],
       "max_temp": [
         15.6,
+        18.5,
         17.5,
-        16.5,
         17.4,
         18.2,
         20.2,
@@ -30,8 +30,8 @@
       ],
       "min_temp": [
         9.4,
-        11.1,
-        10.8,
+        11.9,
+        12.6,
         9.6,
         8.9,
         9.9,
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-08-19 12:50",
-    "weather": "🌧️ Kraftigt duggregn",
+    "temperature": "15°C",
+    "last_update": "2026-08-19 16:33",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -74,9 +74,9 @@
         "2026-08-25"
       ],
       "max_temp": [
-        14.8,
-        17.9,
-        17.1,
+        15.0,
+        19.1,
+        18.0,
         16.4,
         19.1,
         19.6,
@@ -84,8 +84,8 @@
       ],
       "min_temp": [
         7.8,
-        10.4,
-        12.1,
+        11.2,
+        12.5,
         11.7,
         11.1,
         11.4,
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-08-19 12:51",
-    "weather": "🌧️ Lätt regn",
+    "last_update": "2026-08-19 16:33",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -125,9 +125,9 @@
         "2026-08-25"
       ],
       "max_temp": [
-        16.0,
-        19.2,
-        18.4,
+        16.9,
+        20.2,
+        19.6,
         16.4,
         18.2,
         18.3,
@@ -135,8 +135,8 @@
       ],
       "min_temp": [
         12.1,
-        12.0,
-        14.2,
+        12.7,
+        14.7,
         13.2,
         11.9,
         12.1,
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "17°C",
-    "last_update": "2026-08-19 12:51",
-    "weather": "☁️ Mulet",
+    "temperature": "16°C",
+    "last_update": "2026-08-19 16:34",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -179,9 +179,9 @@
         "2026-08-25"
       ],
       "max_temp": [
-        18.1,
-        18.8,
-        17.3,
+        18.9,
+        19.5,
+        18.4,
         18.8,
         17.7,
         20.5,
@@ -189,8 +189,8 @@
       ],
       "min_temp": [
         10.8,
-        11.7,
-        10.9,
+        12.3,
+        12.5,
         9.2,
         9.3,
         10.5,
@@ -220,8 +220,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "14°C",
-    "last_update": "2026-08-19 12:51",
-    "weather": "🌧️ Regn",
+    "last_update": "2026-08-19 16:34",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -234,8 +234,8 @@
       ],
       "max_temp": [
         15.9,
-        18.1,
-        17.3,
+        18.9,
+        17.9,
         17.1,
         19.0,
         19.8,
@@ -243,9 +243,9 @@
       ],
       "min_temp": [
         9.1,
-        11.7,
-        10.8,
-        9.7,
+        12.1,
+        13.0,
+        10.3,
         9.0,
         10.0,
         9.4
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-08-19 12:52",
-    "weather": "🌧️ Regn",
+    "temperature": "13°C",
+    "last_update": "2026-08-19 16:35",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -288,8 +288,8 @@
       ],
       "max_temp": [
         14.8,
-        17.2,
-        16.3,
+        18.2,
+        17.0,
         16.3,
         18.7,
         19.7,
@@ -297,9 +297,9 @@
       ],
       "min_temp": [
         8.4,
-        10.8,
-        11.0,
-        9.9,
+        11.1,
+        11.9,
+        10.2,
         9.1,
         10.0,
         10.0
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-08-19 12:52",
-    "weather": "🌧️ Lätt regn",
+    "temperature": "14°C",
+    "last_update": "2026-08-19 16:35",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-08-19",
@@ -339,8 +339,8 @@
       ],
       "max_temp": [
         14.9,
-        18.0,
-        17.0,
+        18.9,
+        18.1,
         16.5,
         19.2,
         19.0,
@@ -348,8 +348,8 @@
       ],
       "min_temp": [
         8.0,
-        10.8,
-        12.2,
+        11.4,
+        12.5,
         11.5,
         10.6,
         10.8,
