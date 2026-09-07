@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-09-06 21:59",
-    "weather": "☁️ Mulet",
+    "temperature": "13°C",
+    "last_update": "2026-09-07 03:32",
+    "weather": "🌧️ Lätt regn",
     "forecast": {
       "dates": [
-        "2026-09-06",
         "2026-09-07",
         "2026-09-08",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-09-13"
       ],
       "max_temp": [
-        18.6,
-        17.7,
+        17.9,
         15.6,
-        16.2,
-        15.3,
-        15.5,
-        15.6
+        16.5,
+        15.2,
+        14.8,
+        15.8,
+        14.7
       ],
       "min_temp": [
-        8.1,
+        12.5,
         12.6,
-        12.9,
-        9.3,
-        5.8,
-        7.9,
-        10.0
+        9.2,
+        5.5,
+        7.4,
+        11.4,
+        11.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Lassalyckans skidstadion.",
@@ -61,35 +61,35 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "13°C",
-    "last_update": "2026-09-06 21:59",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-09-07 03:32",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
-        "2026-09-06",
         "2026-09-07",
         "2026-09-08",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-09-13"
       ],
       "max_temp": [
-        18.4,
-        18.3,
-        15.9,
-        16.8,
-        15.9,
+        18.7,
         16.4,
-        15.8
+        16.8,
+        17.0,
+        15.8,
+        16.3,
+        16.6
       ],
       "min_temp": [
-        7.5,
+        12.9,
         13.3,
-        13.1,
-        10.9,
-        7.1,
-        10.9,
-        12.3
+        11.0,
+        7.6,
+        9.5,
+        12.4,
+        12.6
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-09-06 21:59",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-09-07 03:32",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-09-07",
@@ -125,21 +125,21 @@
         "2026-09-13"
       ],
       "max_temp": [
-        19.4,
-        17.8,
+        19.8,
+        18.1,
         16.5,
-        15.3,
-        16.3,
-        15.7,
+        16.9,
+        15.9,
+        16.6,
         16.3
       ],
       "min_temp": [
-        15.5,
-        15.3,
-        11.3,
-        7.2,
-        12.5,
-        13.8,
+        14.6,
+        15.1,
+        11.5,
+        7.3,
+        10.7,
+        13.4,
         13.2
       ]
     },
@@ -165,9 +165,9 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-09-06 22:00",
-    "weather": "☁️ Mulet",
+    "temperature": "14°C",
+    "last_update": "2026-09-07 03:33",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-09-07",
@@ -179,21 +179,21 @@
         "2026-09-13"
       ],
       "max_temp": [
-        16.7,
-        16.1,
+        17.8,
+        15.7,
         17.3,
         15.1,
-        16.0,
-        16.6,
+        15.9,
+        17.3,
         14.8
       ],
       "min_temp": [
-        12.0,
         12.1,
-        9.4,
-        7.6,
-        8.3,
-        11.1,
+        12.5,
+        10.2,
+        6.7,
+        7.1,
+        11.9,
         12.5
       ]
     },
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "13°C",
-    "last_update": "2026-09-06 22:00",
-    "weather": "☁️ Mulet",
+    "temperature": "14°C",
+    "last_update": "2026-09-07 03:33",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-09-07",
@@ -235,19 +235,19 @@
       "max_temp": [
         18.8,
         16.1,
-        16.7,
+        17.1,
+        16.4,
+        14.9,
         16.1,
-        16.0,
-        15.8,
         14.4
       ],
       "min_temp": [
-        13.0,
-        13.6,
-        9.6,
+        12.7,
+        13.2,
+        9.7,
         6.3,
-        8.1,
-        10.2,
+        7.1,
+        11.7,
         12.1
       ]
     },
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "12°C",
-    "last_update": "2026-09-06 22:01",
-    "weather": "☁️ Mulet",
+    "temperature": "13°C",
+    "last_update": "2026-09-07 03:33",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-09-07",
@@ -287,21 +287,21 @@
         "2026-09-13"
       ],
       "max_temp": [
-        17.7,
+        17.8,
         15.1,
         16.7,
-        15.7,
-        16.1,
-        15.5,
+        16.2,
+        14.6,
+        15.6,
         14.4
       ],
       "min_temp": [
+        12.0,
         12.2,
-        12.5,
-        9.9,
-        6.4,
-        8.3,
-        10.5,
+        9.7,
+        6.3,
+        7.7,
+        11.5,
         12.0
       ]
     },
@@ -325,8 +325,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "13°C",
-    "last_update": "2026-09-06 22:01",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-09-07 03:34",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-09-07",
@@ -338,21 +338,21 @@
         "2026-09-13"
       ],
       "max_temp": [
-        18.3,
-        15.8,
-        16.8,
-        16.0,
-        16.6,
+        18.5,
         15.9,
+        16.8,
+        17.2,
+        15.7,
+        16.3,
         16.1
       ],
       "min_temp": [
+        12.8,
         13.0,
-        13.2,
-        10.9,
-        7.3,
-        10.1,
-        11.7,
+        11.0,
+        7.6,
+        9.1,
+        12.2,
         12.6
       ]
     },
