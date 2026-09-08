@@ -6,9 +6,9 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "16°C",
-    "last_update": "2026-09-08 08:41",
-    "weather": "☁️ Mulet",
+    "temperature": "17°C",
+    "last_update": "2026-09-08 16:14",
+    "weather": "🌧️ Kraftigt duggregn",
     "forecast": {
       "dates": [
         "2026-09-08",
@@ -20,21 +20,21 @@
         "2026-09-14"
       ],
       "max_temp": [
-        16.8,
-        16.3,
-        15.8,
-        15.9,
-        17.3,
-        14.7,
+        18.9,
+        16.6,
+        16.4,
+        17.0,
+        16.7,
+        14.4,
         18.0
       ],
       "min_temp": [
-        13.1,
-        10.1,
+        13.6,
+        11.0,
         7.2,
-        7.3,
-        10.6,
-        11.8,
+        7.5,
+        11.1,
+        11.2,
         11.6
       ]
     },
@@ -61,8 +61,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "16°C",
-    "last_update": "2026-09-08 08:41",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-09-08 16:14",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-09-08",
@@ -74,22 +74,22 @@
         "2026-09-14"
       ],
       "max_temp": [
-        16.7,
-        16.6,
+        18.1,
+        16.8,
+        16.9,
         17.2,
-        16.9,
-        16.9,
-        15.7,
+        16.3,
+        15.5,
         17.7
       ],
       "min_temp": [
-        13.3,
-        10.1,
-        7.3,
-        9.5,
-        12.6,
-        12.9,
-        12.8
+        13.4,
+        10.4,
+        7.2,
+        9.0,
+        13.0,
+        13.8,
+        13.5
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,8 +112,8 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-09-08 08:42",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-09-08 16:14",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-09-08",
@@ -125,22 +125,22 @@
         "2026-09-14"
       ],
       "max_temp": [
-        18.4,
-        17.9,
-        18.0,
-        16.7,
-        16.5,
-        16.0,
+        18.9,
+        17.6,
+        17.8,
+        16.9,
+        16.2,
+        15.9,
         16.7
       ],
       "min_temp": [
         15.1,
-        12.6,
-        9.8,
-        11.2,
-        14.1,
-        14.0,
-        13.7
+        13.3,
+        9.4,
+        11.9,
+        13.7,
+        14.3,
+        14.0
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "15°C",
-    "last_update": "2026-09-08 08:42",
+    "temperature": "18°C",
+    "last_update": "2026-09-08 16:15",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -179,21 +179,21 @@
         "2026-09-14"
       ],
       "max_temp": [
-        17.3,
+        19.2,
         16.5,
-        15.7,
-        16.4,
-        18.1,
         15.3,
+        17.4,
+        17.6,
+        15.6,
         17.7
       ],
       "min_temp": [
-        13.0,
-        10.2,
-        8.1,
-        7.7,
-        11.0,
-        12.4,
+        13.9,
+        10.1,
+        8.6,
+        8.2,
+        11.5,
+        12.3,
         13.1
       ]
     },
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "16°C",
-    "last_update": "2026-09-08 08:42",
-    "weather": "☁️ Mulet",
+    "temperature": "17°C",
+    "last_update": "2026-09-08 16:15",
+    "weather": "🌧️ Regn",
     "forecast": {
       "dates": [
         "2026-09-08",
@@ -233,21 +233,21 @@
         "2026-09-14"
       ],
       "max_temp": [
+        19.0,
         17.1,
-        17.1,
-        17.3,
-        16.4,
-        17.6,
-        15.1,
+        17.2,
+        17.4,
+        17.0,
+        14.8,
         18.8
       ],
       "min_temp": [
-        13.6,
-        11.1,
-        7.5,
-        7.2,
-        10.7,
-        12.1,
+        14.0,
+        11.7,
+        7.9,
+        8.1,
+        11.7,
+        11.8,
         12.2
       ]
     },
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "15°C",
-    "last_update": "2026-09-08 08:42",
-    "weather": "☁️ Mulet",
+    "temperature": "16°C",
+    "last_update": "2026-09-08 16:16",
+    "weather": "🌧️ Regn",
     "forecast": {
       "dates": [
         "2026-09-08",
@@ -287,21 +287,21 @@
         "2026-09-14"
       ],
       "max_temp": [
-        16.2,
+        18.5,
         16.1,
         16.4,
-        16.0,
         17.5,
-        15.1,
+        16.5,
+        14.7,
         18.4
       ],
       "min_temp": [
-        12.7,
-        10.2,
-        7.5,
-        7.7,
-        11.0,
-        12.0,
+        13.1,
+        10.9,
+        7.3,
+        8.1,
+        11.6,
+        11.7,
         12.1
       ]
     },
@@ -325,8 +325,8 @@
     "status": "Stängt",
     "snow_depth": "Ingen snö",
     "temperature": "16°C",
-    "last_update": "2026-09-08 08:43",
-    "weather": "☁️ Mulet",
+    "last_update": "2026-09-08 16:16",
+    "weather": "🌧️ Regn",
     "forecast": {
       "dates": [
         "2026-09-08",
@@ -338,22 +338,22 @@
         "2026-09-14"
       ],
       "max_temp": [
-        16.6,
-        16.8,
-        17.3,
-        16.9,
-        17.4,
-        15.7,
+        18.7,
+        16.5,
+        16.7,
+        17.5,
+        16.5,
+        15.3,
         18.0
       ],
       "min_temp": [
-        13.3,
-        10.3,
-        7.4,
-        9.0,
-        12.1,
-        12.4,
-        12.6
+        13.4,
+        10.4,
+        7.1,
+        8.9,
+        12.8,
+        13.0,
+        13.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
