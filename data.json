@@ -6,8 +6,8 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2026-11-11 15:55",
+    "temperature": "5°C",
+    "last_update": "2026-11-11 22:32",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -21,21 +21,21 @@
       ],
       "max_temp": [
         6.8,
-        5.4,
-        2.0,
+        5.3,
+        1.6,
         4.6,
-        4.7,
-        7.0,
-        6.1
+        4.4,
+        7.5,
+        6.6
       ],
       "min_temp": [
         4.3,
-        1.3,
-        -0.8,
-        -2.7,
-        2.4,
-        2.7,
-        0.0
+        0.6,
+        0.2,
+        -2.0,
+        2.1,
+        3.2,
+        2.6
       ]
     },
     "ai_summary": "Inga detaljerade rapporter hittades.",
@@ -60,9 +60,9 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-11-11 15:55",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-11-11 22:32",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-11-11",
@@ -75,21 +75,21 @@
       ],
       "max_temp": [
         7.7,
-        5.9,
+        5.5,
         3.7,
-        7.0,
-        7.3,
-        8.7,
-        7.0
+        6.9,
+        7.1,
+        9.1,
+        7.7
       ],
       "min_temp": [
         4.6,
-        1.2,
-        -0.4,
-        -0.6,
-        5.0,
-        4.6,
-        1.4
+        0.4,
+        -0.3,
+        -1.5,
+        4.7,
+        5.5,
+        3.7
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,7 +112,7 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-11-11 15:56",
+    "last_update": "2026-11-11 22:32",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -126,21 +126,21 @@
       ],
       "max_temp": [
         9.0,
-        7.9,
+        7.7,
         5.4,
         8.3,
-        7.7,
-        9.4,
-        7.4
+        7.5,
+        10.0,
+        8.3
       ],
       "min_temp": [
         6.9,
-        2.9,
+        2.8,
         1.9,
-        0.1,
-        5.8,
-        5.2,
-        1.8
+        1.9,
+        5.4,
+        6.4,
+        5.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,8 +165,8 @@
     "lon": 13.8347,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2026-11-11 15:56",
+    "temperature": "5°C",
+    "last_update": "2026-11-11 22:33",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
@@ -180,21 +180,21 @@
       ],
       "max_temp": [
         6.5,
-        5.0,
-        1.9,
-        6.2,
-        6.1,
-        7.5,
-        6.6
+        4.9,
+        2.0,
+        6.3,
+        5.5,
+        8.4,
+        7.4
       ],
       "min_temp": [
-        4.7,
-        1.5,
-        -0.0,
-        -2.9,
-        2.8,
-        3.4,
-        -2.3
+        4.6,
+        0.7,
+        0.7,
+        -2.2,
+        3.3,
+        3.8,
+        3.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Billingen Skövde.",
@@ -219,9 +219,9 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-11-11 15:56",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-11-11 22:33",
+    "weather": "🌧️ Duggregn",
     "forecast": {
       "dates": [
         "2026-11-11",
@@ -234,21 +234,21 @@
       ],
       "max_temp": [
         7.6,
-        6.1,
-        3.4,
-        5.3,
         5.8,
-        7.9,
-        6.4
+        3.2,
+        5.1,
+        5.3,
+        8.2,
+        6.9
       ],
       "min_temp": [
         5.1,
-        1.9,
-        -0.0,
-        -2.2,
-        3.2,
-        3.7,
-        1.0
+        1.0,
+        1.0,
+        -2.0,
+        2.8,
+        4.1,
+        2.7
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Borås skidstadion.",
@@ -273,9 +273,9 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "6°C",
-    "last_update": "2026-11-11 15:57",
-    "weather": "☁️ Mulet",
+    "temperature": "5°C",
+    "last_update": "2026-11-11 22:33",
+    "weather": "🌧️ Lätt duggregn",
     "forecast": {
       "dates": [
         "2026-11-11",
@@ -288,21 +288,21 @@
       ],
       "max_temp": [
         6.7,
-        5.2,
-        2.4,
-        5.4,
-        5.9,
-        7.7,
-        6.3
+        4.9,
+        2.1,
+        5.0,
+        5.3,
+        8.1,
+        6.8
       ],
       "min_temp": [
         4.3,
-        0.8,
-        -0.4,
+        0.2,
+        -0.2,
         -1.7,
-        3.1,
-        3.7,
-        0.1
+        2.3,
+        4.0,
+        2.7
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hestrastugan.",
@@ -324,9 +324,9 @@
     "lon": 12.446,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "7°C",
-    "last_update": "2026-11-11 15:57",
-    "weather": "🌧️ Lätt duggregn",
+    "temperature": "5°C",
+    "last_update": "2026-11-11 22:33",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
         "2026-11-11",
@@ -339,21 +339,21 @@
       ],
       "max_temp": [
         7.6,
-        6.0,
-        3.6,
-        7.2,
-        7.1,
-        8.4,
-        6.9
+        5.5,
+        3.5,
+        6.7,
+        6.6,
+        8.8,
+        7.3
       ],
       "min_temp": [
         4.7,
-        1.2,
-        -0.2,
-        -0.6,
-        4.8,
-        4.8,
-        1.2
+        0.5,
+        -0.1,
+        -1.4,
+        4.0,
+        5.2,
+        3.4
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
