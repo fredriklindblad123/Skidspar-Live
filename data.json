@@ -6,36 +6,36 @@
     "lon": 13.4189,
     "status": "Stängt",
     "snow_depth": "4 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-11-24 14:37",
-    "weather": "☁️ Mulet",
+    "temperature": "-3°C",
+    "last_update": "2026-11-25 00:25",
+    "weather": "❄️ Snöfall",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -1.8,
-        -0.8,
-        -0.1,
-        -2.2,
-        -1.3,
-        -0.8,
-        3.5
+        -0.9,
+        -0.6,
+        -0.3,
+        -0.2,
+        -0.7,
+        3.2,
+        4.0
       ],
       "min_temp": [
+        -3.8,
         -5.5,
-        -3.5,
-        -6.8,
-        -6.9,
-        -4.9,
-        -3.5,
-        -3.7
+        -5.9,
+        -4.0,
+        -3.8,
+        -2.2,
+        1.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Lassalyckans skidstadion.",
@@ -60,36 +60,36 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2026-11-24 14:37",
-    "weather": "⛅ Halvklart",
+    "temperature": "-3°C",
+    "last_update": "2026-11-25 00:25",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -1.3,
-        -0.0,
-        0.2,
-        -1.1,
-        0.8,
-        1.1,
-        5.2
+        -0.3,
+        -0.2,
+        0.1,
+        1.0,
+        1.9,
+        5.7,
+        6.3
       ],
       "min_temp": [
-        -7.6,
-        -5.4,
-        -5.5,
-        -4.8,
-        -3.6,
-        -1.7,
-        -0.3
+        -5.7,
+        -6.1,
+        -5.6,
+        -2.5,
+        -1.5,
+        0.8,
+        3.2
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,35 +112,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-11-24 14:38",
-    "weather": "🌤️ Mestadels klart",
+    "last_update": "2026-11-25 00:25",
+    "weather": "⛅ Halvklart",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -0.2,
-        1.1,
-        1.2,
-        -0.7,
-        1.8,
-        1.9,
-        5.9
+        0.8,
+        1.0,
+        -0.1,
+        1.4,
+        3.1,
+        6.2,
+        6.9
       ],
       "min_temp": [
-        -4.0,
-        -3.4,
-        -4.8,
-        -4.9,
+        -3.2,
         -3.5,
-        -1.2,
-        1.1
+        -4.4,
+        -2.0,
+        -1.1,
+        1.5,
+        3.9
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -166,38 +166,38 @@
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
     "temperature": "-2°C",
-    "last_update": "2026-11-24 14:38",
+    "last_update": "2026-11-25 00:25",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -1.4,
         -1.1,
-        -1.3,
         -2.1,
-        -0.7,
-        -0.4,
-        4.3
+        -0.1,
+        -0.1,
+        0.2,
+        4.1,
+        5.5
       ],
       "min_temp": [
-        -4.2,
-        -3.0,
-        -5.3,
-        -4.1,
+        -2.8,
+        -6.3,
         -6.2,
-        -3.6,
-        -2.1
+        -4.2,
+        -3.3,
+        -0.5,
+        2.8
       ]
     },
-    "ai_summary": "(idag): Femman är åkbar med gamla skidor. Mycket genomslag men går ofta kliva ur. Samma vändning en bit ut på toppslingan o även campingslingan. Men 3,5:an baklänges är så dålig så det förstör skidorna oavsett om man försöker parera genomslag. Totalt är det spårat 7,7 km ca, inte 15. Och det är mycket genomslag men går hyfsat m gamla skidor om man vänder tillbaka vid toppslingan lr direkt stadion där\n\n(1 dagar sedan): Årets första spårning är klar med ett klassiskt spår på natursnön. Start och mål vid den nya trappan på stadion. Först följer man 5 km spåret hela spåret tills man kommer till konstsnö spåret, då viker man höger och följer toppsligan, vänder tillbaka, följer gamla 4 km spåret, för att sen övergå till 3,5 km spåret baklänges till stadion. Trevlig åktur, rundan är ca 1,5 mil.",
+    "ai_summary": "(idag): This 3* rating assuming your a reasonable cross country skier and you can move out of track and with the occassional leg lift to avoid this odd patches of grus. Travelled twice. 5an the top slingan and up and down volvo backen (no tracks but ok on the centre/left). A warning when coming down from the toppsligan use the mid track and not the flat tracks otherwise you will fall at grus 1/2 way down!\n\n(1 dagar sedan): Femman är åkbar med gamla skidor. Mycket genomslag men går ofta kliva ur. Samma vändning en bit ut på toppslingan o även campingslingan. Men 3,5:an baklänges är så dålig så det förstör skidorna oavsett om man försöker parera genomslag. Totalt är det spårat 7,7 km ca, inte 15. Och det är mycket genomslag men går hyfsat m gamla skidor om man vänder tillbaka vid toppslingan lr direkt stadion där",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -212,14 +212,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-11-23T19:33:00.000Z",
+        "date": "2026-11-24T17:50:10.000Z",
         "days_ago": 0,
-        "text": "Femman är åkbar med gamla skidor. Mycket genomslag men går ofta kliva ur. Samma vändning en bit ut på toppslingan o även campingslingan. Men 3,5:an baklänges är så dålig så det förstör skidorna oavsett om man försöker parera genomslag. Totalt är det spårat 7,7 km ca, inte 15. Och det är mycket genomslag men går hyfsat m gamla skidor om man vänder tillbaka vid toppslingan lr direkt stadion där"
+        "text": "This 3* rating assuming your a reasonable cross country skier and you can move out of track and with the occassional leg lift to avoid this odd patches of grus. Travelled twice. 5an the top slingan and up and down volvo backen (no tracks but ok on the centre/left). A warning when coming down from the toppsligan use the mid track and not the flat tracks otherwise you will fall at grus 1/2 way down!"
       },
       {
-        "date": "2026-11-23T14:24:34.000Z",
+        "date": "2026-11-23T19:33:00.000Z",
         "days_ago": 1,
-        "text": "Årets första spårning är klar med ett klassiskt spår på natursnön. Start och mål vid den nya trappan på stadion. Först följer man 5 km spåret hela spåret tills man kommer till konstsnö spåret, då viker man höger och följer toppsligan, vänder tillbaka, följer gamla 4 km spåret, för att sen övergå till 3,5 km spåret baklänges till stadion. Trevlig åktur, rundan är ca 1,5 mil."
+        "text": "Femman är åkbar med gamla skidor. Mycket genomslag men går ofta kliva ur. Samma vändning en bit ut på toppslingan o även campingslingan. Men 3,5:an baklänges är så dålig så det förstör skidorna oavsett om man försöker parera genomslag. Totalt är det spårat 7,7 km ca, inte 15. Och det är mycket genomslag men går hyfsat m gamla skidor om man vänder tillbaka vid toppslingan lr direkt stadion där"
       }
     ]
   },
@@ -230,36 +230,36 @@
     "lon": 12.9401,
     "status": "Stängt",
     "snow_depth": "1 cm",
-    "temperature": "-1°C",
-    "last_update": "2026-11-24 14:38",
+    "temperature": "-2°C",
+    "last_update": "2026-11-25 00:26",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -0.5,
         0.0,
-        0.6,
-        -1.4,
-        -0.7,
-        0.3,
-        4.1
+        0.0,
+        0.4,
+        0.4,
+        0.2,
+        3.9,
+        4.8
       ],
       "min_temp": [
-        -4.9,
-        -3.4,
-        -6.2,
-        -6.6,
-        -6.0,
-        -3.5,
-        -2.7
+        -4.3,
+        -4.4,
+        -5.0,
+        -4.6,
+        -3.2,
+        -0.6,
+        1.8
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Borås skidstadion.",
@@ -284,36 +284,36 @@
     "lon": 12.915,
     "status": "Stängt",
     "snow_depth": "1 cm",
-    "temperature": "-2°C",
-    "last_update": "2026-11-24 14:38",
+    "temperature": "-3°C",
+    "last_update": "2026-11-25 00:26",
     "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -1.6,
         -1.1,
+        -1.0,
         -0.5,
-        -1.4,
-        -0.7,
-        0.2,
-        4.0
+        0.4,
+        0.3,
+        4.0,
+        5.1
       ],
       "min_temp": [
-        -5.1,
-        -4.2,
-        -6.0,
-        -6.3,
-        -5.2,
-        -3.6,
-        -2.3
+        -5.3,
+        -5.3,
+        -5.5,
+        -4.3,
+        -3.2,
+        -0.6,
+        1.8
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hestrastugan.",
@@ -333,41 +333,41 @@
     "municipality": "Härryda",
     "lat": 57.7036,
     "lon": 12.446,
-    "status": "Stängt",
+    "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
     "temperature": "-2°C",
-    "last_update": "2026-11-24 14:38",
-    "weather": "⛅ Halvklart",
+    "last_update": "2026-11-25 00:26",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-11-30"
+        "2026-11-30",
+        "2026-12-01"
       ],
       "max_temp": [
-        -1.6,
         -0.1,
-        0.4,
-        -1.1,
-        0.7,
-        0.9,
-        5.0
+        0.2,
+        -0.2,
+        1.3,
+        1.2,
+        5.4,
+        6.0
       ],
       "min_temp": [
-        -5.8,
-        -4.8,
-        -5.0,
-        -5.6,
-        -4.3,
-        -2.1,
-        -0.6
+        -4.9,
+        -5.1,
+        -5.2,
+        -3.2,
+        -2.0,
+        0.6,
+        3.1
       ]
     },
-    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Hindås.",
+    "ai_summary": "(idag): Snöproduktion pågår !",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -377,6 +377,12 @@
     ],
     "phone": "-",
     "total_track_length_km": 0,
-    "ai_comments": []
+    "ai_comments": [
+      {
+        "date": "2026-11-24T21:18:17.000Z",
+        "days_ago": 0,
+        "text": "Snöproduktion pågår !"
+      }
+    ]
   }
 ]
