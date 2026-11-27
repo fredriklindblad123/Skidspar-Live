@@ -5,40 +5,40 @@
     "lat": 57.7907,
     "lon": 13.4189,
     "status": "Stängt",
-    "snow_depth": "3 cm",
+    "snow_depth": "4 cm",
     "temperature": "-3°C",
-    "last_update": "2026-11-26 13:37",
-    "weather": "☀️ Klart",
+    "last_update": "2026-11-27 00:22",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -1.8,
-        0.4,
-        1.2,
-        -0.4,
+        0.7,
+        1.3,
+        -0.0,
         1.5,
-        0.9,
-        1.4
+        1.3,
+        1.9,
+        2.9
       ],
       "min_temp": [
-        -7.5,
-        -6.0,
-        -3.5,
-        -2.8,
-        -1.0,
-        0.1,
+        -4.1,
+        -3.0,
+        -1.9,
+        -1.1,
+        0.5,
+        -0.2,
         0.5
       ]
     },
-    "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Lassalyckans skidstadion.",
+    "ai_summary": "(idag): Vi har nu producerat snö i några dygn. Imorgon fredag kommer produktionen stängas ner. Mot slutet av helgen är planen att påbörja schaktning. Följ utvecklingen mot säsongens premiär på Lassalyckan.",
     "official_url": "https://www.ulricehamn.se/uppleva-och-gora/bad-idrott-och-friluftsliv/hallar-och-idrottsanlaggningar/lassalyckan---centrum-for-idrott-och-friluftsliv/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/ulricehamn/lassalyckans-skidstadion",
     "webcam_url": "https://www.ipcamlive.com/66f2c680aac9d",
@@ -51,7 +51,13 @@
     ],
     "phone": "0321-59 59 59",
     "total_track_length_km": 0,
-    "ai_comments": []
+    "ai_comments": [
+      {
+        "date": "2026-11-26T19:08:21.000Z",
+        "days_ago": 0,
+        "text": "Vi har nu producerat snö i några dygn. Imorgon fredag kommer produktionen stängas ner. Mot slutet av helgen är planen att påbörja schaktning. Följ utvecklingen mot säsongens premiär på Lassalyckan."
+      }
+    ]
   },
   {
     "name": "Landvetter",
@@ -60,36 +66,36 @@
     "lon": 12.307,
     "status": "Stängt",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2026-11-26 13:37",
-    "weather": "☀️ Klart",
+    "temperature": "-3°C",
+    "last_update": "2026-11-27 00:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -1.5,
-        0.5,
-        1.0,
-        1.0,
-        3.5,
-        4.0,
-        4.1
+        1.2,
+        0.9,
+        1.1,
+        4.2,
+        4.1,
+        3.7,
+        5.5
       ],
       "min_temp": [
-        -6.8,
-        -6.3,
-        -2.9,
-        -1.1,
-        0.8,
+        -3.3,
+        -2.5,
+        -0.1,
+        0.7,
         2.8,
-        2.9
+        2.7,
+        -0.1
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Landvetter Landehofstugan.",
@@ -112,35 +118,35 @@
     "status": "Öppet",
     "snow_depth": "Konstsnö",
     "temperature": "-4°C",
-    "last_update": "2026-11-26 13:38",
-    "weather": "☀️ Klart",
+    "last_update": "2026-11-27 00:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -0.5,
-        1.8,
         2.4,
-        1.7,
-        4.5,
-        4.9,
-        5.0
+        2.4,
+        2.0,
+        5.3,
+        4.7,
+        4.7,
+        6.4
       ],
       "min_temp": [
-        -4.8,
-        -4.7,
-        -0.8,
-        -0.6,
-        1.3,
-        3.7,
-        3.7
+        -2.0,
+        0.4,
+        0.7,
+        1.5,
+        3.8,
+        3.5,
+        -0.1
       ]
     },
     "ai_summary": "Sammanfattning: Du kan hjälpa andra skidåkare genom att skapa en rapport för Skidome.",
@@ -165,39 +171,39 @@
     "lon": 13.8347,
     "status": "Troligen öppet",
     "snow_depth": "3 cm",
-    "temperature": "-4°C",
-    "last_update": "2026-11-26 13:38",
-    "weather": "☀️ Klart",
+    "temperature": "-3°C",
+    "last_update": "2026-11-27 00:22",
+    "weather": "☁️ Mulet",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -1.4,
-        -0.6,
+        -1.1,
         0.3,
-        0.3,
-        2.2,
-        1.8,
-        2.9
+        0.2,
+        2.5,
+        2.7,
+        3.9,
+        3.8
       ],
       "min_temp": [
-        -5.5,
-        -3.8,
-        -3.6,
-        -3.3,
-        -0.2,
-        0.8,
-        0.8
+        -4.2,
+        -4.1,
+        -2.4,
+        -0.3,
+        1.3,
+        1.7,
+        0.0
       ]
     },
-    "ai_summary": "(idag): Äntligen!! 8km - inget för den som vill ha fin spårbädf hela vägen. 5km - ett ordentligt genomslag men annats helt ok för att vara naturspår med lite snö Toppslingan tycker jag var riktigt bra 3.5:an man får kliva ur spåren och hoppa runt - inte lött i mörker Campingslingan - bra utanför dpåret Så det är mer entusiaståkning än skidåkning. Men 8km spår!!!! Spårpatrullen är grymma!\n\n(1 dagar sedan): This 3* rating assuming your a reasonable cross country skier and you can move out of track and with the occassional leg lift to avoid this odd patches of grus. Travelled twice. 5an the top slingan and up and down volvo backen (no tracks but ok on the centre/left). A warning when coming down from the toppsligan use the mid track and not the flat tracks otherwise you will fall at grus 1/2 way down!",
+    "ai_summary": "(idag): 5:an helt okej - genomslag vid 1.8 ungefär och åkte sedan på gångbanan tillbaka - magiskt. Varierande spårkanter osv. Men det är vackert.\n\n(1 dagar sedan): Äntligen!! 8km - inget för den som vill ha fin spårbädf hela vägen. 5km - ett ordentligt genomslag men annats helt ok för att vara naturspår med lite snö Toppslingan tycker jag var riktigt bra 3.5:an man får kliva ur spåren och hoppa runt - inte lött i mörker Campingslingan - bra utanför dpåret Så det är mer entusiaståkning än skidåkning. Men 8km spår!!!! Spårpatrullen är grymma!",
     "official_url": "https://billingenskovde.se/",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/skovde/billingen-skovde",
     "webcam_url": "https://webcam.billingen.se/",
@@ -212,14 +218,14 @@
     "total_track_length_km": 0,
     "ai_comments": [
       {
-        "date": "2026-11-25T19:30:01.000Z",
+        "date": "2026-11-26T19:17:53.000Z",
         "days_ago": 0,
-        "text": "Äntligen!! 8km - inget för den som vill ha fin spårbädf hela vägen. 5km - ett ordentligt genomslag men annats helt ok för att vara naturspår med lite snö Toppslingan tycker jag var riktigt bra 3.5:an man får kliva ur spåren och hoppa runt - inte lött i mörker Campingslingan - bra utanför dpåret Så det är mer entusiaståkning än skidåkning. Men 8km spår!!!! Spårpatrullen är grymma!"
+        "text": "5:an helt okej - genomslag vid 1.8 ungefär och åkte sedan på gångbanan tillbaka - magiskt. Varierande spårkanter osv. Men det är vackert."
       },
       {
-        "date": "2026-11-24T17:50:10.000Z",
+        "date": "2026-11-25T19:30:01.000Z",
         "days_ago": 1,
-        "text": "This 3* rating assuming your a reasonable cross country skier and you can move out of track and with the occassional leg lift to avoid this odd patches of grus. Travelled twice. 5an the top slingan and up and down volvo backen (no tracks but ok on the centre/left). A warning when coming down from the toppsligan use the mid track and not the flat tracks otherwise you will fall at grus 1/2 way down!"
+        "text": "Äntligen!! 8km - inget för den som vill ha fin spårbädf hela vägen. 5km - ett ordentligt genomslag men annats helt ok för att vara naturspår med lite snö Toppslingan tycker jag var riktigt bra 3.5:an man får kliva ur spåren och hoppa runt - inte lött i mörker Campingslingan - bra utanför dpåret Så det är mer entusiaståkning än skidåkning. Men 8km spår!!!! Spårpatrullen är grymma!"
       }
     ]
   },
@@ -231,35 +237,35 @@
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
     "temperature": "-2°C",
-    "last_update": "2026-11-26 13:38",
-    "weather": "☀️ Klart",
+    "last_update": "2026-11-27 00:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -0.7,
-        1.1,
-        1.7,
-        0.4,
-        2.3,
-        1.5,
-        2.5
+        1.6,
+        1.6,
+        0.3,
+        2.5,
+        2.0,
+        3.4,
+        4.1
       ],
       "min_temp": [
-        -6.2,
-        -5.0,
-        -2.4,
-        -2.1,
-        -0.3,
-        0.9,
-        1.1
+        -2.6,
+        -1.5,
+        -1.4,
+        -0.4,
+        1.0,
+        0.5,
+        0.3
       ]
     },
     "ai_summary": "(idag): Snökanonerna går för fullt och vi har glädjen att meddela att på lördag 28/11 har vi premiär, då öppnar Borås Skidstadion, Välkomna!",
@@ -290,36 +296,36 @@
     "lon": 12.915,
     "status": "Troligen öppet",
     "snow_depth": "1 cm",
-    "temperature": "-3°C",
-    "last_update": "2026-11-26 13:38",
-    "weather": "☀️ Klart",
+    "temperature": "-4°C",
+    "last_update": "2026-11-27 00:22",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -1.7,
-        0.2,
         0.6,
-        0.2,
+        0.5,
+        -0.1,
+        2.4,
         2.2,
-        1.5,
-        2.7
+        3.1,
+        4.3
       ],
       "min_temp": [
-        -7.0,
-        -6.0,
         -3.6,
-        -2.3,
+        -3.2,
+        -1.4,
         -0.5,
-        1.1,
-        1.1
+        1.0,
+        0.5,
+        -0.4
       ]
     },
     "ai_summary": "(idag): Säsongspremiär på Hestrastugan i Borås! Ikväll klockan 19.15 efter ungdomsträningen är ni välkomna att inviga säsongen på snö hos oss! Spåret blir till att börja med ca 1150 m plus en runda på stadion på ca 200m. Vi jobbar givetvis med att förlänga spåret och framåt helgen kommer vi ha drygt 2 km om väder och teknik samverkar. Nu börjar skidsäsongen! ❄️🥰👍\n\n(idag): Efter flera nätters kämpande så har vi fått tillräckligt med snö för att börja arbeta med den. När snön är nytillverkad så behöver man vara lite försiktig med snön och låta den vila så att de sista vattnet kommer ur och bildas till snö. Under dagen lägger vi ut en kortare slinga, Premiären kommer Borås skidungdomar att få. Efter de klockan 19:00 är spåret öppet för alla ca 1km. Välkomna!",
@@ -352,39 +358,39 @@
     "lon": 12.446,
     "status": "Troligen öppet",
     "snow_depth": "Ingen snö",
-    "temperature": "-2°C",
-    "last_update": "2026-11-26 13:38",
-    "weather": "☀️ Klart",
+    "temperature": "-3°C",
+    "last_update": "2026-11-27 00:23",
+    "weather": "🌤️ Mestadels klart",
     "forecast": {
       "dates": [
-        "2026-11-26",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
         "2026-11-30",
         "2026-12-01",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-03"
       ],
       "max_temp": [
-        -1.4,
-        0.6,
-        1.2,
-        0.9,
-        3.1,
-        3.4,
-        3.7
+        1.1,
+        1.0,
+        0.7,
+        3.5,
+        3.7,
+        3.2,
+        5.4
       ],
       "min_temp": [
-        -6.1,
-        -5.8,
-        -3.2,
-        -1.4,
-        0.7,
-        2.3,
-        2.6
+        -3.0,
+        -2.7,
+        -0.4,
+        0.6,
+        2.2,
+        2.0,
+        -0.2
       ]
     },
-    "ai_summary": "(1 dagar sedan): Snöproduktion pågår !",
+    "ai_summary": "(2 dagar sedan): Snöproduktion pågår !",
     "official_url": "https://www.hindasskidklubb.se/startsida",
     "skidspar_url": "https://www.skidspar.se/vastra-gotaland/harryda/hindas",
     "webcam_url": null,
@@ -397,7 +403,7 @@
     "ai_comments": [
       {
         "date": "2026-11-24T21:18:17.000Z",
-        "days_ago": 1,
+        "days_ago": 2,
         "text": "Snöproduktion pågår !"
       }
     ]
